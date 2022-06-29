@@ -76,12 +76,13 @@ series:
     content: RFC
     format: text/plain
   number: '3379'
-fetched: '2022-05-23'
+fetched: '2022-06-29'
 keyword:
 - dpv
+- Delegated Path Validation
 - dpd
-- public
-- key
+- Delegated Path Discovery
+- public key
 - certificates
 editorialgroup:
 - name: pkix

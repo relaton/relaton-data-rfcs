@@ -64,10 +64,9 @@ series:
     content: RFC
     format: text/plain
   number: '3003'
-fetched: '2022-05-23'
+fetched: '2022-06-29'
 keyword:
+- audio/mpeg
 - MIME
-- multipurpose
-- internet
-- mail
-- extensions
+- multipurpose internet mail extensions
+- Media Type

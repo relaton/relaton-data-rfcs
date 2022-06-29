@@ -112,10 +112,11 @@ series:
     content: RFC
     format: text/plain
   number: '3540'
-fetched: '2022-05-23'
+fetched: '2022-06-29'
 keyword:
-- congestion control
-- tcp
-- traffic control protocol
+- ECN
+- explicit congestion notification
+- TCP
+- transmission control protocol
 editorialgroup:
 - name: tsvwg

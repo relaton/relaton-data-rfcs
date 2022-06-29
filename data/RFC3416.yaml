@@ -69,13 +69,12 @@ series:
     content: RFC
     format: text/plain
   number: '3416'
-fetched: '2022-05-23'
+fetched: '2022-06-29'
 keyword:
 - OPS-MIB
-- Simple
-- Network
-- Management
-- Protocol
-- Version 2
+- SNMP
+- Simple Network Management Protocol Version 2
+- Management Information Base
+- operations
 editorialgroup:
 - name: snmpv3

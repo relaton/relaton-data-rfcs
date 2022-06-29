@@ -143,10 +143,12 @@ series:
     content: RFC
     format: text/plain
   number: '3547'
-fetched: '2022-05-23'
+fetched: '2022-06-29'
 keyword:
-- isamkp
-- doi
+- ISAMKP
+- Internet Security Association and Key Management Protocol
+- DOI
+- Domain of Interpretation
 - key management
 - security
 - encryption

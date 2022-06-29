@@ -123,9 +123,11 @@ series:
     content: RFC
     format: text/plain
   number: '3478'
-fetched: '2022-05-23'
+fetched: '2022-06-29'
 keyword:
-- ldp
-- mpls
+- LDP
+- Label Distribution Protocol
+- MPLS
+- Multi-Protocol Label Switching
 editorialgroup:
 - name: mpls

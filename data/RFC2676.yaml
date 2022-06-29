@@ -176,11 +176,12 @@ series:
     content: RFC
     format: text/plain
   number: '2676'
-fetched: '2022-05-23'
+fetched: '2022-06-29'
 keyword:
+- QoS
 - quality of service
-- open shortest
-- path first
+- OSPF
+- open shortest path first
 - routing
 editorialgroup:
 - name: ospf

@@ -65,11 +65,10 @@ series:
     content: RFC
     format: text/plain
   number: '3593'
-fetched: '2022-05-23'
+fetched: '2022-06-29'
 keyword:
-- management
-- information
-- base
+- MIB
+- management information base
 - data
 editorialgroup:
-- name: atommib
+- name: vgmib

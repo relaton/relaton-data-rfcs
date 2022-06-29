@@ -86,11 +86,11 @@ series:
     content: RFC
     format: text/plain
   number: '3524'
-fetched: '2022-05-23'
+fetched: '2022-06-29'
 keyword:
-- sdp
+- SDP
 - session description protocol
-- srf
-- single
+- SRF
+- single reservation flow
 editorialgroup:
 - name: mmusic

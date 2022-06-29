@@ -139,8 +139,9 @@ series:
     content: RFC
     format: text/plain
   number: '3520'
-fetched: '2022-05-23'
+fetched: '2022-06-29'
 keyword:
+- session authorization policy
 - admission control
 - resource reservation
 editorialgroup:

@@ -128,12 +128,11 @@ series:
     content: RFC
     format: text/plain
   number: '2745'
-fetched: '2022-05-23'
+fetched: '2022-06-29'
 keyword:
-- resource
-- reservation
-- protocol
+- RSVP
+- resource reservation protocol
 - network
 - management
 editorialgroup:
-- name: rsvp
+- name: vgmib

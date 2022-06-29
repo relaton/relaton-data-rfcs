@@ -66,10 +66,10 @@ series:
     content: RFC
     format: text/plain
   number: '2786'
-fetched: '2022-05-23'
+fetched: '2022-06-29'
 keyword:
 - mib
-- security
-- user-based
-- model
-- Hellman
+- management information base
+- USM
+- user-based security model
+- Diffie-Hellman

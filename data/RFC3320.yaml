@@ -164,11 +164,13 @@ series:
     content: RFC
     format: text/plain
   number: '3320'
-fetched: '2022-05-23'
+fetched: '2022-06-29'
 keyword:
 - sip
 - session initiation protocol
 - udvm
 - universal decompressor virtual machine
+- SigComp
+- Signaling Compression
 editorialgroup:
 - name: rohc

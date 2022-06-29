@@ -62,12 +62,9 @@ series:
     content: RFC
     format: text/plain
   number: '2907'
-fetched: '2022-05-23'
+fetched: '2022-06-29'
 keyword:
-- address
-- dynamic
-- allocation
-- client
-- protocol
+- MADCAP
+- multicast address dynamic client allocation protocol
 editorialgroup:
 - name: malloc

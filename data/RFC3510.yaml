@@ -99,13 +99,13 @@ series:
     content: RFC
     format: text/plain
   number: '3510'
-fetched: '2022-05-23'
+fetched: '2022-06-29'
 keyword:
 - IPP-E-T
-- IPP
+- Internet Printing Protocol
 - application
-- media-type
-- media
-- type
+- media type
+- URL
+- Uniform Resource Locator
 editorialgroup:
 - name: ipp

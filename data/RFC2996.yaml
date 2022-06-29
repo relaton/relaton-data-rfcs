@@ -62,11 +62,10 @@ series:
     content: RFC
     format: text/plain
   number: '2996'
-fetched: '2022-05-23'
+fetched: '2022-06-29'
 keyword:
-- resource
-- reservation
-- protocol
+- RSVP
+- resource reservation protocol
 - QoS
 - Quality of Service
 editorialgroup:

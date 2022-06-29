@@ -98,7 +98,9 @@ series:
     content: RFC
     format: text/plain
   number: '3367'
-fetched: '2022-05-23'
+fetched: '2022-06-29'
 keyword:
+- CNRP
+- Common Name Resolution Protocol
 - unique resource locators
 - client applications

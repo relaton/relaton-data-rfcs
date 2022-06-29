@@ -65,7 +65,9 @@ series:
     content: RFC
     format: text/plain
   number: '3430'
-fetched: '2022-05-23'
+fetched: '2022-06-29'
 keyword:
-- snmp
-- tcp
+- SNMP
+- Simple Network Management Protocol
+- TCP
+- Transmission Control Protocol

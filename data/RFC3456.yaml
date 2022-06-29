@@ -135,8 +135,10 @@ series:
     content: RFC
     format: text/plain
   number: '3456'
-fetched: '2022-05-23'
+fetched: '2022-06-29'
 keyword:
+- DHCPv4
+- Dynamic Host Configuration Protocol
 - security
 - internet protocol
 editorialgroup:

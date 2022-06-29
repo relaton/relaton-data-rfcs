@@ -84,8 +84,9 @@ series:
     content: RFC
     format: text/plain
   number: '3501'
-fetched: '2022-05-23'
+fetched: '2022-06-29'
 keyword:
 - IMAPv4
-- imap
+- Internet Message Access Protocol
+- Version 4rev1
 - imapv4rev1

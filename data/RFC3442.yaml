@@ -120,12 +120,10 @@ series:
     content: RFC
     format: text/plain
   number: '3442'
-fetched: '2022-05-23'
+fetched: '2022-06-29'
 keyword:
-- Dynamic
-- Host
-- Configuration
-- Protocol
+- DHCP
+- Dynamic Host Configuration Protocol
 - Bootstrap
 editorialgroup:
 - name: dhc

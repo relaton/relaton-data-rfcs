@@ -197,10 +197,9 @@ series:
     content: RFC
     format: text/plain
   number: '3032'
-fetched: '2022-05-23'
+fetched: '2022-06-29'
 keyword:
-- multi-protocol
-- label
-- switching
+- MPLS
+- multi-protocol label switching
 editorialgroup:
 - name: mpls

@@ -85,10 +85,9 @@ series:
     content: RFC
     format: text/plain
   number: '2841'
-fetched: '2022-05-23'
+fetched: '2022-06-29'
 keyword:
 - IP-MAC
 - encryption
-- secure
-- hash
-- algorithm
+- SHA1
+- secure hash algorithm

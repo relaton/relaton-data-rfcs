@@ -73,8 +73,9 @@ series:
     content: RFC
     format: text/plain
   number: '2821'
-fetched: '2022-05-23'
+fetched: '2022-06-29'
 keyword:
 - SMTP
+- Simple Mail Transfer Protocol
 editorialgroup:
 - name: drums

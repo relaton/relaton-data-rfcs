@@ -128,12 +128,12 @@ series:
     content: RFC
     format: text/plain
   number: '2883'
-fetched: '2022-05-23'
+fetched: '2022-06-29'
 keyword:
 - SACK
-- transmission
-- control
-- protocol
+- Extension to the Selective Acknowledgement
+- TCP
+- transmission control protocol
 - packets
 - sender
 - receiver

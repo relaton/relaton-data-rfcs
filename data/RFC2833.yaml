@@ -105,13 +105,11 @@ series:
     content: RFC
     format: text/plain
   number: '2833'
-fetched: '2022-05-23'
+fetched: '2022-06-29'
 keyword:
-- real-time
-- application
-- protocol
+- RTP
+- real-time application protocol
 - DTMF
-- dual-tone
-- multifrequency
+- dual-tone multifrequency
 editorialgroup:
 - name: avt

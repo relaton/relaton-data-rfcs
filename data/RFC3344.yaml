@@ -65,10 +65,9 @@ series:
     content: RFC
     format: text/plain
   number: '3344'
-fetched: '2022-05-23'
+fetched: '2022-06-29'
 keyword:
 - MOBILEIPSUPIP
-- Internet
-- Protocol
+- Internet Protocol Mobility Support for IPv4
 editorialgroup:
 - name: mobileip

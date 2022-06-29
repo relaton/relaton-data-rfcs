@@ -155,10 +155,13 @@ series:
     content: RFC
     format: text/plain
   number: '3421'
-fetched: '2022-05-23'
+fetched: '2022-06-29'
 keyword:
+- SLP
+- Service Location Protocol
+- UA
 - user agent
-- url
+- URL
+- Uniform Resource Locator
 - service reply
-- ua
 - svrrply

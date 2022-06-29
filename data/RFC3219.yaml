@@ -110,12 +110,12 @@ series:
     content: RFC
     format: text/plain
   number: '3219'
-fetched: '2022-05-23'
+fetched: '2022-06-29'
 keyword:
+- TRIP
+- Telephony Routing over IP
 - inter-administrative
 - BGP
-- border
-- gateway
-- protocol
+- border gateway protocol
 editorialgroup:
 - name: iptel

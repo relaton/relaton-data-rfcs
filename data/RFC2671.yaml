@@ -75,14 +75,12 @@ series:
     content: RFC
     format: text/plain
   number: '2671'
-fetched: '2022-05-23'
+fetched: '2022-06-29'
 keyword:
 - EDNS0
-- domain
-- name
-- system
-- resource
-- records
+- domain name system
+- RR
+- resource records
 - opt
 editorialgroup:
 - name: dnsind
