@@ -25,12 +25,12 @@ contributor:
 - person:
     name:
       initial:
-      - content: W
+      - content: W.
         language:
         - en
         script:
         - Latn
-      - content: I
+      - content: I.
         language:
         - en
         script:
@@ -52,12 +52,12 @@ contributor:
 - person:
     name:
       initial:
-      - content: D
+      - content: D.
         language:
         - en
         script:
         - Latn
-      - content: C
+      - content: C.
         language:
         - en
         script:

@@ -26,7 +26,7 @@ contributor:
 - person:
     name:
       initial:
-      - content: C
+      - content: C.
         language:
         - en
         script:
@@ -48,12 +48,12 @@ contributor:
 - person:
     name:
       initial:
-      - content: S
+      - content: S.
         language:
         - en
         script:
         - Latn
-      - content: M
+      - content: M.
         language:
         - en
         script:
@@ -75,7 +75,7 @@ contributor:
 - person:
     name:
       initial:
-      - content: T
+      - content: T.
         language:
         - en
         script:
@@ -97,7 +97,7 @@ contributor:
 - person:
     name:
       initial:
-      - content: M
+      - content: M.
         language:
         - en
         script:
