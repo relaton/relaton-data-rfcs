@@ -22,6 +22,15 @@ date:
 contributor:
 - person:
     name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: Y
+        formatted_initials:
+          content: Y.
       surname:
         content: Lee
         language:
@@ -38,6 +47,15 @@ contributor:
   - editor
 - person:
     name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: G
+        formatted_initials:
+          content: G.
       surname:
         content: Bernstein
         language:

@@ -27,6 +27,15 @@ contributor:
   - author
 - person:
     name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: G
+        formatted_initials:
+          content: G.
       surname:
         content: Malkin
         language:

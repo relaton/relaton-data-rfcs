@@ -21,6 +21,20 @@ date:
 contributor:
 - person:
     name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: G
+        - language:
+          - en
+          script:
+          - Latn
+          initial: H
+        formatted_initials:
+          content: G.H.
       surname:
         content: Mealy
         language:

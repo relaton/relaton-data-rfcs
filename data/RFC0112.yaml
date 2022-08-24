@@ -21,6 +21,20 @@ date:
 contributor:
 - person:
     name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: T
+        - language:
+          - en
+          script:
+          - Latn
+          initial: C
+        formatted_initials:
+          content: T.C.
       surname:
         content: O'Sullivan
         language:

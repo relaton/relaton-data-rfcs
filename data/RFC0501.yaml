@@ -21,6 +21,20 @@ date:
 contributor:
 - person:
     name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: K
+        - language:
+          - en
+          script:
+          - Latn
+          initial: T
+        formatted_initials:
+          content: K.T.
       surname:
         content: Pogran
         language:

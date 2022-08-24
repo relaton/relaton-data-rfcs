@@ -21,6 +21,15 @@ date:
 contributor:
 - person:
     name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: V
+        formatted_initials:
+          content: V.
       surname:
         content: Kuarsingh
         language:
@@ -37,6 +46,15 @@ contributor:
   - editor
 - person:
     name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: L
+        formatted_initials:
+          content: L.
       surname:
         content: Howard
         language:

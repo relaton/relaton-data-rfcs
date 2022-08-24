@@ -22,6 +22,15 @@ date:
 contributor:
 - person:
     name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: P
+        formatted_initials:
+          content: P.
       surname:
         content: Saint-Andre
         language:
@@ -38,6 +47,15 @@ contributor:
   - author
 - person:
     name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: S
+        formatted_initials:
+          content: S.
       surname:
         content: Ibarra
         language:
@@ -54,6 +72,15 @@ contributor:
   - author
 - person:
     name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: S
+        formatted_initials:
+          content: S.
       surname:
         content: Loreto
         language:

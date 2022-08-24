@@ -21,6 +21,15 @@ date:
 contributor:
 - person:
     name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: Z
+        formatted_initials:
+          content: Z.
       surname:
         content: Shelby
         language:

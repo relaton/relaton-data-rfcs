@@ -21,6 +21,20 @@ date:
 contributor:
 - person:
     name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: S
+        - language:
+          - en
+          script:
+          - Latn
+          initial: E
+        formatted_initials:
+          content: S.E.
       surname:
         content: Deering
         language:

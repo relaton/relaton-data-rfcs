@@ -22,6 +22,15 @@ date:
 contributor:
 - person:
     name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M.
       surname:
         content: Vigoureux
         language:
@@ -38,6 +47,15 @@ contributor:
   - editor
 - person:
     name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: D
+        formatted_initials:
+          content: D.
       surname:
         content: Ward
         language:
@@ -54,6 +72,15 @@ contributor:
   - editor
 - person:
     name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M.
       surname:
         content: Betts
         language:

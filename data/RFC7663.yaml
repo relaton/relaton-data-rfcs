@@ -22,6 +22,15 @@ date:
 contributor:
 - person:
     name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: B
+        formatted_initials:
+          content: B.
       surname:
         content: Trammell
         language:
@@ -38,6 +47,15 @@ contributor:
   - editor
 - person:
     name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M.
       surname:
         content: Kuehlewind
         language:
