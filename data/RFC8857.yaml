@@ -165,7 +165,7 @@ series:
     content: RFC
     format: text/plain
   number: '8857'
-fetched: '2022-08-24'
+fetched: '2022-08-25'
 keyword:
 - content: BFCP
 - content: WebSocket
