@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: RFC6188
 title:
 - content: The Use of AES-192 and AES-256 in Secure RTP

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: RFC4182
 title:
 - content: Removing a Restriction on the use of MPLS Explicit NULL

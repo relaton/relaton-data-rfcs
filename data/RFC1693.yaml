@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: RFC1693
 title:
 - content: 'An Extension to TCP : Partial Order Service'

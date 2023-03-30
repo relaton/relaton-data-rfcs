@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: RFC4904
 title:
 - content: Representing Trunk Groups in tel/sip Uniform Resource Identifiers (URIs)

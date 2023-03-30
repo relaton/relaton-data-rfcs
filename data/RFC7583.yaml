@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: RFC7583
 title:
 - content: DNSSEC Key Rollover Timing Considerations

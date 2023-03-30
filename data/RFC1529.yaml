@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: RFC1529
 title:
 - content: 'Principles of Operation for the TPC.INT Subdomain: Remote Printing --

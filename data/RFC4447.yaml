@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: RFC4447
 title:
 - content: Pseudowire Setup and Maintenance Using the Label Distribution Protocol

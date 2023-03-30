@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: RFC5021
 title:
 - content: Extended Kerberos Version 5 Key Distribution Center (KDC) Exchanges over

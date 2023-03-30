@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: RFC4092
 title:
 - content: Usage of the Session Description Protocol (SDP) Alternative Network Address

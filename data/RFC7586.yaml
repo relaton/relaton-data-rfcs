@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: RFC7586
 title:
 - content: The Scalable Address Resolution Protocol (SARP) for Large Data Centers

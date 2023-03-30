@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: RFC9289
 title:
 - content: Towards Remote Procedure Call Encryption by Default

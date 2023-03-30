@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: RFC1132
 title:
 - content: Standard for the transmission of 802.2 packets over IPX networks

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: RFC6627
 title:
 - content: Overview of Pre-Congestion Notification Encoding

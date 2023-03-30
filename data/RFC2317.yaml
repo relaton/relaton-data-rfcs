@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: RFC2317
 title:
 - content: Classless IN-ADDR.ARPA delegation

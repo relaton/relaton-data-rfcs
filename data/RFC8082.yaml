@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: RFC8082
 title:
 - content: Using Codec Control Messages in the RTP Audio-Visual Profile with Feedback

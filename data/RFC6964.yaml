@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: RFC6964
 title:
 - content: Operational Guidance for IPv6 Deployment in IPv4 Sites Using the Intra-Site

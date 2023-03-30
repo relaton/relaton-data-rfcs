@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: RFC5254
 title:
 - content: Requirements for Multi-Segment Pseudowire Emulation Edge-to-Edge (PWE3)

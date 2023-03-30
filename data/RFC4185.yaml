@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: RFC4185
 title:
 - content: National and Local Characters for DNS Top Level Domain (TLD) Names

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: RFC3549
 title:
 - content: Linux Netlink as an IP Services Protocol

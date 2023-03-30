@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: RFC4709
 title:
 - content: Mounting Web Distributed Authoring and Versioning (WebDAV) Servers

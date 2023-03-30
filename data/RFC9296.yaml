@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: RFC9296
 title:
 - content: 'ifStackTable for the Point-to-Point (P2P) Interface over a LAN Type: Definition

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: RFC1128
 title:
 - content: Measured performance of the Network Time Protocol in the Internet system

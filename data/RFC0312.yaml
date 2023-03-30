@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: RFC312
 title:
 - content: Proposed Change in IMP-to-Host Protocol

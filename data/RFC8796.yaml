@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: RFC8796
 title:
 - content: RSVP-TE Summary Fast Reroute Extensions for Label Switched Path (LSP) Tunnels

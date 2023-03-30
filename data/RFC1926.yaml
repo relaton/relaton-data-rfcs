@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: RFC1926
 title:
 - content: An Experimental Encapsulation of IP Datagrams on Top of ATM

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: RFC9096
 title:
 - content: Improving the Reaction of Customer Edge Routers to IPv6 Renumbering Events

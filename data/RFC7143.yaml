@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: RFC7143
 title:
 - content: Internet Small Computer System Interface (iSCSI) Protocol (Consolidated)

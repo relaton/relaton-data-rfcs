@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: RFC2254
 title:
 - content: The String Representation of LDAP Search Filters

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: RFC8638
 title:
 - content: IPv4 Multicast over an IPv6 Multicast in Softwire Mesh Networks

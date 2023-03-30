@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: RFC4603
 title:
 - content: Additional Values for the NAS-Port-Type Attribute

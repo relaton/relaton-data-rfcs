@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: RFC4558
 title:
 - content: 'Node-ID Based Resource Reservation Protocol (RSVP) Hello: A Clarification

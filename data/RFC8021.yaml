@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: RFC8021
 title:
 - content: Generation of IPv6 Atomic Fragments Considered Harmful

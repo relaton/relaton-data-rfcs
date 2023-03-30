@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: RFC1228
 title:
 - content: 'SNMP-DPI: Simple Network Management Protocol Distributed Program Interface'

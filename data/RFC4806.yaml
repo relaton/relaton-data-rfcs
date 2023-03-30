@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: RFC4806
 title:
 - content: Online Certificate Status Protocol (OCSP) Extensions to IKEv2

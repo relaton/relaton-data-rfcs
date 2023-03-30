@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: RFC2013
 title:
 - content: SNMPv2 Management Information Base for the User Datagram Protocol using

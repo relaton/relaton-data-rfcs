@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: RFC6631
 title:
 - content: Password Authenticated Connection Establishment with the Internet Key Exchange

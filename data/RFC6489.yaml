@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: RFC6489
 title:
 - content: Certification Authority (CA) Key Rollover in the Resource Public Key Infrastructure

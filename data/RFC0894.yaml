@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: RFC894
 title:
 - content: A Standard for the Transmission of IP Datagrams over Ethernet Networks

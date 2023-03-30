@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: RFC7358
 title:
 - content: Label Advertisement Discipline for LDP Forwarding Equivalence Classes (FECs)

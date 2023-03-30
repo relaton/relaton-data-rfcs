@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: RFC9087
 title:
 - content: Segment Routing Centralized BGP Egress Peer Engineering

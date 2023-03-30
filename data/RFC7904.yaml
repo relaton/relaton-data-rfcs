@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: RFC7904
 title:
 - content: A SIP Usage for REsource LOcation And Discovery (RELOAD)

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: RFC6148
 title:
 - content: DHCPv4 Lease Query by Relay Agent Remote ID

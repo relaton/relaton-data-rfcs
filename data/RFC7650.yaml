@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: RFC7650
 title:
 - content: A Constrained Application Protocol (CoAP) Usage for REsource LOcation And

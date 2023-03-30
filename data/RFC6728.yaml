@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: RFC6728
 title:
 - content: Configuration Data Model for the IP Flow Information Export (IPFIX) and

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: RFC8429
 title:
 - content: Deprecate Triple-DES (3DES) and RC4 in Kerberos

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: RFC6324
 title:
 - content: 'Routing Loop Attack Using IPv6 Automatic Tunnels: Problem Statement and

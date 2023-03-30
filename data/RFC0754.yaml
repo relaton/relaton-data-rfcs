@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: RFC754
 title:
 - content: Out-of-net host addresses for mail
