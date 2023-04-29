@@ -95,10 +95,10 @@ script:
 - Latn
 abstract:
 - content: "<p>This document describes two methods for deriving the canonically-ordered
-    predecessor and successor of a DNS name.  These methods may be used for dynamic
+    predecessor and successor of a DNS name. These methods may be used for dynamic
     NSEC resource record synthesis, enabling security-aware name servers to provide
     authenticated denial of existence without disclosing other owner names in a DNSSEC
-    secured zone.  This memo defines an Experimental Protocol for the Internet community.</p>"
+    secured zone. This memo defines an Experimental Protocol for the Internet community.</p>"
   language:
   - en
   script:

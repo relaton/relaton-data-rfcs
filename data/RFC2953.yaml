@@ -67,7 +67,7 @@ script:
 abstract:
 - content: "<p>This document specifies how to use the data encryption standard (DES)
     encryption algorithm in output feedback mode with the telnet encryption option.
-    \ This memo provides information for the Internet community.</p>"
+    This memo provides information for the Internet community.</p>"
   language:
   - en
   script:

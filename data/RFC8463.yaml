@@ -66,7 +66,7 @@ script:
 - Latn
 abstract:
 - content: <p>This document adds a new signing algorithm, Ed25519-SHA256, to "DomainKeys
-    Identified Mail (DKIM) Signatures" (RFC 6376).  DKIM verifiers are required to
+    Identified Mail (DKIM) Signatures" (RFC 6376). DKIM verifiers are required to
     implement this algorithm.</p>
   language:
   - en

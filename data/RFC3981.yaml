@@ -96,9 +96,9 @@ script:
 abstract:
 - content: "<p>This document describes an application layer client-server protocol
     for a framework to represent the query and result operations of the information
-    services of Internet registries.  Specified in the Extensible Markup Language
-    (XML), the protocol defines generic query and result operations and a mechanism
-    for extending these operations for specific registry service needs. [STANDARDS-TRACK]</p>"
+    services of Internet registries. Specified in the Extensible Markup Language (XML),
+    the protocol defines generic query and result operations and a mechanism for extending
+    these operations for specific registry service needs. [STANDARDS-TRACK]</p>"
   language:
   - en
   script:

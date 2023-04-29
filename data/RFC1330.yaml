@@ -57,8 +57,8 @@ script:
 - Latn
 abstract:
 - content: "<p>This RFC is a near verbatim copy of the whitepaper produced by the
-    ESnet Site Coordinating Committee's X.500/X.400 Task Force.  This memo provides
-    information for the Internet community.  It does not specify an Internet standard.</p>"
+    ESnet Site Coordinating Committee's X.500/X.400 Task Force. This memo provides
+    information for the Internet community. It does not specify an Internet standard.</p>"
   language:
   - en
   script:

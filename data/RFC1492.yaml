@@ -66,9 +66,9 @@ script:
 - Latn
 abstract:
 - content: "<p>This RFC documents the extended TACACS protocol use by the Cisco Systems
-    terminal servers.  This same protocol is used by the University of Minnesota's
-    distributed authentication system.  This memo provides information for the Internet
-    community.  It does not specify an Internet standard.</p>"
+    terminal servers. This same protocol is used by the University of Minnesota's
+    distributed authentication system. This memo provides information for the Internet
+    community. It does not specify an Internet standard.</p>"
   language:
   - en
   script:

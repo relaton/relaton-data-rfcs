@@ -96,7 +96,7 @@ script:
 abstract:
 - content: "<p>This document examines the implications of hop-by-hop forwarding, route
     aggregation, and route filtering on the concept of validation within a BGP Autonomous
-    System (AS) Path.  This memo provides information for the Internet community.</p>"
+    System (AS) Path. This memo provides information for the Internet community.</p>"
   language:
   - en
   script:

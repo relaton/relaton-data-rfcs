@@ -125,7 +125,7 @@ script:
 abstract:
 - content: "<p>This specification extends the Internet Message Access Protocol (IMAP)
     to support UTF-8 encoded international characters in user names, mail addresses,
-    and message headers.  This specification replaces RFC 5738.</p>"
+    and message headers. This specification replaces RFC 5738.</p>"
   language:
   - en
   script:

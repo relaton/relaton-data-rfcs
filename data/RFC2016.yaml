@@ -182,8 +182,8 @@ script:
 - Latn
 abstract:
 - content: "<p>This paper presents an experimental architecture for an agent system
-    that provides sophisticated Internet information access and management.  This
-    memo defines an Experimental Protocol for the Internet community.</p>"
+    that provides sophisticated Internet information access and management. This memo
+    defines an Experimental Protocol for the Internet community.</p>"
   language:
   - en
   script:

@@ -124,7 +124,7 @@ script:
 - Latn
 abstract:
 - content: "<p>Some Authentication, Authorization, and Accounting (AAA) applications
-    require the transport of cryptographic keying material.  This document specifies
+    require the transport of cryptographic keying material. This document specifies
     a set of Attribute-Value Pairs (AVPs) providing native Diameter support of cryptographic
     key delivery. [STANDARDS-TRACK]</p>"
   language:

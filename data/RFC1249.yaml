@@ -125,8 +125,8 @@ script:
 abstract:
 - content: "<p>This RFC defines a mechanism by which TCP/UDP based clients can access
     OSI Directory Service without the overhead of the ISO transport and presentation
-    protocols required to implement full-blown DAP.  This memo provides information
-    for the Internet community.  It does not specify any standard.</p>"
+    protocols required to implement full-blown DAP. This memo provides information
+    for the Internet community. It does not specify any standard.</p>"
   language:
   - en
   script:

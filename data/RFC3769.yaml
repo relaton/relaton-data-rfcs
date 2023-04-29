@@ -95,8 +95,8 @@ script:
 - Latn
 abstract:
 - content: <p>This document describes requirements for how IPv6 address prefixes should
-    be delegated to an IPv6 subscriber's network (or "site").  This memo provides
-    information for the Internet community.</p>
+    be delegated to an IPv6 subscriber's network (or "site"). This memo provides information
+    for the Internet community.</p>
   language:
   - en
   script:

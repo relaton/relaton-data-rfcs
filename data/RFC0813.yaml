@@ -71,9 +71,9 @@ script:
 - Latn
 abstract:
 - content: "<p>This RFC describes implementation strategies to deal with two mechanisms
-    in TCP, the window and the acknowledgement.  It also presents a particular set
+    in TCP, the window and the acknowledgement. It also presents a particular set
     of algorithms which have received testing in the field, and which appear to work
-    properly with each other.  With more experience, these algorithms may become part
+    properly with each other. With more experience, these algorithms may become part
     of the formal specification, until such time their use is recommended.</p>"
   language:
   - en

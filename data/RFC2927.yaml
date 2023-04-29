@@ -67,7 +67,7 @@ script:
 abstract:
 - content: "<p>This document defines a multipurpose internet mail extensions (MIME)
     directory profile for holding a lightweight directory access protocol (LDAP) schema.
-    \ This memo provides information for the Internet community.</p>"
+    This memo provides information for the Internet community.</p>"
   language:
   - en
   script:

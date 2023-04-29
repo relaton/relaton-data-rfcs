@@ -66,7 +66,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This document specifies how to use the DES encryption algorithm in
-    cipher feedback mode with the telnet encryption option.  This memo provides information
+    cipher feedback mode with the telnet encryption option. This memo provides information
     for the Internet community.</p>"
   language:
   - en

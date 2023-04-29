@@ -42,7 +42,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This RFC describes a standard that Sun Microsystems and others are
-    using, and is one we wish to propose for the Internet's consideration.  This memo
+    using, and is one we wish to propose for the Internet's consideration. This memo
     is not an Internet standard at this time.</p>"
   language:
   - en

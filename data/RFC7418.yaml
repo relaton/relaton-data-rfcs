@@ -67,7 +67,7 @@ script:
 abstract:
 - content: "<p>This document provides a high-level description of things for Internet
     Engineering Task Force (IETF) participants to consider when bringing proposals
-    for new research groups (RGs) into the Internet Research Task Force (IRTF).  This
+    for new research groups (RGs) into the Internet Research Task Force (IRTF). This
     document emphasizes differences in expectations between the two organizations.</p>"
   language:
   - en

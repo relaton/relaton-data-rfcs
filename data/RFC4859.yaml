@@ -70,7 +70,7 @@ abstract:
     codepoint registry for the flags field in the Session Attribute object of the
     Resource Reservation Protocol Traffic Engineering (RSVP-TE) signaling messages
     used in Multiprotocol Label Switching (MPLS) and Generalized MPLS (GMPLS) signaling.
-    \ This memo provides information for the Internet community.</p>"
+    This memo provides information for the Internet community.</p>"
   language:
   - en
   script:

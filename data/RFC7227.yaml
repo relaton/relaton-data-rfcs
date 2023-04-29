@@ -183,8 +183,8 @@ script:
 abstract:
 - content: "<p>This document provides guidance to prospective DHCPv6 option developers
     to help them create option formats that are easily adoptable by existing DHCPv6
-    software.  It also provides guidelines for expert reviewers to evaluate new registrations.
-    \ This document updates RFC 3315.</p>"
+    software. It also provides guidelines for expert reviewers to evaluate new registrations.
+    This document updates RFC 3315.</p>"
   language:
   - en
   script:

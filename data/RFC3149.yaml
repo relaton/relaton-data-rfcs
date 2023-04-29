@@ -154,7 +154,7 @@ script:
 abstract:
 - content: "<p>This document describes a collection of MGCP (Media Gateway Control
     Protocol) packages that can be used to take advantage of the feature keys and
-    displays on digital business phones and IP-Phones.  This memo provides information
+    displays on digital business phones and IP-Phones. This memo provides information
     for the Internet community.</p>"
   language:
   - en

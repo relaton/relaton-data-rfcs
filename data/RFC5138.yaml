@@ -70,9 +70,8 @@ abstract:
     is engineered by the Commission for the Management and Application of Geoscience
     Information (CGI) for naming (i) persistent resources published by the CGI and
     (ii) resources published by organizations that wish them to be used in the context
-    of services conforming to protocols and agreements issued by CGI.  The formal
-    Namespace Identifier (NID) is "cgi".  This memo provides information for the Internet
-    community.</p>
+    of services conforming to protocols and agreements issued by CGI. The formal Namespace
+    Identifier (NID) is "cgi". This memo provides information for the Internet community.</p>
   language:
   - en
   script:

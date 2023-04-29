@@ -95,8 +95,8 @@ script:
 - Latn
 abstract:
 - content: "<p>This memo describes the state of standardization of protocols used
-    in the Internet as determined by the Internet Architecture Board (IAB).  This
-    memo is an Internet Standard. [STANDARDS-TRACK]</p>"
+    in the Internet as determined by the Internet Architecture Board (IAB). This memo
+    is an Internet Standard. [STANDARDS-TRACK]</p>"
   language:
   - en
   script:

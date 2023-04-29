@@ -101,9 +101,9 @@ script:
 - Latn
 abstract:
 - content: <p>This RFC suggests an addressing scheme for use with the ISO Connectionless
-    Network Protocol (CLNP) in the Internet.  This is a solution to one of the problems
-    inherent in the use of "ISO-grams" in the Internet.  This memo is a revision of
-    RFC 986.  This RFC suggests a proposed protocol for the Internet community, and
+    Network Protocol (CLNP) in the Internet. This is a solution to one of the problems
+    inherent in the use of "ISO-grams" in the Internet. This memo is a revision of
+    RFC 986. This RFC suggests a proposed protocol for the Internet community, and
     requests discussion and suggestions for improvements.</p>
   language:
   - en

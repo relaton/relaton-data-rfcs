@@ -327,7 +327,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This document describes a protocol for efficiently routing to multicast
-    groups that may span wide-area (and inter-domain) internets.  This memo defines
+    groups that may span wide-area (and inter-domain) internets. This memo defines
     an Experimental Protocol for the Internet community.</p>"
   language:
   - en

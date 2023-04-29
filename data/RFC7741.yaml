@@ -182,8 +182,8 @@ script:
 - Latn
 abstract:
 - content: "<p>This memo describes an RTP payload format for the VP8 video codec.
-    \ The payload format has wide applicability, as it supports applications from
-    low-bitrate peer-to-peer usage to high-bitrate video conferences.</p>"
+    The payload format has wide applicability, as it supports applications from low-bitrate
+    peer-to-peer usage to high-bitrate video conferences.</p>"
   language:
   - en
   script:

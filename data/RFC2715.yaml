@@ -66,7 +66,7 @@ script:
 - Latn
 abstract:
 - content: "<p>The rules described in this document will allow efficient interoperation
-    among multiple independent multicast routing domains.  This memo provides information
+    among multiple independent multicast routing domains. This memo provides information
     for the Internet community.</p>"
   language:
   - en

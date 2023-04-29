@@ -67,9 +67,9 @@ script:
 abstract:
 - content: <p>This memorandum provides guidelines for using the United States Department
     of Defense Military Standard MIL-STD-1840, "Automated Interchange of Technical
-    Information," with the Internet electronic mail standards, RFC 822 and RFC 1521.  This
-    memo provides information for the Internet community.  This memo does not specify
-    an Internet standard of any kind.</p>
+    Information," with the Internet electronic mail standards, RFC 822 and RFC 1521.
+    This memo provides information for the Internet community. This memo does not
+    specify an Internet standard of any kind.</p>
   language:
   - en
   script:

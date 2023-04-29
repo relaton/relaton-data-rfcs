@@ -95,7 +95,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This document defines the wire image, an abstraction of the information
-    available to an on-path non-participant in a networking protocol.  This abstraction
+    available to an on-path non-participant in a networking protocol. This abstraction
     is intended to shed light on the implications that increased encryption has for
     network functions that use the wire image.</p>"
   language:

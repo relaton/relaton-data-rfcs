@@ -66,7 +66,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This document is registration for the 'example' media type and 'example'
-    subtypes within the standards tree.  The 'example/*' and '*/example' media types
+    subtypes within the standards tree. The 'example/*' and '*/example' media types
     are defined for documentation purposes only. [STANDARDS-TRACK]</p>"
   language:
   - en

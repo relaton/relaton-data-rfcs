@@ -124,10 +124,10 @@ script:
 - Latn
 abstract:
 - content: "<p>This document explains the terminology and concepts used in OSPF benchmarking.
-    \ Although some of these terms may be defined elsewhere (and we will refer the
-    reader to those definitions in some cases) we include discussions concerning these
-    terms, as they relate specifically to the tasks involved in benchmarking the OSPF
-    protocol.  This memo provides information for the Internet community.</p>"
+    Although some of these terms may be defined elsewhere (and we will refer the reader
+    to those definitions in some cases) we include discussions concerning these terms,
+    as they relate specifically to the tasks involved in benchmarking the OSPF protocol.
+    This memo provides information for the Internet community.</p>"
   language:
   - en
   script:

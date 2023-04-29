@@ -70,9 +70,9 @@ language:
 script:
 - Latn
 abstract:
-- content: "<p>This RFC is the specification of the MD4 Digest Algorithm.  If you
-    are going to implement MD4, it is suggested you do it this way.  This memo is
-    for informational use and does not constitute a standard.</p>"
+- content: "<p>This RFC is the specification of the MD4 Digest Algorithm. If you are
+    going to implement MD4, it is suggested you do it this way. This memo is for informational
+    use and does not constitute a standard.</p>"
   language:
   - en
   script:

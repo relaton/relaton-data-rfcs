@@ -96,8 +96,8 @@ script:
 abstract:
 - content: "<p>The Multicast Source Discovery Protocol (MSDP) describes a mechanism
     to connect multiple IP Version 4 Protocol Independent Multicast Sparse-Mode (PIM-SM)
-    domains together.  Each PIM-SM domain uses its own independent Rendezvous Point
-    (RP) and does not have to depend on RPs in other domains.  This document reflects
+    domains together. Each PIM-SM domain uses its own independent Rendezvous Point
+    (RP) and does not have to depend on RPs in other domains. This document reflects
     existing MSDP implementations.</p>"
   language:
   - en

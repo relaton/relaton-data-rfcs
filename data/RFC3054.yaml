@@ -125,7 +125,7 @@ script:
 abstract:
 - content: "<p>This document specifies a particular application of the Megaco/H.248
     Protocol for control of Internet telephones and similar appliances: the Megaco
-    IP Phone Media Gateway.  This memo provides information for the Internet community.</p>"
+    IP Phone Media Gateway. This memo provides information for the Internet community.</p>"
   language:
   - en
   script:

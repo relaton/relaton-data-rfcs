@@ -124,7 +124,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This memo presents an elaboration of the SNMP administrative model
-    set forth in [1].  This model provides a unified conceptual basis for administering
+    set forth in [1]. This model provides a unified conceptual basis for administering
     SNMP protocol entities to support: authenticaiton and integrity, privacy, access
     control, and cooperation of protocol entities. [STANDARDS-TRACK]</p>"
   language:

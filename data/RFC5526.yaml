@@ -128,7 +128,7 @@ abstract:
     its implementation as a parallel namespace to "e164.arpa", as defined in RFC 3761,
     as the long-term solution to the problem of allowing carriers to provision DNS
     records for telephone numbers independently of those provisioned by end users
-    (number assignees).  This memo provides information for the Internet community.</p>
+    (number assignees). This memo provides information for the Internet community.</p>
   language:
   - en
   script:

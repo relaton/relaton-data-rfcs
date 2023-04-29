@@ -53,7 +53,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This document proposes an experimental way of reaching infinite bandwidth
-    in IP networks by the use of ESP-based forwarding.  This document defines an Experimental
+    in IP networks by the use of ESP-based forwarding. This document defines an Experimental
     Protocol for the Internet community.</p>"
   language:
   - en

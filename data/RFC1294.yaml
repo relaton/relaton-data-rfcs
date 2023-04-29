@@ -124,7 +124,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This memo describes an encapsulation method for carrying network interconnect
-    traffic over a Frame Relay backbone.  It covers aspects of both Bridging and Routing.
+    traffic over a Frame Relay backbone. It covers aspects of both Bridging and Routing.
     [STANDARDS-TRACK]</p>"
   language:
   - en

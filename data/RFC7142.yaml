@@ -95,7 +95,7 @@ script:
 - Latn
 abstract:
 - content: <p>This memo reclassifies RFC 1142, "OSI IS-IS Intra-domain Routing Protocol",
-    to Historic status.  This memo also obsoletes RFC 1142.</p>
+    to Historic status. This memo also obsoletes RFC 1142.</p>
   language:
   - en
   script:

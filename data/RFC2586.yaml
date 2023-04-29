@@ -95,7 +95,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This document defines the audio/L16 MIME type, a reasonable quality
-    audio format for use in Internet applications.  This memo provides information
+    audio format for use in Internet applications. This memo provides information
     for the Internet community.</p>"
   language:
   - en

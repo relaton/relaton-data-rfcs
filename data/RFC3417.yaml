@@ -66,7 +66,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This document defines the transport of Simple Network Management Protocol
-    (SNMP) messages over various protocols.  This document obsoletes RFC 1906. [STANDARDS-TRACK]</p>"
+    (SNMP) messages over various protocols. This document obsoletes RFC 1906. [STANDARDS-TRACK]</p>"
   language:
   - en
   script:

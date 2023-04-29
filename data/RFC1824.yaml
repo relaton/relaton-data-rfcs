@@ -69,7 +69,7 @@ abstract:
 - content: "<p>This informational RFC describes the basic mechanisms and functions
     of an identity based system for the secure authenticated exchange of cryptographic
     keys, the generation of signatures, and the authentic distribution of public keys.
-    \ This memo provides information for the Internet community.  This memo does not
+    This memo provides information for the Internet community. This memo does not
     specify an Internet standard of any kind.</p>"
   language:
   - en

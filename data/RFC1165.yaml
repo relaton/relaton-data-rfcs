@@ -100,7 +100,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This memo suggests an Experimental Protocol for the OSI and Internet
-    communities.  Hosts in either community, and in particular those on both are encouraged
+    communities. Hosts in either community, and in particular those on both are encouraged
     to experiment with this mechanism.</p>"
   language:
   - en

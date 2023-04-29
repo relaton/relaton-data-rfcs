@@ -71,7 +71,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This memo attacks the notion that TCP cannot be appropriate for use
-    on a Local Area Network.  Originally published as M82-48 by the MITRE Corporation,
+    on a Local Area Network. Originally published as M82-48 by the MITRE Corporation,
     Bedford Massachusetts.</p>"
   language:
   - en

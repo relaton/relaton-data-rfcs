@@ -66,7 +66,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This document defines three new DHCP options for delivering configuration
-    information to clients of the Novell Directory Services.  This document defines
+    information to clients of the Novell Directory Services. This document defines
     three new DHCP options for delivering configuration information to clients of
     the Novell Directory Services. [STANDARDS-TRACK]</p>"
   language:

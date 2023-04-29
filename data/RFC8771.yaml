@@ -94,10 +94,10 @@ language:
 script:
 - Latn
 abstract:
-- content: <p>Domain Names were designed for humans, IP addresses were not.  But more
+- content: <p>Domain Names were designed for humans, IP addresses were not. But more
     than 30 years after the introduction of the DNS, a minority of mankind persists
     in invading the realm of machine-to-machine communication by reading, writing,
-    misspelling, memorizing, permuting, and confusing IP addresses.  This memo describes
+    misspelling, memorizing, permuting, and confusing IP addresses. This memo describes
     the Internationalized Deliberately Unreadable Network NOtation ("I-DUNNO"), a
     notation designed to replace current textual representations of IP addresses with
     something that is not only more concise but will also discourage this small, but

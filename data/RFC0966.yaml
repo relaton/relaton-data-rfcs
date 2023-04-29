@@ -106,7 +106,7 @@ script:
 abstract:
 - content: "<p>This RFC defines a model of service for Internet multicasting and proposes
     an extension to the Internet Protocol (IP) to support such a multicast service.
-    \ Discussion and suggestions for improvements are requested.  See RFC-988.</p>"
+    Discussion and suggestions for improvements are requested. See RFC-988.</p>"
   language:
   - en
   script:

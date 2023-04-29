@@ -95,7 +95,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This document requires that the IETF never publish any IETF Stream
-    RFCs without IETF rough consensus.  This updates RFC 2026.</p>"
+    RFCs without IETF rough consensus. This updates RFC 2026.</p>"
   language:
   - en
   script:

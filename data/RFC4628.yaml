@@ -66,8 +66,8 @@ script:
 - Latn
 abstract:
 - content: "<p>The first RFC that describes RTP payload format for ITU Telecommunication
-    Standardization Sector (ITU-T) recommendation H.263 is RFC 2190.  This specification
-    discusses why to move RFC 2190 to historic status.  This memo provides information
+    Standardization Sector (ITU-T) recommendation H.263 is RFC 2190. This specification
+    discusses why to move RFC 2190 to historic status. This memo provides information
     for the Internet community.</p>"
   language:
   - en

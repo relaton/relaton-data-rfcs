@@ -95,9 +95,9 @@ script:
 - Latn
 abstract:
 - content: "<p>This document defines the format of one new Resource Record (RR) for
-    the DNS for domain name-to-NSAP mapping.  The RR may be used with any NSAP address
-    format.  This memo provides information for the Internet community.  This memo
-    does not specify an Internet standard of any kind.</p>"
+    the DNS for domain name-to-NSAP mapping. The RR may be used with any NSAP address
+    format. This memo provides information for the Internet community. This memo does
+    not specify an Internet standard of any kind.</p>"
   language:
   - en
   script:

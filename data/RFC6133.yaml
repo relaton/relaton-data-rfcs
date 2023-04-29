@@ -127,7 +127,7 @@ abstract:
 - content: "<p>This document describes how the Sieve email filtering language, along
     with some extensions, can be used to create automatic replies to incoming electronic
     mail messages based on the address book and presence information of the recipient.
-    \ This document is not an Internet Standards Track specification; it is published
+    This document is not an Internet Standards Track specification; it is published
     for informational purposes.</p>"
   language:
   - en

@@ -67,7 +67,7 @@ script:
 - Latn
 abstract:
 - content: <p>The Multipart/Report MIME content-type is a general "family" or "container"
-    type for electronic mail reports of any kind.  Although this memo defines only
+    type for electronic mail reports of any kind. Although this memo defines only
     the use of the Multipart/Report content-type with respect to delivery status reports,
     mail processing programs will benefit if a single content-type is used to for
     all kinds of reports. [STANDARDS-TRACK]</p>

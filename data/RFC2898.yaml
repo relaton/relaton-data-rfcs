@@ -67,7 +67,7 @@ script:
 abstract:
 - content: "<p>This document provides recommendations for the implementation of password-based
     cryptography, covering key derivation functions, encryption schemes, message-authentication
-    schemes, and ASN.1 syntax identifying the techniques.  This memo provides information
+    schemes, and ASN.1 syntax identifying the techniques. This memo provides information
     for the Internet community.</p>"
   language:
   - en

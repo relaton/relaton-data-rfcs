@@ -67,9 +67,9 @@ script:
 abstract:
 - content: "<p>TCP Cookie Transactions (TCPCT) deter spoofing of connections and prevent
     resource exhaustion, eliminating Responder (server) state during the initial handshake.
-    \ The Initiator (client) has sole responsibility for ensuring required delays
-    between connections.  The cookie exchange may carry data, limited to inhibit amplification
-    and reflection denial of service attacks.  This document defines an Experimental
+    The Initiator (client) has sole responsibility for ensuring required delays between
+    connections. The cookie exchange may carry data, limited to inhibit amplification
+    and reflection denial of service attacks. This document defines an Experimental
     Protocol for the Internet community.</p>"
   language:
   - en

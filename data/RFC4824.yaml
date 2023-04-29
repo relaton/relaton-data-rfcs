@@ -125,7 +125,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This document specifies a method for encapsulating and transmitting
-    IPv4/IPv6 packets over the Semaphore Flag Signal System (SFSS).  This memo provides
+    IPv4/IPv6 packets over the Semaphore Flag Signal System (SFSS). This memo provides
     information for the Internet community.</p>"
   language:
   - en

@@ -65,7 +65,7 @@ language:
 script:
 - Latn
 abstract:
-- content: "<p>This document describes the Cryptographic Message Syntax.  This syntax
+- content: "<p>This document describes the Cryptographic Message Syntax. This syntax
     is used to digitally sign, digest, authenticate, or encrypt arbitrary messages.
     [STANDARDS-TRACK]</p>"
   language:

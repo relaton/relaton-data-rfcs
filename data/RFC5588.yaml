@@ -68,7 +68,7 @@ script:
 abstract:
 - content: "<p>This document defines a new function for the Generic Security Service
     Application Program Interface (GSS-API), which allows applications to store delegated
-    (and other) credentials in the implicit GSS-API credential store.  This is needed
+    (and other) credentials in the implicit GSS-API credential store. This is needed
     for GSS-API applications to use delegated credentials as they would use other
     credentials. [STANDARDS-TRACK]</p>"
   language:

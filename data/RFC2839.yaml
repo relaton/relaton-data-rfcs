@@ -96,7 +96,7 @@ script:
 abstract:
 - content: "<p>This document describes a new file transfer service for the Internet
     based on Telnet Protocol for option negotiation and Kermit Protocol for file transfer
-    and management.  This memo provides information for the Internet community.</p>"
+    and management. This memo provides information for the Internet community.</p>"
   language:
   - en
   script:

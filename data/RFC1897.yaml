@@ -95,7 +95,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This document describes an allocation plan for IPv6 addresses to be
-    used in testing IPv6 prototype software.  This document specifies an Experimental
+    used in testing IPv6 prototype software. This document specifies an Experimental
     protocol for the Internet community.</p>"
   language:
   - en

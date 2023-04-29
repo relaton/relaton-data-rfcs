@@ -212,10 +212,10 @@ script:
 - Latn
 abstract:
 - content: "<p>This document presents a security threat analysis for the Routing Protocol
-    for Low-Power and Lossy Networks (RPLs).  The development builds upon previous
+    for Low-Power and Lossy Networks (RPLs). The development builds upon previous
     work on routing security and adapts the assessments to the issues and constraints
-    specific to low-power and lossy networks.  A systematic approach is used in defining
-    and evaluating the security threats.  Applicable countermeasures are application
+    specific to low-power and lossy networks. A systematic approach is used in defining
+    and evaluating the security threats. Applicable countermeasures are application
     specific and are addressed in relevant applicability statements.</p>"
   language:
   - en

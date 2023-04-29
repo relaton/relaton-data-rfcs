@@ -68,8 +68,8 @@ abstract:
 - content: "<p>This document is the current policies being applied by the Internet
     Engineering Steering Group (IESG) towards the standardization efforts in the Internet
     Engineering Task Force (IETF) in order to help Internet protocols fulfill these
-    requirements.  This document specifies an Internet Best Current Practices for
-    the Internet Community, and requests discussion and suggestions for improvements.</p>"
+    requirements. This document specifies an Internet Best Current Practices for the
+    Internet Community, and requests discussion and suggestions for improvements.</p>"
   language:
   - en
   script:

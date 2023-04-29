@@ -152,7 +152,7 @@ language:
 script:
 - Latn
 abstract:
-- content: "<p>This memo defines five new DNS types for experimental purposes.  This
+- content: "<p>This memo defines five new DNS types for experimental purposes. This
     RFC describes an Experimental Protocol for the Internet community, and requests
     discussion and suggestions for improvements.</p>"
   language:

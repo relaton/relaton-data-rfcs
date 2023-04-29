@@ -95,7 +95,7 @@ script:
 - Latn
 abstract:
 - content: "<p>Growth in the Internet has made us aware of the need for improved authentication
-    of routing information.  RIP-2 provides for unauthenticated service (as in classical
+    of routing information. RIP-2 provides for unauthenticated service (as in classical
     RIP), or password authentication. [STANDARDS-TRACK]</p>"
   language:
   - en

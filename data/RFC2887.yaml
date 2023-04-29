@@ -211,7 +211,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This document provides an overview of the design space and the ways
-    in which application constraints affect possible solutions.  This memo provides
+    in which application constraints affect possible solutions. This memo provides
     information for the Internet community.</p>"
   language:
   - en

@@ -95,7 +95,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This document describes requirements to be placed on Securely Available
-    Credentials (SACRED) protocols.  This memo provides information for the Internet
+    Credentials (SACRED) protocols. This memo provides information for the Internet
     community.</p>"
   language:
   - en

@@ -95,8 +95,8 @@ script:
 - Latn
 abstract:
 - content: <p>This RFC describes the policy for the registration of second level domains
-    under the ".MIL" domain.  This memo provides information for the Internet community.  This
-    memo does not specify an Internet standard of any kind.</p>
+    under the ".MIL" domain. This memo provides information for the Internet community.
+    This memo does not specify an Internet standard of any kind.</p>
   language:
   - en
   script:

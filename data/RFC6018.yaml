@@ -124,8 +124,8 @@ script:
 - Latn
 abstract:
 - content: "<p>This note discusses a feature to support building Greynets for IPv4
-    and IPv6.  This document is not an Internet Standards Track specification; it
-    is published for informational purposes.</p>"
+    and IPv6. This document is not an Internet Standards Track specification; it is
+    published for informational purposes.</p>"
   language:
   - en
   script:

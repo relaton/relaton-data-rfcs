@@ -124,7 +124,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This document defines a binding for the Extensible Messaging and Presence
-    Protocol (XMPP) over a WebSocket transport layer.  A WebSocket binding for XMPP
+    Protocol (XMPP) over a WebSocket transport layer. A WebSocket binding for XMPP
     provides higher performance than the current HTTP binding for XMPP.</p>"
   language:
   - en

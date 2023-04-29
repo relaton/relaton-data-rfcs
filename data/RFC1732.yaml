@@ -66,8 +66,8 @@ script:
 - Latn
 abstract:
 - content: "<p>This is a summary of hints and recommendations to enable an IMAP4 implementation
-    to interoperate with implementations that conform to earlier specifications.  This
-    memo provides information for the Internet community.  This memo does not specify
+    to interoperate with implementations that conform to earlier specifications. This
+    memo provides information for the Internet community. This memo does not specify
     an Internet standard of any kind.</p>"
   language:
   - en

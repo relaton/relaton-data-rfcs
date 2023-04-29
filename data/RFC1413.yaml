@@ -66,7 +66,7 @@ script:
 - Latn
 abstract:
 - content: "<p>The Identification Protocol was formerly called the Authentication
-    Server Protocol.  It has been renamed to better reflect its function. [STANDARDS-TRACK]</p>"
+    Server Protocol. It has been renamed to better reflect its function. [STANDARDS-TRACK]</p>"
   language:
   - en
   script:

@@ -66,10 +66,10 @@ script:
 - Latn
 abstract:
 - content: "<p>A standard format is defined for representing detached DNS information.
-    \ This is anticipated to be of use for storing information retrieved from the
-    Domain Name System (DNS), including security information, in archival contexts
-    or contexts not connected to the Internet.  This memo defines an Experimental
-    Protocol for the Internet community.</p>"
+    This is anticipated to be of use for storing information retrieved from the Domain
+    Name System (DNS), including security information, in archival contexts or contexts
+    not connected to the Internet. This memo defines an Experimental Protocol for
+    the Internet community.</p>"
   language:
   - en
   script:

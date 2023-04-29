@@ -67,9 +67,9 @@ script:
 abstract:
 - content: "<p>This document introduces VRRP-aware PIM, a redundancy mechanism for
     the Protocol Independent Multicast (PIM) to interoperate with the Virtual Router
-    Redundancy Protocol (VRRP).  It allows PIM to track VRRP state and to preserve
+    Redundancy Protocol (VRRP). It allows PIM to track VRRP state and to preserve
     multicast traffic upon failover in a redundant network with virtual routing groups
-    enabled.  The mechanism described in this document is based on Cisco IOS software
+    enabled. The mechanism described in this document is based on Cisco IOS software
     implementation.</p>"
   language:
   - en

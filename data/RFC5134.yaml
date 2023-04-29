@@ -68,7 +68,7 @@ script:
 abstract:
 - content: "<p>This document describes URN namespaces that will identify various objects
     within the EPCglobal system for identifying products within ecommerce and supply
-    chain management applications.  This memo provides information for the Internet
+    chain management applications. This memo provides information for the Internet
     community.</p>"
   language:
   - en

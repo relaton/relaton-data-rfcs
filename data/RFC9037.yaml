@@ -155,7 +155,7 @@ script:
 abstract:
 - content: "<p>This document specifies the Deterministic Networking (DetNet) MPLS
     data plane when operating over an IEEE 802.1 Time-Sensitive Networking (TSN) sub-network.
-    \ This document does not define new procedures or processes.  Whenever this document
+    This document does not define new procedures or processes. Whenever this document
     makes statements or recommendations, they are taken from normative text in the
     referenced RFCs.</p>"
   language:

@@ -67,10 +67,10 @@ script:
 - Latn
 abstract:
 - content: "<p>This document serves to register a media type for the Society of Motion
-    Picture and Television Engineers (SMPTE) Material Exchange Format (MXF).  MXF,
+    Picture and Television Engineers (SMPTE) Material Exchange Format (MXF). MXF,
     defined by SMPTE 377M, is a standard wrapper format developed for the interchange
     of audiovisual material, including both audiovisual essence and rich metadata.
-    \ This memo provides information for the Internet community.</p>"
+    This memo provides information for the Internet community.</p>"
   language:
   - en
   script:

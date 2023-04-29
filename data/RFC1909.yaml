@@ -67,7 +67,7 @@ script:
 abstract:
 - content: "<p>It is the purpose of this document, An Administrative Infrastructure
     for SNMPv2, to define an administrative framework which realizes effective management
-    in a variety of configurations and environments.  This memo defines an Experimental
+    in a variety of configurations and environments. This memo defines an Experimental
     Protocol for the Internet community.</p>"
   language:
   - en

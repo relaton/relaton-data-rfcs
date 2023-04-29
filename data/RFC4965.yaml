@@ -83,7 +83,7 @@ script:
 abstract:
 - content: "<p>This document describes the collaboration and liaison relationship
     between the Internet Engineering Task Force (IETF) and the Cable Television Laboratories,
-    Inc. (CableLabs).  This memo provides information for the Internet community.</p>"
+    Inc. (CableLabs). This memo provides information for the Internet community.</p>"
   language:
   - en
   script:

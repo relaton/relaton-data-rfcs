@@ -68,8 +68,8 @@ script:
 abstract:
 - content: "<p>This document defines an extension to the URL MIME External-Body Access-Type
     to satisfy the content indirection requirements for the Session Initiation Protocol
-    (SIP).  These extensions are aimed at allowing any MIME part in a SIP message
-    to be referred to indirectly via a URI. [STANDARDS-TRACK]</p>"
+    (SIP). These extensions are aimed at allowing any MIME part in a SIP message to
+    be referred to indirectly via a URI. [STANDARDS-TRACK]</p>"
   language:
   - en
   script:

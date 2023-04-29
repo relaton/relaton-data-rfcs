@@ -66,8 +66,8 @@ script:
 - Latn
 abstract:
 - content: "<p>This memo gives a number of implementation recommendations for SMTP,
-    MTAs (Mail Transfer Agents, e.g.  sendmail,) to make them more capable of reducing
-    the impact of spam.  This document specifies an Internet Best Current Practices
+    MTAs (Mail Transfer Agents, e.g. sendmail,) to make them more capable of reducing
+    the impact of spam. This document specifies an Internet Best Current Practices
     for the Internet Community, and requests discussion and suggestions for improvements.</p>"
   language:
   - en

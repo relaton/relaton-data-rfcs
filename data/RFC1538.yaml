@@ -124,9 +124,8 @@ script:
 - Latn
 abstract:
 - content: "<p>This RFC provides information for the Internet community about a method
-    for establishing and maintaining SNA sessions over an IP internet.  This memo
-    provides information for the Internet community.  It does not specify an Internet
-    standard.</p>"
+    for establishing and maintaining SNA sessions over an IP internet. This memo provides
+    information for the Internet community. It does not specify an Internet standard.</p>"
   language:
   - en
   script:

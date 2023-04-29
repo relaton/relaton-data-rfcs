@@ -96,7 +96,7 @@ script:
 abstract:
 - content: "<p>This document summarises Internet Engineering Task Force (IETF) and
     International Telecommunication Union (ITU-T) documents related to Accounting.
-    \ This memo provides information for the Internet community.</p>"
+    This memo provides information for the Internet community.</p>"
   language:
   - en
   script:

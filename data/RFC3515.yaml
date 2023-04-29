@@ -65,11 +65,11 @@ language:
 script:
 - Latn
 abstract:
-- content: "<p>This document defines the REFER method.  This Session Initiation Protocol
+- content: "<p>This document defines the REFER method. This Session Initiation Protocol
     (SIP) extension requests that the recipient REFER to a resource provided in the
-    request.  It provides a mechanism allowing the party sending the REFER to be notified
-    of the outcome of the referenced request.  This can be used to enable many applications,
-    including call transfer.  In addition to the REFER method, this document defines
+    request. It provides a mechanism allowing the party sending the REFER to be notified
+    of the outcome of the referenced request. This can be used to enable many applications,
+    including call transfer. In addition to the REFER method, this document defines
     the refer event package and the Refer-To request header. [STANDARDS-TRACK]</p>"
   language:
   - en

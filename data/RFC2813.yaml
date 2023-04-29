@@ -66,7 +66,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This document defines the protocol used by servers to talk to each
-    other.  This memo provides information for the Internet community.</p>"
+    other. This memo provides information for the Internet community.</p>"
   language:
   - en
   script:

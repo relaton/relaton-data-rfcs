@@ -66,7 +66,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This memo defines an extension to the Atom Syndication Format for describing
-    licenses associated with Atom feeds and entries.  This memo defines an Experimental
+    licenses associated with Atom feeds and entries. This memo defines an Experimental
     Protocol for the Internet community.</p>"
   language:
   - en

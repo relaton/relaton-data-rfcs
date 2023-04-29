@@ -124,7 +124,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This specification defines QPACK: a compression format for efficiently
-    representing HTTP fields that is to be used in HTTP/3.  This is a variation of
+    representing HTTP fields that is to be used in HTTP/3. This is a variation of
     HPACK compression that seeks to reduce head-of-line blocking.</p>"
   language:
   - en

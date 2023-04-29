@@ -95,7 +95,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This document describes how to express media transport over TCP using
-    the Session Description Protocol (SDP).  It defines the SDP 'TCP' protocol identifier,
+    the Session Description Protocol (SDP). It defines the SDP 'TCP' protocol identifier,
     the SDP 'setup' attribute, which describes the connection setup procedure, and
     the SDP 'connection' attribute, which handles connection reestablishment. [STANDARDS-TRACK]</p>"
   language:

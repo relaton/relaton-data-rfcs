@@ -68,9 +68,9 @@ script:
 abstract:
 - content: <p>This document identifies a set of recommendations for the makers of
     devices and describes how to provide for "simple security" capabilities at the
-    perimeter of local-area IPv6 networks in Internet-enabled homes and small offices.  This
-    document is not an Internet Standards Track specification; it is published for
-    informational purposes.</p>
+    perimeter of local-area IPv6 networks in Internet-enabled homes and small offices.
+    This document is not an Internet Standards Track specification; it is published
+    for informational purposes.</p>
   language:
   - en
   script:

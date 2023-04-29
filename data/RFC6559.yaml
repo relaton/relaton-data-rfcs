@@ -153,9 +153,9 @@ script:
 - Latn
 abstract:
 - content: "<p>This document defines a reliable transport mechanism for the PIM protocol
-    for transmission of Join/Prune messages.  This eliminates the need for periodic
-    Join/Prune message transmission and processing.  The reliable transport mechanism
-    can use either TCP or SCTP as the transport protocol.  This document defines an
+    for transmission of Join/Prune messages. This eliminates the need for periodic
+    Join/Prune message transmission and processing. The reliable transport mechanism
+    can use either TCP or SCTP as the transport protocol. This document defines an
     Experimental Protocol for the Internet community.</p>"
   language:
   - en

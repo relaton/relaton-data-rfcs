@@ -95,7 +95,7 @@ script:
 - Latn
 abstract:
 - content: "<p>Currently the Autonomous System (AS) number is encoded as a two-octet
-    entity in BGP.  This document describes extensions to BGP to carry the Autonomous
+    entity in BGP. This document describes extensions to BGP to carry the Autonomous
     System number as a four-octet entity. [STANDARDS-TRACK]</p>"
   language:
   - en

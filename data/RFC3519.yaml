@@ -95,10 +95,10 @@ script:
 - Latn
 abstract:
 - content: "<p>Mobile IP's datagram tunnelling is incompatible with Network Address
-    Translation (NAT).  This document presents extensions to the Mobile IP protocol
+    Translation (NAT). This document presents extensions to the Mobile IP protocol
     and a tunnelling method which permits mobile nodes using Mobile IP to operate
     in private address networks which are separated from the public internet by NAT
-    devices.  The NAT traversal is based on using the Mobile IP Home Agent UDP port
+    devices. The NAT traversal is based on using the Mobile IP Home Agent UDP port
     for encapsulated data traffic. [STANDARDS-TRACK]</p>"
   language:
   - en

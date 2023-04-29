@@ -65,7 +65,7 @@ language:
 script:
 - Latn
 abstract:
-- content: "<p>This RFC is the specification of an application protocol.  Any host
+- content: "<p>This RFC is the specification of an application protocol. Any host
     that implements this application level service must follow this protocol.</p>"
   language:
   - en

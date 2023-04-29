@@ -66,7 +66,7 @@ script:
 - Latn
 abstract:
 - content: "<p>The STDs are a subseries of notes within the RFC series that are the
-    Internet standards.  The intent is to identify clearly for the Internet community
+    Internet standards. The intent is to identify clearly for the Internet community
     those RFCs which document Internet standards. [STANDARDS-TRACK]</p>"
   language:
   - en

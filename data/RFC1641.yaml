@@ -94,7 +94,7 @@ language:
 script:
 - Latn
 abstract:
-- content: "<p>This document specifies the usage of Unicode within MIME.  This memo
+- content: "<p>This document specifies the usage of Unicode within MIME. This memo
     defines an Experimental Protocol for the Internet community.</p>"
   language:
   - en

@@ -105,7 +105,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This memo defines an Experimental Protocol for the Internet community.
-    \ It does not specify an Internet standard.</p>"
+    It does not specify an Internet standard.</p>"
   language:
   - en
   script:

@@ -66,9 +66,9 @@ script:
 - Latn
 abstract:
 - content: "<p>There have been several proposals around the notion that a subnet may
-    span multiple links connected by routers.  This memo documents the issues and
-    potential problems that have been raised with such an approach.  This memo provides
-    information for the Internet community.</p>"
+    span multiple links connected by routers. This memo documents the issues and potential
+    problems that have been raised with such an approach. This memo provides information
+    for the Internet community.</p>"
   language:
   - en
   script:

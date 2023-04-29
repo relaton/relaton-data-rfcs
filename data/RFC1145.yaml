@@ -95,7 +95,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This memo is suggests a pair of TCP options to allow use of alternate
-    data checksum algorithms in the TCP header.  The use of these options is experimental,
+    data checksum algorithms in the TCP header. The use of these options is experimental,
     and not recommended for production use.</p>"
   language:
   - en

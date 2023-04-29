@@ -94,8 +94,8 @@ language:
 script:
 - Latn
 abstract:
-- content: "<p>This document describes two TFTP options.  The first allows the client
-    and server to negotiate the Timeout Interval.  The second allows the side receiving
+- content: "<p>This document describes two TFTP options. The first allows the client
+    and server to negotiate the Timeout Interval. The second allows the side receiving
     the file to determine the ultimate size of the transfer before it begins. [STANDARDS-TRACK]</p>"
   language:
   - en

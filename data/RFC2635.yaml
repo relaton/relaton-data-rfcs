@@ -96,8 +96,8 @@ script:
 - Latn
 abstract:
 - content: "<p>This document explains why mass unsolicited electronic mail messages
-    are harmful in the Internetworking community.  This memo provides information
-    for the Internet community.</p>"
+    are harmful in the Internetworking community. This memo provides information for
+    the Internet community.</p>"
   language:
   - en
   script:

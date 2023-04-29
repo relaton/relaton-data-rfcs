@@ -154,8 +154,8 @@ script:
 abstract:
 - content: "<p>In situ Operations, Administration, and Maintenance (IOAM) collects
     operational and telemetry information in the packet while the packet traverses
-    a path between two points in the network.  This document provides a framework
-    for IOAM deployment and provides IOAM deployment considerations and guidance.</p>"
+    a path between two points in the network. This document provides a framework for
+    IOAM deployment and provides IOAM deployment considerations and guidance.</p>"
   language:
   - en
   script:

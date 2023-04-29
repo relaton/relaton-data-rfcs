@@ -95,7 +95,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This memo defines a set of extensions which instrument RADIUS accounting
-    client functions.  This memo provides information for the Internet community.</p>"
+    client functions. This memo provides information for the Internet community.</p>"
   language:
   - en
   script:

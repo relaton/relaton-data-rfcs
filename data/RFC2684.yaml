@@ -94,7 +94,7 @@ language:
 script:
 - Latn
 abstract:
-- content: "<p>This memo replaces RFC 1483.  It describes two encapsulations methods
+- content: "<p>This memo replaces RFC 1483. It describes two encapsulations methods
     for carrying network interconnect traffic over AAL type 5 over ATM. [STANDARDS-TRACK]</p>"
   language:
   - en

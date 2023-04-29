@@ -153,8 +153,8 @@ script:
 - Latn
 abstract:
 - content: "<p>This document restates the arguments for maintaining a unique address
-    space.  Concerns for Internet architecture and operations, as well as IETF procedure,
-    are explored.  This memo provides information for the Internet community.  This
+    space. Concerns for Internet architecture and operations, as well as IETF procedure,
+    are explored. This memo provides information for the Internet community. This
     memo does not specify an Internet standard of any kind.</p>"
   language:
   - en

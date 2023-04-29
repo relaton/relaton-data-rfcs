@@ -105,10 +105,10 @@ script:
 - Latn
 abstract:
 - content: "<p>This document is a case study of the implementation of routing between
-    the NSFNET and the DDN components (the MILNET and the ARPANET).  We hope that
-    it can be used to expand towards interconnection of other Administrative Domains.
-    \ We would welcome discussion and suggestions about the methods employed for the
-    interconnections.  No standards are specified in this memo.</p>"
+    the NSFNET and the DDN components (the MILNET and the ARPANET). We hope that it
+    can be used to expand towards interconnection of other Administrative Domains.
+    We would welcome discussion and suggestions about the methods employed for the
+    interconnections. No standards are specified in this memo.</p>"
   language:
   - en
   script:

@@ -72,7 +72,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This memo specifies a standard method of encapsulating Internet Protocol
-    (IP) and Address Resolution Protocol (ARP) datagrams on an ARCNET.  This RFC is
+    (IP) and Address Resolution Protocol (ARP) datagrams on an ARCNET. This RFC is
     a standard protocol for the Internet community.</p>"
   language:
   - en

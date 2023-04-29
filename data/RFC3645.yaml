@@ -212,10 +212,10 @@ script:
 - Latn
 abstract:
 - content: "<p>The Secret Key Transaction Authentication for DNS (TSIG) protocol provides
-    transaction level authentication for DNS.  TSIG is extensible through the definition
-    of new algorithms.  This document specifies an algorithm based on the Generic
-    Security Service Application Program Interface (GSS-API) (RFC2743).  This document
-    updates RFC 2845.</p>"
+    transaction level authentication for DNS. TSIG is extensible through the definition
+    of new algorithms. This document specifies an algorithm based on the Generic Security
+    Service Application Program Interface (GSS-API) (RFC2743). This document updates
+    RFC 2845.</p>"
   language:
   - en
   script:

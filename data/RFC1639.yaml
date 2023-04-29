@@ -69,8 +69,8 @@ abstract:
     IPv4 addresses to data ports through the specification of a "long Port (LPRT)"
     command and "Long Passive (LPSV)" reply, each having as its argument a, which
     allows for additional address families, variable length network addresses and
-    variable length port numbers.  This memo defines an Experimental Protocol for
-    the Internet community.</p>
+    variable length port numbers. This memo defines an Experimental Protocol for the
+    Internet community.</p>
   language:
   - en
   script:

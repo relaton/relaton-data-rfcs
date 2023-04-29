@@ -73,9 +73,9 @@ abstract:
 - content: "<p>This memo suggests a simple method for workstations to dynamically
     access mail from a discussion group server, as an extension to an earlier memo
     which dealt with dynamically accessing mail from a mailbox server using the Post
-    Office Protocol - Version 3 (POP3).  This RFC specifies a proposed protocol for
+    Office Protocol - Version 3 (POP3). This RFC specifies a proposed protocol for
     the Internet community, and requests discussion and suggestions for improvements.
-    \ All of the extensions described in this memo to the POP3 are OPTIONAL.</p>"
+    All of the extensions described in this memo to the POP3 are OPTIONAL.</p>"
   language:
   - en
   script:

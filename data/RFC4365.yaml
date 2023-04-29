@@ -67,7 +67,7 @@ script:
 abstract:
 - content: "<p>This document provides an Applicability Statement for the Virtual Private
     Network (VPN) solution described in RFC 4364 and other documents listed in the
-    References section.  This memo provides information for the Internet community.</p>"
+    References section. This memo provides information for the Internet community.</p>"
   language:
   - en
   script:

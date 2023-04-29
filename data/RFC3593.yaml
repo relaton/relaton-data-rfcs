@@ -67,9 +67,9 @@ script:
 - Latn
 abstract:
 - content: "<p>This document defines a set of Textual Conventions for MIB modules
-    that make use of performance history data based on 15 minute intervals.  This
-    memo replaces RFC 2493.  Changes relative to RFC 2493 are summarized in the MIB
-    module's REVISION clause. [STANDARDS-TRACK]</p>"
+    that make use of performance history data based on 15 minute intervals. This memo
+    replaces RFC 2493. Changes relative to RFC 2493 are summarized in the MIB module's
+    REVISION clause. [STANDARDS-TRACK]</p>"
   language:
   - en
   script:

@@ -95,9 +95,9 @@ script:
 - Latn
 abstract:
 - content: "<p>The Open Pluggable Edge Services (OPES) framework is application agnostic.
-    \ Application-specific adaptations extend that framework.  This document describes
+    Application-specific adaptations extend that framework. This document describes
     OPES SMTP use cases and deployment scenarios in preparation for SMTP adaptation
-    with OPES.  This memo provides information for the Internet community.</p>"
+    with OPES. This memo provides information for the Internet community.</p>"
   language:
   - en
   script:

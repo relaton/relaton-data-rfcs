@@ -124,7 +124,7 @@ script:
 - Latn
 abstract:
 - content: <p>This memo changes the status of STD 39, BBN Report 1822, "Specification
-    of the Interconnection of a Host and an IMP", from Standard to Historic.  This
+    of the Interconnection of a Host and an IMP", from Standard to Historic. This
     memo provides information for the Internet community.</p>
   language:
   - en

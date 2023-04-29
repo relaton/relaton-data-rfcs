@@ -129,8 +129,8 @@ abstract:
     (such as when a Customer Edge router crashes and reboots without knowledge of
     the previously employed prefixes), hosts on the local network may continue using
     stale prefixes for an unacceptably long time (on the order of several days), thus
-    resulting in connectivity problems.  This document describes this issue and discusses
-    operational workarounds that may help to improve network robustness.  Additionally,
+    resulting in connectivity problems. This document describes this issue and discusses
+    operational workarounds that may help to improve network robustness. Additionally,
     it highlights areas where further work may be needed.</p>"
   language:
   - en

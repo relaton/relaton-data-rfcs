@@ -96,7 +96,7 @@ script:
 abstract:
 - content: "<p>This memo complements the list of multicast infrastructure security
     threat analysis documents by describing Protocol Independent Multicast (PIM) threats
-    specific to router interfaces connecting hosts.  This memo provides information
+    specific to router interfaces connecting hosts. This memo provides information
     for the Internet community.</p>"
   language:
   - en

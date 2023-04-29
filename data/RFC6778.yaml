@@ -66,11 +66,11 @@ language:
 script:
 - Latn
 abstract:
-- content: "<p>The IETF makes heavy use of email lists to conduct its work.  Participants
+- content: "<p>The IETF makes heavy use of email lists to conduct its work. Participants
     frequently need to search and browse the archives of these lists and have asked
-    for improved search capabilities.  The current archive mechanism could also be
-    made more efficient.  This memo captures the requirements for improved email list
-    archiving and searching systems.  This document is not an Internet Standards Track
+    for improved search capabilities. The current archive mechanism could also be
+    made more efficient. This memo captures the requirements for improved email list
+    archiving and searching systems. This document is not an Internet Standards Track
     specification; it is published for informational purposes.</p>"
   language:
   - en

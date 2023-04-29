@@ -67,8 +67,8 @@ script:
 abstract:
 - content: "<p>Some protocols being developed or extended by the IETF make use of
     the ISO/IEC (International Organization for Standardization / International Electrotechnical
-    Commission) Network Layer Protocol Identifier (NLPID).  This document provides
-    NLPID IANA considerations.  This memo documents an Internet Best Current Practice.</p>"
+    Commission) Network Layer Protocol Identifier (NLPID). This document provides
+    NLPID IANA considerations. This memo documents an Internet Best Current Practice.</p>"
   language:
   - en
   script:

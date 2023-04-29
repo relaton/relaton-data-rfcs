@@ -154,8 +154,8 @@ script:
 abstract:
 - content: "<p>This document defines the format of a new Resource Record (RR) for
     the Domain Naming System (DNS), and reserves a corresponding DNS type mnemonic
-    and numerical code.  This memo defines an Experimental Protocol for the Internet
-    community.  This memo does not specify an Internet standard of any kind.</p>"
+    and numerical code. This memo defines an Experimental Protocol for the Internet
+    community. This memo does not specify an Internet standard of any kind.</p>"
   language:
   - en
   script:

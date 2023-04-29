@@ -124,8 +124,8 @@ script:
 - Latn
 abstract:
 - content: "<p>This document discusses the relationship of the Request for Comments
-    (RFCs) notes to Internet Standards.  This memo provides information for the Internet
-    community.  This memo does not specify an Internet standard of any kind.</p>"
+    (RFCs) notes to Internet Standards. This memo provides information for the Internet
+    community. This memo does not specify an Internet standard of any kind.</p>"
   language:
   - en
   script:

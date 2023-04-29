@@ -95,8 +95,8 @@ script:
 - Latn
 abstract:
 - content: "<p>This memo provides a general overview of the High-level Entity management
-    system (HEMS).  This system is experimental, and is currently being tested in
-    portions of the Internet.</p>"
+    system (HEMS). This system is experimental, and is currently being tested in portions
+    of the Internet.</p>"
   language:
   - en
   script:

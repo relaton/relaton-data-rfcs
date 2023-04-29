@@ -66,7 +66,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This RFC describes two methods of encapsulating Internet Protocol (IP)
-    datagrams on an IEEE 802.3 network.  This RFC suggests a proposed protocol for
+    datagrams on an IEEE 802.3 network. This RFC suggests a proposed protocol for
     the ARPA-Internet community, and requests discussion and suggestions for improvements.</p>"
   language:
   - en

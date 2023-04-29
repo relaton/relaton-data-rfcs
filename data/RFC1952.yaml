@@ -66,9 +66,9 @@ script:
 - Latn
 abstract:
 - content: "<p>This specification defines a lossless compressed data format that is
-    compatible with the widely used GZIP utility.  This memo provides information
-    for the Internet community.  This memo does not specify an Internet standard of
-    any kind.</p>"
+    compatible with the widely used GZIP utility. This memo provides information for
+    the Internet community. This memo does not specify an Internet standard of any
+    kind.</p>"
   language:
   - en
   script:

@@ -66,7 +66,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This document discusses the need for delegation of the IP6.ARPA DNS
-    zone, and specifies a plan for the technical operation thereof.  This document
+    zone, and specifies a plan for the technical operation thereof. This document
     specifies an Internet Best Current Practices for the Internet Community, and requests
     discussion and suggestions for improvements.</p>"
   language:

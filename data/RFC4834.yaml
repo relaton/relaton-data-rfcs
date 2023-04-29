@@ -68,10 +68,10 @@ script:
 abstract:
 - content: "<p>This document presents a set of functional requirements for network
     solutions that allow the deployment of IP multicast within Layer 3 (L3) Provider-Provisioned
-    Virtual Private Networks (PPVPNs).  It specifies requirements both from the end
-    user and service provider standpoints.  It is intended that potential solutions
+    Virtual Private Networks (PPVPNs). It specifies requirements both from the end
+    user and service provider standpoints. It is intended that potential solutions
     specifying the support of IP multicast within such VPNs will use these requirements
-    as guidelines.  This memo provides information for the Internet community.</p>"
+    as guidelines. This memo provides information for the Internet community.</p>"
   language:
   - en
   script:

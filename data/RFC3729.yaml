@@ -66,7 +66,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This memo defines a portion of the Management Information Base (MIB)
-    for use with network management protocols in TCP/IP-based internets.  In particular,
+    for use with network management protocols in TCP/IP-based internets. In particular,
     it defines objects for measuring the application performance as experienced by
     end-users. [STANDARDS-TRACK]</p>"
   language:

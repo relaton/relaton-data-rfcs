@@ -66,7 +66,7 @@ script:
 - Latn
 abstract:
 - content: "<p>Some implementations of IP Security (IPsec) may want to use a pseudo-random
-    function derived from the Advanced Encryption Standard (AES).  This document describes
+    function derived from the Advanced Encryption Standard (AES). This document describes
     such an algorithm, called AES-XCBC-PRF-128. [STANDARDS-TRACK]</p>"
   language:
   - en

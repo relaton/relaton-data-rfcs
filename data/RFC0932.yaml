@@ -71,7 +71,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This RFC proposes an alternative addressing scheme for subnets which,
-    in most cases, requires no modification to host software whatsoever.  The drawbacks
+    in most cases, requires no modification to host software whatsoever. The drawbacks
     of this scheme are that the total number of subnets in any one network are limited,
     and that modification is required to all gateways.</p>"
   language:

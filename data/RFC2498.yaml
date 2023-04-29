@@ -95,8 +95,8 @@ script:
 - Latn
 abstract:
 - content: "<p>This memo defines a series of metrics for connectivity between a pair
-    of Internet hosts.  It builds on notions introduced and discussed in RFC 2330,
-    the IPPM framework document.  This memo defines an Experimental Protocol for the
+    of Internet hosts. It builds on notions introduced and discussed in RFC 2330,
+    the IPPM framework document. This memo defines an Experimental Protocol for the
     Internet community.</p>"
   language:
   - en

@@ -95,10 +95,10 @@ script:
 - Latn
 abstract:
 - content: "<p>Many issues have been identified with the use of general-purpose character
-    sets for internationalized domain names and similar purposes.  This memo describes
+    sets for internationalized domain names and similar purposes. This memo describes
     a fully unified coded character set for scripts based on Latin, Greek, Cyrillic,
-    and Chinese (CJK) characters.  It is not a complete specification of that character
-    set.  This memo provides information for the Internet community.</p>"
+    and Chinese (CJK) characters. It is not a complete specification of that character
+    set. This memo provides information for the Internet community.</p>"
   language:
   - en
   script:

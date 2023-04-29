@@ -66,8 +66,8 @@ script:
 - Latn
 abstract:
 - content: "<p>This document describes the registration of the MIME sub-type application/xv+xml.
-    \ This sub-type is intended for use as a media descriptor for XHTML+Voice multimodal
-    language documents.  This memo provides information for the Internet community.</p>"
+    This sub-type is intended for use as a media descriptor for XHTML+Voice multimodal
+    language documents. This memo provides information for the Internet community.</p>"
   language:
   - en
   script:

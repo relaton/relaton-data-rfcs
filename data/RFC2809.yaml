@@ -96,7 +96,7 @@ script:
 abstract:
 - content: "<p>This document discusses implementation issues arising in the provisioning
     of compulsory tunneling in dial-up networks using the L2TP (Layer Two Tunneling
-    Protocol) protocol.  This memo provides information for the Internet community.</p>"
+    Protocol) protocol. This memo provides information for the Internet community.</p>"
   language:
   - en
   script:

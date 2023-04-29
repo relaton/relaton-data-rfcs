@@ -124,9 +124,9 @@ script:
 - Latn
 abstract:
 - content: "<p>IP fragmentation can be used to disguise TCP packets from IP filters
-    used in routers and hosts.  This document describes two methods of attack as well
-    as remedies to prevent them.  This memo provides information for the Internet
-    community.  This memo does not specify an Internet standard of any kind.</p>"
+    used in routers and hosts. This document describes two methods of attack as well
+    as remedies to prevent them. This memo provides information for the Internet community.
+    This memo does not specify an Internet standard of any kind.</p>"
   language:
   - en
   script:

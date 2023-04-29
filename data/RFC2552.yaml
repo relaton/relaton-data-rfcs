@@ -125,7 +125,7 @@ script:
 abstract:
 - content: "<p>This memo introduces a domain and supplier independent generic architecture
     for information brokerage, designed as part of the ACTS project GAIA (Generic
-    Architecture for Information Availability).  This memo provides information for
+    Architecture for Information Availability). This memo provides information for
     the Internet community.</p>"
   language:
   - en

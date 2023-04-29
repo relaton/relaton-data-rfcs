@@ -125,9 +125,9 @@ script:
 - Latn
 abstract:
 - content: "<p>The Session Initiation Protocol (SIP) is often used to initiate connections
-    to applications such as voicemail or interactive voice recognition systems.  This
+    to applications such as voicemail or interactive voice recognition systems. This
     specification describes a convention for forming SIP service URIs that request
-    particular services based on redirecting targets from such applications.  This
+    particular services based on redirecting targets from such applications. This
     memo provides information for the Internet community.</p>"
   language:
   - en

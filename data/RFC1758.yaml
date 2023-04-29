@@ -42,8 +42,8 @@ script:
 - Latn
 abstract:
 - content: "<p>The purpose of this document is to provide a brief overview of the
-    NADF's Standing Document series.  This memo provides information for the Internet
-    community.  This memo does not specify an Internet standard of any kind.</p>"
+    NADF's Standing Document series. This memo provides information for the Internet
+    community. This memo does not specify an Internet standard of any kind.</p>"
   language:
   - en
   script:

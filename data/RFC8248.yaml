@@ -96,8 +96,8 @@ script:
 abstract:
 - content: "<p>This document defines the scope and set of requirements for the Security
     Automation and Continuous Monitoring (SACM) architecture, data model, and transfer
-    protocols.  The requirements and scope are based on the agreed-upon use cases
-    described in RFC 7632.</p>"
+    protocols. The requirements and scope are based on the agreed-upon use cases described
+    in RFC 7632.</p>"
   language:
   - en
   script:

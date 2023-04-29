@@ -67,7 +67,7 @@ script:
 - Latn
 abstract:
 - content: <p>This document relates primarily to the ITU-T 1988 and 1992 X.400 Series
-    Recommendations / ISO IEC 10021 International Standard.  This ISO/ITU-T standard
+    Recommendations / ISO IEC 10021 International Standard. This ISO/ITU-T standard
     is referred to in this document as "X.400", which is a convenient shorthand. [STANDARDS-TRACK]</p>
   language:
   - en

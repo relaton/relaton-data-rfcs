@@ -66,7 +66,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This document defines the 'application/gzip' and 'application/zlib'
-    media types for compressed data using the gzip and zlib compression formats.  This
+    media types for compressed data using the gzip and zlib compression formats. This
     document is not an Internet Standards Track specification; it is published for
     informational purposes.</p>"
   language:

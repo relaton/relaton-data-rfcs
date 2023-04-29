@@ -66,9 +66,9 @@ script:
 - Latn
 abstract:
 - content: "<p>This memo defines a format for E-mailing bibliographic records of technical
-    reports.  It is intended to accelerate the dissemination of information about
-    new Computer Science Technical Reports (CS-TR).  This memo provides information
-    for the Internet community.  It does not specify an Internet standard.</p>"
+    reports. It is intended to accelerate the dissemination of information about new
+    Computer Science Technical Reports (CS-TR). This memo provides information for
+    the Internet community. It does not specify an Internet standard.</p>"
   language:
   - en
   script:

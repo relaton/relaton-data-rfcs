@@ -154,8 +154,8 @@ script:
 abstract:
 - content: "<p>Master-Slave/Token-Passing (MS/TP) is a medium access control method
     for the RS-485 physical layer and is used primarily in building automation networks.
-    \ This specification defines the frame format for transmission of IPv6 packets
-    and the method of forming link-local and statelessly autoconfigured IPv6 addresses
+    This specification defines the frame format for transmission of IPv6 packets and
+    the method of forming link-local and statelessly autoconfigured IPv6 addresses
     on MS/TP networks.</p>"
   language:
   - en

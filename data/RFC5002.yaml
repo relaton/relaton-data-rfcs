@@ -94,11 +94,11 @@ language:
 script:
 - Latn
 abstract:
-- content: "<p>This document specifies the SIP P-Profile-Key P-header.  This header
+- content: "<p>This document specifies the SIP P-Profile-Key P-header. This header
     field is used in the 3rd-Generation Partnership Project (3GPP) IMS (IP Multimedia
     Subsystem) to provide SIP registrars and SIP proxy servers with the key of the
     profile corresponding to the destination SIP URI of a particular SIP request.
-    \ This memo provides information for the Internet community.</p>"
+    This memo provides information for the Internet community.</p>"
   language:
   - en
   script:

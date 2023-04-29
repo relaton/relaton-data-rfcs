@@ -71,8 +71,8 @@ script:
 - Latn
 abstract:
 - content: "<p>This RFC is proposed to establish a standard for Gateway to Gateway
-    procedures that allow the Gateways to be mutually suspicious.  This document is
-    a DRAFT for that standard.  Your comments are strongly encouraged.</p>"
+    procedures that allow the Gateways to be mutually suspicious. This document is
+    a DRAFT for that standard. Your comments are strongly encouraged.</p>"
   language:
   - en
   script:

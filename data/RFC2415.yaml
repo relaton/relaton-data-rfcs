@@ -95,7 +95,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This document covers some simulation studies of the effects of increasing
-    the initial window size of TCP.  This memo provides information for the Internet
+    the initial window size of TCP. This memo provides information for the Internet
     community.</p>"
   language:
   - en

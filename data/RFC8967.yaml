@@ -124,7 +124,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This document describes a cryptographic authentication mechanism for
-    the Babel routing protocol that has provisions for replay avoidance.  This document
+    the Babel routing protocol that has provisions for replay avoidance. This document
     obsoletes RFC 7298.</p>"
   language:
   - en

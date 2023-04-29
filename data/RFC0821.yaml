@@ -66,8 +66,8 @@ script:
 - Latn
 abstract:
 - content: "<p>The objective of Simple Mail Transfer Protocol (SMTP) is to transfer
-    mail reliably and efficiently.  SMTP is independent of the particular transmission
-    subsystem and requires only a reliable ordered data stream channel.  Obsoletes
+    mail reliably and efficiently. SMTP is independent of the particular transmission
+    subsystem and requires only a reliable ordered data stream channel. Obsoletes
     RFC 788, 780, and 772.</p>"
   language:
   - en

@@ -183,8 +183,8 @@ script:
 abstract:
 - content: "<p>This memo defines how to store in the Internet Domain Name System the
     mapping information needed by e-mail gateways and other tools to map RFC822 domain
-    names into X.400 O/R names and vice versa.  This memo defines an Experimental
-    Protocol for the Internet community.</p>"
+    names into X.400 O/R names and vice versa. This memo defines an Experimental Protocol
+    for the Internet community.</p>"
   language:
   - en
   script:

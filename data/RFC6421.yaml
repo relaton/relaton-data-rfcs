@@ -67,7 +67,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This memo describes the requirements for a crypto-agility solution
-    for Remote Authentication Dial-In User Service (RADIUS).  This document is not
+    for Remote Authentication Dial-In User Service (RADIUS). This document is not
     an Internet Standards Track specification; it is published for informational purposes.</p>"
   language:
   - en

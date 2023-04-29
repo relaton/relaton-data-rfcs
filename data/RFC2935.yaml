@@ -95,7 +95,7 @@ script:
 - Latn
 abstract:
 - content: "<p>The goal of mapping to the transport layer is to ensure that the underlying
-    XML documents are carried successfully between the various parties.  This document
+    XML documents are carried successfully between the various parties. This document
     describes that mapping for the Hyper Text Transport Protocol (HTTP), Versions
     1.0 and 1.1. [STANDARDS-TRACK]</p>"
   language:

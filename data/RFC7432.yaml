@@ -240,8 +240,8 @@ script:
 - Latn
 abstract:
 - content: <p>This document describes procedures for BGP MPLS-based Ethernet VPNs
-    (EVPN).  The procedures described here meet the requirements specified in RFC
-    7209 -- "Requirements for Ethernet VPN (EVPN)".</p>
+    (EVPN). The procedures described here meet the requirements specified in RFC 7209
+    -- "Requirements for Ethernet VPN (EVPN)".</p>
   language:
   - en
   script:

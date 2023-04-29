@@ -95,7 +95,7 @@ script:
 - Latn
 abstract:
 - content: "<p>The document defines a way to persistently store named IMAP (RFC 3501)
-    searches on the server.  Such named searches can be subsequently referenced in
+    searches on the server. Such named searches can be subsequently referenced in
     a SEARCH or any other command that accepts a search criterion as a parameter.
     [STANDARDS-TRACK]</p>"
   language:

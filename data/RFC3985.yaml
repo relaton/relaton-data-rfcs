@@ -95,11 +95,11 @@ script:
 - Latn
 abstract:
 - content: "<p>This document describes an architecture for Pseudo Wire Emulation Edge-to-Edge
-    (PWE3).  It discusses the emulation of services such as Frame Relay, ATM, Ethernet,
-    TDM, and SONET/SDH over packet switched networks (PSNs) using IP or MPLS.  It
-    presents the architectural framework for pseudo wires (PWs), defines terminology,
-    and specifies the various protocol elements and their functions.  This memo provides
-    information for the Internet community.</p>"
+    (PWE3). It discusses the emulation of services such as Frame Relay, ATM, Ethernet,
+    TDM, and SONET/SDH over packet switched networks (PSNs) using IP or MPLS. It presents
+    the architectural framework for pseudo wires (PWs), defines terminology, and specifies
+    the various protocol elements and their functions. This memo provides information
+    for the Internet community.</p>"
   language:
   - en
   script:

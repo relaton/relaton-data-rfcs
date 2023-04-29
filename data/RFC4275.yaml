@@ -95,7 +95,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This document provides a survey of implementations of BGP-4 that support
-    RFC 1657 MIB agents according to the BGP-4 v1 MIB specification.  This memo provides
+    RFC 1657 MIB agents according to the BGP-4 v1 MIB specification. This memo provides
     information for the Internet community.</p>"
   language:
   - en

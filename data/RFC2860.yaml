@@ -126,7 +126,7 @@ script:
 abstract:
 - content: "<p>This document places on record the text of the Memorandum of Understanding
     concerning the technical work of the IANA that was signed on March 1, 2000 between
-    the IETF and ICANN, and ratified by the ICANN Board on March 10, 2000.  This memo
+    the IETF and ICANN, and ratified by the ICANN Board on March 10, 2000. This memo
     provides information for the Internet community.</p>"
   language:
   - en

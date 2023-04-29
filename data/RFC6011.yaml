@@ -96,7 +96,7 @@ script:
 abstract:
 - content: "<p>This document defines procedures for how a SIP User Agent should locate,
     retrieve, and maintain current configuration information from a Configuration
-    Service.  This document is not an Internet Standards Track specification; it is
+    Service. This document is not an Internet Standards Track specification; it is
     published for informational purposes.</p>"
   language:
   - en

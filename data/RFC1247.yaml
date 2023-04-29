@@ -65,7 +65,7 @@ language:
 script:
 - Latn
 abstract:
-- content: "<p>This memo documents version 2 of the OSPF protocol.  OSPF is a link-
+- content: "<p>This memo documents version 2 of the OSPF protocol. OSPF is a link-
     state based routing protocol. [STANDARDS-TRACK]</p>"
   language:
   - en

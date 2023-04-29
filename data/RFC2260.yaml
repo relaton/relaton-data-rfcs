@@ -97,8 +97,8 @@ abstract:
 - content: "<p>This document describes addressing and routing strategies for multi-
     homed enterprises attached to multiple Internet Service Providers (ISPs) that
     are intended to reduce the routing overhead due to these enterprises in the global
-    Internet routing system.  This memo provides information for the Internet community.
-    \ It does not specify an Internet standard of any kind.</p>"
+    Internet routing system. This memo provides information for the Internet community.
+    It does not specify an Internet standard of any kind.</p>"
   language:
   - en
   script:

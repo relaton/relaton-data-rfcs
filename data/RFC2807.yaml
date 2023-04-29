@@ -66,9 +66,9 @@ script:
 - Latn
 abstract:
 - content: "<p>This document lists the design principles, scope, and requirements
-    for the XML Digital Signature specification.  It includes requirements as they
+    for the XML Digital Signature specification. It includes requirements as they
     relate to the signature syntax, data model, format, cryptographic processing,
-    and external requirements and coordination.  This memo provides information for
+    and external requirements and coordination. This memo provides information for
     the Internet community.</p>"
   language:
   - en

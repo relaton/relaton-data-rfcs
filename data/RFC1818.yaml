@@ -124,8 +124,8 @@ script:
 - Latn
 abstract:
 - content: "<p>This document describes a new series of documents which describe best
-    current practices for the Internet community.  Documents in this series carry
-    the endorsement of the Internet Engineering Steering Group (IESG).</p>"
+    current practices for the Internet community. Documents in this series carry the
+    endorsement of the Internet Engineering Steering Group (IESG).</p>"
   language:
   - en
   script:

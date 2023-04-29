@@ -182,7 +182,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This document defines common requirements for Carrier-Grade NATs (CGNs).
-    \ It updates RFC 4787.</p>"
+    It updates RFC 4787.</p>"
   language:
   - en
   script:

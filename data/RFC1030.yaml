@@ -71,8 +71,8 @@ script:
 - Latn
 abstract:
 - content: "<p>This memo describes the results gathered from testing NETBLT over three
-    networks of different bandwidths and round-trip delays.  The results are not complete,
-    but the information gathered so far has not been promising.  The NETBLT protocol
+    networks of different bandwidths and round-trip delays. The results are not complete,
+    but the information gathered so far has not been promising. The NETBLT protocol
     is specified in RFC-998; this document assumes an understanding of the specification
     as described in RFC-998.</p>"
   language:

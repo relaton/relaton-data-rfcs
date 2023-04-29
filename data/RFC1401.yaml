@@ -46,9 +46,8 @@ abstract:
 - content: <p>This memo reproduces three letters exchanged between the Internet Activities
     Board (IAB) and the Defense Information Systems Agency (DISA) regarding the importance
     of using the Domain Name System (DNS) throughout the Internet, and phasing out
-    the use of older host name to address tables, such as "hosts.txt".  This memo
-    provides information for the Internet community.  It does not specify an Internet
-    standard.</p>
+    the use of older host name to address tables, such as "hosts.txt". This memo provides
+    information for the Internet community. It does not specify an Internet standard.</p>
   language:
   - en
   script:

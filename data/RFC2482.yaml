@@ -95,7 +95,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This document proposed a mechanism for language tagging in plain text.
-    \ This memo provides information for the Internet community.</p>"
+    This memo provides information for the Internet community.</p>"
   language:
   - en
   script:

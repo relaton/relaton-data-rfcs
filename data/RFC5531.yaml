@@ -66,8 +66,8 @@ script:
 - Latn
 abstract:
 - content: "<p>This document describes the Open Network Computing (ONC) Remote Procedure
-    Call (RPC) version 2 protocol as it is currently deployed and accepted.  This
-    document obsoletes RFC 1831. [STANDARDS-TRACK]</p>"
+    Call (RPC) version 2 protocol as it is currently deployed and accepted. This document
+    obsoletes RFC 1831. [STANDARDS-TRACK]</p>"
   language:
   - en
   script:

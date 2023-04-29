@@ -71,7 +71,7 @@ script:
 - Latn
 abstract:
 - content: <p>This RFC proposes an Interagency Research Internet as the natural outgrowth
-    of the current Internet.  This is an "idea paper" and discussion is strongly encouraged.</p>
+    of the current Internet. This is an "idea paper" and discussion is strongly encouraged.</p>
   language:
   - en
   script:

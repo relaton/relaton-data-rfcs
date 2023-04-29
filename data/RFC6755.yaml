@@ -95,7 +95,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This document establishes an IETF URN Sub-namespace for use with OAuth-related
-    specifications.  This document is not an Internet Standards Track specification;
+    specifications. This document is not an Internet Standards Track specification;
     it is published for informational purposes.</p>"
   language:
   - en

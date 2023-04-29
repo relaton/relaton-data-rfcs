@@ -849,7 +849,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This document represents a summary of Authentication, Authorization,
-    Accounting (AAA) protocol requirements for network access.  This memo provides
+    Accounting (AAA) protocol requirements for network access. This memo provides
     information for the Internet community.</p>"
   language:
   - en

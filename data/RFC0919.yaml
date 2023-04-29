@@ -72,7 +72,7 @@ script:
 abstract:
 - content: "<p>This RFC proposes simple rules for broadcasting Internet datagrams
     on local networks that support broadcast, for addressing broadcasts, and for how
-    gateways should handle them.  This RFC suggests a proposed protocol for the ARPA-Internet
+    gateways should handle them. This RFC suggests a proposed protocol for the ARPA-Internet
     community, and requests discussion and suggestions for improvements.</p>"
   language:
   - en

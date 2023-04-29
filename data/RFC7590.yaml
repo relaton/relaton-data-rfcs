@@ -96,7 +96,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This document provides recommendations for the use of Transport Layer
-    Security (TLS) in the Extensible Messaging and Presence Protocol (XMPP).  This
+    Security (TLS) in the Extensible Messaging and Presence Protocol (XMPP). This
     document updates RFC 6120.</p>"
   language:
   - en

@@ -96,7 +96,7 @@ script:
 abstract:
 - content: "<p>This document specifies a registration mechanism for the Host Identity
     Protocol (HIP) that allows hosts to register with services, such as HIP rendezvous
-    servers or middleboxes.  This document obsoletes RFC 5203.</p>"
+    servers or middleboxes. This document obsoletes RFC 5203.</p>"
   language:
   - en
   script:

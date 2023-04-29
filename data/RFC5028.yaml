@@ -67,7 +67,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This document registers a Telephone Number Mapping (ENUM) service for
-    Instant Messaging (IM).  Specifically, this document focuses on provisioning 'im:'
+    Instant Messaging (IM). Specifically, this document focuses on provisioning 'im:'
     URIs (Uniform Resource Identifiers) in ENUM. [STANDARDS-TRACK]</p>"
   language:
   - en

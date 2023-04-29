@@ -66,8 +66,8 @@ script:
 - Latn
 abstract:
 - content: "<p>This document reclassifies RFC 3525, Gateway Control Protocol Version
-    1, to Historic Status.  This memo also obsoletes RFC 3525.  This memo provides
-    information for the Internet community.</p>"
+    1, to Historic Status. This memo also obsoletes RFC 3525. This memo provides information
+    for the Internet community.</p>"
   language:
   - en
   script:

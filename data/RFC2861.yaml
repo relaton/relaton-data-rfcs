@@ -126,7 +126,7 @@ abstract:
 - content: "<p>This document describes a simple modification to TCP's congestion control
     algorithms to decay the congestion window cwnd after the transition from a sufficiently-long
     application-limited period, while using the slow-start threshold ssthresh to save
-    information about the previous value of the congestion window.  This memo defines
+    information about the previous value of the congestion window. This memo defines
     an Experimental Protocol for the Internet community.</p>"
   language:
   - en

@@ -154,7 +154,7 @@ script:
 abstract:
 - content: "<p>This document describes the fundamental requirements of an access control
     list (ACL) model for the Lightweight Directory Application Protocol (LDAP) directory
-    service.  This memo provides information for the Internet community.</p>"
+    service. This memo provides information for the Internet community.</p>"
   language:
   - en
   script:

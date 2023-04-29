@@ -95,8 +95,8 @@ script:
 - Latn
 abstract:
 - content: "<p>This memo correctly describes the incremental update procedure for
-    use with the standard Internet checksum.  It is intended to replace the description
-    of Incremental Update in RFC 1071.  This is not a standard but rather, an implementation
+    use with the standard Internet checksum. It is intended to replace the description
+    of Incremental Update in RFC 1071. This is not a standard but rather, an implementation
     technique.</p>"
   language:
   - en

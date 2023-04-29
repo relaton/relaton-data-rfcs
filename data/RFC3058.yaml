@@ -125,7 +125,7 @@ script:
 abstract:
 - content: "<p>This memo specifies how to incorporate International Data Encryption
     Algorithm (IDEA) into CMS or S/MIME as an additional strong algorithm for symmetric
-    encryption.  This memo provides information for the Internet community.</p>"
+    encryption. This memo provides information for the Internet community.</p>"
   language:
   - en
   script:

@@ -94,9 +94,9 @@ language:
 script:
 - Latn
 abstract:
-- content: "<p>This memo is the successor to RFC 2313.  This document provides recommendations
+- content: "<p>This memo is the successor to RFC 2313. This document provides recommendations
     for the implementation of public-key cryptography based on the RSA algorithm.
-    \ This memo provides information for the Internet community.</p>"
+    This memo provides information for the Internet community.</p>"
   language:
   - en
   script:

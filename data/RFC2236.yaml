@@ -66,7 +66,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This memo documents IGMPv2, used by IP hosts to report their multicast
-    group memberships to routers.  It updates STD 5, RFC 1112. [STANDARDS-TRACK]</p>"
+    group memberships to routers. It updates STD 5, RFC 1112. [STANDARDS-TRACK]</p>"
   language:
   - en
   script:

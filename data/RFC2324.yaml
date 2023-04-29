@@ -66,8 +66,8 @@ script:
 - Latn
 abstract:
 - content: "<p>This document describes HTCPCP, a protocol for controlling, monitoring,
-    and diagnosing coffee pots.  This memo provides information for the Internet community.
-    \ It does not specify an Internet standard of any kind.</p>"
+    and diagnosing coffee pots. This memo provides information for the Internet community.
+    It does not specify an Internet standard of any kind.</p>"
   language:
   - en
   script:

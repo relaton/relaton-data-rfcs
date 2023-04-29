@@ -96,7 +96,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This document describes the registration of the MIME sub-type audio/32KADPCM
-    Adaptive Differential Pulse Code Modulation for toll quality audio.  This audio
+    Adaptive Differential Pulse Code Modulation for toll quality audio. This audio
     encoding is defined by the ITU-T in Recommendation G.726. [STANDARDS-TRACK]</p>"
   language:
   - en

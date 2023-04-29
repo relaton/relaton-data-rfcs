@@ -69,9 +69,9 @@ abstract:
 - content: <p>This document describes an Extensible Provisioning Protocol (EPP) extension
     mapping for the management of Domain Name System (DNS) domain names subject to
     "grace period" policies defined by the Internet Corporation for Assigned Names
-    and Numbers (ICANN).  Grace period policies exist to allow protocol actions to
+    and Numbers (ICANN). Grace period policies exist to allow protocol actions to
     be reversed or otherwise revoked during a short period of time after the protocol
-    action has been performed.  Specified in XML, this mapping extends the EPP domain
+    action has been performed. Specified in XML, this mapping extends the EPP domain
     name mapping to provide additional features required for grace period processing.
     [STANDARDS-TRACK]</p>
   language:

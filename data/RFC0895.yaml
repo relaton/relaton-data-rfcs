@@ -67,7 +67,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This RFC specifies a standard method of encapsulating Internet Protocol
-    (IP) datagrams on an Experimental Ethernet.  This RFC specifies a standard protocol
+    (IP) datagrams on an Experimental Ethernet. This RFC specifies a standard protocol
     for the ARPA Internet community.</p>"
   language:
   - en

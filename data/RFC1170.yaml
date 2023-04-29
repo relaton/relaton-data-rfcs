@@ -71,7 +71,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This RFC is a public statement by Public Key Partners regarding Public
-    Key Standards and Licenses.  This memo is for informational use only, and does
+    Key Standards and Licenses. This memo is for informational use only, and does
     not constitute an Internet standard.</p>"
   language:
   - en

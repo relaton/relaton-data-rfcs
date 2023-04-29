@@ -66,8 +66,8 @@ script:
 - Latn
 abstract:
 - content: "<p>There are three fundamental models of client/server email: offline,
-    online, and disconnected use.  IMAP4 can be used in any one of these three models.
-    \ This memo provides information for the Internet community.  This memo does not
+    online, and disconnected use. IMAP4 can be used in any one of these three models.
+    This memo provides information for the Internet community. This memo does not
     specify an Internet standard of any kind.</p>"
   language:
   - en

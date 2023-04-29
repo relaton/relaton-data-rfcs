@@ -71,7 +71,7 @@ script:
 - Latn
 abstract:
 - content: <p>This RFC is in response to RFC 1216, "Gigabit Network Economics and
-    Paradigm Shifts".  This memo provides information for the Internet community.  It
+    Paradigm Shifts". This memo provides information for the Internet community. It
     does not specify an Internet standard.</p>
   language:
   - en

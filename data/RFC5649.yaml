@@ -95,9 +95,9 @@ script:
 - Latn
 abstract:
 - content: "<p>This document specifies a padding convention for use with the AES Key
-    Wrap algorithm specified in RFC 3394.  This convention eliminates the requirement
+    Wrap algorithm specified in RFC 3394. This convention eliminates the requirement
     that the length of the key to be wrapped be a multiple of 64 bits, allowing a
-    key of any practical length to be wrapped.  This memo provides information for
+    key of any practical length to be wrapped. This memo provides information for
     the Internet community.</p>"
   language:
   - en

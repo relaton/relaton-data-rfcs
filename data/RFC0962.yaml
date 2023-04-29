@@ -72,7 +72,7 @@ script:
 abstract:
 - content: "<p>This memo is in response to Bob Braden's call for a transaction oriented
     protocol (RFC-955), and continues the discussion of a possible transaction oriented
-    transport protocol.  This memo does not propose a standard.</p>"
+    transport protocol. This memo does not propose a standard.</p>"
   language:
   - en
   script:

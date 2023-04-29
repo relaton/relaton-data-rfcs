@@ -95,8 +95,8 @@ script:
 - Latn
 abstract:
 - content: "<p>This memo documents a mechanism for supporting Version 4 of the Internet
-    Protocol (IPv4) on Version 1 of the Multiple Access Protocol over SONET/SDH.  This
-    memo provides information for the Internet community.  This memo does not specify
+    Protocol (IPv4) on Version 1 of the Multiple Access Protocol over SONET/SDH. This
+    memo provides information for the Internet community. This memo does not specify
     an Internet standard of any kind.</p>"
   language:
   - en

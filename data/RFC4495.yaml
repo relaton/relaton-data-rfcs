@@ -97,8 +97,8 @@ script:
 abstract:
 - content: "<p>This document proposes an extension to the Resource Reservation Protocol
     (RSVPv1) to reduce the guaranteed bandwidth allocated to an existing reservation.
-    \ This mechanism can be used to affect individual reservations, aggregate reservations,
-    or other forms of RSVP tunnels.  This specification is an extension of RFC 2205.
+    This mechanism can be used to affect individual reservations, aggregate reservations,
+    or other forms of RSVP tunnels. This specification is an extension of RFC 2205.
     [STANDARDS-TRACK]</p>"
   language:
   - en

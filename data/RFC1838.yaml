@@ -67,8 +67,8 @@ script:
 - Latn
 abstract:
 - content: "<p>This document defines how to use directory to support the mapping between
-    X.400 O/R Addresses and mailboxes defined in RFC 1327 [2].  This memo defines
-    an Experimental Protocol for the Internet community.</p>"
+    X.400 O/R Addresses and mailboxes defined in RFC 1327 [2]. This memo defines an
+    Experimental Protocol for the Internet community.</p>"
   language:
   - en
   script:

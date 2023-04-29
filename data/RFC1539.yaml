@@ -67,8 +67,8 @@ script:
 - Latn
 abstract:
 - content: "<p>The purpose of this For Your Information (FYI) RFC is to explain to
-    the newcomers how the IETF works.  This memo provides information for the Internet
-    community.  It does not specify an Internet standard. [FYI 17]</p>"
+    the newcomers how the IETF works. This memo provides information for the Internet
+    community. It does not specify an Internet standard. [FYI 17]</p>"
   language:
   - en
   script:

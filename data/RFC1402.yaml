@@ -67,10 +67,10 @@ script:
 - Latn
 abstract:
 - content: "<p>The ultimate goal is to make the route to these sources of information
-    invisible to you.  At present, this is not easy to do.  I will explain some of
-    the techniques that can be used to make these nuggets easier to pick up so that
-    we all can be richer.  This RFC provides information for the Internet community.
-    \ It does not specify an Internet standard.</p>"
+    invisible to you. At present, this is not easy to do. I will explain some of the
+    techniques that can be used to make these nuggets easier to pick up so that we
+    all can be richer. This RFC provides information for the Internet community. It
+    does not specify an Internet standard.</p>"
   language:
   - en
   script:

@@ -183,8 +183,8 @@ script:
 abstract:
 - content: "<p>This document describes a simplified model consisting of abstract objects,
     their attributes, and their operations that is independent of encoding and transport.
-    \ This document also addresses security, internationalization, and directory issues.
-    \ This memo defines an Experimental Protocol for the Internet community.</p>"
+    This document also addresses security, internationalization, and directory issues.
+    This memo defines an Experimental Protocol for the Internet community.</p>"
   language:
   - en
   script:

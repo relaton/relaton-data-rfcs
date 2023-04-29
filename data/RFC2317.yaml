@@ -124,7 +124,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This document describes a way to do IN-ADDR.ARPA delegation on non-octet
-    boundaries for address spaces covering fewer than 256 addresses.  This document
+    boundaries for address spaces covering fewer than 256 addresses. This document
     specifies an Internet Best Current Practices for the Internet Community, and requests
     discussion and suggestions for improvements.</p>"
   language:

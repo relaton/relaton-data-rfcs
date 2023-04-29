@@ -124,9 +124,8 @@ script:
 - Latn
 abstract:
 - content: "<p>This memo describes five types of SNMP applications which make use
-    of an SNMP engine.  This memo also defines MIB modules for specifying targets
-    of management operations, for notification filtering, and for proxy fowarding.
-    [STANDARDS-TRACK]</p>"
+    of an SNMP engine. This memo also defines MIB modules for specifying targets of
+    management operations, for notification filtering, and for proxy fowarding. [STANDARDS-TRACK]</p>"
   language:
   - en
   script:

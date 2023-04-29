@@ -95,7 +95,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This document specifies version 6 of the Internet Protocol (IPv6).
-    \ It obsoletes RFC 2460.</p>"
+    It obsoletes RFC 2460.</p>"
   language:
   - en
   script:

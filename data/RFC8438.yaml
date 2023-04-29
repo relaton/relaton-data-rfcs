@@ -66,7 +66,7 @@ script:
 - Latn
 abstract:
 - content: <p>This document adds a new capability called "STATUS=SIZE" to the Internet
-    Message Access Protocol (IMAP).  It allows retrieving the total storage size of
+    Message Access Protocol (IMAP). It allows retrieving the total storage size of
     a mailbox with a single STATUS command rather than retrieving and summing the
     sizes of all individual messages in that mailbox.</p>
   language:

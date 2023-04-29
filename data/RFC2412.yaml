@@ -66,8 +66,8 @@ script:
 - Latn
 abstract:
 - content: "<p>This document describes a protocol, named OAKLEY, by which two authenticated
-    parties can agree on secure and secret keying material.  The basic mechanism is
-    the Diffie-Hellman key exchange algorithm.  This memo provides information for
+    parties can agree on secure and secret keying material. The basic mechanism is
+    the Diffie-Hellman key exchange algorithm. This memo provides information for
     the Internet community.</p>"
   language:
   - en

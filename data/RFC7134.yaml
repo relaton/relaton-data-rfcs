@@ -67,9 +67,9 @@ script:
 - Latn
 abstract:
 - content: <p>RFC 4412 defines the "Resource-Priority Namespaces" and "Resource-Priority
-    Priority-values" registries.  The management policy of these registries is "Standards
-    Action".  This document normatively updates RFC 4412 to change the management
-    policy of these registries to "IETF Review".</p>
+    Priority-values" registries. The management policy of these registries is "Standards
+    Action". This document normatively updates RFC 4412 to change the management policy
+    of these registries to "IETF Review".</p>
   language:
   - en
   script:

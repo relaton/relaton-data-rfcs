@@ -182,7 +182,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This document defines OSPF extensions to include information associated
-    with the node originating a prefix along with the prefix advertisement.  These
+    with the node originating a prefix along with the prefix advertisement. These
     extensions do not change the core OSPF route computation functionality but provide
     useful information for network analysis, troubleshooting, and use cases like traffic
     engineering.</p>"

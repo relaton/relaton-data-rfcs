@@ -82,8 +82,8 @@ script:
 - Latn
 abstract:
 - content: "<p>The DNS root name service is a critical part of the Internet architecture.
-    \ The protocol and deployment requirements for the DNS root name service are defined
-    in this document.  Operational requirements are out of scope.</p>"
+    The protocol and deployment requirements for the DNS root name service are defined
+    in this document. Operational requirements are out of scope.</p>"
   language:
   - en
   script:

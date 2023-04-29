@@ -67,7 +67,7 @@ script:
 abstract:
 - content: "<p>This document describes a method for invoking and running the Network
     Configuration Protocol (NETCONF) within a Secure Shell (SSH) session as an SSH
-    subsystem.  This document obsoletes RFC 4742. [STANDARDS-TRACK]</p>"
+    subsystem. This document obsoletes RFC 4742. [STANDARDS-TRACK]</p>"
   language:
   - en
   script:

@@ -67,9 +67,8 @@ script:
 abstract:
 - content: "<p>This document specifies an extension to the Lightweight Directory Access
     Protocol (LDAP) to allow the client to read the target entry of an update operation.
-    \ The client may request to read the entry before and/or after the modifications
-    are applied.  These reads are done as an atomic part of the update operation.
-    [STANDARDS-TRACK]</p>"
+    The client may request to read the entry before and/or after the modifications
+    are applied. These reads are done as an atomic part of the update operation. [STANDARDS-TRACK]</p>"
   language:
   - en
   script:

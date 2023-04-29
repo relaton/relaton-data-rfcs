@@ -96,8 +96,8 @@ script:
 - Latn
 abstract:
 - content: "<p>This document updates RFC 3280 by defining the Authority Information
-    Access Certificate Revocation List (CRL) extension.  RFC 3280 defines the Authority
-    Information Access certificate extension using the same syntax.  The CRL extension
+    Access Certificate Revocation List (CRL) extension. RFC 3280 defines the Authority
+    Information Access certificate extension using the same syntax. The CRL extension
     provides a means of discovering and retrieving CRL issuer certificates. [STANDARDS-TRACK]</p>"
   language:
   - en

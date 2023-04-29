@@ -154,7 +154,7 @@ script:
 abstract:
 - content: "<p>This document specifies a set of cipher suites for the Transport Layer
     Security (TLS) protocol to support the ARIA encryption algorithm as a block cipher.
-    \ This document is not an Internet Standards Track specification; it is published
+    This document is not an Internet Standards Track specification; it is published
     for informational purposes.</p>"
   language:
   - en

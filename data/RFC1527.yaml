@@ -66,11 +66,11 @@ script:
 - Latn
 abstract:
 - content: "<p>The Internet community needs to be asking what the most important policy
-    issues facing the network are.  And given agreement on any particular set of policy
+    issues facing the network are. And given agreement on any particular set of policy
     issues, the next thing we should be asking is, what would be some of the political
     choices that would follow for Congress to make? This memo is a shortened version
-    of the suggested policy draft.  This memo provides information for the Internet
-    community.  It does not specify an Internet standard.</p>"
+    of the suggested policy draft. This memo provides information for the Internet
+    community. It does not specify an Internet standard.</p>"
   language:
   - en
   script:

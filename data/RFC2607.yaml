@@ -95,7 +95,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This document describes how proxy chaining and policy implementation
-    can be supported in roaming systems.  This memo provides information for the Internet
+    can be supported in roaming systems. This memo provides information for the Internet
     community.</p>"
   language:
   - en

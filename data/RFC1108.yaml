@@ -65,9 +65,9 @@ language:
 script:
 - Latn
 abstract:
-- content: <p>This RFC specifies the U.S.  Department of Defense Basic Security Option
+- content: <p>This RFC specifies the U.S. Department of Defense Basic Security Option
     and the top-level description of the Extended Security Option for use with the
-    Internet Protocol.  This RFC obsoletes RFC 1038, "Revised IP Security Option",
+    Internet Protocol. This RFC obsoletes RFC 1038, "Revised IP Security Option",
     dated January 1988. [STANDARDS-TRACK]</p>
   language:
   - en

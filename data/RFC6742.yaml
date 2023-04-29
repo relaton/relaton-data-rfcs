@@ -124,9 +124,9 @@ script:
 - Latn
 abstract:
 - content: "<p>This note describes additional optional resource records for use with
-    the Domain Name System (DNS).  These optional resource records are for use with
-    the Identifier-Locator Network Protocol (ILNP).  This document is a product of
-    the IRTF Routing Research Group.  This document defines an Experimental Protocol
+    the Domain Name System (DNS). These optional resource records are for use with
+    the Identifier-Locator Network Protocol (ILNP). This document is a product of
+    the IRTF Routing Research Group. This document defines an Experimental Protocol
     for the Internet community.</p>"
   language:
   - en

@@ -68,8 +68,8 @@ script:
 abstract:
 - content: <p>This document provides guidance on when it is advisable to implement
     some form of Label Distribution Protocol (LDP) restart mechanism and which approach
-    might be more suitable.  The issues and extensions described in this document
-    are equally applicable to RFC 3212, "Constraint-Based LSP Setup Using LDP".</p>
+    might be more suitable. The issues and extensions described in this document are
+    equally applicable to RFC 3212, "Constraint-Based LSP Setup Using LDP".</p>
   language:
   - en
   script:

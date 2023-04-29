@@ -96,7 +96,7 @@ script:
 - Latn
 abstract:
 - content: "<p>Web Distributed Authoring and Versioning (WebDAV) servers are frequently
-    deployed with quota (size) limitations.  This document discusses the properties
+    deployed with quota (size) limitations. This document discusses the properties
     and minor behaviors needed for clients to interoperate with quota (size) implementations
     on WebDAV repositories. [STANDARDS-TRACK]</p>"
   language:

@@ -124,7 +124,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This document describes Information Elements related to the data link
-    layer.  They are used by the IP Flow Information Export (IPFIX) protocol for encoding
+    layer. They are used by the IP Flow Information Export (IPFIX) protocol for encoding
     measured data link layer traffic information.</p>"
   language:
   - en

@@ -96,7 +96,7 @@ script:
 abstract:
 - content: "<p>This document describes the requirements for the logical entity known
     as the Session Initiation Protocol (SIP)-H.323 Interworking Function (SIP-H.323
-    IWF) that will allow the interworking between SIP and H.323.  This memo provides
+    IWF) that will allow the interworking between SIP and H.323. This memo provides
     information for the Internet community.</p>"
   language:
   - en

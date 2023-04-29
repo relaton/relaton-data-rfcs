@@ -124,7 +124,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This document specifies two encryption types and two corresponding
-    checksum types for Kerberos 5.  The new types use AES in CTS mode (CBC mode with
+    checksum types for Kerberos 5. The new types use AES in CTS mode (CBC mode with
     ciphertext stealing) for confidentiality and HMAC with a SHA-2 hash for integrity.</p>"
   language:
   - en

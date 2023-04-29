@@ -70,10 +70,10 @@ language:
 script:
 - Latn
 abstract:
-- content: "<p>This memo suggests a new procedure for assigning subnet numbers.  Use
+- content: "<p>This memo suggests a new procedure for assigning subnet numbers. Use
     of this assignment technique within a network would be a purely local matter,
-    and would not effect other networks.  This memo provides information for the Internet
-    community.  It does not specify an Internet standard.</p>"
+    and would not effect other networks. This memo provides information for the Internet
+    community. It does not specify an Internet standard.</p>"
   language:
   - en
   script:

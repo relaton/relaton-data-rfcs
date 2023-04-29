@@ -126,7 +126,7 @@ script:
 abstract:
 - content: "<p>Over the last few years, there have been several serious attacks on
     Transport Layer Security (TLS), including attacks on its most commonly used ciphers
-    and modes of operation.  This document summarizes these attacks, with the goal
+    and modes of operation. This document summarizes these attacks, with the goal
     of motivating generic and protocol-specific recommendations on the usage of TLS
     and Datagram TLS (DTLS).</p>"
   language:

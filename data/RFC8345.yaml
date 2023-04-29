@@ -211,7 +211,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This document defines an abstract (generic, or base) YANG data model
-    for network/service topologies and inventories.  The data model serves as a base
+    for network/service topologies and inventories. The data model serves as a base
     model that is augmented with technology-specific details in other, more specific
     topology and inventory data models.</p>"
   language:

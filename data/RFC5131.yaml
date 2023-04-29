@@ -66,7 +66,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This MIB module defines a textual convention to represent BCP 47 language
-    tags.  The intent is that this textual convention will be imported and used in
+    tags. The intent is that this textual convention will be imported and used in
     MIB modules that would otherwise define their own representation. [STANDARDS-TRACK]</p>"
   language:
   - en

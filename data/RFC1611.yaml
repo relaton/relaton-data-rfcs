@@ -95,8 +95,8 @@ script:
 - Latn
 abstract:
 - content: "<p>This memo defines a portion of the Management Information Base (MIB)
-    for use with network management protocols in the Internet community.  In particular,
-    it describes a set of extensions which instrument DNS name server functions.  This
+    for use with network management protocols in the Internet community. In particular,
+    it describes a set of extensions which instrument DNS name server functions. This
     memo was produced by the DNS working group. [STANDARDS-TRACK]</p>"
   language:
   - en

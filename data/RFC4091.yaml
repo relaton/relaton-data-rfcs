@@ -96,8 +96,8 @@ script:
 - Latn
 abstract:
 - content: "<p>This document defines the Alternative Network Address Types (ANAT)
-    semantics for the Session Description Protocol (SDP) grouping framework.  The
-    ANAT semantics allow alternative types of network addresses to establish a particular
+    semantics for the Session Description Protocol (SDP) grouping framework. The ANAT
+    semantics allow alternative types of network addresses to establish a particular
     media stream. [STANDARDS-TRACK]</p>"
   language:
   - en

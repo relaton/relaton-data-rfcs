@@ -124,7 +124,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This document defines the Ogg encapsulation for the Opus interactive
-    speech and audio codec.  This allows data encoded in the Opus format to be stored
+    speech and audio codec. This allows data encoded in the Opus format to be stored
     in an Ogg logical bitstream.</p>"
   language:
   - en

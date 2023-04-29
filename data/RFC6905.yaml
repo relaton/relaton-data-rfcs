@@ -184,7 +184,7 @@ script:
 abstract:
 - content: "<p>Operations, Administration, and Maintenance (OAM) is a general term
     used to identify functions and toolsets to troubleshoot and monitor networks.
-    \ This document presents OAM requirements applicable to the Transparent Interconnection
+    This document presents OAM requirements applicable to the Transparent Interconnection
     of Lots of Links (TRILL).</p>"
   language:
   - en

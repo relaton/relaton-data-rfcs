@@ -96,7 +96,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This document updates the security considerations for the MD5 message
-    digest algorithm.  It also updates the security considerations for HMAC-MD5.  This
+    digest algorithm. It also updates the security considerations for HMAC-MD5. This
     document is not an Internet Standards Track specification; it is published for
     informational purposes.</p>"
   language:

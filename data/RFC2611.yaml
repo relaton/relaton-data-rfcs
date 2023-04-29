@@ -153,8 +153,8 @@ script:
 - Latn
 abstract:
 - content: <p>This document lays out general definitions of and mechanisms for establishing
-    URN "namespaces".  This document specifies an Internet Best Current Practices
-    for the Internet Community, and requests discussion and suggestions for improvements.</p>
+    URN "namespaces". This document specifies an Internet Best Current Practices for
+    the Internet Community, and requests discussion and suggestions for improvements.</p>
   language:
   - en
   script:

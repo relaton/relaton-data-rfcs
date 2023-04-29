@@ -125,8 +125,8 @@ script:
 - Latn
 abstract:
 - content: "<p>This memo describes how many vendors have solved the Generic Routing
-    Encapsulation (GRE) fragmentation problem.  The solution described herein is configurable.
-    \ It is widely deployed on the Internet in its default configuration.</p>"
+    Encapsulation (GRE) fragmentation problem. The solution described herein is configurable.
+    It is widely deployed on the Internet in its default configuration.</p>"
   language:
   - en
   script:

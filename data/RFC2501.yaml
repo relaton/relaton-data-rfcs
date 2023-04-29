@@ -97,9 +97,9 @@ script:
 abstract:
 - content: "<p>This memo first describes the characteristics of Mobile Ad hoc Networks
     (MANETs), and their idiosyncrasies with respect to traditional, hardwired packet
-    networks.  It then discusses the effect these differences have on the design and
+    networks. It then discusses the effect these differences have on the design and
     evaluation of network control protocols with an emphasis on routing performance
-    evaluation considerations.  This memo provides information for the Internet community.</p>"
+    evaluation considerations. This memo provides information for the Internet community.</p>"
   language:
   - en
   script:

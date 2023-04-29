@@ -66,8 +66,8 @@ script:
 - Latn
 abstract:
 - content: "<p>In this document, the Sakai-Kasahara Key Encryption (SAKKE) algorithm
-    is described.  This uses Identity-Based Encryption to exchange a shared secret
-    from a Sender to a Receiver.  This document is not an Internet Standards Track
+    is described. This uses Identity-Based Encryption to exchange a shared secret
+    from a Sender to a Receiver. This document is not an Internet Standards Track
     specification; it is published for informational purposes.</p>"
   language:
   - en

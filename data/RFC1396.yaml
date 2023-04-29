@@ -66,8 +66,8 @@ script:
 - Latn
 abstract:
 - content: "<p>This report provides a summary of the POISED Working Group (WG), starting
-    from the events leading to the formation of the WG to the end of 1992.  This memo
-    provides information for the Internet community.  It does not specify an Internet
+    from the events leading to the formation of the WG to the end of 1992. This memo
+    provides information for the Internet community. It does not specify an Internet
     standard.</p>"
   language:
   - en

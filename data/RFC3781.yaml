@@ -97,10 +97,10 @@ script:
 abstract:
 - content: "<p>SMIng (Structure of Management Information, Next Generation) (RFC3780),
     is a protocol-independent data definition language for management information.
-    \ This memo defines an SMIng language extension that specifies the mapping of
-    SMIng definitions of identities, classes, and their attributes and events to dedicated
+    This memo defines an SMIng language extension that specifies the mapping of SMIng
+    definitions of identities, classes, and their attributes and events to dedicated
     definitions of nodes, scalar objects, tables and columnar objects, and notifications,
-    for application to the SNMP management framework.  This memo defines an Experimental
+    for application to the SNMP management framework. This memo defines an Experimental
     Protocol for the Internet community.</p>"
   language:
   - en

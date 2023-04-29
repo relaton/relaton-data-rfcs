@@ -100,7 +100,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This RFC documents the list of numbers assigned for networks, protocols,
-    etc.  Obsoletes RFCs 820, 790, 776, 770, 762, 758, 755, 750, 739, 604.</p>"
+    etc. Obsoletes RFCs 820, 790, 776, 770, 762, 758, 755, 750, 739, 604.</p>"
   language:
   - en
   script:

@@ -126,7 +126,7 @@ script:
 abstract:
 - content: "<p>This document discusses some considerations on the applicability of
     the level 3 multihoming Shim protocol for IPv6 (Shim6) and associated support
-    protocols and mechanisms to provide site multihoming capabilities in IPv6.  This
+    protocols and mechanisms to provide site multihoming capabilities in IPv6. This
     document is not an Internet Standards Track specification; it is published for
     informational purposes.</p>"
   language:

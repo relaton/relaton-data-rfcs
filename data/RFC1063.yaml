@@ -163,8 +163,8 @@ script:
 - Latn
 abstract:
 - content: "<p>A pair of IP options that can be used to learn the minimum MTU of a
-    path through an internet is described, along with its possible uses.  This is
-    a proposal for an Experimental protocol.</p>"
+    path through an internet is described, along with its possible uses. This is a
+    proposal for an Experimental protocol.</p>"
   language:
   - en
   script:

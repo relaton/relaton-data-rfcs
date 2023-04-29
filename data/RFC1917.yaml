@@ -67,10 +67,10 @@ script:
 - Latn
 abstract:
 - content: "<p>This document is an appeal to the Internet community to return unused
-    address space, i.e.  any block of consecutive IP prefixes, to the Internet Assigned
+    address space, i.e. any block of consecutive IP prefixes, to the Internet Assigned
     Numbers Authority (IANA) or any of the delegated registries, for reapportionment.
-    \ This document specifies an Internet Best Current Practices for the Internet
-    Community, and requests discussion and suggestions for improvements.</p>"
+    This document specifies an Internet Best Current Practices for the Internet Community,
+    and requests discussion and suggestions for improvements.</p>"
   language:
   - en
   script:

@@ -102,8 +102,8 @@ script:
 abstract:
 - content: "<p>The purpose of this RFC is to provide helpful information on the Military
     Standard Transmission Control Protocol (MIL-STD-1778) so that one can obtain a
-    reliable implementation of this protocol standard.  This note points out three
-    errors with this specification.  This note also proposes solutions to these problems.</p>"
+    reliable implementation of this protocol standard. This note points out three
+    errors with this specification. This note also proposes solutions to these problems.</p>"
   language:
   - en
   script:

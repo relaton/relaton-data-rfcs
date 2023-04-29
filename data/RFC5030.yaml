@@ -154,8 +154,8 @@ script:
 abstract:
 - content: "<p>This document provides an applicability statement as well as a scope
     definition for specifying Remote Authentication Dial-In User Service (RADIUS)
-    extensions to support Mobile IPv4.  The goal is to allow specification of RADIUS
-    attributes to assist the Mobile IPv4 signaling procedures.  This memo provides
+    extensions to support Mobile IPv4. The goal is to allow specification of RADIUS
+    attributes to assist the Mobile IPv4 signaling procedures. This memo provides
     information for the Internet community.</p>"
   language:
   - en

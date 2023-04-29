@@ -124,7 +124,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This document describes the collaboration process between the ITU-T
-    and ISOC/IETF.  This memo provides information for the Internet community.</p>"
+    and ISOC/IETF. This memo provides information for the Internet community.</p>"
   language:
   - en
   script:

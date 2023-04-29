@@ -125,9 +125,9 @@ script:
 abstract:
 - content: "<p>In this document, we enhance the existing BGP route refresh mechanisms
     to provide for the demarcation of the beginning and the ending of a route refresh.
-    \ The enhancement can be used to facilitate correction of BGP Routing Information
-    Base (RIB) inconsistencies in a non-disruptive manner.  This document updates
-    RFC 2918.</p>"
+    The enhancement can be used to facilitate correction of BGP Routing Information
+    Base (RIB) inconsistencies in a non-disruptive manner. This document updates RFC
+    2918.</p>"
   language:
   - en
   script:

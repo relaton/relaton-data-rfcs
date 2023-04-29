@@ -70,7 +70,7 @@ language:
 script:
 - Latn
 abstract:
-- content: "<p>An earlier poll of Telnet server implementation status.  Updates RFCs
+- content: "<p>An earlier poll of Telnet server implementation status. Updates RFCs
     701, 702 and 669; see also RFC 703.</p>"
   language:
   - en

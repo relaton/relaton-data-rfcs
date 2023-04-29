@@ -96,7 +96,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This document specifies encoding of extensions to the IS-IS routing
-    protocol in support of Generalized Multi-Protocol Label Switching (GMPLS).  This
+    protocol in support of Generalized Multi-Protocol Label Switching (GMPLS). This
     memo provides information for the Internet community.</p>"
   language:
   - en

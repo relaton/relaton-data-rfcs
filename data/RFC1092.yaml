@@ -66,7 +66,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This memo discusses implementation decisions for routing issues in
-    the NSFNET, especially in the NSFNET Backbone.  Of special concern is the restriction
+    the NSFNET, especially in the NSFNET Backbone. Of special concern is the restriction
     of routing information to advertize the best route as established by a policy
     decision.</p>"
   language:

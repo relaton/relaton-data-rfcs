@@ -66,8 +66,8 @@ script:
 - Latn
 abstract:
 - content: "<p>This memo suggests a schedule for the implementation of the IP network
-    number allocation plan described in RFC 1366.  This memo provides information
-    for the Internet community.  It does not specify an Internet standard.</p>"
+    number allocation plan described in RFC 1366. This memo provides information for
+    the Internet community. It does not specify an Internet standard.</p>"
   language:
   - en
   script:

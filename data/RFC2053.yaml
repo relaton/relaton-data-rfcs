@@ -66,7 +66,7 @@ script:
 - Latn
 abstract:
 - content: "<p>The AM Domain is an official Internet top-level domain of Armenia.
-    \ This memo provides information for the Internet community.  This memo does not
+    This memo provides information for the Internet community. This memo does not
     specify an Internet standard of any kind.</p>"
   language:
   - en

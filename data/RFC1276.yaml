@@ -72,7 +72,7 @@ script:
 - Latn
 abstract:
 - content: "<p>Some requirements on extensions to X.500 are described in the RFC[HK91b],
-    in order to build an Internet Directory using X.500(1988).  This document specifies
+    in order to build an Internet Directory using X.500(1988). This document specifies
     a set of solutions to the problems raised. [STANDARDS-TRACK]</p>"
   language:
   - en

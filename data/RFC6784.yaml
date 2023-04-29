@@ -95,7 +95,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This document defines four new options for the Dynamic Host Configuration
-    Protocol for IPv6 (DHCPv6).  These options are used to carry configuration information
+    Protocol for IPv6 (DHCPv6). These options are used to carry configuration information
     for Kerberos. [STANDARDS-TRACK]</p>"
   language:
   - en

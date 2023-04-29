@@ -66,7 +66,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This document describes a message encryption scheme for the Web Push
-    protocol.  This scheme provides confidentiality and integrity for messages sent
+    protocol. This scheme provides confidentiality and integrity for messages sent
     from an application server to a user agent.</p>"
   language:
   - en

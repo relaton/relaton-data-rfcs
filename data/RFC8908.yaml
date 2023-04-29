@@ -95,8 +95,8 @@ script:
 - Latn
 abstract:
 - content: "<p>This document describes an HTTP API that allows clients to interact
-    with a Captive Portal system.  With this API, clients can discover how to get
-    out of captivity and fetch state about their Captive Portal sessions.</p>"
+    with a Captive Portal system. With this API, clients can discover how to get out
+    of captivity and fetch state about their Captive Portal sessions.</p>"
   language:
   - en
   script:

@@ -126,7 +126,7 @@ script:
 abstract:
 - content: <p>This document updates the meaning of the Control Flags field in the
     "Layer2 Info Extended Community" used for BGP Virtual Private LAN Service (VPLS)
-    Network Layer Reachability Information (NLRI) as defined in RFC 4761.  This document
+    Network Layer Reachability Information (NLRI) as defined in RFC 4761. This document
     updates RFC 4761.</p>
   language:
   - en

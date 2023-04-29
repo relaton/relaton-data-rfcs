@@ -66,8 +66,8 @@ script:
 - Latn
 abstract:
 - content: "<p>This document expresses the Internet Society's ideology that the Internet
-    really is for everyone.  However, it will only be such if we make it so.  This
-    memo provides information for the Internet community.</p>"
+    really is for everyone. However, it will only be such if we make it so. This memo
+    provides information for the Internet community.</p>"
   language:
   - en
   script:

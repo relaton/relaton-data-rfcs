@@ -127,7 +127,7 @@ abstract:
 - content: "<p>This memo describes a method for forwarding media access control (MAC)
     frames over Multiple Access Protocol over Synchronous Optical Network/Synchronous
     Digital Hierarchy (MAPOS), thus providing a way to unify MAPOS network environment
-    and MAC-based Local Area Network (LAN) environment.  This memo provides information
+    and MAC-based Local Area Network (LAN) environment. This memo provides information
     for the Internet community.</p>"
   language:
   - en

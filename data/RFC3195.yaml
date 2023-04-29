@@ -95,7 +95,7 @@ script:
 - Latn
 abstract:
 - content: "<p>The BSD Syslog Protocol describes a number of service options related
-    to propagating event messages.  This memo describes two mappings of the syslog
+    to propagating event messages. This memo describes two mappings of the syslog
     protocol to TCP connections, both useful for reliable delivery of event messages.
     [STANDARDS-TRACK]</p>"
   language:

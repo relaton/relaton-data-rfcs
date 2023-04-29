@@ -125,7 +125,7 @@ script:
 abstract:
 - content: "<p>This memo defines a Management Information Base (MIB) module that contains
     textual conventions (TCs) to represent commonly used pseudowire (PW) management
-    information.  The intent is that these TCs will be imported and used in PW-related
+    information. The intent is that these TCs will be imported and used in PW-related
     MIB modules that would otherwise define their own representations. [STANDARDS-TRACK]</p>"
   language:
   - en

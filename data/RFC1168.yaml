@@ -163,10 +163,10 @@ script:
 - Latn
 abstract:
 - content: "<p>This RFC discusses the history and evolution of the Intermail and Commercial
-    mail systems.  The problems encountered in operating a store-and-forward mail
-    relay between commercial systems such as Telemail, MCI Mail and Dialcom are also
-    discussed.  This RFC provides information for the Internet community, and does
-    not specify any standard.</p>"
+    mail systems. The problems encountered in operating a store-and-forward mail relay
+    between commercial systems such as Telemail, MCI Mail and Dialcom are also discussed.
+    This RFC provides information for the Internet community, and does not specify
+    any standard.</p>"
   language:
   - en
   script:

@@ -95,9 +95,9 @@ script:
 - Latn
 abstract:
 - content: "<p>This Telnet Option provides a way to check the roundtrip path between
-    two Telnet modules.  This RFC specifies a standard for the ARPA Internet community.
-    \ Hosts on the ARPA Internet are expected to adopt and implement this standard.
-    \ Obsoletes NIC 16238.</p>"
+    two Telnet modules. This RFC specifies a standard for the ARPA Internet community.
+    Hosts on the ARPA Internet are expected to adopt and implement this standard.
+    Obsoletes NIC 16238.</p>"
   language:
   - en
   script:

@@ -95,8 +95,8 @@ script:
 - Latn
 abstract:
 - content: "<p>Virtual Network Computing (VNC) software provides remote desktop functionality.
-    \ This document describes a Uniform Resource Identifier (URI) scheme enabling
-    the launch of VNC clients from other applications.  The scheme specifies parameters
+    This document describes a Uniform Resource Identifier (URI) scheme enabling the
+    launch of VNC clients from other applications. The scheme specifies parameters
     useful in securely connecting clients with remote hosts.</p>"
   language:
   - en

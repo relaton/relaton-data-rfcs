@@ -157,7 +157,7 @@ language:
 script:
 - Latn
 abstract:
-- content: "<p>Design changes and slight modifications.  Replaces RFC 607; see also
+- content: "<p>Design changes and slight modifications. Replaces RFC 607; see also
     RFCs 614, 542 and 640.</p>"
   language:
   - en

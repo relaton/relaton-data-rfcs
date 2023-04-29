@@ -153,7 +153,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This document provides information for those wishing to use DHCPv6
-    to support their deployment of IPv6.  In particular, it discusses the provision
+    to support their deployment of IPv6. In particular, it discusses the provision
     of semi-redundant DHCPv6 services.</p>"
   language:
   - en

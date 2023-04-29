@@ -124,10 +124,10 @@ script:
 - Latn
 abstract:
 - content: <p>In the DNS security (DNSSEC) extensions, delegations to unsigned subzones
-    are cryptographically secured.  Maintaining this cryptography is not always practical
-    or necessary.  This document describes an experimental "Opt-In" model that allows
+    are cryptographically secured. Maintaining this cryptography is not always practical
+    or necessary. This document describes an experimental "Opt-In" model that allows
     administrators to omit this cryptography and manage the cost of adopting DNSSEC
-    with large zones.  This memo defines an Experimental Protocol for the Internet
+    with large zones. This memo defines an Experimental Protocol for the Internet
     community.</p>
   language:
   - en

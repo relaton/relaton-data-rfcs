@@ -124,10 +124,10 @@ script:
 - Latn
 abstract:
 - content: "<p>In existing specifications, the route preferences for IPv4/IPv6 Extended
-    Reachability TLVs are not explicitly stated.  There are also inconsistencies in
+    Reachability TLVs are not explicitly stated. There are also inconsistencies in
     the definition of how the up/down bit applies to route preference when the prefix
-    advertisement appears in Level 2 Link State Protocol Data Units (LSPs).  This
-    document addresses these issues.</p>"
+    advertisement appears in Level 2 Link State Protocol Data Units (LSPs). This document
+    addresses these issues.</p>"
   language:
   - en
   script:

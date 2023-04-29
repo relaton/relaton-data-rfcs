@@ -129,7 +129,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This RFC gives a description of what the Hostnames Server is and how
-    to access it.  The function of this particular server is to deliver machine-readable
+    to access it. The function of this particular server is to deliver machine-readable
     name/address information describing networks, gateways, hosts, and eventually
     domains, within the internet environment.</p>"
   language:

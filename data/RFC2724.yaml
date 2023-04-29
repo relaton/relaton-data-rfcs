@@ -154,7 +154,7 @@ script:
 abstract:
 - content: "<p>This document discusses RTFM flows and the attributes which they can
     have, so as to provide a logical framework for extending the architecture by adding
-    new attributes.  This memo defines an Experimental Protocol for the Internet community.</p>"
+    new attributes. This memo defines an Experimental Protocol for the Internet community.</p>"
   language:
   - en
   script:

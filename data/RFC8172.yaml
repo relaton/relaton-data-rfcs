@@ -67,7 +67,7 @@ script:
 abstract:
 - content: "<p>The Benchmarking Methodology Working Group has traditionally conducted
     laboratory characterization of dedicated physical implementations of internetworking
-    functions.  This memo investigates additional considerations when network functions
+    functions. This memo investigates additional considerations when network functions
     are virtualized and performed in general-purpose hardware.</p>"
   language:
   - en

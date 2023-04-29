@@ -65,10 +65,10 @@ language:
 script:
 - Latn
 abstract:
-- content: "<p>This document defines the Device Owner attribute.  It indicates the
+- content: "<p>This document defines the Device Owner attribute. It indicates the
     entity (e.g., company, organization, department, agency) that owns the device.
-    \ This attribute may be included in public key certificates and attribute certificates.
-    \ This document is not an Internet Standards Track specification; it is published
+    This attribute may be included in public key certificates and attribute certificates.
+    This document is not an Internet Standards Track specification; it is published
     for informational purposes.</p>"
   language:
   - en

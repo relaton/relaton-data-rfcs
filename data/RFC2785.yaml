@@ -68,7 +68,7 @@ script:
 abstract:
 - content: "<p>This document will describe the situations relevant to implementations
     of S/MIME version 3 in which protection is necessary and the methods that can
-    be used to prevent these attacks.  This memo provides information for the Internet
+    be used to prevent these attacks. This memo provides information for the Internet
     community.</p>"
   language:
   - en

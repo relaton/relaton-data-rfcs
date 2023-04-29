@@ -96,8 +96,8 @@ script:
 abstract:
 - content: "<p>This memo specifies guidelines for implementors and users of the Open
     Shortest Path First (OSPF) routing protocol to bring about improvements in how
-    the protocol runs over frame relay networks.  This memo provides information for
-    the Internet community.  This memo does not specify an Internet standard of any
+    the protocol runs over frame relay networks. This memo provides information for
+    the Internet community. This memo does not specify an Internet standard of any
     kind.</p>"
   language:
   - en

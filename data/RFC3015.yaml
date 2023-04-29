@@ -211,7 +211,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This document defines the protocol used between elements of a physically
-    decomposed multimedia gateway, i.e.  a Media Gateway and a Media Gateway Controller.
+    decomposed multimedia gateway, i.e. a Media Gateway and a Media Gateway Controller.
     [STANDARDS-TRACK]</p>"
   language:
   - en

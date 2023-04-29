@@ -66,7 +66,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This RFC is a republication of ISO DP 10589 as a service to the Internet
-    community.  This is not an Internet standard.</p>"
+    community. This is not an Internet standard.</p>"
   language:
   - en
   script:

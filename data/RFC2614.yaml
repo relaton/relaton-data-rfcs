@@ -94,7 +94,7 @@ language:
 script:
 - Latn
 abstract:
-- content: "<p>This document describes standardized APIs for SLP in C and Java.  This
+- content: "<p>This document describes standardized APIs for SLP in C and Java. This
     memo provides information for the Internet community.</p>"
   language:
   - en

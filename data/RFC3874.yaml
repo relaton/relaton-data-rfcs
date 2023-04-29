@@ -66,8 +66,8 @@ script:
 - Latn
 abstract:
 - content: "<p>This document specifies a 224-bit one-way hash function, called SHA-224.
-    \ SHA-224 is based on SHA-256, but it uses a different initial value and the result
-    is truncated to 224 bits.  This memo provides information for the Internet community.</p>"
+    SHA-224 is based on SHA-256, but it uses a different initial value and the result
+    is truncated to 224 bits. This memo provides information for the Internet community.</p>"
   language:
   - en
   script:

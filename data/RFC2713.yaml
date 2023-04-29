@@ -124,7 +124,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This document defines the schema for representing Java(tm) objects
-    in an LDAP directory.  This memo provides information for the Internet community.</p>"
+    in an LDAP directory. This memo provides information for the Internet community.</p>"
   language:
   - en
   script:

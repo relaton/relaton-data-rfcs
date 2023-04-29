@@ -124,7 +124,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This document defines a subset of a Management Information Base (MIB)
-    for energy management of devices.  The module addresses device identification,
+    for energy management of devices. The module addresses device identification,
     context information, and the energy relationships between devices.</p>"
   language:
   - en

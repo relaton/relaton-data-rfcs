@@ -66,8 +66,8 @@ script:
 - Latn
 abstract:
 - content: <p>This document specifies how DNSSEC cryptographic algorithm identifiers
-    in the IANA registries are allocated.  It changes the requirement from "standard
-    required" to "RFC Required".  It does not change the list of algorithms that are
+    in the IANA registries are allocated. It changes the requirement from "standard
+    required" to "RFC Required". It does not change the list of algorithms that are
     recommended or required for DNSSEC implementations. [STANDARDS-TRACK]</p>
   language:
   - en

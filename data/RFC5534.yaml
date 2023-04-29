@@ -95,7 +95,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This document specifies how the level 3 multihoming Shim6 protocol
-    (Shim6) detects failures between two communicating nodes.  It also specifies an
+    (Shim6) detects failures between two communicating nodes. It also specifies an
     exploration protocol for switching to another pair of interfaces and/or addresses
     between the same nodes if a failure occurs and an operational pair can be found.
     [STANDARDS-TRACK]</p>"

@@ -95,7 +95,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This RFC is a slightly annotated list of the 100 RFCs from RFC 700
-    through RFC 799.  This is a status report on these RFCs.</p>"
+    through RFC 799. This is a status report on these RFCs.</p>"
   language:
   - en
   script:

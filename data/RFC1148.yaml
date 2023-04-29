@@ -72,8 +72,8 @@ script:
 abstract:
 - content: "<p>This RFC suggests an electronic mail protocol mapping for the Internet
     community and UK Academic Community, and requests discussion and suggestions for
-    improvements.  This memo does not specify an Internet standard.  This edition
-    includes material lost in editing.</p>"
+    improvements. This memo does not specify an Internet standard. This edition includes
+    material lost in editing.</p>"
   language:
   - en
   script:

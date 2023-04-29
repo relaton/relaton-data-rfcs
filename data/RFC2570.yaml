@@ -154,7 +154,7 @@ script:
 abstract:
 - content: "<p>The purpose of this document is to provide an overview of the third
     version of the Internet-standard Management Framework, termed the SNMP version
-    3 Framework (SNMPv3).  This memo provides information for the Internet community.</p>"
+    3 Framework (SNMPv3). This memo provides information for the Internet community.</p>"
   language:
   - en
   script:

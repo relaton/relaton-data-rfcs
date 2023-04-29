@@ -125,7 +125,7 @@ script:
 abstract:
 - content: "<p>The Babel Routing Protocol does not contain any means to authenticate
     neighbours or provide integrity or confidentiality for messages sent between them.
-    \ This document specifies a mechanism to ensure these properties using Datagram
+    This document specifies a mechanism to ensure these properties using Datagram
     Transport Layer Security (DTLS).</p>"
   language:
   - en

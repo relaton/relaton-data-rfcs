@@ -96,7 +96,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This document proposes a method to manage the dynamic bandwidth allocation
-    of implementations supporting the PPP multilink protocol.  This is done by defining
+    of implementations supporting the PPP multilink protocol. This is done by defining
     the Bandwidth Allocation Protocol (BAP), as well as its associated control protocol,
     the Bandwidth Allocation Control Protocol (BACP). [STANDARDS-TRACK]</p>"
   language:

@@ -67,7 +67,7 @@ script:
 abstract:
 - content: "<p>VLSP provides support for equal-cost multipath routing, and recalculates
     routes quickly in the face of topological changes, utilizing a minimum of routing
-    protocol traffic.  This memo provides information for the Internet community.</p>"
+    protocol traffic. This memo provides information for the Internet community.</p>"
   language:
   - en
   script:

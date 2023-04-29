@@ -124,8 +124,8 @@ script:
 - Latn
 abstract:
 - content: <p>This specification provides a solution to the "Y10K" problem which has
-    also been called the "YAK" problem (hex) and the "YXK" problem (Roman numerals).  This
-    memo provides information for the Internet community.</p>
+    also been called the "YAK" problem (hex) and the "YXK" problem (Roman numerals).
+    This memo provides information for the Internet community.</p>
   language:
   - en
   script:

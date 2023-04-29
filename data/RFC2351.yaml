@@ -66,8 +66,8 @@ script:
 - Latn
 abstract:
 - content: "<p>This memo specifies a protocol for the encapsulation of the airline
-    specific protocol over IP.  This memo provides information for the Internet community.
-    \ It does not specify an Internet standard of any kind.</p>"
+    specific protocol over IP. This memo provides information for the Internet community.
+    It does not specify an Internet standard of any kind.</p>"
   language:
   - en
   script:

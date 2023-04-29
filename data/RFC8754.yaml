@@ -211,7 +211,7 @@ script:
 - Latn
 abstract:
 - content: "<p>Segment Routing can be applied to the IPv6 data plane using a new type
-    of Routing Extension Header called the Segment Routing Header (SRH).  This document
+    of Routing Extension Header called the Segment Routing Header (SRH). This document
     describes the SRH and how it is used by nodes that are Segment Routing (SR) capable.</p>"
   language:
   - en

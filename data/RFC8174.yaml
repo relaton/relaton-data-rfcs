@@ -66,8 +66,8 @@ script:
 - Latn
 abstract:
 - content: "<p>RFC 2119 specifies common key words that may be used in protocol specifications.
-    \ This document aims to reduce the ambiguity by clarifying that only UPPERCASE
-    usage of the key words have the defined special meanings.</p>"
+    This document aims to reduce the ambiguity by clarifying that only UPPERCASE usage
+    of the key words have the defined special meanings.</p>"
   language:
   - en
   script:

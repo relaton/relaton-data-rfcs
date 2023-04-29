@@ -66,7 +66,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This document describes a security model by which tunnel-mode IPsec
-    security can be architected on NAT devices.  This memo provides information for
+    security can be architected on NAT devices. This memo provides information for
     the Internet community.</p>"
   language:
   - en

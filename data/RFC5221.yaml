@@ -153,8 +153,8 @@ script:
 - Latn
 abstract:
 - content: "<p>There are some problematic cases when using the default address selection
-    mechanism that RFC 3484 defines.  This document describes additional requirements
-    that operate with RFC 3484 to solve the problems.  This memo provides information
+    mechanism that RFC 3484 defines. This document describes additional requirements
+    that operate with RFC 3484 to solve the problems. This memo provides information
     for the Internet community.</p>"
   language:
   - en

@@ -68,9 +68,9 @@ script:
 abstract:
 - content: <p>This document describes the Namespace Identifier (NID) "nena" for Uniform
     Resource Name (URN) resources published by the National Emergency Number Association
-    (NENA).  NENA defines and manages resources that utilize this URN model.  Management
+    (NENA). NENA defines and manages resources that utilize this URN model. Management
     activities for these and other resource types are provided by the NENA Registry
-    System (NRS).  This document is not an Internet Standards Track specification;
+    System (NRS). This document is not an Internet Standards Track specification;
     it is published for informational purposes.</p>
   language:
   - en

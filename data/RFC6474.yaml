@@ -95,7 +95,7 @@ script:
 - Latn
 abstract:
 - content: "<p>The base vCard 4.0 specification defines a large number of properties,
-    including date of birth.  This specification adds three new properties to vCard
+    including date of birth. This specification adds three new properties to vCard
     4.0: place of birth, place of death, and date of death. [STANDARDS-TRACK]</p>"
   language:
   - en

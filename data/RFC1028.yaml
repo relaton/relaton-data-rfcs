@@ -163,7 +163,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This memo defines a simple application-layer protocol by which management
-    information for a gateway may be inspected or altered by remote users.  This proposal
+    information for a gateway may be inspected or altered by remote users. This proposal
     is intended only as an interim response to immediate gateway monitoring needs.</p>"
   language:
   - en

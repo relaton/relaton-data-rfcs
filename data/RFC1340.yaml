@@ -96,8 +96,8 @@ script:
 abstract:
 - content: "<p>This Network Working Group Request for Comments documents the currently
     assigned values from several series of numbers used in network protocol implementations.
-    \ This memo is a status report on the parameters (i.e., numbers and keywords)
-    used in protocols in the Internet community.</p>"
+    This memo is a status report on the parameters (i.e., numbers and keywords) used
+    in protocols in the Internet community.</p>"
   language:
   - en
   script:

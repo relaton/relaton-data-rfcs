@@ -299,7 +299,7 @@ script:
 abstract:
 - content: "<p>This document specifies the requirements that Authentication Authorization
     Accounting (AAA) protocols must meet in order to support authorization services
-    in the Internet.  This memo provides information for the Internet community.</p>"
+    in the Internet. This memo provides information for the Internet community.</p>"
   language:
   - en
   script:
