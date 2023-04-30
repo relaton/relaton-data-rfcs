@@ -70,7 +70,7 @@ language:
 script:
 - Latn
 abstract:
-- content: "<p>This RFC specifies a standard for the ARPA Internet community.  Hosts
+- content: "<p>This RFC specifies a standard for the ARPA Internet community. Hosts
     and gateways on the DARPA Internet that choose to implement a remote statistics
     monitoring facility may use this protocol to send statistics data upon request
     to a monitoring center or debugging host.</p>"

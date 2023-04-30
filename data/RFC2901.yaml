@@ -153,7 +153,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This document describes the administrative procedures for networks
-    seeking to connect to the global Internet.  This memo provides information for
+    seeking to connect to the global Internet. This memo provides information for
     the Internet community.</p>"
   language:
   - en

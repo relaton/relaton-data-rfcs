@@ -67,7 +67,7 @@ script:
 abstract:
 - content: <p>This document proposes an extension to Soliciting Simple Mail Transfer
     Protocol (SMTP) for an electronic mail equivalent to the real-world "No Soliciting"
-    sign.  In addition to the service extension, a new message header and extensions
+    sign. In addition to the service extension, a new message header and extensions
     to the existing "received" message header are described. [STANDARDS-TRACK]</p>
   language:
   - en

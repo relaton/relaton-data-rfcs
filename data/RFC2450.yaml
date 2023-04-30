@@ -66,8 +66,8 @@ script:
 - Latn
 abstract:
 - content: "<p>This document proposes rules for Top-Level Aggregation Identifiers
-    (TLA ID) and Next-Level Aggregation Identifiers (NLA ID).  This memo provides
-    information for the Internet community.</p>"
+    (TLA ID) and Next-Level Aggregation Identifiers (NLA ID). This memo provides information
+    for the Internet community.</p>"
   language:
   - en
   script:

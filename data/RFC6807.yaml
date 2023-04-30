@@ -153,9 +153,9 @@ script:
 - Latn
 abstract:
 - content: "<p>This specification defines a method for providing multicast distribution-tree
-    accounting data.  Simple extensions to the Protocol Independent Multicast (PIM)
+    accounting data. Simple extensions to the Protocol Independent Multicast (PIM)
     protocol allow a rough approximation of tree-based data in a scalable fashion.
-    \ This document defines an Experimental Protocol for the Internet community.</p>"
+    This document defines an Experimental Protocol for the Internet community.</p>"
   language:
   - en
   script:

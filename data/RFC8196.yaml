@@ -181,9 +181,9 @@ language:
 script:
 - Latn
 abstract:
-- content: "<p>This document specifies IS-IS autoconfiguration mechanisms.  The key
+- content: "<p>This document specifies IS-IS autoconfiguration mechanisms. The key
     components are IS-IS System ID self-generation, duplication detection, and duplication
-    resolution.  These mechanisms provide limited IS-IS functions and are therefore
+    resolution. These mechanisms provide limited IS-IS functions and are therefore
     suitable for networks where plug-and-play configuration is expected.</p>"
   language:
   - en

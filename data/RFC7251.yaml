@@ -154,11 +154,11 @@ script:
 abstract:
 - content: "<p>This memo describes the use of the Advanced Encryption Standard (AES)
     in the Counter and CBC-MAC Mode (CCM) of operation within Transport Layer Security
-    (TLS) to provide confidentiality and data-origin authentication.  The AES-CCM
-    algorithm is amenable to compact implementations, making it suitable for constrained
-    environments, while at the same time providing a high level of security.  The
-    cipher suites defined in this document use Elliptic Curve Cryptography (ECC) and
-    are advantageous in networks with limited bandwidth.</p>"
+    (TLS) to provide confidentiality and data-origin authentication. The AES-CCM algorithm
+    is amenable to compact implementations, making it suitable for constrained environments,
+    while at the same time providing a high level of security. The cipher suites defined
+    in this document use Elliptic Curve Cryptography (ECC) and are advantageous in
+    networks with limited bandwidth.</p>"
   language:
   - en
   script:

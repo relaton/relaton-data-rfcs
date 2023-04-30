@@ -124,7 +124,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This memo contains a snapshot of the state of standardization of protocols
-    used in the Internet as of April 17, 2001.  It lists only official protocol standards
+    used in the Internet as of April 17, 2001. It lists only official protocol standards
     RFCs; it is not a complete index to the RFC series. [STANDARDS-TRACK]</p>"
   language:
   - en

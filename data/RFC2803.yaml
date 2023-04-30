@@ -124,7 +124,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This memo defines a clear and unambiguous definition of digest (hash)
-    values of the XML objects regardless of the surface string variation of XML.  This
+    values of the XML objects regardless of the surface string variation of XML. This
     memo provides information for the Internet community.</p>"
   language:
   - en

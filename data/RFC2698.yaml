@@ -95,7 +95,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This document defines a Two Rate Three Color Marker (trTCM), which
-    can be used as a component in a Diffserv traffic conditioner.  This memo provides
+    can be used as a component in a Diffserv traffic conditioner. This memo provides
     information for the Internet community.</p>"
   language:
   - en

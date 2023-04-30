@@ -65,9 +65,9 @@ language:
 script:
 - Latn
 abstract:
-- content: "<p>This RFC specifies a standard for the ARPA Internet community.  Hosts
+- content: "<p>This RFC specifies a standard for the ARPA Internet community. Hosts
     on the ARPA Internet that choose to implement an Active Users Protocol are expected
-    to adopt and implement this standard.  The Active Users service simply sends a
+    to adopt and implement this standard. The Active Users service simply sends a
     list of the currently active users on the host without regard to the input.</p>"
   language:
   - en

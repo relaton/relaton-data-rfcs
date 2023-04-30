@@ -67,10 +67,10 @@ script:
 - Latn
 abstract:
 - content: "<p>This document discusses the threats to protocols used to carry authentication
-    for network access.  The security requirements arising from these threats will
+    for network access. The security requirements arising from these threats will
     be used as additional input to the Protocol for Carrying Authentication for Network
     Access (PANA) Working Group for designing the IP based network access authentication
-    protocol.  This memo provides information for the Internet community.</p>"
+    protocol. This memo provides information for the Internet community.</p>"
   language:
   - en
   script:

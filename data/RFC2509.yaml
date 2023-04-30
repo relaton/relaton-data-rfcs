@@ -124,8 +124,8 @@ script:
 - Latn
 abstract:
 - content: "<p>This document describes an option for negotiating the use of header
-    compression on IP datagrams transmitted over the Point-to-Point Protocol.  It
-    defines extensions to the PPP Control Protocols for IPv4 and IPv6. [STANDARDS-TRACK]</p>"
+    compression on IP datagrams transmitted over the Point-to-Point Protocol. It defines
+    extensions to the PPP Control Protocols for IPv4 and IPv6. [STANDARDS-TRACK]</p>"
   language:
   - en
   script:

@@ -125,8 +125,8 @@ script:
 abstract:
 - content: "<p>The MPLS Transport Profile (MPLS-TP) is the set of MPLS protocol functions
     applicable to the construction and operation of packet- switched transport networks.
-    \ This document presents considerations for link-layer addressing of Ethernet
-    frames carrying MPLS-TP packets.</p>"
+    This document presents considerations for link-layer addressing of Ethernet frames
+    carrying MPLS-TP packets.</p>"
   language:
   - en
   script:

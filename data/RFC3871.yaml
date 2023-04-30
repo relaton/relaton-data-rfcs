@@ -68,10 +68,10 @@ script:
 abstract:
 - content: <p>This document defines a list of operational security requirements for
     the infrastructure of large Internet Service Provider (ISP) IP networks (routers
-    and switches).  A framework is defined for specifying "profiles", which are collections
+    and switches). A framework is defined for specifying "profiles", which are collections
     of requirements applicable to certain network topology contexts (all, core-only,
-    edge-only...).  The goal is to provide network operators a clear, concise way
-    of communicating their security requirements to vendors.  This memo provides information
+    edge-only...). The goal is to provide network operators a clear, concise way of
+    communicating their security requirements to vendors. This memo provides information
     for the Internet community.</p>
   language:
   - en

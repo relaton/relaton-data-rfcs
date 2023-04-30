@@ -67,7 +67,7 @@ script:
 abstract:
 - content: "<p>The Domain Name System's wire protocol includes a number of fixed fields
     whose range has been or soon will be exhausted and does not allow clients to advertise
-    their capabilities to servers.  This document describes backward compatible mechanisms
+    their capabilities to servers. This document describes backward compatible mechanisms
     for allowing the protocol to grow. [STANDARDS-TRACK]</p>"
   language:
   - en

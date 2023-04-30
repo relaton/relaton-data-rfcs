@@ -66,9 +66,9 @@ script:
 - Latn
 abstract:
 - content: "<p>This document discusses various issues to be considered when determining
-    the underlying communications services to be used by an SNMP implementation.  This
-    memo provides information for the Internet community.  It does not specify an
-    Internet standard.</p>"
+    the underlying communications services to be used by an SNMP implementation. This
+    memo provides information for the Internet community. It does not specify an Internet
+    standard.</p>"
   language:
   - en
   script:

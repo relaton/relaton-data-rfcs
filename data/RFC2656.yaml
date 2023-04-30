@@ -66,7 +66,7 @@ script:
 - Latn
 abstract:
 - content: "<p>The registration procedure described in this document is specific to
-    SOIF template types.  This memo defines an Experimental Protocol for the Internet
+    SOIF template types. This memo defines an Experimental Protocol for the Internet
     community.</p>"
   language:
   - en

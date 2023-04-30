@@ -67,8 +67,8 @@ script:
 - Latn
 abstract:
 - content: "<p>This document describes a Uniform Resource Name (URN) namespace that
-    is engineered by Network Solutions, Inc.  for naming people and organizations.
-    \ This memo provides information for the Internet community.</p>"
+    is engineered by Network Solutions, Inc. for naming people and organizations.
+    This memo provides information for the Internet community.</p>"
   language:
   - en
   script:

@@ -95,7 +95,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This document defines a framework for standardizing multiple BTC (Bulk
-    Transport Capacity) metrics that parallel the permitted transport diversity.  This
+    Transport Capacity) metrics that parallel the permitted transport diversity. This
     memo provides information for the Internet community.</p>"
   language:
   - en

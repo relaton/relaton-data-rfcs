@@ -95,9 +95,9 @@ script:
 - Latn
 abstract:
 - content: "<p>An increasing number of hosts are operating in multiple-interface environments.
-    \ This document summarizes current practices in this area and describes in detail
+    This document summarizes current practices in this area and describes in detail
     how some common operating systems cope with challenges that ensue from this context.
-    \ This document is not an Internet Standards Track specification; it is published
+    This document is not an Internet Standards Track specification; it is published
     for informational purposes.</p>"
   language:
   - en

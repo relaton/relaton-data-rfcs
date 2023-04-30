@@ -125,7 +125,7 @@ script:
 abstract:
 - content: "<p>This memo contains various protocol identifier examples, which can
     be used to produce valid protocolDirTable ``INDEX`` encodings, as defined by the
-    Remote Network Monitoring MIB and the RMON Protocol Identifier Reference.  This
+    Remote Network Monitoring MIB and the RMON Protocol Identifier Reference. This
     memo provides information for the Internet community.</p>"
   language:
   - en

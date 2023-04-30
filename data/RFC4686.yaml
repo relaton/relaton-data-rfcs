@@ -67,9 +67,9 @@ script:
 abstract:
 - content: "<p>This document provides an analysis of some threats against Internet
     mail that are intended to be addressed by signature-based mail authentication,
-    in particular DomainKeys Identified Mail.  It discusses the nature and location
+    in particular DomainKeys Identified Mail. It discusses the nature and location
     of the bad actors, what their capabilities are, and what they intend to accomplish
-    via their attacks.  This memo provides information for the Internet community.</p>"
+    via their attacks. This memo provides information for the Internet community.</p>"
   language:
   - en
   script:

@@ -67,8 +67,8 @@ script:
 abstract:
 - content: "<p>A Description of the usage of Nondeterministic Troubleshooting and
     Diagnostic Methodologies as applied to today's complex nondeterministic networks
-    and environments.  This memo provides information for the Internet community.
-    \ It does not specify an Internet standard of any kind.</p>"
+    and environments. This memo provides information for the Internet community. It
+    does not specify an Internet standard of any kind.</p>"
   language:
   - en
   script:

@@ -71,8 +71,8 @@ script:
 - Latn
 abstract:
 - content: "<p>This RFC proposes a new set of RFCs on how the networking code is integrated
-    with various operating systems.  It appears that this topic has not received enough
-    exposure in the literature.  Comments and suggestions are encouraged.</p>"
+    with various operating systems. It appears that this topic has not received enough
+    exposure in the literature. Comments and suggestions are encouraged.</p>"
   language:
   - en
   script:

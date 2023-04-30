@@ -66,9 +66,8 @@ script:
 - Latn
 abstract:
 - content: "<p>This document updates the Cryptographic Message Syntax (CMS), which
-    is published in RFC 3852.  This document clarifies the proper handling of the
-    SignedData protected content type when more than one digital signature is present.
-    [STANDARDS-TRACK]</p>"
+    is published in RFC 3852. This document clarifies the proper handling of the SignedData
+    protected content type when more than one digital signature is present. [STANDARDS-TRACK]</p>"
   language:
   - en
   script:

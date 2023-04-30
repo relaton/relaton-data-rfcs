@@ -95,8 +95,8 @@ script:
 - Latn
 abstract:
 - content: "<p>This specification documents an extension to the Diameter Overload
-    Indication Conveyance (DOIC) base solution, which is defined in RFC 7683.  This
-    extension adds a new overload-control abatement algorithm.  This abatement algorithm
+    Indication Conveyance (DOIC) base solution, which is defined in RFC 7683. This
+    extension adds a new overload-control abatement algorithm. This abatement algorithm
     allows for a DOIC reporting node to specify a maximum rate at which a DOIC reacting
     node sends Diameter requests to the DOIC reporting node.</p>"
   language:

@@ -298,7 +298,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This document defines an architecture framework and functional requirements
-    for transport of signaling information over IP.  This memo provides information
+    for transport of signaling information over IP. This memo provides information
     for the Internet community.</p>"
   language:
   - en

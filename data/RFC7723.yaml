@@ -97,8 +97,8 @@ abstract:
 - content: "<p>The Port Control Protocol (PCP) anycast addresses enable PCP clients
     to transmit signaling messages to their closest PCP-aware on-path NAT, firewall,
     or other middlebox without having to learn the IP address of that middlebox via
-    some external channel.  This document establishes one well-known IPv4 address
-    and one well-known IPv6 address to be used as PCP anycast addresses.</p>"
+    some external channel. This document establishes one well-known IPv4 address and
+    one well-known IPv6 address to be used as PCP anycast addresses.</p>"
   language:
   - en
   script:

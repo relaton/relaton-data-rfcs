@@ -96,9 +96,9 @@ script:
 - Latn
 abstract:
 - content: "<p>This document specifies algorithm identifiers and ASN.1 encoding formats
-    for elliptic curve constructs using the curve25519 and curve448 curves.  The signature
-    algorithms covered are Ed25519 and Ed448.  The key agreement algorithms covered
-    are X25519 and X448.  The encoding for public key, private key, and Edwards-curve
+    for elliptic curve constructs using the curve25519 and curve448 curves. The signature
+    algorithms covered are Ed25519 and Ed448. The key agreement algorithms covered
+    are X25519 and X448. The encoding for public key, private key, and Edwards-curve
     Digital Signature Algorithm (EdDSA) structures is provided.</p>"
   language:
   - en

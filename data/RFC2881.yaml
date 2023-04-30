@@ -95,8 +95,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This document describes the terminology and gives a model of typical
-    Network Access Server (NAS).  This memo provides information for the Internet
-    community.</p>"
+    Network Access Server (NAS). This memo provides information for the Internet community.</p>"
   language:
   - en
   script:

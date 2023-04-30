@@ -67,7 +67,7 @@ script:
 abstract:
 - content: "<p>This specification registers cryptographic algorithms and identifiers
     to be used with the JSON Web Signature (JWS), JSON Web Encryption (JWE), and JSON
-    Web Key (JWK) specifications.  It defines several IANA registries for these identifiers.</p>"
+    Web Key (JWK) specifications. It defines several IANA registries for these identifiers.</p>"
   language:
   - en
   script:

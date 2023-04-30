@@ -67,8 +67,8 @@ script:
 - Latn
 abstract:
 - content: "<p>This document defines the syntax used by the World-Wide Web initiative
-    to encode the names and addresses of objects on the Internet.  This memo provides
-    information for the Internet community.  This memo does not specify an Internet
+    to encode the names and addresses of objects on the Internet. This memo provides
+    information for the Internet community. This memo does not specify an Internet
     standard of any kind.</p>"
   language:
   - en

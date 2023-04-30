@@ -66,8 +66,8 @@ script:
 - Latn
 abstract:
 - content: "<p>This memo reclassifies RFC 1863, A BGP/IDRP Route Server alternative
-    to a full mesh routing, to Historic status.  This memo also obsoletes RFC 1863.
-    \ This memo provides information for the Internet community.</p>"
+    to a full mesh routing, to Historic status. This memo also obsoletes RFC 1863.
+    This memo provides information for the Internet community.</p>"
   language:
   - en
   script:

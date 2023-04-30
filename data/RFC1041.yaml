@@ -66,7 +66,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This RFC specifies a proposed standard for the Internet community.
-    \ Hosts on the Internet that want to support 3270 data stream within the Telnet
+    Hosts on the Internet that want to support 3270 data stream within the Telnet
     protocol, are expected to adopt and implement this standard.</p>"
   language:
   - en

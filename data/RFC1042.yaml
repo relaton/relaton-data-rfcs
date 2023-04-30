@@ -101,7 +101,7 @@ script:
 abstract:
 - content: "<p>This RFC specifies a standard method of encapsulating the Internet
     Protocol (IP) datagrams and Address Resolution Protocol (ARP) requests and replies
-    on IEEE 802 Networks to allow compatible and interoperable implementations.  This
+    on IEEE 802 Networks to allow compatible and interoperable implementations. This
     RFC specifies a protocol standard for the Internet community.</p>"
   language:
   - en

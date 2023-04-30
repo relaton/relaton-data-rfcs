@@ -67,7 +67,7 @@ script:
 abstract:
 - content: "<p>This document specifies two Lightweight Directory Access Protocol (LDAP)
     attributes, vendorName and vendorVersion that MAY be included in the root DSA-specific
-    Entry (DSE) to advertise vendor-specific information.  This memo provides information
+    Entry (DSE) to advertise vendor-specific information. This memo provides information
     for the Internet community.</p>"
   language:
   - en

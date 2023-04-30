@@ -96,8 +96,8 @@ script:
 abstract:
 - content: <p>This document obsoletes RFC 2731, "Encoding Dublin Core Metadata in
     HTML", as further development of this specification has moved to the Dublin Core
-    Metadata Initiative (DCMI).  This document is not an Internet Standards Track
-    specification; it is published for informational purposes.</p>
+    Metadata Initiative (DCMI). This document is not an Internet Standards Track specification;
+    it is published for informational purposes.</p>
   language:
   - en
   script:

@@ -124,10 +124,10 @@ script:
 - Latn
 abstract:
 - content: "<p>This document defines a MIB module for the management of printer finishing
-    device subunits.  The finishing device subunits applicable to this MIB are an
-    integral part of the Printer System.  This MIB applies only to a Finisher Device
-    that is connected to a Printer System.  This memo provides information for the
-    Internet community.</p>"
+    device subunits. The finishing device subunits applicable to this MIB are an integral
+    part of the Printer System. This MIB applies only to a Finisher Device that is
+    connected to a Printer System. This memo provides information for the Internet
+    community.</p>"
   language:
   - en
   script:

@@ -124,9 +124,9 @@ script:
 - Latn
 abstract:
 - content: "<p>This memo defines a portion of the Management Information Base (MIB)
-    for use with network management protocols in the Internet community.  In particular,
+    for use with network management protocols in the Internet community. In particular,
     it describes managed objects to configure and/or monitor Virtual Private LAN services.
-    \ It needs to be used in conjunction with the Pseudowire (PW) Management Information
+    It needs to be used in conjunction with the Pseudowire (PW) Management Information
     Base (PW-STD-MIB from RFC 5601).</p>"
   language:
   - en

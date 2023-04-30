@@ -125,11 +125,11 @@ script:
 abstract:
 - content: <p>Historically, designers and implementers of application protocols have
     often distinguished between standardized and unstandardized parameters by prefixing
-    the names of unstandardized parameters with the string "X-" or similar constructs.  In
-    practice, that convention causes more problems than it solves.  Therefore, this
+    the names of unstandardized parameters with the string "X-" or similar constructs.
+    In practice, that convention causes more problems than it solves. Therefore, this
     document deprecates the convention for newly defined parameters with textual (as
-    opposed to numerical) names in application protocols.  This memo documents an
-    Internet Best Current Practice.</p>
+    opposed to numerical) names in application protocols. This memo documents an Internet
+    Best Current Practice.</p>
   language:
   - en
   script:

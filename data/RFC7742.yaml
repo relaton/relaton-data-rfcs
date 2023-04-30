@@ -71,8 +71,8 @@ script:
 - Latn
 abstract:
 - content: "<p>This specification provides the requirements and considerations for
-    WebRTC applications to send and receive video across a network.  It specifies
-    the video processing that is required as well as video codecs and their parameters.</p>"
+    WebRTC applications to send and receive video across a network. It specifies the
+    video processing that is required as well as video codecs and their parameters.</p>"
   language:
   - en
   script:

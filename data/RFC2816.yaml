@@ -183,7 +183,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This memo describes a framework for supporting IETF Integrated Services
-    on shared and switched LAN infrastructure.  This memo provides information for
+    on shared and switched LAN infrastructure. This memo provides information for
     the Internet community.</p>"
   language:
   - en

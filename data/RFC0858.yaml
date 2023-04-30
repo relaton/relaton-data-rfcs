@@ -95,9 +95,9 @@ script:
 - Latn
 abstract:
 - content: "<p>This Telnet Option disables the exchange of go-ahead signals between
-    the Telnet modules.  This RFC specifies a standard for the ARPA Internet community.
-    \ Hosts on the ARPA Internet are expected to adopt and implement this standard.
-    \ Obsoletes NIC 15392.</p>"
+    the Telnet modules. This RFC specifies a standard for the ARPA Internet community.
+    Hosts on the ARPA Internet are expected to adopt and implement this standard.
+    Obsoletes NIC 15392.</p>"
   language:
   - en
   script:

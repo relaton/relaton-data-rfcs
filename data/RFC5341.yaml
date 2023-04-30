@@ -97,7 +97,7 @@ script:
 abstract:
 - content: "<p>This document creates an Internet Assigned Number Authority (IANA)
     registry for tel Uniform Resource Identifier (URI) parameters and their values.
-    \ It populates the registry with the parameters defined in the tel URI specification,
+    It populates the registry with the parameters defined in the tel URI specification,
     along with the parameters in tel URI extensions defined for number portability
     and trunk groups. [STANDARDS-TRACK]</p>"
   language:

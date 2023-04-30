@@ -153,11 +153,11 @@ script:
 - Latn
 abstract:
 - content: "<p>This document describes methodologies that have been designed to improve
-    and facilitate IETF document flow processing.  It specifies a set of procedures
+    and facilitate IETF document flow processing. It specifies a set of procedures
     under which a working group chair or secretary serves as the primary Document
-    Shepherd for a document that has been submitted to the IESG for publication.  Before
+    Shepherd for a document that has been submitted to the IESG for publication. Before
     this, the Area Director responsible for the working group has traditionally filled
-    the shepherding role.  This memo provides information for the Internet community.</p>"
+    the shepherding role. This memo provides information for the Internet community.</p>"
   language:
   - en
   script:

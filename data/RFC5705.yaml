@@ -67,8 +67,7 @@ script:
 abstract:
 - content: "<p>A number of protocols wish to leverage Transport Layer Security (TLS)
     to perform key establishment but then use some of the keying material for their
-    own purposes.  This document describes a general mechanism for allowing that.
-    [STANDARDS-TRACK]</p>"
+    own purposes. This document describes a general mechanism for allowing that. [STANDARDS-TRACK]</p>"
   language:
   - en
   script:

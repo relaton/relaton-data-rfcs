@@ -153,10 +153,10 @@ script:
 - Latn
 abstract:
 - content: "<p>This specification defines an XML document format to describe the media
-    properties of Session Initiation Protocol (SIP) sessions.  Examples for media
-    properties are the codecs or media types used in the session.  This document also
-    defines an XML document format to describe policies that limit the media properties
-    of SIP sessions. [STANDARDS-TRACK]</p>"
+    properties of Session Initiation Protocol (SIP) sessions. Examples for media properties
+    are the codecs or media types used in the session. This document also defines
+    an XML document format to describe policies that limit the media properties of
+    SIP sessions. [STANDARDS-TRACK]</p>"
   language:
   - en
   script:

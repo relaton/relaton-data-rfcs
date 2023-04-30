@@ -154,8 +154,8 @@ script:
 abstract:
 - content: "<p>The migration feature of NFSv4 allows the transfer of responsibility
     for a single file system from one server to another without disruption to clients.
-    \ Recent implementation experience has shown problems in the existing specification
-    for this feature in NFSv4.0.  This document identifies the problem areas and provides
+    Recent implementation experience has shown problems in the existing specification
+    for this feature in NFSv4.0. This document identifies the problem areas and provides
     revised specification text that updates the NFSv4.0 specification in RFC 7530.</p>"
   language:
   - en

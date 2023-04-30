@@ -66,7 +66,7 @@ script:
 - Latn
 abstract:
 - content: "<p>A long time ago, in a network, far far away, a great adventure took
-    place!.  This memo provides information for the Internet community.</p>"
+    place!. This memo provides information for the Internet community.</p>"
   language:
   - en
   script:

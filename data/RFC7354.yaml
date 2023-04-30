@@ -96,7 +96,7 @@ script:
 - Latn
 abstract:
 - content: <p>RFC 5328 registered the Uniform Resource Name (URN) namespace "dvb"
-    for the Digital Video Broadcasting Project.  This document updates RFC 5328 with
+    for the Digital Video Broadcasting Project. This document updates RFC 5328 with
     new registrant information.</p>
   language:
   - en

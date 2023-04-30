@@ -66,7 +66,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This document describes the External Data Representation Standard (XDR)
-    protocol as it is currently deployed and accepted.  This document obsoletes RFC
+    protocol as it is currently deployed and accepted. This document obsoletes RFC
     1832. [STANDARDS-TRACK]</p>"
   language:
   - en

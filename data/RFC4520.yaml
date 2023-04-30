@@ -67,9 +67,9 @@ script:
 - Latn
 abstract:
 - content: "<p>This document provides procedures for registering extensible elements
-    of the Lightweight Directory Access Protocol (LDAP).  The document also provides
+    of the Lightweight Directory Access Protocol (LDAP). The document also provides
     guidelines to the Internet Assigned Numbers Authority (IANA) describing conditions
-    under which new values can be assigned.  This document specifies an Internet Best
+    under which new values can be assigned. This document specifies an Internet Best
     Current Practices for the Internet Community, and requests discussion and suggestions
     for improvements.</p>"
   language:

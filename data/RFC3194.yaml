@@ -95,8 +95,8 @@ language:
 script:
 - Latn
 abstract:
-- content: <p>This document provides an update on the "H ratio" defined in RFC 1715.  It
-    defines a new ratio which the authors claim is easier to understand.  This memo
+- content: <p>This document provides an update on the "H ratio" defined in RFC 1715.
+    It defines a new ratio which the authors claim is easier to understand. This memo
     provides information for the Internet community.</p>
   language:
   - en

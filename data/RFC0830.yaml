@@ -65,8 +65,8 @@ language:
 script:
 - Latn
 abstract:
-- content: "<p>This RFC proposes a distributed name service for DARPA Internet.  Its
-    purpose is to focus discussion on the subject.  It is hoped that a general consensus
+- content: "<p>This RFC proposes a distributed name service for DARPA Internet. Its
+    purpose is to focus discussion on the subject. It is hoped that a general consensus
     will emerge leading eventually to the adoption of standards.</p>"
   language:
   - en

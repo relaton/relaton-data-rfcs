@@ -67,8 +67,8 @@ script:
 abstract:
 - content: "<p>The goal of this document specifies a Telnet profile to support VIP
     terminal emulation allowing the access to the BULL hosts applications through
-    a TCP/IP network.  This memo provides information for the Internet community.
-    \ This memo does not specify an Internet standard of any kind.</p>"
+    a TCP/IP network. This memo provides information for the Internet community. This
+    memo does not specify an Internet standard of any kind.</p>"
   language:
   - en
   script:

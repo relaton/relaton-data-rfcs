@@ -66,8 +66,8 @@ script:
 - Latn
 abstract:
 - content: <p>Periodically there are proposals to mandate the use of a special top
-    level name or an IP address bit to flag "adult" or "unsafe" material or the like.  This
-    document explains why this is an ill considered idea from the legal, philosophical,
+    level name or an IP address bit to flag "adult" or "unsafe" material or the like.
+    This document explains why this is an ill considered idea from the legal, philosophical,
     and particularly, the technical points of view.</p>
   language:
   - en

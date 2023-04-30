@@ -67,9 +67,9 @@ script:
 abstract:
 - content: <p>The Multicast Ping Protocol specified in this document allows for checking
     whether an endpoint can receive multicast -- both Source-Specific Multicast (SSM)
-    and Any-Source Multicast (ASM).  It can also be used to obtain additional multicast-related
-    information, such as multicast tree setup time.  This protocol is based on an
-    implementation of tools called "ssmping" and "asmping". [STANDARDS-TRACK]</p>
+    and Any-Source Multicast (ASM). It can also be used to obtain additional multicast-related
+    information, such as multicast tree setup time. This protocol is based on an implementation
+    of tools called "ssmping" and "asmping". [STANDARDS-TRACK]</p>
   language:
   - en
   script:

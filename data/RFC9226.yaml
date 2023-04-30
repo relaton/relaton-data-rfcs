@@ -67,7 +67,7 @@ script:
 abstract:
 - content: "<p>The prevailing hexadecimal system was chosen for congruence with groups
     of four binary digits, but its design exhibits an indifference to cognitive factors.
-    \ An alternative is introduced that is designed to reduce brain cycles in cases
+    An alternative is introduced that is designed to reduce brain cycles in cases
     where a hexadecimal number should be readily convertible to binary by a human
     being.</p>"
   language:

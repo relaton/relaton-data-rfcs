@@ -67,7 +67,7 @@ script:
 abstract:
 - content: "<p>This memo provides one possible plan for transitioning the Internet
     from a predominantly IPv4-based connectivity model to a predominantly IPv6-based
-    connectivity model.  This memo provides information for the Internet community.</p>"
+    connectivity model. This memo provides information for the Internet community.</p>"
   language:
   - en
   script:

@@ -100,7 +100,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This memo describes a straight-forward approach toward producing concise,
-    yet descriptive, MIB modules.  This memo defines a format for producing MIB modules.
+    yet descriptive, MIB modules. This memo defines a format for producing MIB modules.
     [STANDARDS-TRACK]</p>"
   language:
   - en

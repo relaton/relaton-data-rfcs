@@ -96,7 +96,7 @@ script:
 abstract:
 - content: "<p>This document defines a new DNS resource record, called the DNSSEC
     Lookaside Validation (DLV) RR, for publishing DNSSEC trust anchors outside of
-    the DNS delegation chain.  This memo provides information for the Internet community.</p>"
+    the DNS delegation chain. This memo provides information for the Internet community.</p>"
   language:
   - en
   script:

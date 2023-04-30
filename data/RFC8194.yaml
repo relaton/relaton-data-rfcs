@@ -95,7 +95,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This document defines a data model for Large-Scale Measurement Platforms
-    (LMAPs).  The data model is defined using the YANG data modeling language.</p>"
+    (LMAPs). The data model is defined using the YANG data modeling language.</p>"
   language:
   - en
   script:

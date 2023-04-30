@@ -96,7 +96,7 @@ script:
 - Latn
 abstract:
 - content: <p>This memo provides a mechanism whereby messages conforming to the [RFC
-    1521] ("MIME") specification can convey presentational information.  This memo
+    1521] ("MIME") specification can convey presentational information. This memo
     defines an Experimental Protocol for the Internet community.</p>
   language:
   - en

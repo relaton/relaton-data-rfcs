@@ -183,9 +183,9 @@ script:
 abstract:
 - content: <p>This document describes an application programming interface and a corresponding
     protocol (MGCP) for controlling Voice over IP (VoIP) Gateways from external call
-    control elements.  MGCP assumes a call control architecture where the call control
-    "intelligence" is outside the gateways and handled by external call control elements.  This
-    memo provides information for the Internet community.</p>
+    control elements. MGCP assumes a call control architecture where the call control
+    "intelligence" is outside the gateways and handled by external call control elements.
+    This memo provides information for the Internet community.</p>
   language:
   - en
   script:

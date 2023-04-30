@@ -96,9 +96,9 @@ script:
 abstract:
 - content: "<p>This document defines a YANG data model for the configuration and identification
     of some common system properties within a device containing a Network Configuration
-    Protocol (NETCONF) server.  This document also includes data node definitions
-    for system identification, time-of-day management, user management, DNS resolver
-    configuration, and some protocol operations for system management.</p>"
+    Protocol (NETCONF) server. This document also includes data node definitions for
+    system identification, time-of-day management, user management, DNS resolver configuration,
+    and some protocol operations for system management.</p>"
   language:
   - en
   script:

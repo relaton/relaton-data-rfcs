@@ -124,8 +124,8 @@ script:
 - Latn
 abstract:
 - content: "<p>Three IPv4 unicast address blocks are reserved for use in examples
-    in specifications and other documents.  This document describes the use of these
-    blocks.  This document is not an Internet Standards Track specification; it is
+    in specifications and other documents. This document describes the use of these
+    blocks. This document is not an Internet Standards Track specification; it is
     published for informational purposes.</p>"
   language:
   - en

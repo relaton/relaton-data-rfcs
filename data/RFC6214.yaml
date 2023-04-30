@@ -95,7 +95,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This document specifies a method for transmission of IPv6 datagrams
-    over the same medium as specified for IPv4 datagrams in RFC 1149.  This document
+    over the same medium as specified for IPv4 datagrams in RFC 1149. This document
     is not an Internet Standards Track specification; it is published for informational
     purposes.</p>"
   language:

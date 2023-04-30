@@ -66,9 +66,9 @@ script:
 - Latn
 abstract:
 - content: "<p>This document defines the topology naming conventions that are to be
-    used in reference to Internet Emergency Preparedness (IEPREP) phone calls.  These
+    used in reference to Internet Emergency Preparedness (IEPREP) phone calls. These
     naming conventions should be used to focus the IEPREP Working Group during discussions
-    and when writing requirements, gap analysis and other solutions documents.  This
+    and when writing requirements, gap analysis and other solutions documents. This
     memo provides information for the Internet community.</p>"
   language:
   - en

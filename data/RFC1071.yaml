@@ -134,7 +134,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This RFC summarizes techniques and algorithms for efficiently computing
-    the Internet checksum.  It is not a standard, but a set of useful implementation
+    the Internet checksum. It is not a standard, but a set of useful implementation
     techniques.</p>"
   language:
   - en

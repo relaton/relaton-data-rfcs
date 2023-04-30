@@ -154,7 +154,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This document specifies how calendaring systems use iCalendar objects
-    to interoperate with other calendar systems.  It does so in a general way so as
+    to interoperate with other calendar systems. It does so in a general way so as
     to allow multiple methods of communication between systems. [STANDARDS-TRACK]</p>"
   language:
   - en

@@ -126,7 +126,7 @@ abstract:
 - content: "<p>The Incident Object Description Exchange Format (IODEF) defines a data
     representation that provides a framework for sharing information commonly exchanged
     by Computer Security Incident Response Teams (CSIRTs) about computer security
-    incidents.  This document describes the information model for the IODEF and provides
+    incidents. This document describes the information model for the IODEF and provides
     an associated data model specified with XML Schema. [STANDARDS-TRACK]</p>"
   language:
   - en

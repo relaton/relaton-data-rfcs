@@ -95,9 +95,9 @@ script:
 - Latn
 abstract:
 - content: "<p>This document describes the challenges involved with designing and
-    implementing multicast applications.  It is an introductory guide for application
+    implementing multicast applications. It is an introductory guide for application
     developers that highlights the unique considerations of multicast applications
-    as compared to unicast applications.  This memo provides information for the Internet
+    as compared to unicast applications. This memo provides information for the Internet
     community.</p>"
   language:
   - en

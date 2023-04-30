@@ -95,7 +95,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This document investigates the impact of VC merging on the additional
-    buffer required for the reassembly buffers and other buffers.  This memo provides
+    buffer required for the reassembly buffers and other buffers. This memo provides
     information for the Internet community.</p>"
   language:
   - en

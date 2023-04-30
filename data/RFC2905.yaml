@@ -298,7 +298,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This memo describes several examples of applications requiring authorization.
-    \ This memo provides information for the Internet community.</p>"
+    This memo provides information for the Internet community.</p>"
   language:
   - en
   script:

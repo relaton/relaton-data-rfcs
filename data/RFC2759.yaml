@@ -66,8 +66,8 @@ script:
 - Latn
 abstract:
 - content: "<p>This document describes version two of Microsoft's PPP CHAP dialect
-    (MS-CHAP-V2).  MS-CHAP-V2 is similar to, but incompatible with, MS-CHAP version
-    one (MS-CHAP-V1).  This memo provides information for the Internet community.</p>"
+    (MS-CHAP-V2). MS-CHAP-V2 is similar to, but incompatible with, MS-CHAP version
+    one (MS-CHAP-V1). This memo provides information for the Internet community.</p>"
   language:
   - en
   script:

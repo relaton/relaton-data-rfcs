@@ -95,9 +95,9 @@ script:
 - Latn
 abstract:
 - content: "<p>This memo defines URI fragment identifiers for text/plain MIME entities.
-    \ These fragment identifiers make it possible to refer to parts of a text/plain
+    These fragment identifiers make it possible to refer to parts of a text/plain
     MIME entity, either identified by character position or range, or by line position
-    or range.  Fragment identifiers may also contain information for integrity checks
+    or range. Fragment identifiers may also contain information for integrity checks
     to make them more robust. [STANDARDS-TRACK]</p>"
   language:
   - en

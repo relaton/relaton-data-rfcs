@@ -66,11 +66,11 @@ script:
 - Latn
 abstract:
 - content: <p>The OpenLDAP Project is operating an experimental LDAP (Lightweight
-    Directory Access Protocol) referral service known as the "OpenLDAP Root Service".  The
-    automated system generates referrals based upon service location information published
-    in DNS SRV RRs (Domain Name System location of services resource records).  This
-    document describes this service.  This memo defines an Experimental Protocol for
-    the Internet community.</p>
+    Directory Access Protocol) referral service known as the "OpenLDAP Root Service".
+    The automated system generates referrals based upon service location information
+    published in DNS SRV RRs (Domain Name System location of services resource records).
+    This document describes this service. This memo defines an Experimental Protocol
+    for the Internet community.</p>
   language:
   - en
   script:

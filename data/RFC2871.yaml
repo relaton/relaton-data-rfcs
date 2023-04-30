@@ -96,7 +96,7 @@ script:
 abstract:
 - content: "<p>This document serves as a framework for Telephony Routing over IP (TRIP),
     which supports the discovery and exchange of IP telephony gateway routing tables
-    between providers.  This memo provides information for the Internet community.</p>"
+    between providers. This memo provides information for the Internet community.</p>"
   language:
   - en
   script:

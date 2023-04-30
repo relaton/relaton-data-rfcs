@@ -95,8 +95,8 @@ script:
 - Latn
 abstract:
 - content: "<p>This document describes elliptic curve signature scheme Edwards-curve
-    Digital Signature Algorithm (EdDSA).  The algorithm is instantiated with recommended
-    parameters for the edwards25519 and edwards448 curves.  An example implementation
+    Digital Signature Algorithm (EdDSA). The algorithm is instantiated with recommended
+    parameters for the edwards25519 and edwards448 curves. An example implementation
     and test vectors are provided.</p>"
   language:
   - en

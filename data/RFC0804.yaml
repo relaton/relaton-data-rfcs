@@ -44,7 +44,7 @@ language:
 script:
 - Latn
 abstract:
-- content: "<p>This is the CCITT standard for group 3 facsimile encoding.  This is
+- content: "<p>This is the CCITT standard for group 3 facsimile encoding. This is
     useful for data compression of bit map data.</p>"
   language:
   - en

@@ -71,9 +71,8 @@ script:
 - Latn
 abstract:
 - content: "<p>This RFC is a slight revision and extension of RFC-1048 by Philip Prindeville.
-    \ This memo will be updated as additional tags are are defined.  This edition
-    introduces Tag 13 for Boot File Size.  Comments and suggestions for improvements
-    are sought.</p>"
+    This memo will be updated as additional tags are are defined. This edition introduces
+    Tag 13 for Boot File Size. Comments and suggestions for improvements are sought.</p>"
   language:
   - en
   script:

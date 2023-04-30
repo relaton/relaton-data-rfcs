@@ -67,8 +67,8 @@ script:
 - Latn
 abstract:
 - content: "<p>This document describes an additional content type for the Cryptographic
-    Message Syntax (CMS).  The authenticated-enveloped-data content type is intended
-    for use with authenticated encryption modes.  All of the various key management
+    Message Syntax (CMS). The authenticated-enveloped-data content type is intended
+    for use with authenticated encryption modes. All of the various key management
     techniques that are supported in the CMS enveloped-data content type are also
     supported by the CMS authenticated-enveloped-data content type. [STANDARDS-TRACK]</p>"
   language:

@@ -95,7 +95,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This document introduces the concept of Virtual Local Area Network
-    (VLAN) aggregation as it relates to IPv4 address allocation.  This memo provides
+    (VLAN) aggregation as it relates to IPv4 address allocation. This memo provides
     information for the Internet community.</p>"
   language:
   - en

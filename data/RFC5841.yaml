@@ -94,7 +94,7 @@ language:
 script:
 - Latn
 abstract:
-- content: "<p>This document proposes a new TCP option to denote packet mood.  This
+- content: "<p>This document proposes a new TCP option to denote packet mood. This
     document is not an Internet Standards Track specification; it is published for
     informational purposes.</p>"
   language:

@@ -123,9 +123,9 @@ language:
 script:
 - Latn
 abstract:
-- content: "<p>This RFC describes an internet anycasting service for IP.  The primary
+- content: "<p>This RFC describes an internet anycasting service for IP. The primary
     purpose of this memo is to establish the semantics of an anycasting service within
-    an IP internet.  This memo provides information for the Internet community.  This
+    an IP internet. This memo provides information for the Internet community. This
     memo does not specify an Internet standard of any kind.</p>"
   language:
   - en

@@ -155,8 +155,8 @@ script:
 abstract:
 - content: "<p>This document discusses Control Element (CE) High Availability (HA)
     within a Forwarding and Control Element Separation (ForCES) Network Element (NE).
-    \ Additionally, this document updates RFC 5810 by providing new normative text
-    for the Cold Standby High Availability mechanism.</p>"
+    Additionally, this document updates RFC 5810 by providing new normative text for
+    the Cold Standby High Availability mechanism.</p>"
   language:
   - en
   script:

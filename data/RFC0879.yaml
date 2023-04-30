@@ -65,8 +65,8 @@ language:
 script:
 - Latn
 abstract:
-- content: <p>This RFC discusses the TCP Maximum Segment Size Option and related topics.  The
-    purposes is to clarify some aspects of TCP and its interaction with IP.  This
+- content: <p>This RFC discusses the TCP Maximum Segment Size Option and related topics.
+    The purposes is to clarify some aspects of TCP and its interaction with IP. This
     memo is a clarification to the TCP specification, and contains information that
     may be considered as "advice to implementers".</p>
   language:

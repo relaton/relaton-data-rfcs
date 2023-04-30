@@ -182,8 +182,8 @@ script:
 - Latn
 abstract:
 - content: "<p>This document describes a protocol for adding cryptographic signature
-    and encryption services to MIME data.  This memo provides information for the
-    Internet community.  It does not specify an Internet standard of any kind.</p>"
+    and encryption services to MIME data. This memo provides information for the Internet
+    community. It does not specify an Internet standard of any kind.</p>"
   language:
   - en
   script:

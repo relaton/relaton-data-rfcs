@@ -124,7 +124,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This document defines a set of values for the NAS-Port-Type RADIUS
-    Attribute.  This memo provides information for the Internet community.</p>"
+    Attribute. This memo provides information for the Internet community.</p>"
   language:
   - en
   script:

@@ -66,7 +66,7 @@ script:
 - Latn
 abstract:
 - content: <p>This document defines the text/red MIME sub-type. "Red" is short for
-    redundant.  The actual RTP packetization for this MIME type is specified in RFC
+    redundant. The actual RTP packetization for this MIME type is specified in RFC
     2198. [STANDARDS-TRACK]</p>
   language:
   - en

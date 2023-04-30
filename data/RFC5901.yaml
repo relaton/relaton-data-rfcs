@@ -96,10 +96,10 @@ script:
 abstract:
 - content: "<p>This document extends the Incident Object Description Exchange Format
     (IODEF) defined in RFC 5070 to support the reporting of phishing events, which
-    is a particular type of fraud.  These extensions are flexible enough to support
+    is a particular type of fraud. These extensions are flexible enough to support
     information gleaned from activities throughout the entire electronic fraud cycle
     -- from receipt of the phishing lure to the disablement of the collection site.
-    \ Both simple reporting and complete forensic reporting are possible, as is consolidating
+    Both simple reporting and complete forensic reporting are possible, as is consolidating
     multiple incidents. [STANDARDS-TRACK]</p>"
   language:
   - en

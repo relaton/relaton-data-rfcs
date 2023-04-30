@@ -66,7 +66,7 @@ script:
 - Latn
 abstract:
 - content: "<p>Extending the Domain Name System (DNS) with new Resource Record (RR)
-    types currently requires changes to name server software.  This document specifies
+    types currently requires changes to name server software. This document specifies
     the changes necessary to allow future DNS implementations to handle new RR types
     transparently. [STANDARDS-TRACK]</p>"
   language:

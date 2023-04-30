@@ -100,9 +100,9 @@ script:
 - Latn
 abstract:
 - content: "<p>This RFC describes the Exterior Gateway Protocol used to connect Stub
-    Gateways to an Autonomous System of core Gateways.  This document specifies the
-    working protocol, and defines an ARPA official protocol.  All implementers of
-    Gateways should carefully review this document.</p>"
+    Gateways to an Autonomous System of core Gateways. This document specifies the
+    working protocol, and defines an ARPA official protocol. All implementers of Gateways
+    should carefully review this document.</p>"
   language:
   - en
   script:

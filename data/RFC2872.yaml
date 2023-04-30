@@ -95,9 +95,9 @@ script:
 - Latn
 abstract:
 - content: "<p>RSVP signaling messages typically include policy data objects, which
-    in turn contain policy elements.  Policy elements may describe user and/or application
+    in turn contain policy elements. Policy elements may describe user and/or application
     information, which may be used by RSVP aware network elements to apply appropriate
-    policy decisions to a traffic flow.  This memo details the usage of policy elements
+    policy decisions to a traffic flow. This memo details the usage of policy elements
     that provide application information. [STANDARDS-TRACK]</p>"
   language:
   - en

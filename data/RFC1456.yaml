@@ -44,8 +44,8 @@ script:
 abstract:
 - content: "<p>This document provides information to the Internet community on the
     currently used conventions for encoding Vietnamese characters into 7-bit US ASCII
-    and in an 8-bit form.  This memo provides information for the Internet community.
-    \ It does not specify an Internet standard.</p>"
+    and in an 8-bit form. This memo provides information for the Internet community.
+    It does not specify an Internet standard.</p>"
   language:
   - en
   script:

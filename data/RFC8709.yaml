@@ -95,8 +95,8 @@ script:
 - Latn
 abstract:
 - content: "<p>This document describes the use of the Ed25519 and Ed448 digital signature
-    algorithms in the Secure Shell (SSH) protocol.  Accordingly, this RFC updates
-    RFC 4253.</p>"
+    algorithms in the Secure Shell (SSH) protocol. Accordingly, this RFC updates RFC
+    4253.</p>"
   language:
   - en
   script:

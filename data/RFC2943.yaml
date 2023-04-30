@@ -124,7 +124,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This document defines a telnet authentication mechanism using the Digital
-    Signature Algorithm (DSA).  It relies on the Telnet Authentication Option. [STANDARDS-TRACK]</p>"
+    Signature Algorithm (DSA). It relies on the Telnet Authentication Option. [STANDARDS-TRACK]</p>"
   language:
   - en
   script:

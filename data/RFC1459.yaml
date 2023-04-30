@@ -95,7 +95,7 @@ script:
 - Latn
 abstract:
 - content: "<p>The IRC protocol is a text-based protocol, with the simplest client
-    being any socket program capable of connecting to the server.  This memo defines
+    being any socket program capable of connecting to the server. This memo defines
     an Experimental Protocol for the Internet community.</p>"
   language:
   - en

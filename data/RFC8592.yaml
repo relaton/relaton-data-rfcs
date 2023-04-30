@@ -125,7 +125,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This document describes methods of carrying Key Performance Indicators
-    (KPIs) using the Network Service Header (NSH).  These methods may be used, for
+    (KPIs) using the Network Service Header (NSH). These methods may be used, for
     example, to monitor latency and QoS marking to identify problems on some links
     or service functions.</p>"
   language:

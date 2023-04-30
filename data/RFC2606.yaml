@@ -96,8 +96,8 @@ script:
 abstract:
 - content: "<p>To reduce the likelihood of conflict and confusion, a few top level
     domain names are reserved for use in private testing, as examples in documentation,
-    and the like.  In addition, a few second level domain names reserved for use as
-    examples are documented.  This document specifies an Internet Best Current Practices
+    and the like. In addition, a few second level domain names reserved for use as
+    examples are documented. This document specifies an Internet Best Current Practices
     for the Internet Community, and requests discussion and suggestions for improvements.</p>"
   language:
   - en

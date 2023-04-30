@@ -95,9 +95,9 @@ script:
 - Latn
 abstract:
 - content: <p>This FYI RFC answers the question, "What is the Internet?" and is produced
-    by the User Services Working Group of the Internet Engineering Task Force (IETF).  This
-    memo provides information for the Internet community.  It does not specify an
-    Internet standard.</p>
+    by the User Services Working Group of the Internet Engineering Task Force (IETF).
+    This memo provides information for the Internet community. It does not specify
+    an Internet standard.</p>
   language:
   - en
   script:

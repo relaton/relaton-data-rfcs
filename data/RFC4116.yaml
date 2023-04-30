@@ -182,10 +182,10 @@ script:
 - Latn
 abstract:
 - content: "<p>Multihoming is an essential component of service for many Internet
-    sites.  This document describes some implementation strategies for multihoming
+    sites. This document describes some implementation strategies for multihoming
     with IPv4 and enumerates features for comparison with other multihoming proposals
-    (particularly those related to IPv6).  This memo provides information for the
-    Internet community.</p>"
+    (particularly those related to IPv6). This memo provides information for the Internet
+    community.</p>"
   language:
   - en
   script:

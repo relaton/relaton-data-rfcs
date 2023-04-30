@@ -71,7 +71,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This memo presents the results of a working group on High Bandwidth
-    Networking.  This RFC is for your information and you are encouraged to comment
+    Networking. This RFC is for your information and you are encouraged to comment
     on the issues presented.</p>"
   language:
   - en

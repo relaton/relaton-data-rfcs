@@ -65,11 +65,11 @@ language:
 script:
 - Latn
 abstract:
-- content: "<p>Authorization is a key function in presence systems.  Authorization
+- content: "<p>Authorization is a key function in presence systems. Authorization
     policies, also known as authorization rules, specify what presence information
-    can be given to which watchers, and when.  This specification defines an Extensible
+    can be given to which watchers, and when. This specification defines an Extensible
     Markup Language (XML) document format for expressing presence authorization rules.
-    \ Such a document can be manipulated by clients using the XML Configuration Access
+    Such a document can be manipulated by clients using the XML Configuration Access
     Protocol (XCAP), although other techniques are permitted. [STANDARDS-TRACK]</p>"
   language:
   - en

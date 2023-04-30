@@ -100,7 +100,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This RFC suggests several updates to the specification of the Reliable
-    Data Protocol (RDP) in RFC-908 based on experience with the protocol.  This revised
+    Data Protocol (RDP) in RFC-908 based on experience with the protocol. This revised
     version of the protocol is experimental.</p>"
   language:
   - en

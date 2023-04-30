@@ -95,7 +95,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This document defines the format of one new Resource Record (RR) for
-    the DNS for domain name-to-NSAP mapping.  This memo defines an Experimental Protocol
+    the DNS for domain name-to-NSAP mapping. This memo defines an Experimental Protocol
     for the Internet community.</p>"
   language:
   - en

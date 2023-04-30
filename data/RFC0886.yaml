@@ -71,9 +71,9 @@ script:
 - Latn
 abstract:
 - content: "<p>This RFC specifies a draft standard for the ARPA Internet community.
-    \ It describes the rules to be used when transforming mail from the conventions
-    of one message system to those of another message system.  In particular, the
-    treatment of header fields, and recipient addresses is specified.</p>"
+    It describes the rules to be used when transforming mail from the conventions
+    of one message system to those of another message system. In particular, the treatment
+    of header fields, and recipient addresses is specified.</p>"
   language:
   - en
   script:

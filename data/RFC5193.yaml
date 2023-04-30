@@ -183,8 +183,7 @@ script:
 abstract:
 - content: "<p>This document defines the general Protocol for Carrying Authentication
     for Network Access (PANA) framework functional elements, high-level call flow,
-    and deployment environments.  This memo provides information for the Internet
-    community.</p>"
+    and deployment environments. This memo provides information for the Internet community.</p>"
   language:
   - en
   script:

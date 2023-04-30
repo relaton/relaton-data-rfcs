@@ -96,8 +96,8 @@ script:
 abstract:
 - content: "<p>In this document, we extend the use of NATs to offer Load share feature,
     where session load can be distributed across a pool of servers, instead of directing
-    to a single server.  This memo provides information for the Internet community.
-    \ It does not specify an Internet standard of any kind.</p>"
+    to a single server. This memo provides information for the Internet community.
+    It does not specify an Internet standard of any kind.</p>"
   language:
   - en
   script:

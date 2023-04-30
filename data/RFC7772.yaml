@@ -95,7 +95,7 @@ script:
 - Latn
 abstract:
 - content: "<p>Frequent Router Advertisement messages can severely impact host power
-    consumption.  This document recommends operational practices to avoid such impact.</p>"
+    consumption. This document recommends operational practices to avoid such impact.</p>"
   language:
   - en
   script:

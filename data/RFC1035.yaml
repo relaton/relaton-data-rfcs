@@ -66,8 +66,8 @@ script:
 - Latn
 abstract:
 - content: "<p>This RFC is the revised specification of the protocol and format used
-    in the implementation of the Domain Name System.  It obsoletes RFC-883.  This
-    memo documents the details of the domain name client - server communication.</p>"
+    in the implementation of the Domain Name System. It obsoletes RFC-883. This memo
+    documents the details of the domain name client - server communication.</p>"
   language:
   - en
   script:

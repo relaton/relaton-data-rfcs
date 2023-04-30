@@ -298,10 +298,9 @@ script:
 - Latn
 abstract:
 - content: "<p>This memo serves as the base requirements for Authorization of Internet
-    Resources and Services (AIRS).  It presents an architectural framework for understanding
+    Resources and Services (AIRS). It presents an architectural framework for understanding
     the authorization of Internet resources and services and derives requirements
-    for authorization protocols.  This memo provides information for the Internet
-    community.</p>"
+    for authorization protocols. This memo provides information for the Internet community.</p>"
   language:
   - en
   script:

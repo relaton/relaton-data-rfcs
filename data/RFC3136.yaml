@@ -154,7 +154,7 @@ script:
 abstract:
 - content: "<p>This document describes the architecture for supporting SPIRITS services,
     which are those originating in the PSTN (Public Switched Telephone Network)and
-    necessitating the interactions between the PSTN and the Internet.  This memo provides
+    necessitating the interactions between the PSTN and the Internet. This memo provides
     information for the Internet community.</p>"
   language:
   - en

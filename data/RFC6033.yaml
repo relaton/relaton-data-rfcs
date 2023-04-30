@@ -68,7 +68,7 @@ script:
 abstract:
 - content: "<p>This document describes the conventions for using several cryptographic
     algorithms with the Cryptographic Message Syntax (CMS) encrypted key package content
-    type.  Specifically, it includes conventions necessary to implement EnvelopedData,
+    type. Specifically, it includes conventions necessary to implement EnvelopedData,
     EncryptedData, and AuthEnvelopedData. [STANDARDS-TRACK]</p>"
   language:
   - en

@@ -69,9 +69,9 @@ script:
 abstract:
 - content: "<p>The Optical Interworking Forum (OIF) has defined extensions to the
     Label Distribution Protocol (LDP) and the Resource ReSerVation Protocol (RSVP)
-    for optical User Network Interface (UNI) signaling.  These extensions consist
-    of a set of new data objects and error codes.  This document describes these extensions.
-    \ This memo provides information for the Internet community.</p>"
+    for optical User Network Interface (UNI) signaling. These extensions consist of
+    a set of new data objects and error codes. This document describes these extensions.
+    This memo provides information for the Internet community.</p>"
   language:
   - en
   script:

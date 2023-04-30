@@ -66,8 +66,8 @@ script:
 - Latn
 abstract:
 - content: "<p>This RFC provides a history and description of the Internet Activities
-    Board (IAB) and its subsidiary organizations.  This memo is for informational
-    use and does not constitute a standard.  This is a revision of RFC 1120.</p>"
+    Board (IAB) and its subsidiary organizations. This memo is for informational use
+    and does not constitute a standard. This is a revision of RFC 1120.</p>"
   language:
   - en
   script:

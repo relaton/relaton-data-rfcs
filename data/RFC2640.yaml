@@ -67,7 +67,7 @@ script:
 abstract:
 - content: "<p>This document addresses the internationalization (I18n) of FTP, which
     includes supporting the multiple character sets and languages found throughout
-    the Internet community.  This is achieved by extending the FTP specification and
+    the Internet community. This is achieved by extending the FTP specification and
     giving recommendations for proper internationalization support. [STANDARDS-TRACK]</p>"
   language:
   - en

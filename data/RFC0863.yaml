@@ -65,10 +65,10 @@ language:
 script:
 - Latn
 abstract:
-- content: "<p>This RFC specifies a standard for the ARPA Internet community.  Hosts
+- content: "<p>This RFC specifies a standard for the ARPA Internet community. Hosts
     on the ARPA Internet that choose to implement a Discard Protocol are expected
-    to adopt and implement this standard.  The Discard service simply throws away
-    any data it receives.</p>"
+    to adopt and implement this standard. The Discard service simply throws away any
+    data it receives.</p>"
   language:
   - en
   script:

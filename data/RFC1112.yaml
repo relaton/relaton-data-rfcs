@@ -71,8 +71,8 @@ script:
 - Latn
 abstract:
 - content: "<p>This memo specifies the extensions required of a host implementation
-    of the Internet Protocol (IP) to support multicasting.  Recommended procedure
-    for IP multicasting in the Internet.  This RFC obsoletes RFCs 998 and 1054. [STANDARDS-TRACK]</p>"
+    of the Internet Protocol (IP) to support multicasting. Recommended procedure for
+    IP multicasting in the Internet. This RFC obsoletes RFCs 998 and 1054. [STANDARDS-TRACK]</p>"
   language:
   - en
   script:

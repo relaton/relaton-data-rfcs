@@ -66,7 +66,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This memo provides describes the mapping of the GLOP addresses corresponding
-    to the private AS space.  This memo provides information for the Internet community.</p>"
+    to the private AS space. This memo provides information for the Internet community.</p>"
   language:
   - en
   script:

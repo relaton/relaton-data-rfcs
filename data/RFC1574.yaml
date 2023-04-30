@@ -97,8 +97,8 @@ abstract:
 - content: "<p>This document specifies the following three necessary tools to debug
     problems in the deployment and maintenance of networks using ISO 8473 (CLNP):
     ping or OSI Echo function, traceroute function which uses the OSI Echo function,
-    and routing table dump function.  This memo provides information for the Internet
-    community.  This memo does not specify an Internet standard of any kind.</p>"
+    and routing table dump function. This memo provides information for the Internet
+    community. This memo does not specify an Internet standard of any kind.</p>"
   language:
   - en
   script:

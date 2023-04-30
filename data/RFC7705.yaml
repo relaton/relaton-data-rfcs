@@ -97,7 +97,7 @@ script:
 abstract:
 - content: "<p>This document discusses some existing commonly used BGP mechanisms
     for Autonomous System Number (ASN) migration that are not formally part of the
-    BGP4 protocol specification.  It is necessary to document these de facto standards
+    BGP4 protocol specification. It is necessary to document these de facto standards
     to ensure that they are properly supported in future BGP protocol work.</p>"
   language:
   - en

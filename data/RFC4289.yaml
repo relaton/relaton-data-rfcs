@@ -95,9 +95,9 @@ script:
 - Latn
 abstract:
 - content: "<p>This document specifies IANA registration procedures for MIME external
-    body access types and content-transfer-encodings.  This document specifies an
-    Internet Best Current Practices for the Internet Community, and requests discussion
-    and suggestions for improvements.</p>"
+    body access types and content-transfer-encodings. This document specifies an Internet
+    Best Current Practices for the Internet Community, and requests discussion and
+    suggestions for improvements.</p>"
   language:
   - en
   script:

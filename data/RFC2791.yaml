@@ -67,7 +67,7 @@ script:
 abstract:
 - content: "<p>This document identifies major factors affecting routing scalability
     as well as basic principles of designing scalable routing for large networks.
-    \ This memo provides information for the Internet community.</p>"
+    This memo provides information for the Internet community.</p>"
   language:
   - en
   script:

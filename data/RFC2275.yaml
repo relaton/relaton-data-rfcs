@@ -125,10 +125,10 @@ script:
 - Latn
 abstract:
 - content: "<p>This document describes the View-based Access Control Model for use
-    in the SNMP architecture [RFC2261].  It defines the Elements of Procedure for
-    controlling access to management information.  This document also includes a MIB
-    for remotely managing the configuration parameters for the View-based Access Control
-    Model. [STANDARDS-TRACK]</p>"
+    in the SNMP architecture [RFC2261]. It defines the Elements of Procedure for controlling
+    access to management information. This document also includes a MIB for remotely
+    managing the configuration parameters for the View-based Access Control Model.
+    [STANDARDS-TRACK]</p>"
   language:
   - en
   script:

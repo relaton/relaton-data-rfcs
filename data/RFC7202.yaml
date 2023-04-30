@@ -96,9 +96,9 @@ script:
 - Latn
 abstract:
 - content: "<p>This memo discusses the problem of securing real-time multimedia sessions.
-    \ It also explains why the Real-time Transport Protocol (RTP) and the associated
+    It also explains why the Real-time Transport Protocol (RTP) and the associated
     RTP Control Protocol (RTCP) do not mandate a single media security mechanism.
-    \ This is relevant for designers and reviewers of future RTP extensions to ensure
+    This is relevant for designers and reviewers of future RTP extensions to ensure
     that appropriate security mechanisms are mandated and that any such mechanisms
     are specified in a manner that conforms with the RTP architecture.</p>"
   language:

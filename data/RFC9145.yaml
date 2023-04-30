@@ -126,7 +126,7 @@ script:
 abstract:
 - content: "<p>This specification presents an optional method to add integrity protection
     directly to the Network Service Header (NSH) used for Service Function Chaining
-    (SFC).  Also, this specification allows for the encryption of sensitive metadata
+    (SFC). Also, this specification allows for the encryption of sensitive metadata
     (MD) that is carried in the NSH.</p>"
   language:
   - en

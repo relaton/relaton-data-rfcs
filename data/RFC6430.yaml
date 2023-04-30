@@ -95,7 +95,7 @@ script:
 - Latn
 abstract:
 - content: '<p>This document defines a new Abuse Reporting Format (ARF) feedback report
-    type value: "not-spam".  It can be used to report an email message that was mistakenly
+    type value: "not-spam". It can be used to report an email message that was mistakenly
     marked as spam. [STANDARDS-TRACK]</p>'
   language:
   - en

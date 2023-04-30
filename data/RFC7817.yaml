@@ -68,7 +68,7 @@ script:
 abstract:
 - content: "<p>This document describes the Transport Layer Security (TLS) server identity
     verification procedure for SMTP Submission, IMAP, POP, and ManageSieve clients.
-    \ It replaces Section 2.4 (Server Identity Check) of RFC 2595 and updates Section
+    It replaces Section 2.4 (Server Identity Check) of RFC 2595 and updates Section
     4.1 (Processing After the STARTTLS Command) of RFC 3207, Section 11.1 (STARTTLS
     Security Considerations) of RFC 3501, and Section 2.2.1 (Server Identity Check)
     of RFC 5804.</p>"

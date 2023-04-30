@@ -73,8 +73,8 @@ script:
 abstract:
 - content: "<p>The purpose of this RFC is to provide helpful information on the Military
     Standard Internet Protocol (MIL-STD-1777) so that one can obtain a reliable implementation
-    of this protocol.  This paper points out several problems in this specification.
-    \ This note also proposes solutions to these problems.</p>"
+    of this protocol. This paper points out several problems in this specification.
+    This note also proposes solutions to these problems.</p>"
   language:
   - en
   script:

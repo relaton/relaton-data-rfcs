@@ -153,11 +153,11 @@ script:
 - Latn
 abstract:
 - content: <p>This document contains a "roadmap" to the Requests for Comments (RFC)
-    documents relating to the Internet's Transmission Control Protocol (TCP).  This
+    documents relating to the Internet's Transmission Control Protocol (TCP). This
     roadmap provides a brief summary of the documents defining TCP and various TCP
-    extensions that have accumulated in the RFC series.  This serves as a guide and
+    extensions that have accumulated in the RFC series. This serves as a guide and
     quick reference for both TCP implementers and other parties who desire information
-    contained in the TCP-related RFCs.  This memo provides information for the Internet
+    contained in the TCP-related RFCs. This memo provides information for the Internet
     community.</p>
   language:
   - en

@@ -96,8 +96,7 @@ script:
 abstract:
 - content: "<p>This describes an experimental policy for use of the class D address
     space using 233/8 as the experimental statically assigned subset of the class
-    D address space.  This memo defines an Experimental Protocol for the Internet
-    community.</p>"
+    D address space. This memo defines an Experimental Protocol for the Internet community.</p>"
   language:
   - en
   script:

@@ -72,10 +72,10 @@ script:
 - Latn
 abstract:
 - content: "<p>This informational RFC presents procedures for creating and documenting
-    Internet standards on routing protocols.  These procedures have been established
+    Internet standards on routing protocols. These procedures have been established
     by the Internet Activities Board (IAB) in consultation with the Internet Engineering
-    Steering Group (IESG).  This memo provides information for the Internet community.
-    \ It does not specifiy an Internet standard.</p>"
+    Steering Group (IESG). This memo provides information for the Internet community.
+    It does not specifiy an Internet standard.</p>"
   language:
   - en
   script:

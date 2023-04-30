@@ -124,7 +124,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This memo defines a Time Sliding Window Three Colour Marker (TSWTCM),
-    which can be used as a component in a Diff-Serv traffic conditioner.  This memo
+    which can be used as a component in a Diff-Serv traffic conditioner. This memo
     defines an Experimental Protocol for the Internet community.</p>"
   language:
   - en

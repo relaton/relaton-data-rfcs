@@ -95,9 +95,9 @@ script:
 - Latn
 abstract:
 - content: <p>This specification defines two formats and associated media types for
-    representing sets of links as standalone documents.  One format is based on JSON,
+    representing sets of links as standalone documents. One format is based on JSON,
     and the other is aligned with the format for representing links in the HTTP "Link"
-    header field.  This specification also introduces a link relation type to support
+    header field. This specification also introduces a link relation type to support
     the discovery of sets of links.</p>
   language:
   - en

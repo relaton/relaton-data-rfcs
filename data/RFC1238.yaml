@@ -68,7 +68,7 @@ script:
 abstract:
 - content: "<p>This memo defines an experimental portion of the Management Information
     Base (MIB) for use with network management protocols in TCP/IP-based internets.
-    \ This is an Experimental Protocol for the Internet community.  It does not specify
+    This is an Experimental Protocol for the Internet community. It does not specify
     an Internet standard.</p>"
   language:
   - en

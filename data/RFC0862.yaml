@@ -65,10 +65,10 @@ language:
 script:
 - Latn
 abstract:
-- content: "<p>This RFC specifies a standard for the ARPA Internet community.  Hosts
+- content: "<p>This RFC specifies a standard for the ARPA Internet community. Hosts
     on the ARPA Internet that choose to implement a Echo Protocol are expected to
-    adopt and implement this standard.  The Echo service simply sends back to the
-    originating source any data it receives.</p>"
+    adopt and implement this standard. The Echo service simply sends back to the originating
+    source any data it receives.</p>"
   language:
   - en
   script:

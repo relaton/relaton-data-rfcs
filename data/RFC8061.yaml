@@ -95,7 +95,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This document describes a mechanism for encrypting traffic encapsulated
-    using the Locator/ID Separation Protocol (LISP).  The design describes how key
+    using the Locator/ID Separation Protocol (LISP). The design describes how key
     exchange is achieved using existing LISP control-plane mechanisms as well as how
     to secure the LISP data plane from third-party surveillance attacks.</p>"
   language:

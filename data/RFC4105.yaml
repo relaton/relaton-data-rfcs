@@ -134,9 +134,9 @@ script:
 - Latn
 abstract:
 - content: "<p>This document lists a detailed set of functional requirements for the
-    support of inter-area MPLS Traffic Engineering (inter-area MPLS TE).  It is intended
+    support of inter-area MPLS Traffic Engineering (inter-area MPLS TE). It is intended
     that solutions that specify procedures and protocol extensions for inter-area
-    MPLS TE satisfy these requirements.  This memo provides information for the Internet
+    MPLS TE satisfy these requirements. This memo provides information for the Internet
     community.</p>"
   language:
   - en

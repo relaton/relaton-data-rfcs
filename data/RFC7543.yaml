@@ -182,8 +182,8 @@ script:
 - Latn
 abstract:
 - content: "<p>This document defines a new Outbound Route Filter (ORF) type, called
-    the Covering Prefixes ORF (CP-ORF).  CP-ORF is applicable in Virtual Hub-and-Spoke
-    VPNs.  It also is applicable in BGP/MPLS Ethernet VPN (EVPN) networks.</p>"
+    the Covering Prefixes ORF (CP-ORF). CP-ORF is applicable in Virtual Hub-and-Spoke
+    VPNs. It also is applicable in BGP/MPLS Ethernet VPN (EVPN) networks.</p>"
   language:
   - en
   script:

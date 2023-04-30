@@ -95,7 +95,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This document is intended to provide methodology for the benchmarking
-    of local area network (LAN) switching devices.  This memo provides information
+    of local area network (LAN) switching devices. This memo provides information
     for the Internet community.</p>"
   language:
   - en

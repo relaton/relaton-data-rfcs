@@ -66,8 +66,8 @@ script:
 - Latn
 abstract:
 - content: "<p>This document describes a general syntax for data that may have cryptography
-    applied to it, such as digital signatures and digital envelopes.  This memo provides
-    information for the Internet community.  It does not specify an Internet standard
+    applied to it, such as digital signatures and digital envelopes. This memo provides
+    information for the Internet community. It does not specify an Internet standard
     of any kind.</p>"
   language:
   - en

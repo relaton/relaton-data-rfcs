@@ -124,9 +124,9 @@ script:
 - Latn
 abstract:
 - content: "<p>This document defines the format of an electronic signature that can
-    remain valid over long periods.  This includes evidence as to its validity even
+    remain valid over long periods. This includes evidence as to its validity even
     if the signer or verifying party later attempts to deny (i.e., repudiates the
-    validity of the signature).  This memo provides information for the Internet community.</p>"
+    validity of the signature). This memo provides information for the Internet community.</p>"
   language:
   - en
   script:

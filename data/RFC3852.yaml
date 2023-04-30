@@ -65,7 +65,7 @@ language:
 script:
 - Latn
 abstract:
-- content: "<p>This document describes the Cryptographic Message Syntax (CMS).  This
+- content: "<p>This document describes the Cryptographic Message Syntax (CMS). This
     syntax is used to digitally sign, digest, authenticate, or encrypt arbitrary message
     content. [STANDARDS-TRACK]</p>"
   language:

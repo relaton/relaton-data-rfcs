@@ -125,7 +125,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This document describes the registration of the MIME sub-type image/tiff-fx.
-    \ The encodings are defined by File Format for Internet Fax and its extensions.
+    The encodings are defined by File Format for Internet Fax and its extensions.
     [STANDARDS-TRACK]</p>"
   language:
   - en

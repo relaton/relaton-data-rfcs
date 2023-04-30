@@ -212,7 +212,7 @@ script:
 abstract:
 - content: "<p>This document defines a set of RADIUS (Remote Authentication Dial In
     User Service) attributes designed to support the provision of compulsory tunneling
-    in dial-up networks.  This memo provides information for the Internet community.</p>"
+    in dial-up networks. This memo provides information for the Internet community.</p>"
   language:
   - en
   script:

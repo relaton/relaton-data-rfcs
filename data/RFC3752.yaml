@@ -211,8 +211,8 @@ script:
 - Latn
 abstract:
 - content: "<p>This memo provides a discussion of use cases and deployment scenarios
-    for Open Pluggable Edge Services (OPES).  The work examines services that could
-    be performed to requests and/or responses.  This memo provides information for
+    for Open Pluggable Edge Services (OPES). The work examines services that could
+    be performed to requests and/or responses. This memo provides information for
     the Internet community.</p>"
   language:
   - en

@@ -67,7 +67,7 @@ script:
 abstract:
 - content: "<p>This document specifies the algorithm for wrapping one Triple-DES key
     with another Triple-DES key and the algorithm for wrapping one RC2 key with another
-    RC2 key.  This memo provides information for the Internet community.</p>"
+    RC2 key. This memo provides information for the Internet community.</p>"
   language:
   - en
   script:

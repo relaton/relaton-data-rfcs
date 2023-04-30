@@ -67,8 +67,8 @@ script:
 abstract:
 - content: "<p>As required by Routing Protocol Criteria, this report documents the
     key features of Routing over Demand Circuits on Wide Area Networks - RIP and the
-    current implementation experience.  This memo provides information for the Internet
-    community.  This memo does not specify an Internet standard of any kind.</p>"
+    current implementation experience. This memo provides information for the Internet
+    community. This memo does not specify an Internet standard of any kind.</p>"
   language:
   - en
   script:

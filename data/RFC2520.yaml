@@ -154,7 +154,7 @@ script:
 abstract:
 - content: "<p>is document describes an extension to NHRP which would allow Mobile
     NHCs to perform a registration with and attach to an NHS in their home LIS in
-    an authenticated manner.  This memo defines an Experimental Protocol for the Internet
+    an authenticated manner. This memo defines an Experimental Protocol for the Internet
     community.</p>"
   language:
   - en

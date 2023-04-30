@@ -153,8 +153,8 @@ script:
 - Latn
 abstract:
 - content: "<p>This document gives guidance on securing manually configured IPv6-in-
-    IPv4 tunnels using IPsec in transport mode.  No additional protocol extensions
-    are described beyond those available with the IPsec framework.  This memo provides
+    IPv4 tunnels using IPsec in transport mode. No additional protocol extensions
+    are described beyond those available with the IPsec framework. This memo provides
     information for the Internet community.</p>"
   language:
   - en

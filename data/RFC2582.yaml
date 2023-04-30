@@ -95,7 +95,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This document describes a specific algorithm for responding to partial
-    acknowledgments, referred to as NewReno.  This memo defines an Experimental Protocol
+    acknowledgments, referred to as NewReno. This memo defines an Experimental Protocol
     for the Internet community.</p>"
   language:
   - en

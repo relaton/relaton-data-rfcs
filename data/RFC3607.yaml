@@ -67,7 +67,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This document revisits the so-called Chinese Lottery massively-parallel
-    cryptanalytic attack.  It explores Internet-based analogues to the Chinese Lottery,
+    cryptanalytic attack. It explores Internet-based analogues to the Chinese Lottery,
     and their potentially-serious consequences.</p>"
   language:
   - en

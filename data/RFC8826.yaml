@@ -66,7 +66,7 @@ script:
 - Latn
 abstract:
 - content: <p>WebRTC is a protocol suite for use with real-time applications that
-    can be deployed in browsers -- "real-time communication on the Web".  This document
+    can be deployed in browsers -- "real-time communication on the Web". This document
     defines the WebRTC threat model and analyzes the security threats of WebRTC in
     that model.</p>
   language:

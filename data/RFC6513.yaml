@@ -96,7 +96,7 @@ script:
 abstract:
 - content: "<p>In order for IP multicast traffic within a BGP/MPLS IP VPN (Virtual
     Private Network) to travel from one VPN site to another, special protocols and
-    procedures must be implemented by the VPN Service Provider.  These protocols and
+    procedures must be implemented by the VPN Service Provider. These protocols and
     procedures are specified in this document. [STANDARDS-TRACK]</p>"
   language:
   - en

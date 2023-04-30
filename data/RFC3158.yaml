@@ -124,7 +124,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This memo describes a possible testing strategy for RTP (real-time
-    transport protocol) implementations.  This memo provides information for the Internet
+    transport protocol) implementations. This memo provides information for the Internet
     community.</p>"
   language:
   - en

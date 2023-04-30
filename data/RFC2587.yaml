@@ -124,7 +124,7 @@ script:
 - Latn
 abstract:
 - content: "<p>The schema defined in this document is a minimal schema to support
-    PKIX in an LDAPv2 environment, as defined in RFC 2559.  Only PKIX-specific components
+    PKIX in an LDAPv2 environment, as defined in RFC 2559. Only PKIX-specific components
     are specified here. [STANDARDS-TRACK]</p>"
   language:
   - en

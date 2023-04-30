@@ -96,9 +96,9 @@ script:
 - Latn
 abstract:
 - content: "<p>This document updates the Internet Key Exchange Protocol version 2
-    (IKEv2) described in RFC 5996.  This extension allows an IKE Security Association
+    (IKEv2) described in RFC 5996. This extension allows an IKE Security Association
     (SA) to be created and authenticated using the Extensible Authentication Protocol
-    (EAP) Re-authentication Protocol extension, as described in RFC 6696.  This document
+    (EAP) Re-authentication Protocol extension, as described in RFC 6696. This document
     defines an Experimental Protocol for the Internet community.</p>"
   language:
   - en

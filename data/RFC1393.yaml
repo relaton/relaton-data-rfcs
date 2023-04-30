@@ -67,7 +67,7 @@ script:
 abstract:
 - content: "<p>This document specifies a new IP option and ICMP message type which
     duplicates the functionality of the existing traceroute method while generating
-    fewer packets and completing in a shorter time.  This memo defines an Experimental
+    fewer packets and completing in a shorter time. This memo defines an Experimental
     Protocol for the Internet community.</p>"
   language:
   - en

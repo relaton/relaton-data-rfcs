@@ -154,8 +154,8 @@ script:
 - Latn
 abstract:
 - content: "<p>This document specifies the notification mechanism for XCON (centralized
-    conferencing).  This mechanism reuses the SIP (Session Initiation Protocol) event
-    package for conference state.  Additionally, the notification mechanism includes
+    conferencing). This mechanism reuses the SIP (Session Initiation Protocol) event
+    package for conference state. Additionally, the notification mechanism includes
     support for the XCON data model and for partial notifications. [STANDARDS-TRACK]</p>"
   language:
   - en

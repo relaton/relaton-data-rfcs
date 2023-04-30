@@ -66,8 +66,8 @@ script:
 - Latn
 abstract:
 - content: "<p>This memo describes client requirements for real-time communication
-    services.  This memo provides information for the Internet community, and requests
-    discussion and suggestions for improvements.  It does not specify any standard.</p>"
+    services. This memo provides information for the Internet community, and requests
+    discussion and suggestions for improvements. It does not specify any standard.</p>"
   language:
   - en
   script:

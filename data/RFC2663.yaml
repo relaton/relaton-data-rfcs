@@ -96,7 +96,7 @@ script:
 abstract:
 - content: "<p>This document attempts to describe the operation of NAT devices and
     the associated considerations in general, and to define the terminology used to
-    identify various flavors of NAT.  This memo provides information for the Internet
+    identify various flavors of NAT. This memo provides information for the Internet
     community.</p>"
   language:
   - en

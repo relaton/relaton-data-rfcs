@@ -70,7 +70,7 @@ language:
 script:
 - Latn
 abstract:
-- content: "<p>This memo describes the de facto standard Digest Message Format.  This
+- content: "<p>This memo describes the de facto standard Digest Message Format. This
     is an elective experimental protocol.</p>"
   language:
   - en

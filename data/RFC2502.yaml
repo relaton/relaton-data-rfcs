@@ -126,7 +126,7 @@ script:
 abstract:
 - content: "<p>This memo defines services that LSMA has found to be required, and
     aspects of the Internet protocols that LSMA has found to need further development
-    in order to meet these requirements.  This memo provides information for the Internet
+    in order to meet these requirements. This memo provides information for the Internet
     community.</p>"
   language:
   - en

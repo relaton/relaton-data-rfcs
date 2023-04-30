@@ -66,7 +66,7 @@ script:
 - Latn
 abstract:
 - content: <p>This document recommends some editorial changes to the IANA "IS-IS TLV
-    Codepoints" registry to more accurately document the state of the protocol.  It
+    Codepoints" registry to more accurately document the state of the protocol. It
     also sets out new guidelines for Designated Experts to apply when reviewing allocations
     from the registry.</p>
   language:

@@ -96,10 +96,10 @@ script:
 - Latn
 abstract:
 - content: "<p>This document describes a Uniform Resource Name Namespace Identification
-    (URN NID) for the International Organization for Standardization (ISO).  This
-    URN NID is intended for use for the identification of persistent resources published
+    (URN NID) for the International Organization for Standardization (ISO). This URN
+    NID is intended for use for the identification of persistent resources published
     by the ISO standards body (including documents, document metadata, extracted resources
-    such as standard schemata and standard value sets, and other resources).  This
+    such as standard schemata and standard value sets, and other resources). This
     memo provides information for the Internet community.</p>"
   language:
   - en

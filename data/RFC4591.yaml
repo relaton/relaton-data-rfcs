@@ -182,7 +182,7 @@ script:
 - Latn
 abstract:
 - content: "<p>The Layer 2 Tunneling Protocol, Version 3, (L2TPv3) defines a protocol
-    for tunneling a variety of data link protocols over IP networks.  This document
+    for tunneling a variety of data link protocols over IP networks. This document
     describes the specifics of how to tunnel Frame Relay over L2TPv3, including frame
     encapsulation, virtual-circuit creation and deletion, and status change notification.
     [STANDARDS-TRACK]</p>"

@@ -96,8 +96,8 @@ script:
 abstract:
 - content: "<p>This document describes JSON data structures representing registration
     information maintained by Regional Internet Registries (RIRs) and Domain Name
-    Registries (DNRs).  These data structures are used to form Registration Data Access
-    Protocol (RDAP) query responses.  This document obsoletes RFC 7483.</p>"
+    Registries (DNRs). These data structures are used to form Registration Data Access
+    Protocol (RDAP) query responses. This document obsoletes RFC 7483.</p>"
   language:
   - en
   script:

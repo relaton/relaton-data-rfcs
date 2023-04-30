@@ -96,7 +96,7 @@ script:
 abstract:
 - content: "<p>This document describes server pool policies for Reliable Server Pooling
     (RSerPool) including considerations for implementing them at Endpoint Handlespace
-    Redundancy Protocol (ENRP) servers and pool users.  This memo defines an Experimental
+    Redundancy Protocol (ENRP) servers and pool users. This memo defines an Experimental
     Protocol for the Internet community.</p>"
   language:
   - en

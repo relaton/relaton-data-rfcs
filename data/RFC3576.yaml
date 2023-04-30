@@ -184,9 +184,9 @@ script:
 abstract:
 - content: "<p>This document describes a currently deployed extension to the Remote
     Authentication Dial In User Service (RADIUS) protocol, allowing dynamic changes
-    to a user session, as implemented by network access server products.  This includes
+    to a user session, as implemented by network access server products. This includes
     support for disconnecting users and changing authorizations applicable to a user
-    session.  This memo provides information for the Internet community.</p>"
+    session. This memo provides information for the Internet community.</p>"
   language:
   - en
   script:

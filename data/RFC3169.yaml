@@ -95,7 +95,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This document defines requirements for protocols used by Network Access
-    Servers (NAS).  This memo provides information for the Internet community.</p>"
+    Servers (NAS). This memo provides information for the Internet community.</p>"
   language:
   - en
   script:

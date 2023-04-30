@@ -97,9 +97,9 @@ script:
 abstract:
 - content: "<p>This document describes the Namespace Identifier (NID) for Uniform
     Resource Namespace (URN) resources published by the 3rd Generation Partnership
-    Project (3GPP).  3GPP defines and manages resources that utilize this URN name
-    model.  Management activities for these and other resource types are provided
-    by the 3GPP Support Team.  This memo provides information for the Internet community.</p>"
+    Project (3GPP). 3GPP defines and manages resources that utilize this URN name
+    model. Management activities for these and other resource types are provided by
+    the 3GPP Support Team. This memo provides information for the Internet community.</p>"
   language:
   - en
   script:

@@ -71,7 +71,7 @@ script:
 - Latn
 abstract:
 - content: "<p>Hosts on the Internet that support Linemode within the Telnet protocol
-    are expected to adopt and implement this protocol.  Obsoleted by RFC 1184. [STANDARDS-TRACK]</p>"
+    are expected to adopt and implement this protocol. Obsoleted by RFC 1184. [STANDARDS-TRACK]</p>"
   language:
   - en
   script:

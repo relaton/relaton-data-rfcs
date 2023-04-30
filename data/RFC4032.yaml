@@ -95,7 +95,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This document updates RFC 3312, which defines the framework for preconditions
-    in SIP.  We provide guidelines for authors of new precondition types and describe
+    in SIP. We provide guidelines for authors of new precondition types and describe
     how to use SIP preconditions in situations that involve session mobility. [STANDARDS-TRACK]</p>"
   language:
   - en

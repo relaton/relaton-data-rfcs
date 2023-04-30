@@ -66,8 +66,8 @@ script:
 - Latn
 abstract:
 - content: "<p>OTP provides a useful authentication mechanism for situations where
-    there is limited client or server trust.  Currently, OTP is added to protocols
-    in an ad-hoc fashion with heuristic parsing.  This specification defines an OTP
+    there is limited client or server trust. Currently, OTP is added to protocols
+    in an ad-hoc fashion with heuristic parsing. This specification defines an OTP
     SASL mechanism so it can be easily and formally integrated into many application
     protocols. [STANDARDS-TRACK]</p>"
   language:

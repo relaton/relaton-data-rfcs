@@ -72,7 +72,7 @@ abstract:
     the following specifications: the Voice Extensible Markup Language (VoiceXML),
     the Speech Synthesis Markup Language (SSML), the Speech Recognition Grammar Specification
     (SRGS), the Call Control XML (CCXML), and the Pronunciation Lexicon Specification
-    (PLS).  This memo provides information for the Internet community.</p>"
+    (PLS). This memo provides information for the Internet community.</p>"
   language:
   - en
   script:

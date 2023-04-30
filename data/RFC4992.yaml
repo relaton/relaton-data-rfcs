@@ -66,8 +66,8 @@ script:
 - Latn
 abstract:
 - content: "<p>This document describes a simple TCP transfer protocol for the Internet
-    Registry Information Service (IRIS).  Data is transferred between clients and
-    servers using chunks to achieve pipelining. [STANDARDS-TRACK]</p>"
+    Registry Information Service (IRIS). Data is transferred between clients and servers
+    using chunks to achieve pipelining. [STANDARDS-TRACK]</p>"
   language:
   - en
   script:

@@ -68,7 +68,7 @@ script:
 abstract:
 - content: <p>This document changes the policy of the "Location-to-Service Translation
     (LoST) Location Profiles" IANA registry established by RFC 5222 from Standards
-    Action to Specification Required.  This allows standards development organizations
+    Action to Specification Required. This allows standards development organizations
     (SDOs) other than the IETF to add new values.</p>
   language:
   - en

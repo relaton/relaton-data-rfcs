@@ -182,7 +182,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This document defines a YANG data model and associated mechanisms enabling
-    subscriber-specific subscriptions to a publisher's event streams.  Applying these
+    subscriber-specific subscriptions to a publisher's event streams. Applying these
     elements allows a subscriber to request and receive a continuous, customized feed
     of publisher-generated information.</p>"
   language:

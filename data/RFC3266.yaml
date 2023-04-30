@@ -129,7 +129,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This document describes the use of Internet Protocol Version 6 (IPv6)
-    addresses in conjunction with the Session Description Protocol (SDP).  Specifically,
+    addresses in conjunction with the Session Description Protocol (SDP). Specifically,
     this document clarifies existing text in SDP with regards to the syntax of IPv6
     addresses. [STANDARDS-TRACK]</p>"
   language:

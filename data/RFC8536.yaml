@@ -125,7 +125,7 @@ script:
 abstract:
 - content: "<p>This document specifies the Time Zone Information Format (TZif) for
     representing and exchanging time zone information, independent of any particular
-    service or protocol.  Two media types for this format are also defined.</p>"
+    service or protocol. Two media types for this format are also defined.</p>"
   language:
   - en
   script:

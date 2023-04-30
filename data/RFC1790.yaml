@@ -67,8 +67,8 @@ script:
 - Latn
 abstract:
 - content: "<p>This RFC is an official public record of an agreement between SUN Microsystems
-    and the Internet Society.  This memo provides information for the Internet community.
-    \ It does not specify an Internet standard of any kind.</p>"
+    and the Internet Society. This memo provides information for the Internet community.
+    It does not specify an Internet standard of any kind.</p>"
   language:
   - en
   script:

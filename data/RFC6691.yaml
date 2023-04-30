@@ -66,8 +66,8 @@ script:
 - Latn
 abstract:
 - content: "<p>This memo discusses what value to use with the TCP Maximum Segment
-    Size (MSS) option, and updates RFC 879 and RFC 2385.  This document is not an
-    Internet Standards Track specification; it is published for informational purposes.</p>"
+    Size (MSS) option, and updates RFC 879 and RFC 2385. This document is not an Internet
+    Standards Track specification; it is published for informational purposes.</p>"
   language:
   - en
   script:

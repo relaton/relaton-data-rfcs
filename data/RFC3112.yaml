@@ -67,7 +67,7 @@ script:
 abstract:
 - content: "<p>This document describes schema in support of user/password authentication
     in a LDAP (Lightweight Directory Access Protocol) directory including the authPassword
-    attribute type.  This memo provides information for the Internet community.</p>"
+    attribute type. This memo provides information for the Internet community.</p>"
   language:
   - en
   script:

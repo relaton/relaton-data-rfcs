@@ -154,8 +154,8 @@ script:
 - Latn
 abstract:
 - content: "<p>It may be useful to define the acceptable lower-bounds of implementation,
-    along with the actual level of implementation achieved.  It is the purpose of
-    this document to define the notation used for these purposes. [STANDARDS-TRACK]</p>"
+    along with the actual level of implementation achieved. It is the purpose of this
+    document to define the notation used for these purposes. [STANDARDS-TRACK]</p>"
   language:
   - en
   script:

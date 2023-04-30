@@ -96,9 +96,9 @@ script:
 - Latn
 abstract:
 - content: "<p>This document provides a guideline for creating civic address considerations
-    documents for individual countries, as required by RFC 4776.  Furthermore, this
+    documents for individual countries, as required by RFC 4776. Furthermore, this
     document also creates an IANA Registry referring to such address considerations
-    documents and registers such address considerations for Austria.  This memo documents
+    documents and registers such address considerations for Austria. This memo documents
     an Internet Best Current Practice.</p>"
   language:
   - en

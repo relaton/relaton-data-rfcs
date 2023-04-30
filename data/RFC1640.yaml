@@ -67,8 +67,8 @@ script:
 abstract:
 - content: "<p>This report, originally prepared in January 1993 provides a summary
     of the POISED WG, starting from the events leading to the formation of the WG
-    to the end of 1992.  This memo provides information for the Internet community.
-    \ This memo does not specify an Internet standard of any kind.</p>"
+    to the end of 1992. This memo provides information for the Internet community.
+    This memo does not specify an Internet standard of any kind.</p>"
   language:
   - en
   script:

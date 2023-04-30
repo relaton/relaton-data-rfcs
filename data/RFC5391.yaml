@@ -67,7 +67,7 @@ script:
 abstract:
 - content: "<p>This document specifies a Real-time Transport Protocol (RTP) payload
     format to be used for the ITU Telecommunication Standardization Sector (ITU-T)
-    G.711.1 audio codec.  Two media type registrations are also included. [STANDARDS-TRACK]</p>"
+    G.711.1 audio codec. Two media type registrations are also included. [STANDARDS-TRACK]</p>"
   language:
   - en
   script:

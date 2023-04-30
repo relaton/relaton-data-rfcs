@@ -66,7 +66,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This memo defines behavioral characteristics of and interoperability
-    requirements for Internet firewalls.  This memo provides information for the Internet
+    requirements for Internet firewalls. This memo provides information for the Internet
     community.</p>"
   language:
   - en

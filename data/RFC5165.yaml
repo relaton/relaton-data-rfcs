@@ -68,7 +68,7 @@ script:
 abstract:
 - content: <p>This document describes a Uniform Resource Name (URN) namespace that
     is engineered by the Open Geospatial Consortium (OGC) for naming persistent resources
-    published by the OGC.  The formal Namespace IDentifier (NID) is "ogc".  This memo
+    published by the OGC. The formal Namespace IDentifier (NID) is "ogc". This memo
     provides information for the Internet community.</p>
   language:
   - en

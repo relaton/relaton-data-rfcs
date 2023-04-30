@@ -124,7 +124,7 @@ script:
 - Latn
 abstract:
 - content: "<p>The Extensible Authentication Protocol (EAP) provides a standard mechanism
-    for support of various authentication methods.  This document defines the Command-Codes
+    for support of various authentication methods. This document defines the Command-Codes
     and AVPs necessary to carry EAP packets between a Network Access Server (NAS)
     and a back-end authentication server. [STANDARDS-TRACK]</p>"
   language:

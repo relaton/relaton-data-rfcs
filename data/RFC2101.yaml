@@ -125,8 +125,8 @@ script:
 abstract:
 - content: "<p>The main purpose of this note is to clarify the current interpretation
     of the 32-bit IP version 4 address space, whose significance has changed substantially
-    since it was originally defined.  This memo provides information for the Internet
-    community.  This memo does not specify an Internet standard of any kind.</p>"
+    since it was originally defined. This memo provides information for the Internet
+    community. This memo does not specify an Internet standard of any kind.</p>"
   language:
   - en
   script:

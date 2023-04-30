@@ -124,7 +124,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This document describes a simple protocol for the delivery of real-
-    time events to user agents.  This scheme uses HTTP/2 server push.</p>"
+    time events to user agents. This scheme uses HTTP/2 server push.</p>"
   language:
   - en
   script:

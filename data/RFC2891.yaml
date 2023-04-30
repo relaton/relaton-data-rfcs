@@ -124,7 +124,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This document describes two LDAPv3 control extensions for server side
-    sorting of search results.  These controls allows a client to specify the attribute
+    sorting of search results. These controls allows a client to specify the attribute
     types and matching rules a server should use when returning the results to an
     LDAP search request. [STANDARDS-TRACK]</p>"
   language:

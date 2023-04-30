@@ -41,7 +41,7 @@ language:
 script:
 - Latn
 abstract:
-- content: "<p>This RFC marks the 40th anniversary of the RFC document series.  This
+- content: "<p>This RFC marks the 40th anniversary of the RFC document series. This
     memo provides information for the Internet community.</p>"
   language:
   - en

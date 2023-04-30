@@ -66,8 +66,8 @@ script:
 - Latn
 abstract:
 - content: "<p>This document describes the registration of the Multipurpose Internet
-    Mail Extensions (MIME) sub-type application/font-tdpfr.  The encoding is defined
-    by the PFR Specification.  This memo provides information for the Internet community.</p>"
+    Mail Extensions (MIME) sub-type application/font-tdpfr. The encoding is defined
+    by the PFR Specification. This memo provides information for the Internet community.</p>"
   language:
   - en
   script:

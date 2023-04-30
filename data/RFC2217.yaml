@@ -66,7 +66,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This memo proposes a protocol to allow greater use of modems attached
-    to a network for outbound dialing purposes.  This memo defines an Experimental
+    to a network for outbound dialing purposes. This memo defines an Experimental
     Protocol for the Internet community.</p>"
   language:
   - en

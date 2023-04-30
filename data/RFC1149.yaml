@@ -66,8 +66,8 @@ script:
 - Latn
 abstract:
 - content: "<p>This memo describes an experimental method for the encapsulation of
-    IP datagrams in avian carriers.  This specification is primarily useful in Metropolitan
-    Area Networks.  This is an experimental, not recommended standard.</p>"
+    IP datagrams in avian carriers. This specification is primarily useful in Metropolitan
+    Area Networks. This is an experimental, not recommended standard.</p>"
   language:
   - en
   script:

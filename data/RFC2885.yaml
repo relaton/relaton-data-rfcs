@@ -211,7 +211,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This document is common text with Recommendation H.248 as redetermined
-    in Geneva, February 2000.  It must be read in conjunction with the Megaco Errata,
+    in Geneva, February 2000. It must be read in conjunction with the Megaco Errata,
     RFC 2886. [STANDARDS-TRACK]</p>"
   language:
   - en

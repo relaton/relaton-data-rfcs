@@ -124,7 +124,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This document specifies the rsync Uniform Resource Identifier (URI)
-    scheme.  This document is not an Internet Standards Track specification; it is
+    scheme. This document is not an Internet Standards Track specification; it is
     published for informational purposes.</p>"
   language:
   - en

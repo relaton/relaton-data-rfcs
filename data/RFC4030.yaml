@@ -97,8 +97,8 @@ script:
 abstract:
 - content: "<p>The Dynamic Host Configuration Protocol (DHCP) Relay Agent Information
     Option (RFC 3046) conveys information between a DHCP Relay Agent and a DHCP server.
-    \ This specification defines an authentication suboption for that option, containing
-    a keyed hash in its payload.  The suboption supports data integrity and replay
+    This specification defines an authentication suboption for that option, containing
+    a keyed hash in its payload. The suboption supports data integrity and replay
     protection for relayed DHCP messages. [STANDARDS-TRACK]</p>"
   language:
   - en

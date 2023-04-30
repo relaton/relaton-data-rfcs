@@ -96,8 +96,8 @@ script:
 abstract:
 - content: "<p>This document describes a mechanism that allows subscriber applications
     to request a continuous and customized stream of updates from a YANG datastore.
-    \ Providing such visibility into updates enables new capabilities based on the
-    remote mirroring and monitoring of configuration and operational state.</p>"
+    Providing such visibility into updates enables new capabilities based on the remote
+    mirroring and monitoring of configuration and operational state.</p>"
   language:
   - en
   script:

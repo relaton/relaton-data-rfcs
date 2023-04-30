@@ -96,7 +96,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This specification contains guidance on the use of the Internet Public
-    Key Infrastructure certificates to convey Key Exchange Algorithm (KEA) keys.  This
+    Key Infrastructure certificates to convey Key Exchange Algorithm (KEA) keys. This
     memo provides information for the Internet community.</p>"
   language:
   - en

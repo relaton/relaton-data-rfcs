@@ -95,10 +95,10 @@ script:
 - Latn
 abstract:
 - content: "<p>This document describes a method for identifying the originating calling
-    party in the headers of a stored voice mail message.  Two new header fields are
-    defined for this purpose: Caller_ID and Called_Name.  Caller_id is used to store
+    party in the headers of a stored voice mail message. Two new header fields are
+    defined for this purpose: Caller_ID and Called_Name. Caller_id is used to store
     sufficient information for the recipient to callback, or reply to, the sender
-    of the message.  Caller-name provides the name of the person sending the message.
+    of the message. Caller-name provides the name of the person sending the message.
     [STANDARDS-TRACK]</p>"
   language:
   - en

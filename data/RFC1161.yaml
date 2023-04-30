@@ -71,8 +71,8 @@ script:
 - Latn
 abstract:
 - content: "<p>This memo defines an experimental means for running the Simple Network
-    Management Protocol (SNMP) over OSI transports.  This memo does not specify a
-    standard for the Internet community,</p>"
+    Management Protocol (SNMP) over OSI transports. This memo does not specify a standard
+    for the Internet community,</p>"
   language:
   - en
   script:

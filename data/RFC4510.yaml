@@ -68,7 +68,7 @@ script:
 abstract:
 - content: "<p>The Lightweight Directory Access Protocol (LDAP) is an Internet protocol
     for accessing distributed directory services that act in accordance with X.500
-    data and service models.  This document provides a road map of the LDAP Technical
+    data and service models. This document provides a road map of the LDAP Technical
     Specification. [STANDARDS-TRACK]</p>"
   language:
   - en

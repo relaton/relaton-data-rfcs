@@ -153,7 +153,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This document describes the standardization collaboration between 3GPP
-    and IETF.  This memo provides information for the Internet community.</p>"
+    and IETF. This memo provides information for the Internet community.</p>"
   language:
   - en
   script:

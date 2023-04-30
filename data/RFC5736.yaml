@@ -124,7 +124,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This is a direction to IANA concerning the creation and management
-    of the IANA IPv4 Special Purpose Address Registry.  This document is not an Internet
+    of the IANA IPv4 Special Purpose Address Registry. This document is not an Internet
     Standards Track specification; it is published for informational purposes.</p>"
   language:
   - en

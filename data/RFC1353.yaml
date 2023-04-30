@@ -124,7 +124,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This memo defines a portion of the Management Information Base (MIB)
-    for use with network management protocols in TCP/IP-based internets.  In particular,
+    for use with network management protocols in TCP/IP-based internets. In particular,
     it describes a representation of the SNMP parties defined in [8] as objects defined
     according to the Internet Standard SMI [1]. [STANDARDS-TRACK]</p>"
   language:

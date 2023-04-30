@@ -96,7 +96,7 @@ script:
 abstract:
 - content: <p>This document describes an extension to the Sieve email filtering language
     for an autoresponder similar to that of the Unix "vacation" command for replying
-    to messages.  Various safety features are included to prevent problems such as
+    to messages. Various safety features are included to prevent problems such as
     message loops. [STANDARDS-TRACK]</p>
   language:
   - en

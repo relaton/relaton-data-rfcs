@@ -70,7 +70,7 @@ abstract:
     Description Exchange Format (IODEF) described in RFC 5070 for exchange of incident
     management data, and it contains a template for Internet-Drafts describing those
     extensions, in order to ease the work and improve the quality of extension descriptions.
-    \ This document is not an Internet Standards Track specification; it is published
+    This document is not an Internet Standards Track specification; it is published
     for informational purposes.</p>"
   language:
   - en

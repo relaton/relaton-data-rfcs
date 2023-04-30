@@ -67,7 +67,7 @@ script:
 abstract:
 - content: "<p>This document specifies a common interface for using the Host Identity
     Protocol (HIP) with a Distributed Hash Table (DHT) service to provide a name-to-Host-Identity-Tag
-    lookup service and a Host- Identity-Tag-to-address lookup service.  This document
+    lookup service and a Host- Identity-Tag-to-address lookup service. This document
     defines an Experimental Protocol for the Internet community.</p>"
   language:
   - en

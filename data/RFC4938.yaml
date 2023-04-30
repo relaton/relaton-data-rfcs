@@ -95,9 +95,9 @@ script:
 - Latn
 abstract:
 - content: "<p>This document extends the Point-to-Point over Ethernet (PPPoE) Protocol
-    with a credit-based flow control mechanism and Link Quality Metric report.  This
+    with a credit-based flow control mechanism and Link Quality Metric report. This
     optional extension should improve the performance of PPPoE over media with variable
-    bandwidth and limited buffering, such as mobile radio links.  This memo provides
+    bandwidth and limited buffering, such as mobile radio links. This memo provides
     information for the Internet community.</p>"
   language:
   - en

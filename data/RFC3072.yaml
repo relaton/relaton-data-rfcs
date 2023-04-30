@@ -66,7 +66,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This specification describes an all-purpose interchange format for
-    use as a file format or for net-working.  This memo provides information for the
+    use as a file format or for net-working. This memo provides information for the
     Internet community.</p>"
   language:
   - en

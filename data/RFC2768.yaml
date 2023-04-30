@@ -269,10 +269,9 @@ script:
 - Latn
 abstract:
 - content: "<p>An ad hoc middleware workshop was held at the International Center
-    for Advanced Internet Research in December 1998.  The need for a more organized
+    for Advanced Internet Research in December 1998. The need for a more organized
     framework for middleware R&D was recognized, and a list of specific topics needing
-    further work was identified.  This memo provides information for the Internet
-    community.</p>"
+    further work was identified. This memo provides information for the Internet community.</p>"
   language:
   - en
   script:

@@ -94,7 +94,7 @@ language:
 script:
 - Latn
 abstract:
-- content: "<p>This document registers Enumservices for Internet calendaring.  Specifically,
+- content: "<p>This document registers Enumservices for Internet calendaring. Specifically,
     this document focuses on Enumservices for scheduling with iMIP (iCalendar Message-Based
     Interoperability Protocol) and for accessing Internet calendaring information
     with CalDAV (Calendaring Extensions to WebDAV). [STANDARDS-TRACK]</p>"

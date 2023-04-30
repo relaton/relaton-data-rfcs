@@ -153,10 +153,10 @@ script:
 - Latn
 abstract:
 - content: "<p>This specification defines bindings, and the BIND method for creating
-    multiple bindings to the same resource.  Creating a new binding to a resource
-    causes at least one new URI to be mapped to that resource.  Servers are required
-    to ensure the integrity of any bindings that they allow to be created.  This document
-    defines an Experimental Protocol for the Internet community.</p>"
+    multiple bindings to the same resource. Creating a new binding to a resource causes
+    at least one new URI to be mapped to that resource. Servers are required to ensure
+    the integrity of any bindings that they allow to be created. This document defines
+    an Experimental Protocol for the Internet community.</p>"
   language:
   - en
   script:

@@ -66,8 +66,8 @@ script:
 - Latn
 abstract:
 - content: "<p>As required by Routing Protocol Criteria (RFC 1264), this report defines
-    the applicability of the RIPng protocol within the Internet.  This memo provides
-    information for the Internet community.  This memo does not specify an Internet
+    the applicability of the RIPng protocol within the Internet. This memo provides
+    information for the Internet community. This memo does not specify an Internet
     standard of any kind.</p>"
   language:
   - en

@@ -96,7 +96,7 @@ script:
 - Latn
 abstract:
 - content: "<p>The IETF and other standards organizations have efforts targeted at
-    standardizing various aspects of placing emergency calls on IP networks.  This
+    standardizing various aspects of placing emergency calls on IP networks. This
     memo describes best current practice on how devices, networks, and services using
     IETF protocols should use such standards to make emergency calls.</p>"
   language:

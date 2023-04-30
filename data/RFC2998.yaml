@@ -327,7 +327,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This document describes a framework by which Integrated Services may
-    be supported over Diffserv networks.  This memo provides information for the Internet
+    be supported over Diffserv networks. This memo provides information for the Internet
     community.</p>"
   language:
   - en

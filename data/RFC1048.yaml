@@ -70,7 +70,7 @@ language:
 script:
 - Latn
 abstract:
-- content: "<p>This memo proposes an addition to the Bootstrap Protocol (BOOTP).  Comments
+- content: "<p>This memo proposes an addition to the Bootstrap Protocol (BOOTP). Comments
     and suggestions for improvements are sought.</p>"
   language:
   - en

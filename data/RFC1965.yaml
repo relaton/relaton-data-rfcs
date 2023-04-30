@@ -67,7 +67,7 @@ script:
 abstract:
 - content: "<p>This document describes an extension to BGP which may be used to create
     a confederation of autonomous systems which is represented as one single autonomous
-    system to BGP peers external to the confederation.  This memo defines an Experimental
+    system to BGP peers external to the confederation. This memo defines an Experimental
     Protocol for the Internet community.</p>"
   language:
   - en

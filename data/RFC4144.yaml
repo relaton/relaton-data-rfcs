@@ -66,7 +66,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This document provides simple guidelines that can make it easier for
-    you to gain prominence and influence in most standards organizations.  This memo
+    you to gain prominence and influence in most standards organizations. This memo
     provides information for the Internet community.</p>"
   language:
   - en

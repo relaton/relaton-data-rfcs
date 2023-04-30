@@ -66,9 +66,9 @@ script:
 - Latn
 abstract:
 - content: "<p>In this document, we discuss location privacy as applicable to Mobile
-    IPv6.  We document the concerns arising from revealing a Home Address to an onlooker
-    and from disclosing a Care-of Address to a correspondent.  This memo provides
-    information for the Internet community.</p>"
+    IPv6. We document the concerns arising from revealing a Home Address to an onlooker
+    and from disclosing a Care-of Address to a correspondent. This memo provides information
+    for the Internet community.</p>"
   language:
   - en
   script:

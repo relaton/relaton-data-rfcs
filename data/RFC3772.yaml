@@ -96,8 +96,8 @@ script:
 abstract:
 - content: "<p>The Point-to-Point Protocol (PPP) defines a Link Control Protocol (LCP)
     and a method for negotiating the use of multi-protocol traffic over point-to-point
-    links.  The PPP Vendor Extensions document adds vendor-specific general-purpose
-    Configuration Option and Code numbers.  This document extends these features to
+    links. The PPP Vendor Extensions document adds vendor-specific general-purpose
+    Configuration Option and Code numbers. This document extends these features to
     cover vendor-specific Network, Authentication, and Control Protocols. [STANDARDS-TRACK]</p>"
   language:
   - en

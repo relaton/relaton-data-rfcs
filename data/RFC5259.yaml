@@ -95,7 +95,7 @@ script:
 - Latn
 abstract:
 - content: "<p>CONVERT defines extensions to IMAP allowing clients to request adaptation
-    and/or transcoding of attachments.  Clients can specify the conversion details
+    and/or transcoding of attachments. Clients can specify the conversion details
     or allow servers to decide based on knowledge of client capabilities, on user
     or administrator preferences, or on server settings. [STANDARDS-TRACK]</p>"
   language:

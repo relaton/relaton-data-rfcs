@@ -134,7 +134,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This RFC is the official specification of the NICNAME/WHOIS protocol.
-    \ This memo describes the protocol and the service.  This is an update of RFC-812.</p>"
+    This memo describes the protocol and the service. This is an update of RFC-812.</p>"
   language:
   - en
   script:

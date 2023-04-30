@@ -95,8 +95,8 @@ script:
 - Latn
 abstract:
 - content: <p>This document specifies the MAC layer protocol, "Spatial Reuse Protocol"
-    (SRP) for use with ring based media.  This is a second version of the protocol
-    (V2).  This memo provides information for the Internet community.</p>
+    (SRP) for use with ring based media. This is a second version of the protocol
+    (V2). This memo provides information for the Internet community.</p>
   language:
   - en
   script:

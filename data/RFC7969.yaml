@@ -95,8 +95,8 @@ script:
 - Latn
 abstract:
 - content: "<p>DHCP servers have evolved over the years to provide significant functionality
-    beyond that described in the DHCP base specifications.  One aspect of this functionality
-    is support for context-specific configuration information.  This memo describes
+    beyond that described in the DHCP base specifications. One aspect of this functionality
+    is support for context-specific configuration information. This memo describes
     some such features and explains their operation.</p>"
   language:
   - en

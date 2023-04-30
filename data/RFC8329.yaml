@@ -183,7 +183,7 @@ script:
 abstract:
 - content: "<p>This document describes the framework for Interface to Network Security
     Functions (I2NSF) and defines a reference model (including major functional components)
-    for I2NSF.  Network Security Functions (NSFs) are packet-processing engines that
+    for I2NSF. Network Security Functions (NSFs) are packet-processing engines that
     inspect and optionally modify packets traversing networks, either directly or
     in the context of sessions to which the packet is associated.</p>"
   language:

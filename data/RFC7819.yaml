@@ -124,7 +124,7 @@ script:
 - Latn
 abstract:
 - content: "<p>DHCP is a protocol that is used to provide addressing and configuration
-    information to IPv4 hosts.  This document discusses the various identifiers used
+    information to IPv4 hosts. This document discusses the various identifiers used
     by DHCP and the potential privacy issues.</p>"
   language:
   - en

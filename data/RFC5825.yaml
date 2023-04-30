@@ -96,7 +96,7 @@ script:
 abstract:
 - content: "<p>This document describes a method for displaying downgraded messages
     that originally contained internationalized email addresses or internationalized
-    header fields.  This document defines an Experimental Protocol for the Internet
+    header fields. This document defines an Experimental Protocol for the Internet
     community.</p>"
   language:
   - en

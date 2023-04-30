@@ -184,9 +184,9 @@ script:
 abstract:
 - content: "<p>This document specifies Operations and Management (OAM) requirements
     for Multi-Protocol Label Switching (MPLS), as well as for applications of MPLS,
-    such as pseudo-wire voice and virtual private network services.  These requirements
+    such as pseudo-wire voice and virtual private network services. These requirements
     have been gathered from network operators who have extensive experience deploying
-    MPLS networks.  This memo provides information for the Internet community.</p>"
+    MPLS networks. This memo provides information for the Internet community.</p>"
   language:
   - en
   script:

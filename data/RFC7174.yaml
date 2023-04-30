@@ -155,7 +155,7 @@ script:
 abstract:
 - content: "<p>This document specifies a reference framework for Operations, Administration,
     and Maintenance (OAM) in Transparent Interconnection of Lots of Links (TRILL)
-    networks.  The focus of the document is on the fault and performance management
+    networks. The focus of the document is on the fault and performance management
     aspects of TRILL OAM.</p>"
   language:
   - en

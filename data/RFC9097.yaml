@@ -124,7 +124,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This memo revisits the problem of Network Capacity Metrics first examined
-    in RFC 5136.  This memo specifies a more practical Maximum IP-Layer Capacity Metric
+    in RFC 5136. This memo specifies a more practical Maximum IP-Layer Capacity Metric
     definition catering to measurement and outlines the corresponding Methods of Measurement.</p>"
   language:
   - en

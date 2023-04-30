@@ -124,7 +124,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This document presents a differentiated services architecture for the
-    internet.  This memo provides information for the Internet community.</p>"
+    internet. This memo provides information for the Internet community.</p>"
   language:
   - en
   script:

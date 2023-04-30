@@ -67,7 +67,7 @@ script:
 abstract:
 - content: "<p>This specification describes a method for generating a physical representation,
     the canonical form, of an XML document that accounts for the permissible changes.
-    \ This memo provides information for the Internet community.</p>"
+    This memo provides information for the Internet community.</p>"
   language:
   - en
   script:

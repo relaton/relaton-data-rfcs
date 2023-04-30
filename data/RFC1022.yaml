@@ -95,8 +95,8 @@ script:
 - Latn
 abstract:
 - content: "<p>This memo presents an application protocol for managing network entities
-    such as hosts, gateways, and front end machines.  This protocol is a component
-    of the High-level Entity Management System HEMS), described is RFC-1021.  This
+    such as hosts, gateways, and front end machines. This protocol is a component
+    of the High-level Entity Management System HEMS), described is RFC-1021. This
     memo also assumes a knowledge of the ISO data encoding standard, ASN.1.</p>"
   language:
   - en

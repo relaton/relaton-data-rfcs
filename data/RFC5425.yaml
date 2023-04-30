@@ -124,7 +124,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This document describes the use of Transport Layer Security (TLS) to
-    provide a secure connection for the transport of syslog messages.  This document
+    provide a secure connection for the transport of syslog messages. This document
     describes the security threats to syslog and how TLS can be used to counter such
     threats. [STANDARDS-TRACK]</p>"
   language:

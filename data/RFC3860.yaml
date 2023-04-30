@@ -67,7 +67,7 @@ script:
 abstract:
 - content: "<p>At the time this document was written, numerous instant messaging protocols
     were in use, and little interoperability between services based on these protocols
-    has been achieved.  This specification defines common semantics and data formats
+    has been achieved. This specification defines common semantics and data formats
     for instant messaging to facilitate the creation of gateways between instant messaging
     services. [STANDARDS-TRACK]</p>"
   language:

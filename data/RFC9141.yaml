@@ -66,8 +66,8 @@ script:
 - Latn
 abstract:
 - content: "<p>The IETF FTP service running at ftp.ietf.org, ops.ietf.org, and ietf.org
-    will be retired.  A number of published RFCs in the IETF and IAB streams include
-    URIs that reference this FTP service.  To ensure that the materials referenced
+    will be retired. A number of published RFCs in the IETF and IAB streams include
+    URIs that reference this FTP service. To ensure that the materials referenced
     using the IETF FTP service can still be found, this document updates the FTP-based
     references in these affected documents with HTTPS URIs.</p>"
   language:

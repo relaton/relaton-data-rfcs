@@ -182,7 +182,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This document describes the flow and service information model for
-    Deterministic Networking (DetNet).  These models are defined for IP and MPLS DetNet
+    Deterministic Networking (DetNet). These models are defined for IP and MPLS DetNet
     data planes.</p>"
   language:
   - en

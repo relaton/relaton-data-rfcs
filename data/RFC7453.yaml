@@ -154,7 +154,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This memo defines a portion of the Management Information Base (MIB)
-    for use with network management protocols in the Internet community.  In particular,
+    for use with network management protocols in the Internet community. In particular,
     it describes additional managed objects and textual conventions for tunnels, identifiers,
     and Label Switching Routers to support Multiprotocol Label Switching (MPLS) MIB
     modules for transport networks.</p>"

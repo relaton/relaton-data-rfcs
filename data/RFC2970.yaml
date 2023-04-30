@@ -98,7 +98,7 @@ abstract:
     for Swedish Directory Access Gateways) project, this document outlines an approach
     to providing the necessary infrastructure for integrating such widely-scattered
     servers into a single service, rather than attempting to mandate a single protocol
-    and schema set for all participating servers to use.  This memo provides information
+    and schema set for all participating servers to use. This memo provides information
     for the Internet community.</p>"
   language:
   - en

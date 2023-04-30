@@ -95,7 +95,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This document introduces the Forwarding and Control Element Separation
-    (ForCES) architecture and defines a set of associated terminology.  This document
+    (ForCES) architecture and defines a set of associated terminology. This document
     also defines a set of architectural, modeling, and protocol requirements to logically
     separate the control and data forwarding planes of an IP (IPv4, IPv6, etc.) networking
     device.</p>"

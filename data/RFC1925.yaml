@@ -66,9 +66,9 @@ script:
 - Latn
 abstract:
 - content: "<p>This memo documents the fundamental truths of networking for the Internet
-    community.  This memo does not specify a standard, except in the sense that all
-    standards must implicitly follow the fundamental truths.  This memo provides information
-    for the Internet community.  This memo does not specify an Internet standard of
+    community. This memo does not specify a standard, except in the sense that all
+    standards must implicitly follow the fundamental truths. This memo provides information
+    for the Internet community. This memo does not specify an Internet standard of
     any kind.</p>"
   language:
   - en

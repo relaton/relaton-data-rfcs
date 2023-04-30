@@ -153,8 +153,8 @@ script:
 - Latn
 abstract:
 - content: "<p>This document describes extensions to OSPFv3 to support intra-area
-    Traffic Engineering (TE).  This document extends OSPFv2 TE to handle IPv6 networks.
-    \ A new TLV and several new sub-TLVs are defined to support IPv6 networks. [STANDARDS-TRACK]</p>"
+    Traffic Engineering (TE). This document extends OSPFv2 TE to handle IPv6 networks.
+    A new TLV and several new sub-TLVs are defined to support IPv6 networks. [STANDARDS-TRACK]</p>"
   language:
   - en
   script:

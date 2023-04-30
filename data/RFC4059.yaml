@@ -125,7 +125,7 @@ script:
 abstract:
 - content: "<p>This document describes a certificate extension to explicitly state
     the warranty offered by a Certificate Authority (CA) for the certificate containing
-    the extension.  This memo provides information for the Internet community.</p>"
+    the extension. This memo provides information for the Internet community.</p>"
   language:
   - en
   script:

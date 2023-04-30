@@ -182,9 +182,8 @@ script:
 - Latn
 abstract:
 - content: "<p>This document discusses the deployment issues of and the requirements
-    for the deployment and operation of Dual-Stack Lite (DS-Lite).  This document
-    describes the various deployment considerations and applicability of the DS-Lite
-    architecture.</p>"
+    for the deployment and operation of Dual-Stack Lite (DS-Lite). This document describes
+    the various deployment considerations and applicability of the DS-Lite architecture.</p>"
   language:
   - en
   script:

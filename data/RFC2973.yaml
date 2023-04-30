@@ -125,7 +125,7 @@ script:
 abstract:
 - content: "<p>This document describes a mechanism to reduce redundant packet transmissions
     for the Intermediate System to Intermediate System (IS-IS) Routing protocol, as
-    described in ISO 10589.  This memo provides information for the Internet community.</p>"
+    described in ISO 10589. This memo provides information for the Internet community.</p>"
   language:
   - en
   script:

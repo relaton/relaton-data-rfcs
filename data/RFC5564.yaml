@@ -154,8 +154,8 @@ script:
 abstract:
 - content: "<p>This document constitutes technical specifications for the use of Arabic
     in Internet domain names and provides linguistic guidelines for Arabic domain
-    names.  It addresses Arabic-specific linguistic issues pertaining to the use of
-    Arabic language in domain names.  This document is not an Internet Standards Track
+    names. It addresses Arabic-specific linguistic issues pertaining to the use of
+    Arabic language in domain names. This document is not an Internet Standards Track
     specification; it is published for informational purposes.</p>"
   language:
   - en

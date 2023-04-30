@@ -68,7 +68,7 @@ script:
 abstract:
 - content: "<p>This document updates RFC 4326 to clarify and update the allocation
     rules for the Unidirectional Lightweight Encapsulation (ULE) Next- Header registry.
-    \ This registry is used by ULE and Generic Stream Encapsulation (GSE) to record
+    This registry is used by ULE and Generic Stream Encapsulation (GSE) to record
     the code points of Extension Headers and protocols supported by these encapsulation
     protocols.</p>"
   language:

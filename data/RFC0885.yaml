@@ -65,9 +65,8 @@ language:
 script:
 - Latn
 abstract:
-- content: "<p>This RFC specifies a standard for the ARPA Internet community.  It
-    specifies a method for marking the end of records in data transmitted on Telnet
-    connections.</p>"
+- content: "<p>This RFC specifies a standard for the ARPA Internet community. It specifies
+    a method for marking the end of records in data transmitted on Telnet connections.</p>"
   language:
   - en
   script:

@@ -297,7 +297,7 @@ language:
 script:
 - Latn
 abstract:
-- content: "<p>This memo defines the Virtual Router Redundancy Protocol (VRRP).  VRRP
+- content: "<p>This memo defines the Virtual Router Redundancy Protocol (VRRP). VRRP
     specifies an election protocol that dynamically assigns responsibility for a virtual
     router to one of the VRRP routers on a LAN. [STANDARDS-TRACK]</p>"
   language:

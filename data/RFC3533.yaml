@@ -66,10 +66,10 @@ script:
 - Latn
 abstract:
 - content: "<p>This document describes the Ogg bitstream format version 0, which is
-    a general, freely-available encapsulation format for media streams.  It is able
+    a general, freely-available encapsulation format for media streams. It is able
     to encapsulate any kind and number of video and audio encoding formats as well
-    as other data streams in a single bitstream.  This memo provides information for
-    the Internet community.  This memo provides information for the Internet community.</p>"
+    as other data streams in a single bitstream. This memo provides information for
+    the Internet community. This memo provides information for the Internet community.</p>"
   language:
   - en
   script:

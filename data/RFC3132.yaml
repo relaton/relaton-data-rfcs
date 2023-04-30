@@ -67,7 +67,7 @@ script:
 abstract:
 - content: "<p>This memo describes paging, assesses the need for IP paging, and presents
     a list of recommendations for Seamoby charter items regarding work on paging.
-    \ This memo provides information for the Internet community.</p>"
+    This memo provides information for the Internet community.</p>"
   language:
   - en
   script:

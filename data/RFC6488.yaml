@@ -124,7 +124,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This document defines a generic profile for signed objects used in
-    the Resource Public Key Infrastructure (RPKI).  These RPKI signed objects make
+    the Resource Public Key Infrastructure (RPKI). These RPKI signed objects make
     use of Cryptographic Message Syntax (CMS) as a standard encapsulation format.
     [STANDARDS-TRACK]</p>"
   language:

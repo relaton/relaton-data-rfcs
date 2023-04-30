@@ -44,10 +44,10 @@ script:
 - Latn
 abstract:
 - content: "<p>There appears to be some interest in experimenting with subnetting
-    the class A addresses.  It is suggested that conducting an experiment now to identify
+    the class A addresses. It is suggested that conducting an experiment now to identify
     and fix any software that does not properly handle subnetted class A addresses
-    would be useful and important.  This document defines an Experimental Protocol
-    for the Internet community.  This does not specify an Internet standard of any
+    would be useful and important. This document defines an Experimental Protocol
+    for the Internet community. This does not specify an Internet standard of any
     kind.</p>"
   language:
   - en

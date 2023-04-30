@@ -97,7 +97,7 @@ script:
 abstract:
 - content: "<p>This document describes three abstract Generic Security Service Application
     Program Interface (GSS-API) interfaces used to encapsulate/decapsulate context
-    tokens and compare OIDs.  This document also specifies C bindings for the abstract
+    tokens and compare OIDs. This document also specifies C bindings for the abstract
     interfaces. [STANDARDS-TRACK]</p>"
   language:
   - en

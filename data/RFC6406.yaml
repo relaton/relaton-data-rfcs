@@ -95,9 +95,9 @@ script:
 - Latn
 abstract:
 - content: "<p>This document defines a peering architecture for the Session Initiation
-    Protocol (SIP) and its functional components and interfaces.  It also describes
+    Protocol (SIP) and its functional components and interfaces. It also describes
     the components and the steps necessary to establish a session between two SIP
-    Service Provider (SSP) peering domains.  This document is not an Internet Standards
+    Service Provider (SSP) peering domains. This document is not an Internet Standards
     Track specification; it is published for informational purposes.</p>"
   language:
   - en

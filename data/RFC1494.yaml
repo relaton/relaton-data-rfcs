@@ -95,7 +95,7 @@ script:
 - Latn
 abstract:
 - content: <p>This document describes the content of the "IANA MHS/MIME Equivalence
-    table", and defines the initial configuration of this table.  Mappings for new
+    table", and defines the initial configuration of this table. Mappings for new
     MIME content-types and/or X.400 body part types should be registered with the
     IANA to minimize redundancy and promote interoperability. [STANDARDS-TRACK]</p>
   language:

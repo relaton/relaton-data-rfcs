@@ -82,7 +82,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This document defines a terminology for discussing network mobility
-    (NEMO) issues and solution requirements.  This memo provides information for the
+    (NEMO) issues and solution requirements. This memo provides information for the
     Internet community.</p>"
   language:
   - en

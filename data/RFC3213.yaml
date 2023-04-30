@@ -182,10 +182,10 @@ script:
 - Latn
 abstract:
 - content: "<p>This document discusses the applicability of Constraint-Based LSP Setup
-    using LDP.  It discusses possible network applications, extensions to Label Distribution
+    using LDP. It discusses possible network applications, extensions to Label Distribution
     Protocol (LDP) required to implement constraint-based routing, guidelines for
-    deployment and known limitations of the protocol.  This document is a prerequisite
-    to advancing CR-LDP on the standards track.  This memo provides information for
+    deployment and known limitations of the protocol. This document is a prerequisite
+    to advancing CR-LDP on the standards track. This memo provides information for
     the Internet community.</p>"
   language:
   - en

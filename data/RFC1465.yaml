@@ -68,7 +68,7 @@ script:
 abstract:
 - content: "<p>This document proposes short term solutions for maintaining and distributing
     routing information and shows how messages can travel over different networks
-    by using multi stack MTAs as relays.  This memo defines an Experimental Protocol
+    by using multi stack MTAs as relays. This memo defines an Experimental Protocol
     for the Internet community.</p>"
   language:
   - en

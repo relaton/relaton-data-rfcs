@@ -65,7 +65,7 @@ language:
 script:
 - Latn
 abstract:
-- content: "<p>Poem.  This memo provides information for the Internet community.  It
+- content: "<p>Poem. This memo provides information for the Internet community. It
     does not specify an Internet standard.</p>"
   language:
   - en

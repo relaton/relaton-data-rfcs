@@ -96,8 +96,8 @@ script:
 abstract:
 - content: "<p>This memo discusses and defines terms associated with performance benchmarking
     tests and the results of these tests in the context of Asynchronous Transfer Mode
-    (ATM) based switching devices supporting ABR (Available Bit Rate).  This memo
-    provides information for the Internet community.</p>"
+    (ATM) based switching devices supporting ABR (Available Bit Rate). This memo provides
+    information for the Internet community.</p>"
   language:
   - en
   script:

@@ -66,9 +66,9 @@ script:
 - Latn
 abstract:
 - content: "<p>DomainKeys Identified Mail (DKIM) allows an ADministrative Management
-    Domain (ADMD) to assume some responsibility for a message.  Based on deployment
+    Domain (ADMD) to assume some responsibility for a message. Based on deployment
     experience with DKIM, this document provides guidance for the use of DKIM with
-    scenarios that include Mailing List Managers (MLMs).  This memo documents an Internet
+    scenarios that include Mailing List Managers (MLMs). This memo documents an Internet
     Best Current Practice.</p>"
   language:
   - en

@@ -125,7 +125,7 @@ script:
 abstract:
 - content: "<p>This document describes a procedure for mapping between Service Location
     Protocol (SLP) service advertisements and lightweight directory access protocol
-    (LDAP) descriptions of services.  This memo provides information for the Internet
+    (LDAP) descriptions of services. This memo provides information for the Internet
     community.</p>"
   language:
   - en

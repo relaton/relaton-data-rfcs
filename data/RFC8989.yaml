@@ -96,17 +96,28 @@ script:
 abstract:
 - content: "<p>This document defines a process experiment under RFC 3933 that temporarily
     updates the criteria for qualifying volunteers to participate in the IETF Nominating
-    Committee.  It therefore also updates the criteria for qualifying signatories
-    to a community recall petition.  The purpose is to make the criteria more flexible
+    Committee. It therefore also updates the criteria for qualifying signatories to
+    a community recall petition. The purpose is to make the criteria more flexible
     in view of increasing remote participation in the IETF and a reduction in face-to-face
-    meetings.  The experiment is of fixed duration and will apply to one, or at most
-    two, consecutive Nominating Committee cycles, starting in 2021.  This document
+    meetings. The experiment is of fixed duration and will apply to one, or at most
+    two, consecutive Nominating Committee cycles, starting in 2021. This document
     temporarily varies the rules in RFC 8713.</p>"
   language:
   - en
   script:
   - Latn
   format: text/html
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: RFC9389
+    docid:
+    - id: RFC9389
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC9389
+      format: text/plain
 series:
 - type: stream
   title:

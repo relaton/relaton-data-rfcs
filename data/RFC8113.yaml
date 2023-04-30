@@ -97,8 +97,8 @@ script:
 abstract:
 - content: "<p>This document specifies a Locator/ID Separation Protocol (LISP) shared
     message type for defining future extensions and conducting experiments without
-    consuming a LISP packet type codepoint for each extension.  It also defines a
-    registry for LISP Packet Type allocations, thus updating RFC 6830.</p>"
+    consuming a LISP packet type codepoint for each extension. It also defines a registry
+    for LISP Packet Type allocations, thus updating RFC 6830.</p>"
   language:
   - en
   script:

@@ -66,8 +66,8 @@ script:
 - Latn
 abstract:
 - content: "<p>This memo discusses extension of TCP to provide transaction-oriented
-    service, without altering its virtual-circuit operation.  This memo provides information
-    for the Internet community.  It does not specify an Internet standard.</p>"
+    service, without altering its virtual-circuit operation. This memo provides information
+    for the Internet community. It does not specify an Internet standard.</p>"
   language:
   - en
   script:

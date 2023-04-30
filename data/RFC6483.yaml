@@ -98,7 +98,7 @@ abstract:
 - content: "<p>This document defines the semantics of a Route Origin Authorization
     (ROA) in terms of the context of an application of the Resource Public Key Infrastructure
     to validate the origination of routes advertised in the Border Gateway Protocol.
-    \ This document is not an Internet Standards Track specification; it is published
+    This document is not an Internet Standards Track specification; it is published
     for informational purposes.</p>"
   language:
   - en

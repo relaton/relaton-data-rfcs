@@ -96,7 +96,7 @@ script:
 abstract:
 - content: "<p>This document describes a model for configuring IP addresses and subnet
     prefixes on the interfaces of routers which connect to links with undetermined
-    connectivity properties.  This document is not an Internet Standards Track specification;
+    connectivity properties. This document is not an Internet Standards Track specification;
     it is published for informational purposes.</p>"
   language:
   - en

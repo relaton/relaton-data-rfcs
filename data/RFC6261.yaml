@@ -67,7 +67,7 @@ script:
 abstract:
 - content: "<p>This document specifies two transport modes for Host Identity Protocol
     (HIP) signaling messages that allow them to be conveyed over encrypted connections
-    initiated with the Host Identity Protocol.  This document defines an Experimental
+    initiated with the Host Identity Protocol. This document defines an Experimental
     Protocol for the Internet community.</p>"
   language:
   - en

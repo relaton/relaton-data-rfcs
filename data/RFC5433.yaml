@@ -96,7 +96,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This memo defines an Extensible Authentication Protocol (EAP) method
-    called EAP Generalized Pre-Shared Key (EAP-GPSK).  This method is a lightweight
+    called EAP Generalized Pre-Shared Key (EAP-GPSK). This method is a lightweight
     shared-key authentication protocol supporting mutual authentication and key derivation.
     [STANDARDS-TRACK]</p>"
   language:

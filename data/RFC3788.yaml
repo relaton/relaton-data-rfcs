@@ -124,10 +124,10 @@ script:
 - Latn
 abstract:
 - content: "<p>This document discusses how Transport Layer Security (TLS) and IPsec
-    can be used to secure communication for SIGTRAN protocols.  The main goal is to
+    can be used to secure communication for SIGTRAN protocols. The main goal is to
     recommend the minimum security means that a SIGTRAN node must implement in order
-    to attain secured communication.  The support of IPsec is mandatory for all nodes
-    running SIGTRAN protocols.  TLS support is optional. [STANDARDS-TRACK]</p>"
+    to attain secured communication. The support of IPsec is mandatory for all nodes
+    running SIGTRAN protocols. TLS support is optional. [STANDARDS-TRACK]</p>"
   language:
   - en
   script:

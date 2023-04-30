@@ -95,7 +95,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This document defines a Type-Length-Value format for Cryptographically
-    Generated Address (CGA) Extensions.  This document updates RFC 3972. [STANDARDS-TRACK]</p>"
+    Generated Address (CGA) Extensions. This document updates RFC 3972. [STANDARDS-TRACK]</p>"
   language:
   - en
   script:

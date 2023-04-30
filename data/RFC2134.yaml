@@ -41,10 +41,10 @@ language:
 script:
 - Latn
 abstract:
-- content: "<p>These are the articles of incorporation of the Internet Society.  They
+- content: "<p>These are the articles of incorporation of the Internet Society. They
     are published for the information of the IETF community at the request of the
-    poisson working group.  This memo provides information for the Internet community.
-    \ This memo does not specify an Internet standard of any kind.</p>"
+    poisson working group. This memo provides information for the Internet community.
+    This memo does not specify an Internet standard of any kind.</p>"
   language:
   - en
   script:

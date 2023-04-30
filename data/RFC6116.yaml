@@ -126,9 +126,9 @@ script:
 abstract:
 - content: "<p>This document discusses the use of the Domain Name System (DNS) for
     storage of data associated with E.164 numbers, and for resolving those numbers
-    into URIs that can be used (for example) in telephony call setup.  This document
+    into URIs that can be used (for example) in telephony call setup. This document
     also describes how the DNS can be used to identify the services associated with
-    an E.164 number.  This document obsoletes RFC 3761. [STANDARDS-TRACK]</p>"
+    an E.164 number. This document obsoletes RFC 3761. [STANDARDS-TRACK]</p>"
   language:
   - en
   script:

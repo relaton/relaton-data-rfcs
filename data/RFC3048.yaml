@@ -212,7 +212,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This document describes a framework for the standardization of bulk-data
-    reliable multicast transport.  This memo provides information for the Internet
+    reliable multicast transport. This memo provides information for the Internet
     community.</p>"
   language:
   - en

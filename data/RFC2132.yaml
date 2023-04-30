@@ -94,8 +94,8 @@ language:
 script:
 - Latn
 abstract:
-- content: "<p>This document specifies the current set of DHCP options.  Future options
-    will be specified in separate RFCs.  The current list of valid options is also
+- content: "<p>This document specifies the current set of DHCP options. Future options
+    will be specified in separate RFCs. The current list of valid options is also
     available in ftp://ftp.isi.edu/in-notes/iana/assignments. [STANDARDS-TRACK]</p>"
   language:
   - en

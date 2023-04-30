@@ -96,7 +96,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This document specifies routing extensions in support of carrying link
-    state information for Generalized Multi-Protocol Label Switching (GMPLS).  This
+    state information for Generalized Multi-Protocol Label Switching (GMPLS). This
     document enhances the routing extensions required to support MPLS Traffic Engineering
     (TE). [STANDARDS-TRACK]</p>"
   language:

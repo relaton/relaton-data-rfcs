@@ -71,7 +71,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This memo suggests a simple method for workstations to dynamically
-    access mail from a mailbox server.  This RFC specifies a proposed protocol for
+    access mail from a mailbox server. This RFC specifies a proposed protocol for
     the Internet community, and requests discussion and suggestions for improvements.</p>"
   language:
   - en

@@ -156,7 +156,7 @@ abstract:
     access gateway and the local mobility anchor to negotiate Generic Routing Encapsulation
     (GRE) encapsulation mode and exchange the downlink and uplink GRE keys that are
     used for marking the downlink and uplink traffic that belong to a specific mobility
-    session.  In addition, the same mobility option can be used to negotiate the GRE
+    session. In addition, the same mobility option can be used to negotiate the GRE
     encapsulation mode without exchanging the GRE keys. [STANDARDS-TRACK]</p>"
   language:
   - en

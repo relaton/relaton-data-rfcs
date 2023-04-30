@@ -125,9 +125,9 @@ script:
 - Latn
 abstract:
 - content: "<p>This document proposes a notational convention to express Concise Binary
-    Object Representation (CBOR) data structures (RFC 7049).  Its main goal is to
-    provide an easy and unambiguous way to express structures for protocol messages
-    and data formats that use CBOR or JSON.</p>"
+    Object Representation (CBOR) data structures (RFC 7049). Its main goal is to provide
+    an easy and unambiguous way to express structures for protocol messages and data
+    formats that use CBOR or JSON.</p>"
   language:
   - en
   script:

@@ -67,10 +67,10 @@ script:
 - Latn
 abstract:
 - content: "<p>This document presents a list of requirements in support of Emergency
-    Telecommunications Service (ETS) within a single administrative domain.  This
-    document focuses on a specific set of administrative constraints and scope.  Solutions
-    to these requirements are not presented in this document.  This memo provides
-    information for the Internet community.</p>"
+    Telecommunications Service (ETS) within a single administrative domain. This document
+    focuses on a specific set of administrative constraints and scope. Solutions to
+    these requirements are not presented in this document. This memo provides information
+    for the Internet community.</p>"
   language:
   - en
   script:

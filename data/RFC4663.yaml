@@ -68,7 +68,7 @@ abstract:
 - content: "<p>This document describes the plan to transition responsibility for bridging-related
     MIB modules from the IETF Bridge MIB Working Group to the IEEE 802.1 Working Group,
     which develops the bridging technology the MIB modules are designed to manage.
-    \ This memo provides information for the Internet community.</p>"
+    This memo provides information for the Internet community.</p>"
   language:
   - en
   script:

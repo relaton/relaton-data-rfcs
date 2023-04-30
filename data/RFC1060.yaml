@@ -100,7 +100,7 @@ script:
 - Latn
 abstract:
 - content: "<p>This memo is a status report on the parameters (i.e., numbers and keywords)
-    used in protocols in the Internet community.  Distribution of this memo is unlimited.</p>"
+    used in protocols in the Internet community. Distribution of this memo is unlimited.</p>"
   language:
   - en
   script:

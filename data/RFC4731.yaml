@@ -97,8 +97,8 @@ script:
 abstract:
 - content: "<p>This document extends IMAP (RFC 3501) SEARCH and UID SEARCH commands
     with several result options, which can control what kind of information is returned.
-    \ The following result options are defined: minimal value, maximal value, all
-    found messages, and number of found messages. [STANDARDS-TRACK]</p>"
+    The following result options are defined: minimal value, maximal value, all found
+    messages, and number of found messages. [STANDARDS-TRACK]</p>"
   language:
   - en
   script:

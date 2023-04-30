@@ -65,7 +65,7 @@ language:
 script:
 - Latn
 abstract:
-- content: "<p>This document specifies how message bodies are handled in SIP.  Additionally,
+- content: "<p>This document specifies how message bodies are handled in SIP. Additionally,
     this document specifies SIP user agent support for MIME (Multipurpose Internet
     Mail Extensions) in message bodies. [STANDARDS-TRACK]</p>"
   language:

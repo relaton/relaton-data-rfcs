@@ -125,8 +125,8 @@ script:
 abstract:
 - content: "<p>This memo describes the Data Link Switching Client Access Protocol
     that is used between workstations and routers to transport SNA/ NetBIOS traffic
-    over TCP sessions.  This memo provides information for the Internet community.
-    \ This memo does not specify an Internet standard of any kind.</p>"
+    over TCP sessions. This memo provides information for the Internet community.
+    This memo does not specify an Internet standard of any kind.</p>"
   language:
   - en
   script:

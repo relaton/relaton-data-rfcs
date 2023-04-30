@@ -125,8 +125,8 @@ script:
 - Latn
 abstract:
 - content: "<p>This document describes an IRIS registry schema for IP address and
-    Autonomous System Number information.  The schema extends the necessary query
-    and result operations of IRIS to provide the functional information service needs
+    Autonomous System Number information. The schema extends the necessary query and
+    result operations of IRIS to provide the functional information service needs
     for syntaxes and results used by Internet Protocol address registries. [STANDARDS-TRACK]</p>"
   language:
   - en

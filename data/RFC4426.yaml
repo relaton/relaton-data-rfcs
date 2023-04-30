@@ -126,8 +126,8 @@ script:
 abstract:
 - content: "<p>This document presents a functional description of the protocol extensions
     needed to support Generalized Multi-Protocol Label Switching (GMPLS)-based recovery
-    (i.e., protection and restoration).  Protocol specific formats and mechanisms
-    will be described in companion documents. [STANDARDS-TRACK]</p>"
+    (i.e., protection and restoration). Protocol specific formats and mechanisms will
+    be described in companion documents. [STANDARDS-TRACK]</p>"
   language:
   - en
   script:
