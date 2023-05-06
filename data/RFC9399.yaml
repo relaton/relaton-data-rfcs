@@ -1,24 +1,24 @@
 ---
 schema-version: v1.2.3
-id: RFC3709
+id: RFC9399
 title:
 - content: 'Internet X.509 Public Key Infrastructure: Logotypes in X.509 Certificates'
   format: text/plain
   type: main
 link:
-- content: https://www.rfc-editor.org/info/rfc3709
+- content: https://www.rfc-editor.org/info/rfc9399
   type: src
 type: standard
 docid:
-- id: RFC 3709
+- id: RFC 9399
   type: IETF
   primary: true
-- id: 10.17487/RFC3709
+- id: 10.17487/RFC9399
   type: DOI
-docnumber: RFC3709
+docnumber: RFC9399
 date:
 - type: published
-  value: 2004-02
+  value: 2023-05
 contributor:
 - person:
     name:
@@ -107,6 +107,35 @@ contributor:
         - Latn
   role:
   - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: L
+        formatted_initials:
+          content: L.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Rosenthol
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: L. Rosenthol
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
 - organization:
     name:
     - content: RFC Publisher
@@ -117,30 +146,20 @@ contributor:
     - content: RFC Series
   role:
   - type: authorizer
-revdate: 2004-02
+revdate: 2023-05
 language:
 - en
 script:
 - Latn
 abstract:
 - content: "<p>This document specifies a certificate extension for including logotypes
-    in public key certificates and attribute certificates. [STANDARDS-TRACK]</p>"
+    in public key certificates and attribute certificates. This document obsoletes
+    RFCs 3709 and 6170.</p>"
   language:
   - en
   script:
   - Latn
   format: text/html
-relation:
-- type: obsoletedBy
-  bibitem:
-    id: RFC9399
-    docid:
-    - id: RFC9399
-      type: IETF
-      primary: true
-    formattedref:
-      content: RFC9399
-      format: text/plain
 series:
 - type: stream
   title:
@@ -149,7 +168,7 @@ series:
 - title:
     content: RFC
     format: text/plain
-  number: '3709'
+  number: '9399'
 keyword:
 - content: X.509
 - content: Public Key Infrastructure
@@ -157,6 +176,6 @@ keyword:
 - content: security identification
 - content: certificates
 editorialgroup:
-- name: pkix
+- name: lamps
 ext:
   schema-version: v1.0.0
