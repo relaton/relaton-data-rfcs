@@ -18355,6 +18355,8 @@
   :file: data/RFC9366.yaml
 - :id: RFC 9367
   :file: data/RFC9367.yaml
+- :id: RFC 9370
+  :file: data/RFC9370.yaml
 - :id: RFC 9371
   :file: data/RFC9371.yaml
 - :id: RFC 9372
@@ -18373,6 +18375,8 @@
   :file: data/RFC9378.yaml
 - :id: RFC 9384
   :file: data/RFC9384.yaml
+- :id: RFC 9385
+  :file: data/RFC9385.yaml
 - :id: RFC 9386
   :file: data/RFC9386.yaml
 - :id: RFC 9387
