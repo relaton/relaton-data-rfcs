@@ -81,7 +81,7 @@ abstract:
 series:
 - type: stream
   title:
-    content: Legacy
+    content: IAB
     format: text/plain
 - title:
     content: RFC
