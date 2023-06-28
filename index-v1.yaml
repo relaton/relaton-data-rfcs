@@ -17869,6 +17869,8 @@
   :file: data/RFC9120.yaml
 - :id: RFC 9121
   :file: data/RFC9121.yaml
+- :id: RFC 9122
+  :file: data/RFC9122.yaml
 - :id: RFC 9124
   :file: data/RFC9124.yaml
 - :id: RFC 9125
@@ -18421,5 +18423,9 @@
   :file: data/RFC9411.yaml
 - :id: RFC 9412
   :file: data/RFC9412.yaml
+- :id: RFC 9413
+  :file: data/RFC9413.yaml
 - :id: RFC 9425
   :file: data/RFC9425.yaml
+- :id: RFC 9427
+  :file: data/RFC9427.yaml
