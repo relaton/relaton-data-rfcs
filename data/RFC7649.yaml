@@ -118,3 +118,4 @@ keyword:
 - content: IETF Meetings
 ext:
   schema-version: v1.0.0
+  stream: INDEPENDENT

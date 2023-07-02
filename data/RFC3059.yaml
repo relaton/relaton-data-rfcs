@@ -90,3 +90,4 @@ keyword:
 - content: user agent
 ext:
   schema-version: v1.0.0
+  stream: Legacy

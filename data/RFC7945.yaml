@@ -202,3 +202,4 @@ series:
   number: '7945'
 ext:
   schema-version: v1.0.0
+  stream: IRTF

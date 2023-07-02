@@ -86,3 +86,4 @@ series:
   number: '9226'
 ext:
   schema-version: v1.0.0
+  stream: INDEPENDENT

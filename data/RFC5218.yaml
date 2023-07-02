@@ -115,3 +115,4 @@ series:
   number: '5218'
 ext:
   schema-version: v1.0.0
+  stream: IAB

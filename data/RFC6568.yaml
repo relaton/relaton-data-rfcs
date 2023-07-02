@@ -149,3 +149,4 @@ editorialgroup:
 - name: 6lowpan
 ext:
   schema-version: v1.0.0
+  stream: IETF

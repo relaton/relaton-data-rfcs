@@ -100,3 +100,4 @@ keyword:
 - content: high-performance parallel interface
 ext:
   schema-version: v1.0.0
+  stream: Legacy

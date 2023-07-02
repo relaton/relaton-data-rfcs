@@ -88,3 +88,4 @@ keyword:
 - content: network policy
 ext:
   schema-version: v1.0.0
+  stream: Legacy

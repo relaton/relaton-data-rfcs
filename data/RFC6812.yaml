@@ -234,3 +234,4 @@ keyword:
 - content: Cisco's SLA Protocol
 ext:
   schema-version: v1.0.0
+  stream: INDEPENDENT

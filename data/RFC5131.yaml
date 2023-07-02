@@ -86,3 +86,4 @@ keyword:
 - content: LANGTAG-TC-MIB
 ext:
   schema-version: v1.0.0
+  stream: IETF

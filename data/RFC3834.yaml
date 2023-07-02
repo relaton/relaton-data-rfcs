@@ -91,3 +91,4 @@ keyword:
 - content: automatic mail responders
 ext:
   schema-version: v1.0.0
+  stream: IETF

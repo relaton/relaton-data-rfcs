@@ -148,3 +148,4 @@ keyword:
 - content: ANSI MH10.8.2
 ext:
   schema-version: v1.0.0
+  stream: INDEPENDENT

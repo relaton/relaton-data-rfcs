@@ -209,3 +209,4 @@ keyword:
 - content: IMS Option for IKEv2
 ext:
   schema-version: v1.0.0
+  stream: INDEPENDENT

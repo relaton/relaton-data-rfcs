@@ -107,3 +107,4 @@ keyword:
 - content: ip 97
 ext:
   schema-version: v1.0.0
+  stream: Legacy

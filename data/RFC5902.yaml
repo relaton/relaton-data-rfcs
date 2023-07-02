@@ -152,3 +152,4 @@ keyword:
 - content: Multihoming
 ext:
   schema-version: v1.0.0
+  stream: IAB

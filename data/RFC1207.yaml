@@ -164,3 +164,4 @@ series:
   number: '1207'
 ext:
   schema-version: v1.0.0
+  stream: Legacy

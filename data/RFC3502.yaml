@@ -90,3 +90,4 @@ keyword:
 - content: imapv4rev1
 ext:
   schema-version: v1.0.0
+  stream: Legacy

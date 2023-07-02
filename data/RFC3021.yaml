@@ -179,3 +179,4 @@ keyword:
 - content: subnet masks
 ext:
   schema-version: v1.0.0
+  stream: Legacy

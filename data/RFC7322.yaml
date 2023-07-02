@@ -121,3 +121,4 @@ keyword:
 - content: house style
 ext:
   schema-version: v1.0.0
+  stream: IAB

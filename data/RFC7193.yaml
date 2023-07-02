@@ -143,3 +143,4 @@ keyword:
 - content: Cryptographic Message Syntax
 ext:
   schema-version: v1.0.0
+  stream: IETF

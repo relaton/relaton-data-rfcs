@@ -121,3 +121,4 @@ series:
   number: '902'
 ext:
   schema-version: v1.0.0
+  stream: Legacy

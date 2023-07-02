@@ -144,3 +144,4 @@ keyword:
 - content: Remote Authentication Dial-In User Service
 ext:
   schema-version: v1.0.0
+  stream: INDEPENDENT

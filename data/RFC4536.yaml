@@ -88,3 +88,4 @@ keyword:
 - content: synchronized multimedia integration language
 ext:
   schema-version: v1.0.0
+  stream: IETF

@@ -85,3 +85,4 @@ series:
   number: '4903'
 ext:
   schema-version: v1.0.0
+  stream: IAB

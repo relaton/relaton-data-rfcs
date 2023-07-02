@@ -249,3 +249,4 @@ series:
   number: '1786'
 ext:
   schema-version: v1.0.0
+  stream: Legacy

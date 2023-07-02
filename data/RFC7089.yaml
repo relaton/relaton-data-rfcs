@@ -153,3 +153,4 @@ keyword:
 - content: Memento
 ext:
   schema-version: v1.0.0
+  stream: INDEPENDENT

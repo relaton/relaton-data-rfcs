@@ -93,3 +93,4 @@ keyword:
 - content: Delivery Status Notifications
 ext:
   schema-version: v1.0.0
+  stream: IETF

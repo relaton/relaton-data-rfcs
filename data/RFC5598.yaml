@@ -126,3 +126,4 @@ keyword:
 - content: administrative management domain
 ext:
   schema-version: v1.0.0
+  stream: IETF

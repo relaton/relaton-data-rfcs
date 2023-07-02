@@ -89,3 +89,4 @@ keyword:
 - content: message handling systems,mail
 ext:
   schema-version: v1.0.0
+  stream: Legacy

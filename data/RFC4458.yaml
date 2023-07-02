@@ -147,3 +147,4 @@ keyword:
 - content: universal resource identifiers
 ext:
   schema-version: v1.0.0
+  stream: IETF

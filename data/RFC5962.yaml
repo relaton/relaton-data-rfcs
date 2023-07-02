@@ -177,3 +177,4 @@ keyword:
 - content: PIDF-LO,location,dynamic,speed,velocity,orientation
 ext:
   schema-version: v1.0.0
+  stream: IETF

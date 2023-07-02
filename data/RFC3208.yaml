@@ -470,3 +470,4 @@ keyword:
 - content: pragmatic general multicast
 ext:
   schema-version: v1.0.0
+  stream: Legacy

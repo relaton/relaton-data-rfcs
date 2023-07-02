@@ -95,3 +95,4 @@ keyword:
 - content: service model
 ext:
   schema-version: v1.0.0
+  stream: IAB

@@ -51,3 +51,4 @@ series:
   number: '212'
 ext:
   schema-version: v1.0.0
+  stream: Legacy

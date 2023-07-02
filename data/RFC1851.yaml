@@ -136,3 +136,4 @@ keyword:
 - content: encryption encapsulating security payload cipher block chaining
 ext:
   schema-version: v1.0.0
+  stream: Legacy

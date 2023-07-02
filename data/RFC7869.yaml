@@ -118,3 +118,4 @@ keyword:
 - content: Virtual Network Computing
 ext:
   schema-version: v1.0.0
+  stream: INDEPENDENT

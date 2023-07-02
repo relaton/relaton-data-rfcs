@@ -86,3 +86,4 @@ series:
   number: '7425'
 ext:
   schema-version: v1.0.0
+  stream: INDEPENDENT

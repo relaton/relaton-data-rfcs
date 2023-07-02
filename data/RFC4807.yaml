@@ -207,3 +207,4 @@ keyword:
 - content: IPSEC-SPD-MIB
 ext:
   schema-version: v1.0.0
+  stream: IETF

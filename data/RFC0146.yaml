@@ -153,3 +153,4 @@ series:
   number: '146'
 ext:
   schema-version: v1.0.0
+  stream: Legacy

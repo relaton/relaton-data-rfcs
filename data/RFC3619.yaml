@@ -119,3 +119,4 @@ keyword:
 - content: robust
 ext:
   schema-version: v1.0.0
+  stream: INDEPENDENT

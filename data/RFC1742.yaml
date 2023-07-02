@@ -117,3 +117,4 @@ editorialgroup:
 - name: appleip
 ext:
   schema-version: v1.0.0
+  stream: IETF

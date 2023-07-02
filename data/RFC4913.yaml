@@ -89,3 +89,4 @@ keyword:
 - content: extensible markup language
 ext:
   schema-version: v1.0.0
+  stream: IETF

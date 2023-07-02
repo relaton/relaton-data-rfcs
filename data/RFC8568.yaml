@@ -243,3 +243,4 @@ series:
   number: '8568'
 ext:
   schema-version: v1.0.0
+  stream: IRTF

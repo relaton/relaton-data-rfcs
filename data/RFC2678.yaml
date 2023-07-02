@@ -115,3 +115,4 @@ keyword:
 - content: internet protocol performance metrics
 ext:
   schema-version: v1.0.0
+  stream: Legacy

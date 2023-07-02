@@ -88,3 +88,4 @@ keyword:
 - content: TCP-AO
 ext:
   schema-version: v1.0.0
+  stream: INDEPENDENT

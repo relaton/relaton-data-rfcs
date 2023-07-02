@@ -83,3 +83,4 @@ series:
   number: '1882'
 ext:
   schema-version: v1.0.0
+  stream: Legacy

@@ -144,3 +144,4 @@ keyword:
 - content: Latent semantic indexing
 ext:
   schema-version: v1.0.0
+  stream: INDEPENDENT

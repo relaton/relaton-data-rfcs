@@ -208,3 +208,4 @@ editorialgroup:
 - name: 6tisch
 ext:
   schema-version: v1.0.0
+  stream: IETF

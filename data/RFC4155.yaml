@@ -88,3 +88,4 @@ keyword:
 - content: mbox database
 ext:
   schema-version: v1.0.0
+  stream: IETF

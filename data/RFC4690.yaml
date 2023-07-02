@@ -159,3 +159,4 @@ keyword:
 - content: internationalizing domain names in applications
 ext:
   schema-version: v1.0.0
+  stream: IAB

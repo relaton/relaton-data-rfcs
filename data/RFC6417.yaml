@@ -184,3 +184,4 @@ series:
   number: '6417'
 ext:
   schema-version: v1.0.0
+  stream: INDEPENDENT

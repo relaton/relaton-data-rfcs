@@ -148,3 +148,4 @@ series:
   number: '6919'
 ext:
   schema-version: v1.0.0
+  stream: INDEPENDENT

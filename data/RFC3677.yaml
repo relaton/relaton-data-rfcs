@@ -100,3 +100,4 @@ keyword:
 - content: Board of Trustees
 ext:
   schema-version: v1.0.0
+  stream: IAB

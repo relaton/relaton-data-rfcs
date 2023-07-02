@@ -100,3 +100,4 @@ keyword:
 - content: Search/Retrieve via URL Response Format
 ext:
   schema-version: v1.0.0
+  stream: IETF

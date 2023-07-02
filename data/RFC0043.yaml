@@ -80,3 +80,4 @@ series:
   number: '43'
 ext:
   schema-version: v1.0.0
+  stream: Legacy

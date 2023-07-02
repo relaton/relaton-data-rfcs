@@ -125,3 +125,4 @@ keyword:
 - content: remote administration
 ext:
   schema-version: v1.0.0
+  stream: INDEPENDENT

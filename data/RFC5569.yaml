@@ -98,3 +98,4 @@ keyword:
 - content: 6rd
 ext:
   schema-version: v1.0.0
+  stream: INDEPENDENT

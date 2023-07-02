@@ -89,3 +89,4 @@ keyword:
 - content: CAST-128
 ext:
   schema-version: v1.0.0
+  stream: Legacy

@@ -117,3 +117,4 @@ keyword:
 - content: X-500 directory
 ext:
   schema-version: v1.0.0
+  stream: Legacy

@@ -86,3 +86,4 @@ keyword:
 - content: IMAP4-IDLE
 ext:
   schema-version: v1.0.0
+  stream: Legacy

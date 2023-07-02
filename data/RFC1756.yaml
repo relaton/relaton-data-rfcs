@@ -87,3 +87,4 @@ keyword:
 - content: Application
 ext:
   schema-version: v1.0.0
+  stream: Legacy

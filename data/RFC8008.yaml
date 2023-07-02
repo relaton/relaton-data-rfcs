@@ -212,3 +212,4 @@ editorialgroup:
 - name: cdni
 ext:
   schema-version: v1.0.0
+  stream: IETF

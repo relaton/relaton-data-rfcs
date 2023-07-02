@@ -125,3 +125,4 @@ editorialgroup:
 - name: enum
 ext:
   schema-version: v1.0.0
+  stream: IETF

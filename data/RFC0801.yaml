@@ -85,3 +85,4 @@ series:
   number: '801'
 ext:
   schema-version: v1.0.0
+  stream: Legacy

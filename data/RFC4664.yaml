@@ -116,3 +116,4 @@ editorialgroup:
 - name: l2vpn
 ext:
   schema-version: v1.0.0
+  stream: IETF

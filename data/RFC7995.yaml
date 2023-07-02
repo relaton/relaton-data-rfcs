@@ -148,3 +148,4 @@ keyword:
 - content: format
 ext:
   schema-version: v1.0.0
+  stream: IAB

@@ -122,3 +122,4 @@ editorialgroup:
 - name: tn3270e
 ext:
   schema-version: v1.0.0
+  stream: IETF

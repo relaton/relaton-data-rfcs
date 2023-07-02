@@ -95,3 +95,4 @@ keyword:
 - content: industrial forum
 ext:
   schema-version: v1.0.0
+  stream: IAB

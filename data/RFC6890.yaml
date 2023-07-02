@@ -180,3 +180,4 @@ keyword:
 - content: space assignments
 ext:
   schema-version: v1.0.0
+  stream: IETF

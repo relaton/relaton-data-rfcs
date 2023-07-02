@@ -115,3 +115,4 @@ keyword:
 - content: smi network management private enterprise code
 ext:
   schema-version: v1.0.0
+  stream: IETF

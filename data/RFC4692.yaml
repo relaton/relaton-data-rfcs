@@ -90,3 +90,4 @@ keyword:
 - content: ipv6 unicast address blocks
 ext:
   schema-version: v1.0.0
+  stream: IETF

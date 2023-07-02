@@ -117,3 +117,4 @@ keyword:
 - content: Open shortest path first routing
 ext:
   schema-version: v1.0.0
+  stream: Legacy

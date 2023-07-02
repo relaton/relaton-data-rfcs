@@ -210,3 +210,4 @@ keyword:
 - content: service delivery in CGN contexts
 ext:
   schema-version: v1.0.0
+  stream: INDEPENDENT

@@ -333,3 +333,4 @@ keyword:
 - content: and IPv6 configuration
 ext:
   schema-version: v1.0.0
+  stream: INDEPENDENT

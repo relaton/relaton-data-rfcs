@@ -147,3 +147,4 @@ keyword:
 - content: Uniform Resource Name Namespace Identification
 ext:
   schema-version: v1.0.0
+  stream: INDEPENDENT

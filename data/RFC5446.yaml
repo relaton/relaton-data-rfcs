@@ -123,3 +123,4 @@ keyword:
 - content: mobility service subscription
 ext:
   schema-version: v1.0.0
+  stream: IETF

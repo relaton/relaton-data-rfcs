@@ -89,3 +89,4 @@ editorialgroup:
 - name: cat
 ext:
   schema-version: v1.0.0
+  stream: IETF

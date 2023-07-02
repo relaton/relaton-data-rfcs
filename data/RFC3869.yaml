@@ -125,3 +125,4 @@ keyword:
 - content: non-commercial funding
 ext:
   schema-version: v1.0.0
+  stream: IAB

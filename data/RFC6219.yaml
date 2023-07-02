@@ -217,3 +217,4 @@ keyword:
 - content: stateless NAT64
 ext:
   schema-version: v1.0.0
+  stream: IETF

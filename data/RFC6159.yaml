@@ -145,3 +145,4 @@ keyword:
 - content: Diameter routing
 ext:
   schema-version: v1.0.0
+  stream: INDEPENDENT

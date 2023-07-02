@@ -87,3 +87,4 @@ keyword:
 - content: lightweight directory access protocol
 ext:
   schema-version: v1.0.0
+  stream: Legacy

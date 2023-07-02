@@ -185,3 +185,4 @@ keyword:
 - content: data analysis
 ext:
   schema-version: v1.0.0
+  stream: IAB

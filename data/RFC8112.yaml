@@ -173,3 +173,4 @@ series:
   number: '8112'
 ext:
   schema-version: v1.0.0
+  stream: INDEPENDENT

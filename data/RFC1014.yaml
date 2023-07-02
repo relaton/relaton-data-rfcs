@@ -63,3 +63,4 @@ series:
   number: '1014'
 ext:
   schema-version: v1.0.0
+  stream: Legacy
