@@ -200,14 +200,14 @@ abstract:
   - Latn
   format: text/html
 series:
-- type: stream
-  title:
-    content: IETF
-    format: text/plain
 - title:
     content: RFC
     format: text/plain
   number: '5977'
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
 keyword:
 - content: next steps in signaling
 - content: resource managment in diffserv

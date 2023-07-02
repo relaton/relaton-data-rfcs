@@ -87,14 +87,14 @@ relation:
       content: RFC6960
       format: text/plain
 series:
-- type: stream
-  title:
-    content: IETF
-    format: text/plain
 - title:
     content: RFC
     format: text/plain
   number: '8954'
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
 keyword:
 - content: OCSP Nonce Length
 - content: OCSP Nonce Randomness

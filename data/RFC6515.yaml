@@ -125,14 +125,14 @@ relation:
       content: RFC6514
       format: text/plain
 series:
-- type: stream
-  title:
-    content: IETF
-    format: text/plain
 - title:
     content: RFC
     format: text/plain
   number: '6515'
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
 keyword:
 - content: mvpn
 - content: mcast-vpn

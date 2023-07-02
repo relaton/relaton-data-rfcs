@@ -211,14 +211,14 @@ relation:
       content: RFC7473
       format: text/plain
 series:
-- type: stream
-  title:
-    content: IETF
-    format: text/plain
 - title:
     content: RFC
     format: text/plain
   number: '8223'
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
 editorialgroup:
 - name: mpls
 ext:

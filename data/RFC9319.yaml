@@ -200,14 +200,14 @@ series:
     content: BCP
     format: text/plain
   number: '185'
-- type: stream
-  title:
-    content: IETF
-    format: text/plain
 - title:
     content: RFC
     format: text/plain
   number: '9319'
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
 keyword:
 - content: Secure Internet routing
 - content: Resource public key infrastructure

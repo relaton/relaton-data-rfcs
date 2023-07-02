@@ -117,14 +117,14 @@ relation:
       content: RFC9110
       format: text/plain
 series:
-- type: stream
-  title:
-    content: IETF
-    format: text/plain
 - title:
     content: RFC
     format: text/plain
   number: '7232'
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
 keyword:
 - content: HyperText Transfer Protocol
 - content: HTTP

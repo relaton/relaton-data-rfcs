@@ -142,14 +142,14 @@ relation:
       content: RFC3275
       format: text/plain
 series:
-- type: stream
-  title:
-    content: IETF
-    format: text/plain
 - title:
     content: RFC
     format: text/plain
   number: '3075'
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
 keyword:
 - content: extensible
 - content: markup

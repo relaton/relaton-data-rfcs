@@ -193,14 +193,14 @@ abstract:
   - Latn
   format: text/html
 series:
-- type: stream
-  title:
-    content: INDEPENDENT
-    format: text/plain
 - title:
     content: RFC
     format: text/plain
   number: '5578'
+- type: stream
+  title:
+    content: INDEPENDENT
+    format: text/plain
 keyword:
 - content: point-to-point protocol over ethernet
 - content: link quality metric

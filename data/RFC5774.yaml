@@ -121,14 +121,14 @@ series:
     content: BCP
     format: text/plain
   number: '154'
-- type: stream
-  title:
-    content: IETF
-    format: text/plain
 - title:
     content: RFC
     format: text/plain
   number: '5774'
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
 editorialgroup:
 - name: geopriv
 ext:

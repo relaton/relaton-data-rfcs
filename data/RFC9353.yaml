@@ -242,14 +242,14 @@ relation:
       content: RFC8306
       format: text/plain
 series:
-- type: stream
-  title:
-    content: IETF
-    format: text/plain
 - title:
     content: RFC
     format: text/plain
   number: '9353'
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
 keyword:
 - content: Path Computation Element
 editorialgroup:

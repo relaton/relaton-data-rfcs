@@ -113,14 +113,14 @@ relation:
       content: RFC3801
       format: text/plain
 series:
-- type: stream
-  title:
-    content: Legacy
-    format: text/plain
 - title:
     content: RFC
     format: text/plain
   number: '2423'
+- type: stream
+  title:
+    content: Legacy
+    format: text/plain
 keyword:
 - content: MIME-VPIM
 - content: multipurpose internet mail extensions

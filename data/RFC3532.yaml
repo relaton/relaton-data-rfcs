@@ -105,14 +105,14 @@ abstract:
   - Latn
   format: text/html
 series:
-- type: stream
-  title:
-    content: IETF
-    format: text/plain
 - title:
     content: RFC
     format: text/plain
   number: '3532'
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
 keyword:
 - content: atm
 - content: asynchronous transfer mode

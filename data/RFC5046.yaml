@@ -236,14 +236,14 @@ relation:
       content: RFC7145
       format: text/plain
 series:
-- type: stream
-  title:
-    content: IETF
-    format: text/plain
 - title:
     content: RFC
     format: text/plain
   number: '5046'
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
 keyword:
 - content: rdma data transfer
 editorialgroup:

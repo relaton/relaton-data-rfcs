@@ -139,14 +139,14 @@ abstract:
   - Latn
   format: text/html
 series:
-- type: stream
-  title:
-    content: IAB
-    format: text/plain
 - title:
     content: RFC
     format: text/plain
   number: '7295'
+- type: stream
+  title:
+    content: IAB
+    format: text/plain
 keyword:
 - content: Congestion Control
 - content: RTCWEB

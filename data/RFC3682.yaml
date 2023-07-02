@@ -151,14 +151,14 @@ relation:
       content: RFC5082
       format: text/plain
 series:
-- type: stream
-  title:
-    content: INDEPENDENT
-    format: text/plain
 - title:
     content: RFC
     format: text/plain
   number: '3682'
+- type: stream
+  title:
+    content: INDEPENDENT
+    format: text/plain
 keyword:
 - content: time to live
 - content: packet hop limit

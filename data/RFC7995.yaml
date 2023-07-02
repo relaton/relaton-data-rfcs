@@ -133,14 +133,14 @@ abstract:
   - Latn
   format: text/html
 series:
-- type: stream
-  title:
-    content: IAB
-    format: text/plain
 - title:
     content: RFC
     format: text/plain
   number: '7995'
+- type: stream
+  title:
+    content: IAB
+    format: text/plain
 keyword:
 - content: Requests for Comment
 - content: xml2rfcv3

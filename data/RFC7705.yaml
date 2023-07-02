@@ -116,14 +116,14 @@ relation:
       content: RFC4271
       format: text/plain
 series:
-- type: stream
-  title:
-    content: IETF
-    format: text/plain
 - title:
     content: RFC
     format: text/plain
   number: '7705'
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
 keyword:
 - content: as-migration
 - content: AS-migration

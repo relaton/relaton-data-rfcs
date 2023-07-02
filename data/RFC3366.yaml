@@ -98,14 +98,14 @@ series:
     content: BCP
     format: text/plain
   number: '62'
-- type: stream
-  title:
-    content: IETF
-    format: text/plain
 - title:
     content: RFC
     format: text/plain
   number: '3366'
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
 keyword:
 - content: tcp/ip
 - content: subnetworks

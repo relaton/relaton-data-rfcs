@@ -83,14 +83,14 @@ relation:
       content: RFC5925
       format: text/plain
 series:
-- type: stream
-  title:
-    content: IETF
-    format: text/plain
 - title:
     content: RFC
     format: text/plain
   number: '2385'
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
 keyword:
 - content: BGP
 - content: border gateway protocol

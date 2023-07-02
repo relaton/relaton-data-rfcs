@@ -155,14 +155,14 @@ relation:
       content: RFC4294
       format: text/plain
 series:
-- type: stream
-  title:
-    content: IETF
-    format: text/plain
 - title:
     content: RFC
     format: text/plain
   number: '5095'
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
 keyword:
 - content: ipv6 type 0 routing header
 - content: traffic amplification

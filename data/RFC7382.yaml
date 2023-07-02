@@ -137,14 +137,14 @@ series:
     content: BCP
     format: text/plain
   number: '173'
-- type: stream
-  title:
-    content: IETF
-    format: text/plain
 - title:
     content: RFC
     format: text/plain
   number: '7382'
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
 editorialgroup:
 - name: sidr
 ext:

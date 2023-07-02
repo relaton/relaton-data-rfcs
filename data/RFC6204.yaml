@@ -203,14 +203,14 @@ relation:
       content: RFC7084
       format: text/plain
 series:
-- type: stream
-  title:
-    content: IETF
-    format: text/plain
 - title:
     content: RFC
     format: text/plain
   number: '6204'
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
 keyword:
 - content: IPv6 CE requirements
 editorialgroup:

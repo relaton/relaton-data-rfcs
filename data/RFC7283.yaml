@@ -156,14 +156,14 @@ relation:
       content: RFC3315
       format: text/plain
 series:
-- type: stream
-  title:
-    content: IETF
-    format: text/plain
 - title:
     content: RFC
     format: text/plain
   number: '7283'
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
 keyword:
 - content: DHCPv6
 - content: Unknown Messages

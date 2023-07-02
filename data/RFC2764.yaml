@@ -189,14 +189,14 @@ abstract:
   - Latn
   format: text/html
 series:
-- type: stream
-  title:
-    content: Legacy
-    format: text/plain
 - title:
     content: RFC
     format: text/plain
   number: '2764'
+- type: stream
+  title:
+    content: Legacy
+    format: text/plain
 keyword:
 - content: VPN
 - content: internet protocol

@@ -93,14 +93,14 @@ relation:
       content: RFC8226
       format: text/plain
 series:
-- type: stream
-  title:
-    content: IETF
-    format: text/plain
 - title:
     content: RFC
     format: text/plain
   number: '9118'
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
 keyword:
 - content: X.509 Certificate Extension
 editorialgroup:

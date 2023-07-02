@@ -106,14 +106,14 @@ abstract:
   - Latn
   format: text/html
 series:
-- type: stream
-  title:
-    content: IETF
-    format: text/plain
 - title:
     content: RFC
     format: text/plain
   number: '9169'
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
 keyword:
 - content: LTANS
 - content: long-term archive

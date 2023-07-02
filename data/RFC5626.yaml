@@ -161,14 +161,14 @@ relation:
       content: RFC3327
       format: text/plain
 series:
-- type: stream
-  title:
-    content: IETF
-    format: text/plain
 - title:
     content: RFC
     format: text/plain
   number: '5626'
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
 editorialgroup:
 - name: sip
 ext:

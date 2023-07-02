@@ -51,14 +51,14 @@ abstract:
   - Latn
   format: text/html
 series:
-- type: stream
-  title:
-    content: INDEPENDENT
-    format: text/plain
 - title:
     content: RFC
     format: text/plain
   number: '2319'
+- type: stream
+  title:
+    content: INDEPENDENT
+    format: text/plain
 keyword:
 - content: KOI8-U
 - content: encoding

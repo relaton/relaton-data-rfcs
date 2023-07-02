@@ -77,14 +77,14 @@ abstract:
   - Latn
   format: text/html
 series:
-- type: stream
-  title:
-    content: IETF
-    format: text/plain
 - title:
     content: RFC
     format: text/plain
   number: '5843'
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
 keyword:
 - content: Hypertext Transfer Protocol
 - content: HTTP

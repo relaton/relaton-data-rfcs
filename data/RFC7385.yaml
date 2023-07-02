@@ -117,14 +117,14 @@ relation:
       content: RFC6514
       format: text/plain
 series:
-- type: stream
-  title:
-    content: IETF
-    format: text/plain
 - title:
     content: RFC
     format: text/plain
   number: '7385'
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
 editorialgroup:
 - name: l3vpn
 ext:

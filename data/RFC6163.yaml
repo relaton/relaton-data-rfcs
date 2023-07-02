@@ -138,14 +138,14 @@ abstract:
   - Latn
   format: text/html
 series:
-- type: stream
-  title:
-    content: IETF
-    format: text/plain
 - title:
     content: RFC
     format: text/plain
   number: '6163'
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
 keyword:
 - content: Generalized Multi-Protocol Label Switching
 - content: Routing and Wavelength Assignment

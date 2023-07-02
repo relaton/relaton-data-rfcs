@@ -225,14 +225,14 @@ relation:
       content: RFC5310
       format: text/plain
 series:
-- type: stream
-  title:
-    content: IETF
-    format: text/plain
 - title:
     content: RFC
     format: text/plain
   number: '6232'
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
 keyword:
 - content: Purge Originator Identification
 - content: IIH:n

@@ -183,14 +183,14 @@ abstract:
   - Latn
   format: text/html
 series:
-- type: stream
-  title:
-    content: IETF
-    format: text/plain
 - title:
     content: RFC
     format: text/plain
   number: '8063'
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
 keyword:
 - content: Extensible Provisioning Protocol
 editorialgroup:

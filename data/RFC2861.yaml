@@ -145,14 +145,14 @@ relation:
       content: RFC7661
       format: text/plain
 series:
-- type: stream
-  title:
-    content: IETF
-    format: text/plain
 - title:
     content: RFC
     format: text/plain
   number: '2861'
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
 keyword:
 - content: TCP
 - content: transmission control protocol

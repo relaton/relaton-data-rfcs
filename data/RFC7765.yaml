@@ -166,14 +166,14 @@ abstract:
   - Latn
   format: text/html
 series:
-- type: stream
-  title:
-    content: IETF
-    format: text/plain
 - title:
     content: RFC
     format: text/plain
   number: '7765'
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
 keyword:
 - content: tcp
 - content: retransmission timer

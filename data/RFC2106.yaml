@@ -144,14 +144,14 @@ relation:
       content: RFC2114
       format: text/plain
 series:
-- type: stream
-  title:
-    content: Legacy
-    format: text/plain
 - title:
     content: RFC
     format: text/plain
   number: '2106'
+- type: stream
+  title:
+    content: Legacy
+    format: text/plain
 keyword:
 - content: DLSRAP
 - content: NetBios

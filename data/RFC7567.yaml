@@ -112,14 +112,14 @@ series:
     content: BCP
     format: text/plain
   number: '197'
-- type: stream
-  title:
-    content: IETF
-    format: text/plain
 - title:
     content: RFC
     format: text/plain
   number: '7567'
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
 editorialgroup:
 - name: aqm
 ext:

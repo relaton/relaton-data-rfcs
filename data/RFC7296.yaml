@@ -196,14 +196,14 @@ series:
     content: STD
     format: text/plain
   number: '79'
-- type: stream
-  title:
-    content: IETF
-    format: text/plain
 - title:
     content: RFC
     format: text/plain
   number: '7296'
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
 keyword:
 - content: IKE
 - content: IPsec
