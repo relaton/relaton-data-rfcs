@@ -1,0 +1,198 @@
+---
+schema-version: v1.2.3
+id: RFC7550
+title:
+- content: Issues and Recommendations with Multiple Stateful DHCPv6 Options
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc7550
+  type: src
+type: standard
+docid:
+- id: RFC 7550
+  type: IETF
+  primary: true
+- id: 10.17487/RFC7550
+  type: DOI
+docnumber: RFC7550
+date:
+- type: published
+  value: 2015-05
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: O
+        formatted_initials:
+          content: O.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Troan
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: O. Troan
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: B
+        formatted_initials:
+          content: B.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Volz
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: B. Volz
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Siodelski
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: M. Siodelski
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 2015-05
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "<p>The Dynamic Host Configuration Protocol for IPv6 (DHCPv6) specification
+    defined two stateful options, IA_NA and IA_TA, but did not anticipate the development
+    of additional stateful options. DHCPv6 Prefix Delegation added the IA_PD option,
+    which is stateful. Applications that use IA_NA and IA_PD together have revealed
+    issues that need to be addressed. This document updates RFCs 3315 and 3633 to
+    address these issues.</p>"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: RFC8415
+    docid:
+    - id: RFC8415
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC8415
+      format: text/plain
+- type: updates
+  bibitem:
+    id: RFC3315
+    docid:
+    - id: RFC3315
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC3315
+      format: text/plain
+- type: updates
+  bibitem:
+    id: RFC3633
+    docid:
+    - id: RFC3633
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC3633
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '7550'
+keyword:
+- content: CPE
+- content: CER
+- content: CE
+- content: Customer Edge Router
+- content: Prefix Delegation
+- content: IPv6 Address Option
+- content: Session
+- content: State Machine
+- content: Advertise
+- content: Time
+- content: Timer T1 T2
+- content: Renew
+- content: Rebind
+- content: Confirm
+- content: Decline
+- content: Provision
+editorialgroup:
+- name: dhc
+ext:
+  schema-version: v1.0.0
+  stream: IETF

@@ -1,0 +1,193 @@
+---
+schema-version: v1.2.3
+id: RFC6106
+title:
+- content: IPv6 Router Advertisement Options for DNS Configuration
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc6106
+  type: src
+type: standard
+docid:
+- id: RFC 6106
+  type: IETF
+  primary: true
+- id: 10.17487/RFC6106
+  type: DOI
+docnumber: RFC6106
+date:
+- type: published
+  value: 2010-11
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: J
+        formatted_initials:
+          content: J.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Jeong
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: J. Jeong
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: S
+        formatted_initials:
+          content: S.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Park
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: S. Park
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: L
+        formatted_initials:
+          content: L.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Beloeil
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: L. Beloeil
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: S
+        formatted_initials:
+          content: S.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Madanapalli
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: S. Madanapalli
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 2010-11
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "<p>This document specifies IPv6 Router Advertisement options to allow
+    IPv6 routers to advertise a list of DNS recursive server addresses and a DNS Search
+    List to IPv6 hosts. [STANDARDS-TRACK]</p>"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: RFC8106
+    docid:
+    - id: RFC8106
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC8106
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '6106'
+keyword:
+- content: DNS Service
+- content: DNS Option
+- content: Recursive DNS Server Address
+- content: DNS Search List
+- content: Stateless Autoconfiguration
+editorialgroup:
+- name: 6man
+ext:
+  schema-version: v1.0.0
+  stream: IETF

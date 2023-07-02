@@ -1,0 +1,138 @@
+---
+schema-version: v1.2.3
+id: RFC2234
+title:
+- content: 'Augmented BNF for Syntax Specifications: ABNF'
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc2234
+  type: src
+type: standard
+docid:
+- id: RFC 2234
+  type: IETF
+  primary: true
+- id: 10.17487/RFC2234
+  type: DOI
+docnumber: RFC2234
+date:
+- type: published
+  value: 1997-11
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: D
+        formatted_initials:
+          content: D.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Crocker
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: D. Crocker
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: P
+        formatted_initials:
+          content: P.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Overell
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: P. Overell
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 1997-11
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "<p>In the early days of the Arpanet, each specification contained its
+    own definition of ABNF. This included the email specifications, RFC733 and then
+    RFC822 which have come to be the common citations for defining ABNF. The current
+    document separates out that definition, to permit selective reference. Predictably,
+    it also provides some modifications and enhancements. [STANDARDS-TRACK]</p>"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: RFC4234
+    docid:
+    - id: RFC4234
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC4234
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '2234'
+keyword:
+- content: ABNF
+- content: Augmented
+- content: Backus-Naur
+- content: Form
+- content: electronic
+- content: mail
+editorialgroup:
+- name: drums
+ext:
+  schema-version: v1.0.0
+  stream: IETF

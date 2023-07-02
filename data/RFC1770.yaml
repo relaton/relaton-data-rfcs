@@ -1,0 +1,101 @@
+---
+schema-version: v1.2.3
+id: RFC1770
+title:
+- content: IPv4 Option for Sender Directed Multi-Destination Delivery
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc1770
+  type: src
+type: standard
+docid:
+- id: RFC 1770
+  type: IETF
+  primary: true
+- id: 10.17487/RFC1770
+  type: DOI
+docnumber: RFC1770
+date:
+- type: published
+  value: 1995-03
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: C
+        formatted_initials:
+          content: C.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Graff
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: C. Graff
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 1995-03
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "<p>This memo defines an IPv4 option to provide a sender directed multi-
+    destination delivery mechanism called Selective Directed Broadcast Mode (SDBM).
+    This memo provides information for the Internet community. This memo does not
+    specify an Internet standard of any kind.</p>"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: RFC6814
+    docid:
+    - id: RFC6814
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC6814
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: Legacy
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '1770'
+keyword:
+- content: SDMD
+ext:
+  schema-version: v1.0.0
+  stream: Legacy

@@ -1,0 +1,196 @@
+---
+schema-version: v1.2.3
+id: RFC5815
+title:
+- content: Definitions of Managed Objects for IP Flow Information Export
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc5815
+  type: src
+type: standard
+docid:
+- id: RFC 5815
+  type: IETF
+  primary: true
+- id: 10.17487/RFC5815
+  type: DOI
+docnumber: RFC5815
+date:
+- type: published
+  value: 2010-04
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: T
+        formatted_initials:
+          content: T.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Dietz
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: T. Dietz
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Kobayashi
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: A. Kobayashi
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: B
+        formatted_initials:
+          content: B.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Claise
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: B. Claise
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: G
+        formatted_initials:
+          content: G.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Muenz
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: G. Muenz
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 2010-04
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "<p>This document defines managed objects for IP Flow Information eXport
+    (IPFIX). These objects provide information for monitoring IPFIX Exporters and
+    IPFIX Collectors including the basic configuration information. [STANDARDS-TRACK]</p>"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: RFC6615
+    docid:
+    - id: RFC6615
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC6615
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '5815'
+keyword:
+- content: Selector
+- content: Collector
+- content: Exporter
+- content: Sampling
+- content: Filtering
+- content: IPFIX
+- content: IPFIX-MIB
+- content: IPFIX-SELECTOR-MIB
+editorialgroup:
+- name: ipfix
+ext:
+  schema-version: v1.0.0
+  stream: IETF

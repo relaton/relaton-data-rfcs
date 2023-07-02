@@ -1,0 +1,197 @@
+---
+schema-version: v1.2.3
+id: RFC4140
+title:
+- content: Hierarchical Mobile IPv6 Mobility Management (HMIPv6)
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc4140
+  type: src
+type: standard
+docid:
+- id: RFC 4140
+  type: IETF
+  primary: true
+- id: 10.17487/RFC4140
+  type: DOI
+docnumber: RFC4140
+date:
+- type: published
+  value: 2005-08
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: H
+        formatted_initials:
+          content: H.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Soliman
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: H. Soliman
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: C
+        formatted_initials:
+          content: C.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Castelluccia
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: C. Castelluccia
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: K
+        formatted_initials:
+          content: K.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: El Malki
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: K. El Malki
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: L
+        formatted_initials:
+          content: L.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Bellier
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: L. Bellier
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 2005-08
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "<p>This document introduces extensions to Mobile IPv6 and IPv6 Neighbour
+    Discovery to allow for local mobility handling. Hierarchical mobility management
+    for Mobile IPv6 is designed to reduce the amount of signalling between the Mobile
+    Node, its Correspondent Nodes, and its Home Agent. The Mobility Anchor Point (MAP)
+    described in this document can also be used to improve the performance of Mobile
+    IPv6 in terms of handover speed. This memo defines an Experimental Protocol for
+    the Internet community.</p>"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: RFC5380
+    docid:
+    - id: RFC5380
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC5380
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '4140'
+keyword:
+- content: internet protocol version 6
+- content: neighbour discovery
+- content: neighbor discovery
+- content: mobility anchor point
+- content: map
+editorialgroup:
+- name: mipshop
+ext:
+  schema-version: v1.0.0
+  stream: IETF

@@ -1,0 +1,101 @@
+---
+schema-version: v1.2.3
+id: RFC1466
+title:
+- content: Guidelines for Management of IP Address Space
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc1466
+  type: src
+type: standard
+docid:
+- id: RFC 1466
+  type: IETF
+  primary: true
+- id: 10.17487/RFC1466
+  type: DOI
+docnumber: RFC1466
+date:
+- type: published
+  value: 1993-05
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: E
+        formatted_initials:
+          content: E.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Gerich
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: E. Gerich
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 1993-05
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "<p>This document proposes a plan which will forward the implementation
+    of RFC 1174 and which defines the allocation and assignment of the network number
+    space. This memo provides information for the Internet community. It does not
+    specify an Internet standard.</p>"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: RFC2050
+    docid:
+    - id: RFC2050
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC2050
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: Legacy
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '1466'
+keyword:
+- content: CIDR
+ext:
+  schema-version: v1.0.0
+  stream: Legacy

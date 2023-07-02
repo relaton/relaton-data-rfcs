@@ -1,0 +1,145 @@
+---
+schema-version: v1.2.3
+id: RFC8580
+title:
+- content: 'Sieve Extension: File Carbon Copy (FCC)'
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc8580
+  type: src
+type: standard
+docid:
+- id: RFC 8580
+  type: IETF
+  primary: true
+- id: 10.17487/RFC8580
+  type: DOI
+docnumber: RFC8580
+date:
+- type: published
+  value: 2019-05
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: K
+        formatted_initials:
+          content: K.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Murchison
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: K. Murchison
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: B
+        formatted_initials:
+          content: B.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Gondwana
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: B. Gondwana
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 2019-05
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "<p>The Sieve email filtering language provides a number of action commands,
+    some of which can generate additional messages on behalf of the user. This document
+    defines an extension to such commands to allow a copy of any generated message
+    to be filed into a target mailbox.</p><p>This document updates RFCs 5230 and 5435
+    by adding a new tagged argument to the Vacation and Notify actions, respectively.</p>"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: updates
+  bibitem:
+    id: RFC5230
+    docid:
+    - id: RFC5230
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC5230
+      format: text/plain
+- type: updates
+  bibitem:
+    id: RFC5435
+    docid:
+    - id: RFC5435
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC5435
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '8580'
+keyword:
+- content: Sieve
+- content: Vacation
+- content: Notify
+editorialgroup:
+- name: extra
+ext:
+  schema-version: v1.0.0
+  stream: IETF

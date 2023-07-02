@@ -1,0 +1,105 @@
+---
+schema-version: v1.2.3
+id: RFC7749
+title:
+- content: The "xml2rfc" Version 2 Vocabulary
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc7749
+  type: src
+type: standard
+docid:
+- id: RFC 7749
+  type: IETF
+  primary: true
+- id: 10.17487/RFC7749
+  type: DOI
+docnumber: RFC7749
+date:
+- type: published
+  value: 2016-02
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: J
+        formatted_initials:
+          content: J.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Reschke
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: J. Reschke
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 2016-02
+language:
+- en
+script:
+- Latn
+abstract:
+- content: '<p>This document defines the "xml2rfc" version 2 vocabulary: an XML-based
+    language used for writing RFCs and Internet-Drafts.</p><p>Version 2 represents
+    the state of the vocabulary (as implemented by several tools and as used by the
+    RFC Editor) around 2014.</p><p>This document obsoletes RFC 2629.</p>'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: RFC7991
+    docid:
+    - id: RFC7991
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC7991
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: IAB
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '7749'
+keyword:
+- content: XML
+- content: IETF
+- content: RFC
+- content: Internet-Draft
+- content: Vocabulary
+ext:
+  schema-version: v1.0.0
+  stream: IAB

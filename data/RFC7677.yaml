@@ -1,0 +1,100 @@
+---
+schema-version: v1.2.3
+id: RFC7677
+title:
+- content: SCRAM-SHA-256 and SCRAM-SHA-256-PLUS Simple Authentication and Security
+    Layer (SASL) Mechanisms
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc7677
+  type: src
+type: standard
+docid:
+- id: RFC 7677
+  type: IETF
+  primary: true
+- id: 10.17487/RFC7677
+  type: DOI
+docnumber: RFC7677
+date:
+- type: published
+  value: 2015-11
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: T
+        formatted_initials:
+          content: T.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Hansen
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: T. Hansen
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 2015-11
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "<p>This document registers the Simple Authentication and Security Layer
+    (SASL) mechanisms SCRAM-SHA-256 and SCRAM-SHA-256-PLUS, provides guidance for
+    secure implementation of the original SCRAM-SHA-1-PLUS mechanism, and updates
+    the SCRAM registration procedures of RFC 5802.</p>"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: updates
+  bibitem:
+    id: RFC5802
+    docid:
+    - id: RFC5802
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC5802
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '7677'
+ext:
+  schema-version: v1.0.0
+  stream: IETF

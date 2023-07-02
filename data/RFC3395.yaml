@@ -1,0 +1,182 @@
+---
+schema-version: v1.2.3
+id: RFC3395
+title:
+- content: Remote Network Monitoring MIB Protocol Identifier Reference Extensions
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc3395
+  type: src
+type: standard
+docid:
+- id: RFC 3395
+  type: IETF
+  primary: true
+- id: 10.17487/RFC3395
+  type: DOI
+docnumber: RFC3395
+date:
+- type: published
+  value: 2002-09
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Bierman
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: A. Bierman
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: C
+        formatted_initials:
+          content: C.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Bucci
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: C. Bucci
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: R
+        formatted_initials:
+          content: R.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Dietz
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: R. Dietz
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Warth
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: A. Warth
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 2002-09
+language:
+- en
+script:
+- Latn
+relation:
+- type: updates
+  bibitem:
+    id: RFC2895
+    docid:
+    - id: RFC2895
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC2895
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '3395'
+keyword:
+- content: RMON-MIB
+- content: Remote Network Monitoring
+- content: management information base
+editorialgroup:
+- name: rmonmib
+ext:
+  schema-version: v1.0.0
+  stream: IETF

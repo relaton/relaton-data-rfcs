@@ -1,0 +1,176 @@
+---
+schema-version: v1.2.3
+id: RFC4909
+title:
+- content: Multimedia Internet KEYing (MIKEY) General Extension Payload for Open Mobile
+    Alliance BCAST LTKM/STKM Transport
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc4909
+  type: src
+type: standard
+docid:
+- id: RFC 4909
+  type: IETF
+  primary: true
+- id: 10.17487/RFC4909
+  type: DOI
+docnumber: RFC4909
+date:
+- type: published
+  value: 2007-06
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: L
+        formatted_initials:
+          content: L.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Dondeti
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: L. Dondeti
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: D
+        formatted_initials:
+          content: D.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Castleford
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: D. Castleford
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: F
+        formatted_initials:
+          content: F.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Hartung
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: F. Hartung
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 2007-06
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "<p>This document specifies a new Multimedia Internet KEYing (MIKEY) General
+    Extension payload (RFC 3830) to transport the short-term key message (STKM) and
+    long-term key message (LTKM) payloads defined in the Open Mobile Alliance's (OMA)
+    Browser and Content (BAC) Broadcast (BCAST) group's Service and Content protection
+    specification. This memo provides information for the Internet community.</p>"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: RFC5410
+    docid:
+    - id: RFC5410
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC5410
+      format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: RFC6309
+    docid:
+    - id: RFC6309
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC6309
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '4909'
+keyword:
+- content: short-term key message
+- content: long-term key message
+- content: oma
+- content: bac
+- content: browser and content
+- content: broadcast
+ext:
+  schema-version: v1.0.0
+  stream: IETF

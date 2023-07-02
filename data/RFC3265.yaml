@@ -1,0 +1,123 @@
+---
+schema-version: v1.2.3
+id: RFC3265
+title:
+- content: Session Initiation Protocol (SIP)-Specific Event Notification
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc3265
+  type: src
+type: standard
+docid:
+- id: RFC 3265
+  type: IETF
+  primary: true
+- id: 10.17487/RFC3265
+  type: DOI
+docnumber: RFC3265
+date:
+- type: published
+  value: 2002-06
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: A
+        - language:
+          - en
+          script:
+          - Latn
+          initial: B
+        formatted_initials:
+          content: A. B.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Roach
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: A. B. Roach
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 2002-06
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "<p>This document describes an extension to the Session Initiation Protocol
+    (SIP). The purpose of this extension is to provide an extensible framework by
+    which SIP nodes can request notification from remote nodes indicating that certain
+    events have occurred. [STANDARDS-TRACK]</p>"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: RFC6665
+    docid:
+    - id: RFC6665
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC6665
+      format: text/plain
+- type: updates
+  bibitem:
+    id: RFC3261
+    docid:
+    - id: RFC3261
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC3261
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '3265'
+keyword:
+- content: SIP
+- content: Session Initiation Protocol
+- content: application-layer
+- content: multimedia
+- content: multicast
+- content: unicast
+editorialgroup:
+- name: sip
+ext:
+  schema-version: v1.0.0
+  stream: IETF

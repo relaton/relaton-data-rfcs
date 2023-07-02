@@ -1,0 +1,109 @@
+---
+schema-version: v1.2.3
+id: RFC1891
+title:
+- content: SMTP Service Extension for Delivery Status Notifications
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc1891
+  type: src
+type: standard
+docid:
+- id: RFC 1891
+  type: IETF
+  primary: true
+- id: 10.17487/RFC1891
+  type: DOI
+docnumber: RFC1891
+date:
+- type: published
+  value: 1996-01
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: K
+        formatted_initials:
+          content: K.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Moore
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: K. Moore
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 1996-01
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "<p>This memo defines an extension to the SMTP service, which allows an
+    SMTP client to specify (a) that delivery status notifications (DSNs) should be
+    generated under certain conditions, (b) whether such notifications should return
+    the contents of the message, and (c) additional information, to be returned with
+    a DSN, that allows the sender to identify both the recipient(s) for which the
+    DSN was issued, and the transaction in which the original message was sent. [STANDARDS-TRACK]</p>"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: RFC3461
+    docid:
+    - id: RFC3461
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC3461
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '1891'
+keyword:
+- content: SMTP-DSN
+- content: simple
+- content: mail
+- content: transfer
+- content: protocol
+editorialgroup:
+- name: notary
+ext:
+  schema-version: v1.0.0
+  stream: IETF

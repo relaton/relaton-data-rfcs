@@ -1,0 +1,145 @@
+---
+schema-version: v1.2.3
+id: RFC8974
+title:
+- content: Extended Tokens and Stateless Clients in the Constrained Application Protocol
+    (CoAP)
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc8974
+  type: src
+type: standard
+docid:
+- id: RFC 8974
+  type: IETF
+  primary: true
+- id: 10.17487/RFC8974
+  type: DOI
+docnumber: RFC8974
+date:
+- type: published
+  value: 2021-01
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: K
+        formatted_initials:
+          content: K.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Hartke
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: K. Hartke
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Richardson
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: M. Richardson
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 2021-01
+language:
+- en
+script:
+- Latn
+abstract:
+- content: <p>This document provides considerations for alleviating Constrained Application
+    Protocol (CoAP) clients and intermediaries of keeping per-request state. To facilitate
+    this, this document additionally introduces a new, optional CoAP protocol extension
+    for extended token lengths.</p><p>This document updates RFCs 7252 and 8323 with
+    an extended definition of the "TKL" field in the CoAP message header.</p>
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: updates
+  bibitem:
+    id: RFC7252
+    docid:
+    - id: RFC7252
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC7252
+      format: text/plain
+- type: updates
+  bibitem:
+    id: RFC8323
+    docid:
+    - id: RFC8323
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC8323
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '8974'
+keyword:
+- content: 6tisch
+- content: minimal-security
+editorialgroup:
+- name: core
+ext:
+  schema-version: v1.0.0
+  stream: IETF

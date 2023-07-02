@@ -1,0 +1,113 @@
+---
+schema-version: v1.2.3
+id: RFC1644
+title:
+- content: T/TCP -- TCP Extensions for Transactions Functional Specification
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc1644
+  type: src
+type: standard
+docid:
+- id: RFC 1644
+  type: IETF
+  primary: true
+- id: 10.17487/RFC1644
+  type: DOI
+docnumber: RFC1644
+date:
+- type: published
+  value: 1994-07
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: R
+        formatted_initials:
+          content: R.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Braden
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: R. Braden
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 1994-07
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "<p>This memo specifies T/TCP, an experimental TCP extension for efficient
+    transaction-oriented (request/response) service. This memo describes an Experimental
+    Protocol for the Internet community.</p>"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: RFC6247
+    docid:
+    - id: RFC6247
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC6247
+      format: text/plain
+- type: updates
+  bibitem:
+    id: RFC1379
+    docid:
+    - id: RFC1379
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC1379
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: Legacy
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '1644'
+keyword:
+- content: T/TCP
+- content: Transmission
+- content: Control
+- content: Protocol
+ext:
+  schema-version: v1.0.0
+  stream: Legacy

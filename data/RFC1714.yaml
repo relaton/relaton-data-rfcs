@@ -1,0 +1,132 @@
+---
+schema-version: v1.2.3
+id: RFC1714
+title:
+- content: Referral Whois Protocol (RWhois)
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc1714
+  type: src
+type: standard
+docid:
+- id: RFC 1714
+  type: IETF
+  primary: true
+- id: 10.17487/RFC1714
+  type: DOI
+docnumber: RFC1714
+date:
+- type: published
+  value: 1994-11
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: S
+        formatted_initials:
+          content: S.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Williamson
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: S. Williamson
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Kosters
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: M. Kosters
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 1994-11
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "<p>This memo describes version 1.0 of the client/server interaction of
+    RWhois. RWhois provides a distributed system for the display of hierarchical information.
+    This memo provides information for the Internet community. This memo does not
+    specify an Internet standard of any kind.</p>"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: RFC2167
+    docid:
+    - id: RFC2167
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC2167
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: Legacy
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '1714'
+keyword:
+- content: White
+- content: Pages
+- content: Directory
+ext:
+  schema-version: v1.0.0
+  stream: Legacy

@@ -1,0 +1,98 @@
+---
+schema-version: v1.2.3
+id: RFC1103
+title:
+- content: Proposed standard for the transmission of IP datagrams over FDDI Networks
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc1103
+  type: src
+type: standard
+docid:
+- id: RFC 1103
+  type: IETF
+  primary: true
+- id: 10.17487/RFC1103
+  type: DOI
+docnumber: RFC1103
+date:
+- type: published
+  value: 1989-06
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: D
+        formatted_initials:
+          content: D.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Katz
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: D. Katz
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 1989-06
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "<p>This RFC specifies a method of encapsulating the Internet Protocol
+    (IP) datagrams and Address Resolution Protocol (ARP) requests and replies on Fiber
+    Distributed Data Interface (FDDI) Networks. [STANDARDS-TRACK]</p>"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: RFC1188
+    docid:
+    - id: RFC1188
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC1188
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: Legacy
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '1103'
+ext:
+  schema-version: v1.0.0
+  stream: Legacy

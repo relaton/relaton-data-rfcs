@@ -1,0 +1,111 @@
+---
+schema-version: v1.2.3
+id: RFC7997
+title:
+- content: The Use of Non-ASCII Characters in RFCs
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc7997
+  type: src
+type: standard
+docid:
+- id: RFC 7997
+  type: IETF
+  primary: true
+- id: 10.17487/RFC7997
+  type: DOI
+docnumber: RFC7997
+date:
+- type: published
+  value: 2016-12
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: H
+        formatted_initials:
+          content: H.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Flanagan
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: H. Flanagan
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 2016-12
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "<p>In order to support the internationalization of protocols and a more
+    diverse Internet community, the RFC Series must evolve to allow for the use of
+    non-ASCII characters in RFCs. While English remains the required language of the
+    Series, the encoding of future RFCs will be in UTF-8, allowing for a broader range
+    of characters than typically used in the English language. This document describes
+    the RFC Editor requirements and gives guidance regarding the use of non-ASCII
+    characters in RFCs.</p><p>This document updates RFC 7322. Please view this document
+    in PDF form to see the full text.</p>"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: updates
+  bibitem:
+    id: RFC7322
+    docid:
+    - id: RFC7322
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC7322
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: IAB
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '7997'
+keyword:
+- content: RFC Series
+- content: UTF-8
+- content: ASCII
+- content: format
+- content: non-ASCII
+- content: v3
+- content: xml2rfcv3
+ext:
+  schema-version: v1.0.0
+  stream: IAB

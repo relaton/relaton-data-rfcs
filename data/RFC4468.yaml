@@ -1,0 +1,111 @@
+---
+schema-version: v1.2.3
+id: RFC4468
+title:
+- content: Message Submission BURL Extension
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc4468
+  type: src
+type: standard
+docid:
+- id: RFC 4468
+  type: IETF
+  primary: true
+- id: 10.17487/RFC4468
+  type: DOI
+docnumber: RFC4468
+date:
+- type: published
+  value: 2006-05
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: C
+        formatted_initials:
+          content: C.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Newman
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: C. Newman
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 2006-05
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "<p>The submission profile of Simple Mail Transfer Protocol (SMTP) provides
+    a standard way for an email client to submit a complete message for delivery.
+    This specification extends the submission profile by adding a new BURL command
+    that can be used to fetch submission data from an Internet Message Access Protocol
+    (IMAP) server. This permits a mail client to inject content from an IMAP server
+    into the SMTP infrastructure without downloading it to the client and uploading
+    it back to the server. [STANDARDS-TRACK]</p>"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: updates
+  bibitem:
+    id: RFC3463
+    docid:
+    - id: RFC3463
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC3463
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '4468'
+keyword:
+- content: URLAUTH
+- content: IMAP
+- content: IMAPURL
+- content: Forward-without-download
+- content: mobile-client
+- content: lemonade
+editorialgroup:
+- name: lemonade
+ext:
+  schema-version: v1.0.0
+  stream: IETF

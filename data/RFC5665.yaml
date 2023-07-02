@@ -1,0 +1,108 @@
+---
+schema-version: v1.2.3
+id: RFC5665
+title:
+- content: IANA Considerations for Remote Procedure Call (RPC) Network Identifiers
+    and Universal Address Formats
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc5665
+  type: src
+type: standard
+docid:
+- id: RFC 5665
+  type: IETF
+  primary: true
+- id: 10.17487/RFC5665
+  type: DOI
+docnumber: RFC5665
+date:
+- type: published
+  value: 2010-01
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Eisler
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: M. Eisler
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 2010-01
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "<p>This document lists IANA Considerations for Remote Procedure Call (RPC)
+    Network Identifiers (netids) and RPC Universal Network Addresses (uaddrs). This
+    document updates, but does not replace, RFC 1833. [STANDARDS-TRACK]</p>"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: updates
+  bibitem:
+    id: RFC1833
+    docid:
+    - id: RFC1833
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC1833
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '5665'
+keyword:
+- content: rpcbind
+- content: portmap
+- content: transport independent remote procedure call
+- content: TI-RPC
+- content: transport identifier
+- content: protocol identifier
+editorialgroup:
+- name: nfsv4
+ext:
+  schema-version: v1.0.0
+  stream: IETF

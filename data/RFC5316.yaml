@@ -1,0 +1,169 @@
+---
+schema-version: v1.2.3
+id: RFC5316
+title:
+- content: ISIS Extensions in Support of Inter-Autonomous System (AS) MPLS and GMPLS
+    Traffic Engineering
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc5316
+  type: src
+type: standard
+docid:
+- id: RFC 5316
+  type: IETF
+  primary: true
+- id: 10.17487/RFC5316
+  type: DOI
+docnumber: RFC5316
+date:
+- type: published
+  value: 2008-12
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Chen
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: M. Chen
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: R
+        formatted_initials:
+          content: R.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Zhang
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: R. Zhang
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: X
+        formatted_initials:
+          content: X.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Duan
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: X. Duan
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 2008-12
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "<p>This document describes extensions to the ISIS (ISIS) protocol to support
+    Multiprotocol Label Switching (MPLS) and Generalized MPLS (GMPLS) Traffic Engineering
+    (TE) for multiple Autonomous Systems (ASes). It defines ISIS-TE extensions for
+    the flooding of TE information about inter-AS links, which can be used to perform
+    inter- AS TE path computation.</p><p>No support for flooding information from
+    within one AS to another AS is proposed or defined in this document. [STANDARDS-TRACK]</p>"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: RFC9346
+    docid:
+    - id: RFC9346
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC9346
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '5316'
+keyword:
+- content: multiprotocol label switching
+- content: generalized mpls
+- content: gmpls-te
+- content: mpls-te
+- content: isis-te
+- content: flooding
+editorialgroup:
+- name: ccamp
+ext:
+  schema-version: v1.0.0
+  stream: IETF

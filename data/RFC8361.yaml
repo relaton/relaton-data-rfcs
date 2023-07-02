@@ -1,0 +1,232 @@
+---
+schema-version: v1.2.3
+id: RFC8361
+title:
+- content: 'Transparent Interconnection of Lots of Links (TRILL): Centralized Replication
+    for Active-Active Broadcast, Unknown Unicast, and Multicast (BUM) Traffic'
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc8361
+  type: src
+type: standard
+docid:
+- id: RFC 8361
+  type: IETF
+  primary: true
+- id: 10.17487/RFC8361
+  type: DOI
+docnumber: RFC8361
+date:
+- type: published
+  value: 2018-04
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: W
+        formatted_initials:
+          content: W.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Hao
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: W. Hao
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: Y
+        formatted_initials:
+          content: Y.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Li
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: Y. Li
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Durrani
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: M. Durrani
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: S
+        formatted_initials:
+          content: S.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Gupta
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: S. Gupta
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Qu
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: A. Qu
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 2018-04
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "<p>In Transparent Interconnection of Lots of Links (TRILL) active-active
+    access, a Reverse Path Forwarding (RPF) check failure issue may occur when using
+    the pseudo-nickname mechanism specified in RFC 7781. This document describes a
+    solution to resolve this RPF check failure issue through centralized replication.
+    All ingress Routing Bridges (RBridges) send Broadcast, Unknown Unicast, and Multicast
+    (BUM) traffic to a centralized node with unicast TRILL encapsulation. When the
+    centralized node receives the BUM traffic, it decapsulates the packets and forwards
+    them to their destination RBridges using a distribution tree established per the
+    TRILL base protocol (RFC 6325). To avoid RPF check failure on an RBridge sitting
+    between the ingress RBridge and the centralized replication node, some change
+    in the RPF calculation algorithm is required. RPF checks on each RBridge MUST
+    be calculated as if the centralized node was the ingress RBridge, instead of being
+    calculated using the actual ingress RBridge. This document updates RFC 6325.</p>"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: updates
+  bibitem:
+    id: RFC6325
+    docid:
+    - id: RFC6325
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC6325
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '8361'
+keyword:
+- content: TRILL
+- content: RBridge
+- content: CMT
+- content: LAALP
+editorialgroup:
+- name: trill
+ext:
+  schema-version: v1.0.0
+  stream: IETF

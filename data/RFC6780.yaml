@@ -1,0 +1,194 @@
+---
+schema-version: v1.2.3
+id: RFC6780
+title:
+- content: RSVP ASSOCIATION Object Extensions
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc6780
+  type: src
+type: standard
+docid:
+- id: RFC 6780
+  type: IETF
+  primary: true
+- id: 10.17487/RFC6780
+  type: DOI
+docnumber: RFC6780
+date:
+- type: published
+  value: 2012-10
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: L
+        formatted_initials:
+          content: L.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Berger
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: L. Berger
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: F
+        formatted_initials:
+          content: F.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Le Faucheur
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: F. Le Faucheur
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Narayanan
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: A. Narayanan
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 2012-10
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "<p>The RSVP ASSOCIATION object was defined in the context of GMPLS-controlled
+    Label Switched Paths (LSPs). In this context, the object is used to associate
+    recovery LSPs with the LSP they are protecting. This object also has broader applicability
+    as a mechanism to associate RSVP state. This document defines how the ASSOCIATION
+    object can be more generally applied. This document also defines Extended ASSOCIATION
+    objects that, in particular, can be used in the context of the MPLS Transport
+    Profile (MPLS-TP). This document updates RFC 2205, RFC 3209, and RFC 3473. It
+    also generalizes the definition of the Association ID field defined in RFC 4872.
+    [STANDARDS-TRACK]</p>"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: updates
+  bibitem:
+    id: RFC2205
+    docid:
+    - id: RFC2205
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC2205
+      format: text/plain
+- type: updates
+  bibitem:
+    id: RFC3209
+    docid:
+    - id: RFC3209
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC3209
+      format: text/plain
+- type: updates
+  bibitem:
+    id: RFC3473
+    docid:
+    - id: RFC3473
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC3473
+      format: text/plain
+- type: updates
+  bibitem:
+    id: RFC4872
+    docid:
+    - id: RFC4872
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC4872
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '6780'
+editorialgroup:
+- name: ccamp
+ext:
+  schema-version: v1.0.0
+  stream: IETF

@@ -1,0 +1,104 @@
+---
+schema-version: v1.2.3
+id: RFC1558
+title:
+- content: A String Representation of LDAP Search Filters
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc1558
+  type: src
+type: standard
+docid:
+- id: RFC 1558
+  type: IETF
+  primary: true
+- id: 10.17487/RFC1558
+  type: DOI
+docnumber: RFC1558
+date:
+- type: published
+  value: 1993-12
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: T
+        formatted_initials:
+          content: T.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Howes
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: T. Howes
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 1993-12
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "<p>The Lightweight Directory Access Protocol (LDAP) defines a network
+    representation of a search filter transmitted to an LDAP server. Some applications
+    may find it useful to have a common way of representing these search filters in
+    a human-readable form. This document defines a human-readable string format for
+    representing LDAP search filters. This memo provides information for the Internet
+    community. This memo does not specify an Internet standard of any kind.</p>"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: RFC1960
+    docid:
+    - id: RFC1960
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC1960
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: Legacy
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '1558'
+keyword:
+- content: X.500
+- content: Directory
+ext:
+  schema-version: v1.0.0
+  stream: Legacy

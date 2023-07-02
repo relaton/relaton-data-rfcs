@@ -1,0 +1,342 @@
+---
+schema-version: v1.2.3
+id: RFC2338
+title:
+- content: Virtual Router Redundancy Protocol
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc2338
+  type: src
+type: standard
+docid:
+- id: RFC 2338
+  type: IETF
+  primary: true
+- id: 10.17487/RFC2338
+  type: DOI
+docnumber: RFC2338
+date:
+- type: published
+  value: 1998-04
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: S
+        formatted_initials:
+          content: S.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Knight
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: S. Knight
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: D
+        formatted_initials:
+          content: D.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Weaver
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: D. Weaver
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: D
+        formatted_initials:
+          content: D.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Whipple
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: D. Whipple
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: R
+        formatted_initials:
+          content: R.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Hinden
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: R. Hinden
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: D
+        formatted_initials:
+          content: D.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Mitzel
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: D. Mitzel
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: P
+        formatted_initials:
+          content: P.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Hunt
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: P. Hunt
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: P
+        formatted_initials:
+          content: P.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Higginson
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: P. Higginson
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Shand
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: M. Shand
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Lindem
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: A. Lindem
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 1998-04
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "<p>This memo defines the Virtual Router Redundancy Protocol (VRRP). VRRP
+    specifies an election protocol that dynamically assigns responsibility for a virtual
+    router to one of the VRRP routers on a LAN. [STANDARDS-TRACK]</p>"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: RFC3768
+    docid:
+    - id: RFC3768
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC3768
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '2338'
+keyword:
+- content: VRRP
+- content: vrrp
+- content: lan
+- content: local
+- content: area
+- content: network
+- content: ip
+- content: internet
+- content: protocol
+editorialgroup:
+- name: vrrp
+ext:
+  schema-version: v1.0.0
+  stream: IETF

@@ -1,0 +1,135 @@
+---
+schema-version: v1.2.3
+id: RFC2481
+title:
+- content: A Proposal to add Explicit Congestion Notification (ECN) to IP
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc2481
+  type: src
+type: standard
+docid:
+- id: RFC 2481
+  type: IETF
+  primary: true
+- id: 10.17487/RFC2481
+  type: DOI
+docnumber: RFC2481
+date:
+- type: published
+  value: 1999-01
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: K
+        formatted_initials:
+          content: K.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Ramakrishnan
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: K. Ramakrishnan
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: S
+        formatted_initials:
+          content: S.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Floyd
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: S. Floyd
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 1999-01
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "<p>This note describes a proposed addition of ECN (Explicit Congestion
+    Notification) to IP. This memo defines an Experimental Protocol for the Internet
+    community.</p>"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: RFC3168
+    docid:
+    - id: RFC3168
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC3168
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: Legacy
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '2481'
+keyword:
+- content: ECN-IP
+- content: internet
+- content: protocol
+- content: tcp
+- content: transmission
+- content: control
+- content: transport
+ext:
+  schema-version: v1.0.0
+  stream: Legacy

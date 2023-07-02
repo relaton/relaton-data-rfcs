@@ -1,0 +1,192 @@
+---
+schema-version: v1.2.3
+id: RFC2251
+title:
+- content: Lightweight Directory Access Protocol (v3)
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc2251
+  type: src
+type: standard
+docid:
+- id: RFC 2251
+  type: IETF
+  primary: true
+- id: 10.17487/RFC2251
+  type: DOI
+docnumber: RFC2251
+date:
+- type: published
+  value: 1997-12
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Wahl
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: M. Wahl
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: T
+        formatted_initials:
+          content: T.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Howes
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: T. Howes
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: S
+        formatted_initials:
+          content: S.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Kille
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: S. Kille
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 1997-12
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "<p>The protocol described in this document is designed to provide access
+    to directories supporting the X.500 models, while not incurring the resource requirements
+    of the X.500 Directory Access Protocol (DAP). [STANDARDS-TRACK]</p>"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: RFC4510
+    docid:
+    - id: RFC4510
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC4510
+      format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: RFC4511
+    docid:
+    - id: RFC4511
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC4511
+      format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: RFC4513
+    docid:
+    - id: RFC4513
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC4513
+      format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: RFC4512
+    docid:
+    - id: RFC4512
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC4512
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '2251'
+keyword:
+- content: LDAPV3
+- content: Lightweight Directory Access Protocol
+- content: x.500
+editorialgroup:
+- name: asid
+ext:
+  schema-version: v1.0.0
+  stream: IETF

@@ -1,0 +1,106 @@
+---
+schema-version: v1.2.3
+id: RFC2385
+title:
+- content: Protection of BGP Sessions via the TCP MD5 Signature Option
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc2385
+  type: src
+type: standard
+docid:
+- id: RFC 2385
+  type: IETF
+  primary: true
+- id: 10.17487/RFC2385
+  type: DOI
+docnumber: RFC2385
+date:
+- type: published
+  value: 1998-08
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Heffernan
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: A. Heffernan
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 1998-08
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "<p>This memo describes a TCP extension to enhance security for BGP. [STANDARDS-TRACK]</p>"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: RFC5925
+    docid:
+    - id: RFC5925
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC5925
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '2385'
+keyword:
+- content: BGP
+- content: border gateway protocol
+- content: TCP
+- content: transmission control protocol
+- content: message
+- content: digest
+- content: algorithm
+editorialgroup:
+- name: idr
+ext:
+  schema-version: v1.0.0
+  stream: IETF

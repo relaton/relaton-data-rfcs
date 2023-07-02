@@ -1,0 +1,150 @@
+---
+schema-version: v1.2.3
+id: RFC9210
+title:
+- content: DNS Transport over TCP - Operational Requirements
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc9210
+  type: src
+type: standard
+docid:
+- id: RFC 9210
+  type: IETF
+  primary: true
+- id: 10.17487/RFC9210
+  type: DOI
+docnumber: RFC9210
+date:
+- type: published
+  value: 2022-03
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: J
+        formatted_initials:
+          content: J.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Kristoff
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: J. Kristoff
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: D
+        formatted_initials:
+          content: D.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Wessels
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: D. Wessels
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 2022-03
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "<p>This document updates RFCs 1123 and 1536. This document requires the
+    operational practice of permitting DNS messages to be carried over TCP on the
+    Internet as a Best Current Practice. This operational requirement is aligned with
+    the implementation requirements in RFC 7766. The use of TCP includes both DNS
+    over unencrypted TCP as well as over an encrypted TLS session. The document also
+    considers the consequences of this form of DNS communication and the potential
+    operational issues that can arise when this Best Current Practice is not upheld.</p>"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: updates
+  bibitem:
+    id: RFC1123
+    docid:
+    - id: RFC1123
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC1123
+      format: text/plain
+- type: updates
+  bibitem:
+    id: RFC1536
+    docid:
+    - id: RFC1536
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC1536
+      format: text/plain
+series:
+- title:
+    content: BCP
+    format: text/plain
+  number: '235'
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '9210'
+keyword:
+- content: DNS
+- content: TCP
+editorialgroup:
+- name: dnsop
+ext:
+  schema-version: v1.0.0
+  stream: IETF

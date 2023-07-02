@@ -1,0 +1,160 @@
+---
+schema-version: v1.2.3
+id: RFC6157
+title:
+- content: IPv6 Transition in the Session Initiation Protocol (SIP)
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc6157
+  type: src
+type: standard
+docid:
+- id: RFC 6157
+  type: IETF
+  primary: true
+- id: 10.17487/RFC6157
+  type: DOI
+docnumber: RFC6157
+date:
+- type: published
+  value: 2011-04
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: G
+        formatted_initials:
+          content: G.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Camarillo
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: G. Camarillo
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: K
+        formatted_initials:
+          content: K.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: El Malki
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: K. El Malki
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: V
+        formatted_initials:
+          content: V.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Gurbani
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: V. Gurbani
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 2011-04
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "<p>This document describes how the IPv4 Session Initiation Protocol (SIP)
+    user agents can communicate with IPv6 SIP user agents (and vice versa) at the
+    signaling layer as well as exchange media once the session has been successfully
+    set up. Both single- and dual-stack (i.e., IPv4-only and IPv4/IPv6) user agents
+    are considered. [STANDARDS-TRACK]</p>"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: updates
+  bibitem:
+    id: RFC3264
+    docid:
+    - id: RFC3264
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC3264
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '6157'
+editorialgroup:
+- name: sipping
+ext:
+  schema-version: v1.0.0
+  stream: IETF

@@ -1,0 +1,106 @@
+---
+schema-version: v1.2.3
+id: RFC5864
+title:
+- content: DNS SRV Resource Records for AFS
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc5864
+  type: src
+type: standard
+docid:
+- id: RFC 5864
+  type: IETF
+  primary: true
+- id: 10.17487/RFC5864
+  type: DOI
+docnumber: RFC5864
+date:
+- type: published
+  value: 2010-04
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: R
+        formatted_initials:
+          content: R.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Allbery
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: R. Allbery
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 2010-04
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "<p>This document specifies how to use DNS (Domain Name Service) SRV RRs
+    (Resource Records) to locate services for the AFS distributed file system and
+    how the priority and weight values of the SRV RR should be interpreted in the
+    server ranking system used by AFS. It updates RFC 1183 to deprecate the use of
+    the AFSDB RR to locate AFS cell database servers and provides guidance for backward
+    compatibility. [STANDARDS TRACK]</p>"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: updates
+  bibitem:
+    id: RFC1183
+    docid:
+    - id: RFC1183
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC1183
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '5864'
+keyword:
+- content: domain name system
+- content: srv rr
+- content: distributed file system
+- content: afsdb rr
+ext:
+  schema-version: v1.0.0
+  stream: IETF

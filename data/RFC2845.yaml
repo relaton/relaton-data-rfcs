@@ -1,0 +1,204 @@
+---
+schema-version: v1.2.3
+id: RFC2845
+title:
+- content: Secret Key Transaction Authentication for DNS (TSIG)
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc2845
+  type: src
+type: standard
+docid:
+- id: RFC 2845
+  type: IETF
+  primary: true
+- id: 10.17487/RFC2845
+  type: DOI
+docnumber: RFC2845
+date:
+- type: published
+  value: 2000-05
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: P
+        formatted_initials:
+          content: P.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Vixie
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: P. Vixie
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: O
+        formatted_initials:
+          content: O.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Gudmundsson
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: O. Gudmundsson
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: D
+        formatted_initials:
+          content: D.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Eastlake 3rd
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: D. Eastlake 3rd
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: B
+        formatted_initials:
+          content: B.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Wellington
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: B. Wellington
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 2000-05
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "<p>This protocol allows for transaction level authentication using shared
+    secrets and one way hashing. It can be used to authenticate dynamic updates as
+    coming from an approved client, or to authenticate responses as coming from an
+    approved recursive name server. [STANDARDS-TRACK]</p>"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: RFC8945
+    docid:
+    - id: RFC8945
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC8945
+      format: text/plain
+- type: updates
+  bibitem:
+    id: RFC1035
+    docid:
+    - id: RFC1035
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC1035
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '2845'
+keyword:
+- content: domain
+- content: name
+- content: system
+- content: transaction
+- content: signature
+editorialgroup:
+- name: dnsext
+ext:
+  schema-version: v1.0.0
+  stream: IETF

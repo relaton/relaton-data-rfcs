@@ -1,0 +1,113 @@
+---
+schema-version: v1.2.3
+id: RFC6577
+title:
+- content: Authentication-Results Registration Update for Sender Policy Framework
+    (SPF) Results
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc6577
+  type: src
+type: standard
+docid:
+- id: RFC 6577
+  type: IETF
+  primary: true
+- id: 10.17487/RFC6577
+  type: DOI
+docnumber: RFC6577
+date:
+- type: published
+  value: 2012-03
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Kucherawy
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: M. Kucherawy
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 2012-03
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "<p>This memo updates the registry of authentication method results in
+    Authentication-Results: message header fields, correcting a discontinuity between
+    the original registry creation and the Sender Policy Framework (SPF) specification.
+    [STANDARDS-TRACK]</p>"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: RFC7001
+    docid:
+    - id: RFC7001
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC7001
+      format: text/plain
+- type: updates
+  bibitem:
+    id: RFC5451
+    docid:
+    - id: RFC5451
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC5451
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '6577'
+keyword:
+- content: SPF
+- content: Authentication
+ext:
+  schema-version: v1.0.0
+  stream: IETF

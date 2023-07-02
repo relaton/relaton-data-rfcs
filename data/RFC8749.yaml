@@ -1,0 +1,144 @@
+---
+schema-version: v1.2.3
+id: RFC8749
+title:
+- content: Moving DNSSEC Lookaside Validation (DLV) to Historic Status
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc8749
+  type: src
+type: standard
+docid:
+- id: RFC 8749
+  type: IETF
+  primary: true
+- id: 10.17487/RFC8749
+  type: DOI
+docnumber: RFC8749
+date:
+- type: published
+  value: 2020-03
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: W
+        formatted_initials:
+          content: W.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Mekking
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: W. Mekking
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: D
+        formatted_initials:
+          content: D.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Mahoney
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: D. Mahoney
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 2020-03
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "<p>This document retires DNSSEC Lookaside Validation (DLV) and reclassifies
+    RFCs 4431 and 5074 as Historic. Furthermore, this document updates RFC 6698 by
+    excluding the DLV resource record from certificates and updates RFC 6840 by excluding
+    the DLV registries from the trust anchor selection.</p>"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: updates
+  bibitem:
+    id: RFC6698
+    docid:
+    - id: RFC6698
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC6698
+      format: text/plain
+- type: updates
+  bibitem:
+    id: RFC6840
+    docid:
+    - id: RFC6840
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC6840
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '8749'
+keyword:
+- content: DNS
+- content: DNSSEC
+- content: DLV
+editorialgroup:
+- name: dnsop
+ext:
+  schema-version: v1.0.0
+  stream: IETF

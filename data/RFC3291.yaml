@@ -1,0 +1,194 @@
+---
+schema-version: v1.2.3
+id: RFC3291
+title:
+- content: Textual Conventions for Internet Network Addresses
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc3291
+  type: src
+type: standard
+docid:
+- id: RFC 3291
+  type: IETF
+  primary: true
+- id: 10.17487/RFC3291
+  type: DOI
+docnumber: RFC3291
+date:
+- type: published
+  value: 2002-05
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Daniele
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: M. Daniele
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: B
+        formatted_initials:
+          content: B.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Haberman
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: B. Haberman
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: S
+        formatted_initials:
+          content: S.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Routhier
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: S. Routhier
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: J
+        formatted_initials:
+          content: J.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Schoenwaelder
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: J. Schoenwaelder
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 2002-05
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "<p>This MIB module defines textual conventions to represent commonly used
+    Internet network layer addressing information. The intent is that these textual
+    conventions (TCs) will be imported and used in MIB modules that would otherwise
+    define their own representations. [STANDARDS-TRACK]</p>"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: RFC4001
+    docid:
+    - id: RFC4001
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC4001
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '3291'
+keyword:
+- content: tc
+- content: textual conventions
+- content: mib
+- content: layer
+- content: management information base
+editorialgroup:
+- name: opsawg
+ext:
+  schema-version: v1.0.0
+  stream: IETF

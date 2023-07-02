@@ -1,0 +1,136 @@
+---
+schema-version: v1.2.3
+id: RFC8375
+title:
+- content: Special-Use Domain 'home.arpa.'
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc8375
+  type: src
+type: standard
+docid:
+- id: RFC 8375
+  type: IETF
+  primary: true
+- id: 10.17487/RFC8375
+  type: DOI
+docnumber: RFC8375
+date:
+- type: published
+  value: 2018-05
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: P
+        formatted_initials:
+          content: P.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Pfister
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: P. Pfister
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: T
+        formatted_initials:
+          content: T.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Lemon
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: T. Lemon
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 2018-05
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "<p>This document specifies the behavior that is expected from the Domain
+    Name System with regard to DNS queries for names ending with '.home.arpa.' and
+    designates this domain as a special-use domain name. 'home.arpa.' is designated
+    for non-unique use in residential home networks. The Home Networking Control Protocol
+    (HNCP) is updated to use the 'home.arpa.' domain instead of '.home'.</p>"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: updates
+  bibitem:
+    id: RFC7788
+    docid:
+    - id: RFC7788
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC7788
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '8375'
+keyword:
+- content: Homenet
+- content: TLD
+- content: RFC6761
+- content: ".home.arpa"
+editorialgroup:
+- name: homenet
+ext:
+  schema-version: v1.0.0
+  stream: IETF

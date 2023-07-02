@@ -1,0 +1,131 @@
+---
+schema-version: v1.2.3
+id: RFC1060
+title:
+- content: Assigned numbers
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc1060
+  type: src
+type: standard
+docid:
+- id: RFC 1060
+  type: IETF
+  primary: true
+- id: 10.17487/RFC1060
+  type: DOI
+docnumber: RFC1060
+date:
+- type: published
+  value: 1990-03
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: J
+        - language:
+          - en
+          script:
+          - Latn
+          initial: K
+        formatted_initials:
+          content: J.K.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Reynolds
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: J.K. Reynolds
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: J
+        formatted_initials:
+          content: J.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Postel
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: J. Postel
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 1990-03
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "<p>This memo is a status report on the parameters (i.e., numbers and keywords)
+    used in protocols in the Internet community. Distribution of this memo is unlimited.</p>"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: RFC1340
+    docid:
+    - id: RFC1340
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC1340
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: Legacy
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '1060'
+ext:
+  schema-version: v1.0.0
+  stream: Legacy

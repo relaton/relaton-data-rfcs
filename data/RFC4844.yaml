@@ -1,0 +1,109 @@
+---
+schema-version: v1.2.3
+id: RFC4844
+title:
+- content: The RFC Series and RFC Editor
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc4844
+  type: src
+type: standard
+docid:
+- id: RFC 4844
+  type: IETF
+  primary: true
+- id: 10.17487/RFC4844
+  type: DOI
+docnumber: RFC4844
+date:
+- type: published
+  value: 2007-07
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: L
+        formatted_initials:
+          content: L.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Daigle
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: L. Daigle
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- organization:
+    name:
+    - content: Internet Architecture Board
+    abbreviation:
+      content: IAB
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 2007-07
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "<p>This document describes the framework for an RFC Series and an RFC
+    Editor function that incorporate the principles of organized community involvement
+    and accountability that has become necessary as the Internet technical community
+    has grown, thereby enabling the RFC Series to continue to fulfill its mandate.
+    This memo provides information for the Internet community.</p>"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: RFC8729
+    docid:
+    - id: RFC8729
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC8729
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: IAB
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '4844'
+keyword:
+- content: technical publisher
+ext:
+  schema-version: v1.0.0
+  stream: IAB

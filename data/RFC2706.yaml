@@ -1,0 +1,135 @@
+---
+schema-version: v1.2.3
+id: RFC2706
+title:
+- content: 'ECML v1: Field Names for E-Commerce'
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc2706
+  type: src
+type: standard
+docid:
+- id: RFC 2706
+  type: IETF
+  primary: true
+- id: 10.17487/RFC2706
+  type: DOI
+docnumber: RFC2706
+date:
+- type: published
+  value: 1999-10
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: D
+        formatted_initials:
+          content: D.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Eastlake 3rd
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: D. Eastlake 3rd
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: T
+        formatted_initials:
+          content: T.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Goldstein
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: T. Goldstein
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 1999-10
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "<p>A standard set of information fields is defined as the first version
+    of an Electronic Commerce Modeling Language (ECML) so that this task can be more
+    easily automated, for example by wallet software that could fill in fields. This
+    memo provides information for the Internet community.</p>"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: RFC3106
+    docid:
+    - id: RFC3106
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC3106
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: Legacy
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '2706'
+keyword:
+- content: electronic
+- content: commerce
+- content: modeling
+- content: language
+- content: merchant
+- content: site. web
+ext:
+  schema-version: v1.0.0
+  stream: Legacy

@@ -1,0 +1,105 @@
+---
+schema-version: v1.2.3
+id: RFC9004
+title:
+- content: Updates for the Back-to-Back Frame Benchmark in RFC 2544
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc9004
+  type: src
+type: standard
+docid:
+- id: RFC 9004
+  type: IETF
+  primary: true
+- id: 10.17487/RFC9004
+  type: DOI
+docnumber: RFC9004
+date:
+- type: published
+  value: 2021-05
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Morton
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: A. Morton
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 2021-05
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "<p>Fundamental benchmarking methodologies for network interconnect devices
+    of interest to the IETF are defined in RFC 2544. This memo updates the procedures
+    of the test to measure the Back-to-Back Frames benchmark of RFC 2544, based on
+    further experience.</p><p>This memo updates Section 26.4 of RFC 2544.</p>"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: updates
+  bibitem:
+    id: RFC2544
+    docid:
+    - id: RFC2544
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC2544
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '9004'
+keyword:
+- content: Buffer size
+- content: Buffer delay
+- content: Correction Factor
+editorialgroup:
+- name: bmwg
+ext:
+  schema-version: v1.0.0
+  stream: IETF

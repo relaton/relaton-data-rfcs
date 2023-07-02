@@ -1,0 +1,143 @@
+---
+schema-version: v1.2.3
+id: RFC7983
+title:
+- content: Multiplexing Scheme Updates for Secure Real-time Transport Protocol (SRTP)
+    Extension for Datagram Transport Layer Security (DTLS)
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc7983
+  type: src
+type: standard
+docid:
+- id: RFC 7983
+  type: IETF
+  primary: true
+- id: 10.17487/RFC7983
+  type: DOI
+docnumber: RFC7983
+date:
+- type: published
+  value: 2016-09
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Petit-Huguenin
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: M. Petit-Huguenin
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: G
+        formatted_initials:
+          content: G.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Salgueiro
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: G. Salgueiro
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 2016-09
+language:
+- en
+script:
+- Latn
+abstract:
+- content: <p>This document defines how Datagram Transport Layer Security (DTLS),
+    Real-time Transport Protocol (RTP), RTP Control Protocol (RTCP), Session Traversal
+    Utilities for NAT (STUN), Traversal Using Relays around NAT (TURN), and ZRTP packets
+    are multiplexed on a single receiving socket. It overrides the guidance from RFC
+    5764 ("SRTP Extension for DTLS"), which suffered from four issues described and
+    fixed in this document.</p><p>This document updates RFC 5764.</p>
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: updates
+  bibitem:
+    id: RFC5764
+    docid:
+    - id: RFC5764
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC5764
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '7983'
+keyword:
+- content: TLS
+- content: STUN
+- content: TURN
+- content: TLS
+- content: TURN Channel Numbers
+- content: STUN Methods
+- content: RFC 5764
+- content: SRTP-DTLS
+- content: ZRTP
+editorialgroup:
+- name: avtcore
+ext:
+  schema-version: v1.0.0
+  stream: IETF

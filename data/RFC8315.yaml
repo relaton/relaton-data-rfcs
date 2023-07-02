@@ -1,0 +1,102 @@
+---
+schema-version: v1.2.3
+id: RFC8315
+title:
+- content: Cancel-Locks in Netnews Articles
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc8315
+  type: src
+type: standard
+docid:
+- id: RFC 8315
+  type: IETF
+  primary: true
+- id: 10.17487/RFC8315
+  type: DOI
+docnumber: RFC8315
+date:
+- type: published
+  value: 2018-02
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Baeuerle
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: M. Baeuerle
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 2018-02
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "<p>This document defines an extension to the Netnews Article Format that
+    may be used to authenticate the withdrawal of existing articles. This document
+    updates RFC 5537.</p>"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: updates
+  bibitem:
+    id: RFC5537
+    docid:
+    - id: RFC5537
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC5537
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '8315'
+keyword:
+- content: Usenet
+- content: Netnews
+- content: Cancel-Lock
+ext:
+  schema-version: v1.0.0
+  stream: IETF

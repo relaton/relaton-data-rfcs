@@ -1,0 +1,161 @@
+---
+schema-version: v1.2.3
+id: RFC2168
+title:
+- content: Resolution of Uniform Resource Identifiers using the Domain Name System
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc2168
+  type: src
+type: standard
+docid:
+- id: RFC 2168
+  type: IETF
+  primary: true
+- id: 10.17487/RFC2168
+  type: DOI
+docnumber: RFC2168
+date:
+- type: published
+  value: 1997-06
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: R
+        formatted_initials:
+          content: R.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Daniel
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: R. Daniel
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Mealling
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: M. Mealling
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 1997-06
+language:
+- en
+script:
+- Latn
+abstract:
+- content: <p>The requirements document for URN resolution systems defines the concept
+    of a "resolver discovery service". This document describes the first, experimental,
+    RDS. It is implemented by a new DNS Resource Record, NAPTR (Naming Authority PoinTeR),
+    that provides rules for mapping parts of URIs to domain names. This memo defines
+    an Experimental Protocol for the Internet community.</p>
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: RFC3401
+    docid:
+    - id: RFC3401
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC3401
+      format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: RFC3402
+    docid:
+    - id: RFC3402
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC3402
+      format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: RFC3403
+    docid:
+    - id: RFC3403
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC3403
+      format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: RFC3404
+    docid:
+    - id: RFC3404
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC3404
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '2168'
+editorialgroup:
+- name: urn
+ext:
+  schema-version: v1.0.0
+  stream: IETF

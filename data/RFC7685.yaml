@@ -1,0 +1,99 @@
+---
+schema-version: v1.2.3
+id: RFC7685
+title:
+- content: A Transport Layer Security (TLS) ClientHello Padding Extension
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc7685
+  type: src
+type: standard
+docid:
+- id: RFC 7685
+  type: IETF
+  primary: true
+- id: 10.17487/RFC7685
+  type: DOI
+docnumber: RFC7685
+date:
+- type: published
+  value: 2015-10
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Langley
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: A. Langley
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 2015-10
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "<p>This memo describes a Transport Layer Security (TLS) extension that
+    can be used to pad ClientHello messages to a desired size.</p>"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: updates
+  bibitem:
+    id: RFC5246
+    docid:
+    - id: RFC5246
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC5246
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '7685'
+editorialgroup:
+- name: tls
+ext:
+  schema-version: v1.0.0
+  stream: IETF

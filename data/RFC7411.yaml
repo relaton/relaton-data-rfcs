@@ -1,0 +1,235 @@
+---
+schema-version: v1.2.3
+id: RFC7411
+title:
+- content: Multicast Listener Extensions for Mobile IPv6 (MIPv6) and Proxy Mobile
+    IPv6 (PMIPv6) Fast Handovers
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc7411
+  type: src
+type: standard
+docid:
+- id: RFC 7411
+  type: IETF
+  primary: true
+- id: 10.17487/RFC7411
+  type: DOI
+docnumber: RFC7411
+date:
+- type: published
+  value: 2014-11
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: T
+        formatted_initials:
+          content: T.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Schmidt
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: T. Schmidt
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Waehlisch
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: M. Waehlisch
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: R
+        formatted_initials:
+          content: R.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Koodli
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: R. Koodli
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: G
+        formatted_initials:
+          content: G.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Fairhurst
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: G. Fairhurst
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: D
+        formatted_initials:
+          content: D.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Liu
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: D. Liu
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 2014-11
+language:
+- en
+script:
+- Latn
+abstract:
+- content: <p>Fast handover protocols for Mobile IPv6 (MIPv6) and Proxy Mobile IPv6
+    (PMIPv6) define mobility management procedures that support unicast communication
+    at reduced handover latency. Fast handover base operations do not affect multicast
+    communication and, hence, do not accelerate handover management for native multicast
+    listeners. Many multicast applications like IPTV or conferencing, though, comprise
+    delay-sensitive, real-time traffic and will benefit from fast handover completion.
+    This document specifies extension of the Mobile IPv6 Fast Handovers (FMIPv6) and
+    the Fast Handovers for Proxy Mobile IPv6 (PFMIPv6) protocols to include multicast
+    traffic management in fast handover operations. This multicast support is provided
+    first at the control plane by management of rapid context transfer between access
+    routers and second at the data plane by optional fast traffic forwarding that
+    may include buffering. An FMIPv6 access router indicates support for multicast
+    using an updated Proxy Router Advertisements message format.</p><p>This document
+    updates RFC 5568, "Mobile IPv6 Fast Handovers".</p>
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: updates
+  bibitem:
+    id: RFC5568
+    docid:
+    - id: RFC5568
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC5568
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '7411'
+keyword:
+- content: Multicast
+- content: Mobility
+- content: IPv6
+- content: PIM
+- content: MLD
+- content: Group Communication
+editorialgroup:
+- name: multimob
+ext:
+  schema-version: v1.0.0
+  stream: IETF

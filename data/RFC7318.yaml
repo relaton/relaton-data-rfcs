@@ -1,0 +1,129 @@
+---
+schema-version: v1.2.3
+id: RFC7318
+title:
+- content: Policy Qualifiers in Resource Public Key Infrastructure (RPKI) Certificates
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc7318
+  type: src
+type: standard
+docid:
+- id: RFC 7318
+  type: IETF
+  primary: true
+- id: 10.17487/RFC7318
+  type: DOI
+docnumber: RFC7318
+date:
+- type: published
+  value: 2014-07
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Newton
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: A. Newton
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: G
+        formatted_initials:
+          content: G.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Huston
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: G. Huston
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 2014-07
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "<p>This document updates RFC 6487 by clarifying the inclusion of policy
+    qualifiers in the certificate policies extension of Resource Public Key Infrastructure
+    (RPKI) resource certificates.</p>"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: updates
+  bibitem:
+    id: RFC6487
+    docid:
+    - id: RFC6487
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC6487
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '7318'
+editorialgroup:
+- name: sidr
+ext:
+  schema-version: v1.0.0
+  stream: IETF

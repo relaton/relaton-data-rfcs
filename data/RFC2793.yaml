@@ -1,0 +1,106 @@
+---
+schema-version: v1.2.3
+id: RFC2793
+title:
+- content: RTP Payload for Text Conversation
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc2793
+  type: src
+type: standard
+docid:
+- id: RFC 2793
+  type: IETF
+  primary: true
+- id: 10.17487/RFC2793
+  type: DOI
+docnumber: RFC2793
+date:
+- type: published
+  value: 2000-05
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: G
+        formatted_initials:
+          content: G.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Hellstrom
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: G. Hellstrom
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 2000-05
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "<p>This memo describes how to carry text conversation session contents
+    in RTP packets. Text conversation session contents are specified in ITU-T Recommendation
+    T.140. [STANDARDS-TRACK]</p>"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: RFC4103
+    docid:
+    - id: RFC4103
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC4103
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '2793'
+keyword:
+- content: real-time
+- content: applications
+- content: video
+- content: audio
+- content: packets
+editorialgroup:
+- name: avt
+ext:
+  schema-version: v1.0.0
+  stream: IETF

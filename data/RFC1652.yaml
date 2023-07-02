@@ -1,0 +1,219 @@
+---
+schema-version: v1.2.3
+id: RFC1652
+title:
+- content: SMTP Service Extension for 8bit-MIMEtransport
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc1652
+  type: src
+type: standard
+docid:
+- id: RFC 1652
+  type: IETF
+  primary: true
+- id: 10.17487/RFC1652
+  type: DOI
+docnumber: RFC1652
+date:
+- type: published
+  value: 1994-07
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: J
+        formatted_initials:
+          content: J.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Klensin
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: J. Klensin
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: N
+        formatted_initials:
+          content: N.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Freed
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: N. Freed
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Rose
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: M. Rose
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: E
+        formatted_initials:
+          content: E.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Stefferud
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: E. Stefferud
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: D
+        formatted_initials:
+          content: D.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Crocker
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: D. Crocker
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 1994-07
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "<p>This memo defines an extension to the SMTP service whereby an SMTP
+    content body consisting of text containing octets outside of the US- ASCII octet
+    range (hex 00-7F) may be relayed using SMTP. [STANDARDS-TRACK]</p>"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: RFC6152
+    docid:
+    - id: RFC6152
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC6152
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: Legacy
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '1652'
+keyword:
+- content: SMTP
+- content: Mail
+- content: Simple
+- content: Transfer
+ext:
+  schema-version: v1.0.0
+  stream: Legacy

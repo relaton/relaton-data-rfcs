@@ -1,0 +1,187 @@
+---
+schema-version: v1.2.3
+id: RFC6085
+title:
+- content: Address Mapping of IPv6 Multicast Packets on Ethernet
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc6085
+  type: src
+type: standard
+docid:
+- id: RFC 6085
+  type: IETF
+  primary: true
+- id: 10.17487/RFC6085
+  type: DOI
+docnumber: RFC6085
+date:
+- type: published
+  value: 2011-01
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: S
+        formatted_initials:
+          content: S.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Gundavelli
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: S. Gundavelli
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Townsley
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: M. Townsley
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: O
+        formatted_initials:
+          content: O.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Troan
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: O. Troan
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: W
+        formatted_initials:
+          content: W.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Dec
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: W. Dec
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 2011-01
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "<p>When transmitting an IPv6 packet with a multicast destination address,
+    the IPv6 destination address is mapped to an Ethernet link-layer multicast address.
+    This document clarifies that a mapping of an IPv6 packet with a multicast destination
+    address may in some circumstances map to an Ethernet link-layer unicast address.
+    [STANDARDS-TRACK]</p>"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: updates
+  bibitem:
+    id: RFC2464
+    docid:
+    - id: RFC2464
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC2464
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '6085'
+ext:
+  schema-version: v1.0.0
+  stream: IETF

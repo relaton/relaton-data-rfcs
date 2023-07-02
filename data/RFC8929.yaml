@@ -1,0 +1,180 @@
+---
+schema-version: v1.2.3
+id: RFC8929
+title:
+- content: IPv6 Backbone Router
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc8929
+  type: src
+type: standard
+docid:
+- id: RFC 8929
+  type: IETF
+  primary: true
+- id: 10.17487/RFC8929
+  type: DOI
+docnumber: RFC8929
+date:
+- type: published
+  value: 2020-11
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: P
+        formatted_initials:
+          content: P.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Thubert
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: P. Thubert
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: C
+        - language:
+          - en
+          script:
+          - Latn
+          initial: E
+        formatted_initials:
+          content: C.E.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Perkins
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: C.E. Perkins
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: E
+        formatted_initials:
+          content: E.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Levy-Abegnoli
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: E. Levy-Abegnoli
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 2020-11
+language:
+- en
+script:
+- Latn
+abstract:
+- content: <p>This document updates RFCs 6775 and 8505 in order to enable proxy services
+    for IPv6 Neighbor Discovery by Routing Registrars called "Backbone Routers". Backbone
+    Routers are placed along the wireless edge of a backbone and federate multiple
+    wireless links to form a single Multi-Link Subnet (MLSN).</p>
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: updates
+  bibitem:
+    id: RFC6775
+    docid:
+    - id: RFC6775
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC6775
+      format: text/plain
+- type: updates
+  bibitem:
+    id: RFC8505
+    docid:
+    - id: RFC8505
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC8505
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '8929'
+keyword:
+- content: ND Proxy
+- content: Routing Proxy
+- content: Bridging Proxy
+- content: proxy ND
+- content: proxy-ND
+editorialgroup:
+- name: 6lo
+ext:
+  schema-version: v1.0.0
+  stream: IETF

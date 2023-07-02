@@ -1,0 +1,189 @@
+---
+schema-version: v1.2.3
+id: RFC3039
+title:
+- content: Internet X.509 Public Key Infrastructure Qualified Certificates Profile
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc3039
+  type: src
+type: standard
+docid:
+- id: RFC 3039
+  type: IETF
+  primary: true
+- id: 10.17487/RFC3039
+  type: DOI
+docnumber: RFC3039
+date:
+- type: published
+  value: 2001-01
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: S
+        formatted_initials:
+          content: S.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Santesson
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: S. Santesson
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: W
+        formatted_initials:
+          content: W.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Polk
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: W. Polk
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: P
+        formatted_initials:
+          content: P.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Barzin
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: P. Barzin
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Nystrom
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: M. Nystrom
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 2001-01
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "<p>This document forms a certificate profile for Qualified Certificates,
+    based on RFC 2459, for use in the Internet. The goal of this document is to define
+    a general syntax independent of local legal requirements. [STANDARDS-TRACK]</p>"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: RFC3739
+    docid:
+    - id: RFC3739
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC3739
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '3039'
+keyword:
+- content: syntax
+editorialgroup:
+- name: pkix
+ext:
+  schema-version: v1.0.0
+  stream: IETF

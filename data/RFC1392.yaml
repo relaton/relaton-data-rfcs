@@ -1,0 +1,129 @@
+---
+schema-version: v1.2.3
+id: RFC1392
+title:
+- content: Internet Users' Glossary
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc1392
+  type: src
+type: standard
+docid:
+- id: RFC 1392
+  type: IETF
+  primary: true
+- id: 10.17487/RFC1392
+  type: DOI
+docnumber: RFC1392
+date:
+- type: published
+  value: 1993-01
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: G
+        formatted_initials:
+          content: G.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Malkin
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: G. Malkin
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: T
+        formatted_initials:
+          content: T.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: LaQuey Parker
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: T. LaQuey Parker
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 1993-01
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "<p>There are many networking glossaries in existence. This glossary concentrates
+    on terms which are specific to the Internet. This memo provides information for
+    the Internet community. It does not specify an Internet standard.</p>"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: RFC1983
+    docid:
+    - id: RFC1983
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC1983
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '1392'
+editorialgroup:
+- name: userglos
+ext:
+  schema-version: v1.0.0
+  stream: IETF

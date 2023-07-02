@@ -1,0 +1,102 @@
+---
+schema-version: v1.2.3
+id: RFC2240
+title:
+- content: A Legal Basis for Domain Name Allocation
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc2240
+  type: src
+type: standard
+docid:
+- id: RFC 2240
+  type: IETF
+  primary: true
+- id: 10.17487/RFC2240
+  type: DOI
+docnumber: RFC2240
+date:
+- type: published
+  value: 1997-11
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: O
+        formatted_initials:
+          content: O.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Vaughan
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: O. Vaughan
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 1997-11
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "<p>The purpose of this memo is to focus discussion on the particular problems
+    with the exhaustion of the top level domain space in the Internet and the possible
+    conflicts that can occur when multiple organisations are vying for the same name.
+    This memo provides information for the Internet community. It does not specify
+    an Internet standard of any kind.</p>"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: RFC2352
+    docid:
+    - id: RFC2352
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC2352
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: Legacy
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '2240'
+keyword:
+- content: DNS
+ext:
+  schema-version: v1.0.0
+  stream: Legacy

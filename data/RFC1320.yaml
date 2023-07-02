@@ -1,0 +1,106 @@
+---
+schema-version: v1.2.3
+id: RFC1320
+title:
+- content: The MD4 Message-Digest Algorithm
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc1320
+  type: src
+type: standard
+docid:
+- id: RFC 1320
+  type: IETF
+  primary: true
+- id: 10.17487/RFC1320
+  type: DOI
+docnumber: RFC1320
+date:
+- type: published
+  value: 1992-04
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: R
+        formatted_initials:
+          content: R.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Rivest
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: R. Rivest
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 1992-04
+language:
+- en
+script:
+- Latn
+abstract:
+- content: <p>This document describes the MD4 message-digest algorithm [1]. The algorithm
+    takes as input a message of arbitrary length and produces as output a 128-bit
+    "fingerprint" or "message digest" of the input. This memo provides information
+    for the Internet community. It does not specify an Internet standard.</p>
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: RFC6150
+    docid:
+    - id: RFC6150
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC6150
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '1320'
+keyword:
+- content: MD4
+- content: security
+- content: encryption
+- content: signature
+editorialgroup:
+- name: pem
+ext:
+  schema-version: v1.0.0
+  stream: IETF

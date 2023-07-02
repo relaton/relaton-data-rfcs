@@ -1,0 +1,137 @@
+---
+schema-version: v1.2.3
+id: RFC1971
+title:
+- content: IPv6 Stateless Address Autoconfiguration
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc1971
+  type: src
+type: standard
+docid:
+- id: RFC 1971
+  type: IETF
+  primary: true
+- id: 10.17487/RFC1971
+  type: DOI
+docnumber: RFC1971
+date:
+- type: published
+  value: 1996-08
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: S
+        formatted_initials:
+          content: S.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Thomson
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: S. Thomson
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: T
+        formatted_initials:
+          content: T.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Narten
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: T. Narten
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 1996-08
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "<p>This document specifies the steps a host takes in deciding how to autoconfigure
+    its interfaces in IP version 6. [STANDARDS-TRACK]</p>"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: RFC2462
+    docid:
+    - id: RFC2462
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC2462
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '1971'
+keyword:
+- content: Internet
+- content: Protocol
+- content: link-local
+- content: address
+- content: Duplicate
+- content: Address
+- content: Detection
+- content: procedure
+editorialgroup:
+- name: addrconf
+ext:
+  schema-version: v1.0.0
+  stream: IETF

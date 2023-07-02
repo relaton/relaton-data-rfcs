@@ -1,0 +1,104 @@
+---
+schema-version: v1.2.3
+id: RFC8463
+title:
+- content: A New Cryptographic Signature Method for DomainKeys Identified Mail (DKIM)
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc8463
+  type: src
+type: standard
+docid:
+- id: RFC 8463
+  type: IETF
+  primary: true
+- id: 10.17487/RFC8463
+  type: DOI
+docnumber: RFC8463
+date:
+- type: published
+  value: 2018-09
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: J
+        formatted_initials:
+          content: J.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Levine
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: J. Levine
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 2018-09
+language:
+- en
+script:
+- Latn
+abstract:
+- content: <p>This document adds a new signing algorithm, Ed25519-SHA256, to "DomainKeys
+    Identified Mail (DKIM) Signatures" (RFC 6376). DKIM verifiers are required to
+    implement this algorithm.</p>
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: updates
+  bibitem:
+    id: RFC6376
+    docid:
+    - id: RFC6376
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC6376
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '8463'
+keyword:
+- content: DKIM
+- content: ed25519
+- content: cryptography
+editorialgroup:
+- name: dcrup
+ext:
+  schema-version: v1.0.0
+  stream: IETF

@@ -1,0 +1,135 @@
+---
+schema-version: v1.2.3
+id: RFC2546
+title:
+- content: 6Bone Routing Practice
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc2546
+  type: src
+type: standard
+docid:
+- id: RFC 2546
+  type: IETF
+  primary: true
+- id: 10.17487/RFC2546
+  type: DOI
+docnumber: RFC2546
+date:
+- type: published
+  value: 1999-03
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Durand
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: A. Durand
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: B
+        formatted_initials:
+          content: B.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Buclin
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: B. Buclin
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 1999-03
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "<p>This memo identifies guidelines on how 6Bone sites might operate, so
+    that the 6Bone can remain a quality experimentation environment and to avoid pathological
+    situations that have been encountered in the past. It defines the 'best current
+    practice' acceptable in the 6Bone for the configuration of both Interior Gateway
+    Protocols and Exterior Gateway Protocols. This memo provides information for the
+    Internet community.</p>"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: RFC2772
+    docid:
+    - id: RFC2772
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC2772
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '2546'
+keyword:
+- content: IPv6
+- content: internet protocol
+editorialgroup:
+- name: ngtrans
+ext:
+  schema-version: v1.0.0
+  stream: IETF

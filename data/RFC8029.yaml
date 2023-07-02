@@ -1,0 +1,253 @@
+---
+schema-version: v1.2.3
+id: RFC8029
+title:
+- content: Detecting Multiprotocol Label Switched (MPLS) Data-Plane Failures
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc8029
+  type: src
+type: standard
+docid:
+- id: RFC 8029
+  type: IETF
+  primary: true
+- id: 10.17487/RFC8029
+  type: DOI
+docnumber: RFC8029
+date:
+- type: published
+  value: 2017-03
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: K
+        formatted_initials:
+          content: K.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Kompella
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: K. Kompella
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: G
+        formatted_initials:
+          content: G.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Swallow
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: G. Swallow
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: C
+        formatted_initials:
+          content: C.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Pignataro
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: C. Pignataro
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: N
+        formatted_initials:
+          content: N.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Kumar
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: N. Kumar
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: S
+        formatted_initials:
+          content: S.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Aldrin
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: S. Aldrin
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Chen
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: M. Chen
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 2017-03
+language:
+- en
+script:
+- Latn
+abstract:
+- content: <p>This document describes a simple and efficient mechanism to detect data-plane
+    failures in Multiprotocol Label Switching (MPLS) Label Switched Paths (LSPs).
+    It defines a probe message called an "MPLS echo request" and a response message
+    called an "MPLS echo reply" for returning the result of the probe. The MPLS echo
+    request is intended to contain sufficient information to check correct operation
+    of the data plane and to verify the data plane against the control plane, thereby
+    localizing faults.</p><p>This document obsoletes RFCs 4379, 6424, 6829, and 7537,
+    and updates RFC 1122.</p>
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: updates
+  bibitem:
+    id: RFC1122
+    docid:
+    - id: RFC1122
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC1122
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '8029'
+keyword:
+- content: MPLS echo request
+- content: MPLS echo reply
+editorialgroup:
+- name: mpls
+ext:
+  schema-version: v1.0.0
+  stream: IETF

@@ -1,0 +1,132 @@
+---
+schema-version: v1.2.3
+id: RFC2223
+title:
+- content: Instructions to RFC Authors
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc2223
+  type: src
+type: standard
+docid:
+- id: RFC 2223
+  type: IETF
+  primary: true
+- id: 10.17487/RFC2223
+  type: DOI
+docnumber: RFC2223
+date:
+- type: published
+  value: 1997-10
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: J
+        formatted_initials:
+          content: J.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Postel
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: J. Postel
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: J
+        formatted_initials:
+          content: J.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Reynolds
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: J. Reynolds
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 1997-10
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "<p>This Request for Comments (RFC) provides information about the preparation
+    of RFCs, and certain policies relating to the publication of RFCs. This memo provides
+    information for the Internet community. This memo does not specify an Internet
+    standard of any kind.</p>"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: RFC7322
+    docid:
+    - id: RFC7322
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC7322
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: Legacy
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '2223'
+keyword:
+- content: Request
+- content: For
+- content: Comment
+ext:
+  schema-version: v1.0.0
+  stream: Legacy

@@ -1,0 +1,106 @@
+---
+schema-version: v1.2.3
+id: RFC4934
+title:
+- content: Extensible Provisioning Protocol (EPP) Transport Over TCP
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc4934
+  type: src
+type: standard
+docid:
+- id: RFC 4934
+  type: IETF
+  primary: true
+- id: 10.17487/RFC4934
+  type: DOI
+docnumber: RFC4934
+date:
+- type: published
+  value: 2007-05
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: S
+        formatted_initials:
+          content: S.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Hollenbeck
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: S. Hollenbeck
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 2007-05
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "<p>This document describes how an Extensible Provisioning Protocol (EPP)
+    session is mapped onto a single Transmission Control Protocol (TCP) connection.
+    This mapping requires use of the Transport Layer Security (TLS) protocol to protect
+    information exchanged between an EPP client and an EPP server. This document obsoletes
+    RFC 3734. [STANDARDS-TRACK]</p>"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: RFC5734
+    docid:
+    - id: RFC5734
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC5734
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '4934'
+keyword:
+- content: mapping
+- content: client
+- content: server
+- content: tls
+- content: transport layer security
+ext:
+  schema-version: v1.0.0
+  stream: IETF

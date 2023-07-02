@@ -1,0 +1,134 @@
+---
+schema-version: v1.2.3
+id: RFC2510
+title:
+- content: Internet X.509 Public Key Infrastructure Certificate Management Protocols
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc2510
+  type: src
+type: standard
+docid:
+- id: RFC 2510
+  type: IETF
+  primary: true
+- id: 10.17487/RFC2510
+  type: DOI
+docnumber: RFC2510
+date:
+- type: published
+  value: 1999-03
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: C
+        formatted_initials:
+          content: C.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Adams
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: C. Adams
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: S
+        formatted_initials:
+          content: S.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Farrell
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: S. Farrell
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 1999-03
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "<p>This document describes the Internet X.509 Public Key Infrastructure
+    (PKI) Certificate Management Protocols. [STANDARDS-TRACK]</p>"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: RFC4210
+    docid:
+    - id: RFC4210
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC4210
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '2510'
+keyword:
+- content: PKICMP
+- content: pki
+- content: security
+- content: cryptographic
+- content: authentication
+editorialgroup:
+- name: pkix
+ext:
+  schema-version: v1.0.0
+  stream: IETF

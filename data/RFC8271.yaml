@@ -1,0 +1,227 @@
+---
+schema-version: v1.2.3
+id: RFC8271
+title:
+- content: Updates to the Resource Reservation Protocol for Fast Reroute of Traffic
+    Engineering GMPLS Label Switched Paths (LSPs)
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc8271
+  type: src
+type: standard
+docid:
+- id: RFC 8271
+  type: IETF
+  primary: true
+- id: 10.17487/RFC8271
+  type: DOI
+docnumber: RFC8271
+date:
+- type: published
+  value: 2017-10
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Taillon
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: M. Taillon
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: T
+        formatted_initials:
+          content: T.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Saad
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: T. Saad
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: R
+        formatted_initials:
+          content: R.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Gandhi
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: R. Gandhi
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: Z
+        formatted_initials:
+          content: Z.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Ali
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: Z. Ali
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Bhatia
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: M. Bhatia
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 2017-10
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "<p>This document updates the Resource Reservation Protocol - Traffic Engineering
+    (RSVP-TE) Fast Reroute (FRR) procedures defined in RFC 4090 to support Packet
+    Switch Capable (PSC) Generalized Multiprotocol Label Switching (GMPLS) Label Switched
+    Paths (LSPs). These updates allow the coordination of a bidirectional bypass tunnel
+    assignment protecting a common facility in both forward and reverse directions
+    of a co-routed bidirectional LSP. In addition, these updates enable the redirection
+    of bidirectional traffic onto bypass tunnels that ensure the co-routing of data
+    paths in the forward and reverse directions after FRR and avoid RSVP soft-state
+    timeout in the control plane.</p>"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: updates
+  bibitem:
+    id: RFC4090
+    docid:
+    - id: RFC4090
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC4090
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '8271'
+keyword:
+- content: Co-routed LSPs
+- content: Bypass assignment coordinate
+- content: Restore co-routing
+editorialgroup:
+- name: teas
+ext:
+  schema-version: v1.0.0
+  stream: IETF

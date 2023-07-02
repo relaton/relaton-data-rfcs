@@ -1,0 +1,225 @@
+---
+schema-version: v1.2.3
+id: RFC4492
+title:
+- content: Elliptic Curve Cryptography (ECC) Cipher Suites for Transport Layer Security
+    (TLS)
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc4492
+  type: src
+type: standard
+docid:
+- id: RFC 4492
+  type: IETF
+  primary: true
+- id: 10.17487/RFC4492
+  type: DOI
+docnumber: RFC4492
+date:
+- type: published
+  value: 2006-05
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: S
+        formatted_initials:
+          content: S.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Blake-Wilson
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: S. Blake-Wilson
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: N
+        formatted_initials:
+          content: N.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Bolyard
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: N. Bolyard
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: V
+        formatted_initials:
+          content: V.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Gupta
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: V. Gupta
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: C
+        formatted_initials:
+          content: C.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Hawk
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: C. Hawk
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: B
+        formatted_initials:
+          content: B.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Moeller
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: B. Moeller
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 2006-05
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "<p>This document describes new key exchange algorithms based on Elliptic
+    Curve Cryptography (ECC) for the Transport Layer Security (TLS) protocol. In particular,
+    it specifies the use of Elliptic Curve Diffie-Hellman (ECDH) key agreement in
+    a TLS handshake and the use of Elliptic Curve Digital Signature Algorithm (ECDSA)
+    as a new authentication mechanism. This memo provides information for the Internet
+    community.</p>"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: RFC8422
+    docid:
+    - id: RFC8422
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC8422
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '4492'
+keyword:
+- content: ecdh
+- content: elliptic curve diffie-hellman
+- content: elliptic curve digital signature algorithm
+- content: ecdsa
+editorialgroup:
+- name: tls
+ext:
+  schema-version: v1.0.0
+  stream: IETF

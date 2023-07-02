@@ -1,0 +1,107 @@
+---
+schema-version: v1.2.3
+id: RFC2554
+title:
+- content: SMTP Service Extension for Authentication
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc2554
+  type: src
+type: standard
+docid:
+- id: RFC 2554
+  type: IETF
+  primary: true
+- id: 10.17487/RFC2554
+  type: DOI
+docnumber: RFC2554
+date:
+- type: published
+  value: 1999-03
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: J
+        formatted_initials:
+          content: J.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Myers
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: J. Myers
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 1999-03
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "<p>This document defines an SMTP service extension [ESMTP] whereby an
+    SMTP client may indicate an authentication mechanism to the server, perform an
+    authentication protocol exchange, and optionally negotiate a security layer for
+    subsequent protocol interactions. [STANDARDS-TRACK]</p>"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: RFC4954
+    docid:
+    - id: RFC4954
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC4954
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: Legacy
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '2554'
+keyword:
+- content: simple
+- content: mail
+- content: transfer
+- content: protocol
+- content: security
+- content: layer
+- content: sasl
+ext:
+  schema-version: v1.0.0
+  stream: Legacy

@@ -1,0 +1,165 @@
+---
+schema-version: v1.2.3
+id: RFC5566
+title:
+- content: BGP IPsec Tunnel Encapsulation Attribute
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc5566
+  type: src
+type: standard
+docid:
+- id: RFC 5566
+  type: IETF
+  primary: true
+- id: 10.17487/RFC5566
+  type: DOI
+docnumber: RFC5566
+date:
+- type: published
+  value: 2009-06
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: L
+        formatted_initials:
+          content: L.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Berger
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: L. Berger
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: R
+        formatted_initials:
+          content: R.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: White
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: R. White
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: E
+        formatted_initials:
+          content: E.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Rosen
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: E. Rosen
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 2009-06
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "<p>The BGP Encapsulation Subsequent Address Family Identifier (SAFI) provides
+    a method for the dynamic exchange of encapsulation information and for the indication
+    of encapsulation protocol types to be used for different next hops. Currently,
+    support for Generic Routing Encapsulation (GRE), Layer 2 Tunneling Protocol (L2TPv3),
+    and IP in IP tunnel types are defined. This document defines support for IPsec
+    tunnel types. [STANDARDS-TRACK]</p>"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: RFC9012
+    docid:
+    - id: RFC9012
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC9012
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '5566'
+keyword:
+- content: border gateway protocol
+- content: safi
+- content: subsequent address family identifier
+editorialgroup:
+- name: softwire
+ext:
+  schema-version: v1.0.0
+  stream: IETF

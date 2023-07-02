@@ -1,0 +1,190 @@
+---
+schema-version: v1.2.3
+id: RFC5586
+title:
+- content: MPLS Generic Associated Channel
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc5586
+  type: src
+type: standard
+docid:
+- id: RFC 5586
+  type: IETF
+  primary: true
+- id: 10.17487/RFC5586
+  type: DOI
+docnumber: RFC5586
+date:
+- type: published
+  value: 2009-06
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Bocci
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: M. Bocci
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Vigoureux
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: M. Vigoureux
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: S
+        formatted_initials:
+          content: S.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Bryant
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: S. Bryant
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 2009-06
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "<p>This document generalizes the applicability of the pseudowire (PW)
+    Associated Channel Header (ACH), enabling the realization of a control channel
+    associated to MPLS Label Switched Paths (LSPs) and MPLS Sections in addition to
+    MPLS pseudowires. In order to identify the presence of this Associated Channel
+    Header in the label stack, this document also assigns one of the reserved MPLS
+    label values to the Generic Associated Channel Label (GAL), to be used as a label
+    based exception mechanism.</p>"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: updates
+  bibitem:
+    id: RFC3032
+    docid:
+    - id: RFC3032
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC3032
+      format: text/plain
+- type: updates
+  bibitem:
+    id: RFC4385
+    docid:
+    - id: RFC4385
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC4385
+      format: text/plain
+- type: updates
+  bibitem:
+    id: RFC5085
+    docid:
+    - id: RFC5085
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC5085
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '5586'
+keyword:
+- content: mpls-tp
+- content: oam
+- content: g-ach
+- content: ach
+- content: associated channel header
+- content: gal
+- content: generic associated label
+editorialgroup:
+- name: mpls
+ext:
+  schema-version: v1.0.0
+  stream: IETF

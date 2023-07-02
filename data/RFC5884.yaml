@@ -1,0 +1,199 @@
+---
+schema-version: v1.2.3
+id: RFC5884
+title:
+- content: Bidirectional Forwarding Detection (BFD) for MPLS Label Switched Paths
+    (LSPs)
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc5884
+  type: src
+type: standard
+docid:
+- id: RFC 5884
+  type: IETF
+  primary: true
+- id: 10.17487/RFC5884
+  type: DOI
+docnumber: RFC5884
+date:
+- type: published
+  value: 2010-06
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: R
+        formatted_initials:
+          content: R.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Aggarwal
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: R. Aggarwal
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: K
+        formatted_initials:
+          content: K.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Kompella
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: K. Kompella
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: T
+        formatted_initials:
+          content: T.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Nadeau
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: T. Nadeau
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: G
+        formatted_initials:
+          content: G.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Swallow
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: G. Swallow
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 2010-06
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "<p>One desirable application of Bidirectional Forwarding Detection (BFD)
+    is to detect a Multiprotocol Label Switching (MPLS) Label Switched Path (LSP)
+    data plane failure. LSP Ping is an existing mechanism for detecting MPLS data
+    plane failures and for verifying the MPLS LSP data plane against the control plane.
+    BFD can be used for the former, but not for the latter. However, the control plane
+    processing required for BFD Control packets is relatively smaller than the processing
+    required for LSP Ping messages. A combination of LSP Ping and BFD can be used
+    to provide faster data plane failure detection and/or make it possible to provide
+    such detection on a greater number of LSPs. This document describes the applicability
+    of BFD in relation to LSP Ping for this application. It also describes procedures
+    for using BFD in this environment. [STANDARDS-TRACK]</p>"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: updates
+  bibitem:
+    id: RFC1122
+    docid:
+    - id: RFC1122
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC1122
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '5884'
+keyword:
+- content: Multiprotocol Label Switching
+- content: lsp ping
+editorialgroup:
+- name: bfd
+ext:
+  schema-version: v1.0.0
+  stream: IETF

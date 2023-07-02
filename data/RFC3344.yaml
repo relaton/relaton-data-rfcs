@@ -1,0 +1,94 @@
+---
+schema-version: v1.2.3
+id: RFC3344
+title:
+- content: IP Mobility Support for IPv4
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc3344
+  type: src
+type: standard
+docid:
+- id: RFC 3344
+  type: IETF
+  primary: true
+- id: 10.17487/RFC3344
+  type: DOI
+docnumber: RFC3344
+date:
+- type: published
+  value: 2002-08
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: C
+        formatted_initials:
+          content: C.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Perkins
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: C. Perkins
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 2002-08
+language:
+- en
+script:
+- Latn
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: RFC5944
+    docid:
+    - id: RFC5944
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC5944
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '3344'
+keyword:
+- content: MOBILEIPSUPIP
+- content: Internet Protocol Mobility Support for IPv4
+editorialgroup:
+- name: mobileip
+ext:
+  schema-version: v1.0.0
+  stream: IETF

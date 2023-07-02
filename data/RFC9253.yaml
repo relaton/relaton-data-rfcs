@@ -1,0 +1,106 @@
+---
+schema-version: v1.2.3
+id: RFC9253
+title:
+- content: Support for iCalendar Relationships
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc9253
+  type: src
+type: standard
+docid:
+- id: RFC 9253
+  type: IETF
+  primary: true
+- id: 10.17487/RFC9253
+  type: DOI
+docnumber: RFC9253
+date:
+- type: published
+  value: 2022-08
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Douglass
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: M. Douglass
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 2022-08
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "<p>This specification updates the iCalendar RELATED-TO property defined
+    in RFC 5545 by adding new relation types and introduces new iCalendar properties
+    (LINK, CONCEPT, and REFID) to allow better linking and grouping of iCalendar components
+    and related data.</p>"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: updates
+  bibitem:
+    id: RFC5545
+    docid:
+    - id: RFC5545
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC5545
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '9253'
+keyword:
+- content: iCalendar
+- content: link
+- content: related-to
+- content: relationships
+editorialgroup:
+- name: calext
+ext:
+  schema-version: v1.0.0
+  stream: IETF

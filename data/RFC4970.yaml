@@ -1,0 +1,229 @@
+---
+schema-version: v1.2.3
+id: RFC4970
+title:
+- content: Extensions to OSPF for Advertising Optional Router Capabilities
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc4970
+  type: src
+type: standard
+docid:
+- id: RFC 4970
+  type: IETF
+  primary: true
+- id: 10.17487/RFC4970
+  type: DOI
+docnumber: RFC4970
+date:
+- type: published
+  value: 2007-07
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Lindem
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: A. Lindem
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: N
+        formatted_initials:
+          content: N.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Shen
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: N. Shen
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: JP
+        formatted_initials:
+          content: JP.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Vasseur
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: JP. Vasseur
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: R
+        formatted_initials:
+          content: R.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Aggarwal
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: R. Aggarwal
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: S
+        formatted_initials:
+          content: S.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Shaffer
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: S. Shaffer
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 2007-07
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "<p>It is useful for routers in an OSPFv2 or OSPFv3 routing domain to know
+    the capabilities of their neighbors and other routers in the routing domain. This
+    document proposes extensions to OSPFv2 and OSPFv3 for advertising optional router
+    capabilities. A new Router Information (RI) Link State Advertisement (LSA) is
+    proposed for this purpose. In OSPFv2, the RI LSA will be implemented with a new
+    opaque LSA type ID. In OSPFv3, the RI LSA will be implemented with a new LSA type
+    function code. In both protocols, the RI LSA can be advertised at any of the defined
+    flooding scopes (link, area, or autonomous system (AS)). [STANDARDS-TRACK]</p>"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: RFC7770
+    docid:
+    - id: RFC7770
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC7770
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '4970'
+keyword:
+- content: ospfv2
+- content: ospfv3
+- content: open shortest path first
+- content: ri
+- content: router information
+- content: lsa
+- content: link state advertisement
+editorialgroup:
+- name: ospf
+ext:
+  schema-version: v1.0.0
+  stream: IETF

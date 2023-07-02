@@ -1,0 +1,115 @@
+---
+schema-version: v1.2.3
+id: RFC2673
+title:
+- content: Binary Labels in the Domain Name System
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc2673
+  type: src
+type: standard
+docid:
+- id: RFC 2673
+  type: IETF
+  primary: true
+- id: 10.17487/RFC2673
+  type: DOI
+docnumber: RFC2673
+date:
+- type: published
+  value: 1999-08
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Crawford
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: M. Crawford
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 1999-08
+language:
+- en
+script:
+- Latn
+abstract:
+- content: <p>This document defines a "Bit-String Label" which may appear within domain
+    names. This new label type compactly represents a sequence of "One-Bit Labels"
+    and enables resource records to be stored at any bit- boundary in a binary-named
+    section of the domain name tree. [STANDARDS-TRACK]</p>
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: RFC6891
+    docid:
+    - id: RFC6891
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC6891
+      format: text/plain
+- type: updates
+  bibitem:
+    id: RFC1035
+    docid:
+    - id: RFC1035
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC1035
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '2673'
+keyword:
+- content: DNS
+- content: domain name system
+- content: data
+editorialgroup:
+- name: dnsind
+ext:
+  schema-version: v1.0.0
+  stream: IETF

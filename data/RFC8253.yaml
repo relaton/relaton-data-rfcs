@@ -1,0 +1,201 @@
+---
+schema-version: v1.2.3
+id: RFC8253
+title:
+- content: 'PCEPS: Usage of TLS to Provide a Secure Transport for the Path Computation
+    Element Communication Protocol (PCEP)'
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc8253
+  type: src
+type: standard
+docid:
+- id: RFC 8253
+  type: IETF
+  primary: true
+- id: 10.17487/RFC8253
+  type: DOI
+docnumber: RFC8253
+date:
+- type: published
+  value: 2017-10
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: D
+        formatted_initials:
+          content: D.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Lopez
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: D. Lopez
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: O
+        formatted_initials:
+          content: O.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Gonzalez de Dios
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: O. Gonzalez de Dios
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: Q
+        formatted_initials:
+          content: Q.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Wu
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: Q. Wu
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: D
+        formatted_initials:
+          content: D.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Dhody
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: D. Dhody
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 2017-10
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "<p>The Path Computation Element Communication Protocol (PCEP) defines
+    the mechanisms for the communication between a Path Computation Client (PCC) and
+    a Path Computation Element (PCE), or among PCEs. This document describes PCEPS
+    -- the usage of Transport Layer Security (TLS) to provide a secure transport for
+    PCEP. The additional security mechanisms are provided by the transport protocol
+    supporting PCEP; therefore, they do not affect the flexibility and extensibility
+    of PCEP.</p><p>This document updates RFC 5440 in regards to the PCEP initialization
+    phase procedures.</p>"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: updates
+  bibitem:
+    id: RFC5440
+    docid:
+    - id: RFC5440
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC5440
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '8253'
+keyword:
+- content: PCE
+- content: PCEP
+- content: PCEPS
+- content: security
+- content: authentication
+- content: encryption
+- content: TLS
+editorialgroup:
+- name: pce
+ext:
+  schema-version: v1.0.0
+  stream: IETF

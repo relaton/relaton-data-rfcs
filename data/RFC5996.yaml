@@ -1,0 +1,191 @@
+---
+schema-version: v1.2.3
+id: RFC5996
+title:
+- content: Internet Key Exchange Protocol Version 2 (IKEv2)
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc5996
+  type: src
+type: standard
+docid:
+- id: RFC 5996
+  type: IETF
+  primary: true
+- id: 10.17487/RFC5996
+  type: DOI
+docnumber: RFC5996
+date:
+- type: published
+  value: 2010-09
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: C
+        formatted_initials:
+          content: C.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Kaufman
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: C. Kaufman
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: P
+        formatted_initials:
+          content: P.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Hoffman
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: P. Hoffman
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: Y
+        formatted_initials:
+          content: Y.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Nir
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: Y. Nir
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: P
+        formatted_initials:
+          content: P.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Eronen
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: P. Eronen
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 2010-09
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "<p>This document describes version 2 of the Internet Key Exchange (IKE)
+    protocol. IKE is a component of IPsec used for performing mutual authentication
+    and establishing and maintaining Security Associations (SAs). This document replaces
+    and updates RFC 4306, and includes all of the clarifications from RFC 4718. [STANDARDS-TRACK]</p>"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: RFC7296
+    docid:
+    - id: RFC7296
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC7296
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '5996'
+keyword:
+- content: IKE
+- content: IPsec
+editorialgroup:
+- name: ipsecme
+ext:
+  schema-version: v1.0.0
+  stream: IETF

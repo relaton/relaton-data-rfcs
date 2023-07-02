@@ -1,0 +1,101 @@
+---
+schema-version: v1.2.3
+id: RFC3536
+title:
+- content: Terminology Used in Internationalization in the IETF
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc3536
+  type: src
+type: standard
+docid:
+- id: RFC 3536
+  type: IETF
+  primary: true
+- id: 10.17487/RFC3536
+  type: DOI
+docnumber: RFC3536
+date:
+- type: published
+  value: 2003-05
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: P
+        formatted_initials:
+          content: P.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Hoffman
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: P. Hoffman
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 2003-05
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "<p>This document provides a glossary of terms used in the IETF when discussing
+    internationalization. The purpose is to help frame discussions of internationalization
+    in the various areas of the IETF and to help introduce the main concepts to IETF
+    participants. This memo provides information for the Internet community.</p>"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: RFC6365
+    docid:
+    - id: RFC6365
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC6365
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: INDEPENDENT
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '3536'
+keyword:
+- content: internet engineering task force
+ext:
+  schema-version: v1.0.0
+  stream: INDEPENDENT

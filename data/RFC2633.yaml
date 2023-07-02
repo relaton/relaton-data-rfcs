@@ -1,0 +1,106 @@
+---
+schema-version: v1.2.3
+id: RFC2633
+title:
+- content: S/MIME Version 3 Message Specification
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc2633
+  type: src
+type: standard
+docid:
+- id: RFC 2633
+  type: IETF
+  primary: true
+- id: 10.17487/RFC2633
+  type: DOI
+docnumber: RFC2633
+date:
+- type: published
+  value: 1999-06
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: B
+        formatted_initials:
+          content: B.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Ramsdell
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: B. Ramsdell
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 1999-06
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "<p>This document describes a protocol for adding cryptographic signature
+    and encryption services to MIME data. [STANDARDS-TRACK]</p>"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: RFC3851
+    docid:
+    - id: RFC3851
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC3851
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '2633'
+keyword:
+- content: secure
+- content: multipurpose
+- content: internet
+- content: mail
+- content: extensions
+- content: encryption
+editorialgroup:
+- name: smime
+ext:
+  schema-version: v1.0.0
+  stream: IETF

@@ -1,0 +1,106 @@
+---
+schema-version: v1.2.3
+id: RFC2314
+title:
+- content: 'PKCS #10: Certification Request Syntax Version 1.5'
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc2314
+  type: src
+type: standard
+docid:
+- id: RFC 2314
+  type: IETF
+  primary: true
+- id: 10.17487/RFC2314
+  type: DOI
+docnumber: RFC2314
+date:
+- type: published
+  value: 1998-03
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: B
+        formatted_initials:
+          content: B.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Kaliski
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: B. Kaliski
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 1998-03
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "<p>This document describes a syntax for certification requests. This memo
+    provides information for the Internet community. It does not specify an Internet
+    standard of any kind.</p>"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: RFC2986
+    docid:
+    - id: RFC2986
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC2986
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: Legacy
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '2314'
+keyword:
+- content: PKCS-10
+- content: public
+- content: key
+- content: distinguished
+- content: name
+- content: encryption
+- content: data
+ext:
+  schema-version: v1.0.0
+  stream: Legacy

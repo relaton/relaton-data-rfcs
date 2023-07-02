@@ -1,0 +1,198 @@
+---
+schema-version: v1.2.3
+id: RFC4601
+title:
+- content: 'Protocol Independent Multicast - Sparse Mode (PIM-SM): Protocol Specification
+    (Revised)'
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc4601
+  type: src
+type: standard
+docid:
+- id: RFC 4601
+  type: IETF
+  primary: true
+- id: 10.17487/RFC4601
+  type: DOI
+docnumber: RFC4601
+date:
+- type: published
+  value: 2006-08
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: B
+        formatted_initials:
+          content: B.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Fenner
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: B. Fenner
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Handley
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: M. Handley
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: H
+        formatted_initials:
+          content: H.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Holbrook
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: H. Holbrook
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: I
+        formatted_initials:
+          content: I.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Kouvelas
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: I. Kouvelas
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 2006-08
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "<p>This document specifies Protocol Independent Multicast - Sparse Mode
+    (PIM-SM). PIM-SM is a multicast routing protocol that can use the underlying unicast
+    routing information base or a separate multicast-capable routing information base.
+    It builds unidirectional shared trees rooted at a Rendezvous Point (RP) per group,
+    and optionally creates shortest-path trees per source.</p><p>This document obsoletes
+    RFC 2362, an Experimental version of PIM-SM. [STANDARDS-TRACK]</p>"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: RFC7761
+    docid:
+    - id: RFC7761
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC7761
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '4601'
+keyword:
+- content: PIM-SM
+- content: routing
+- content: message
+- content: type
+- content: timers
+- content: flags
+editorialgroup:
+- name: pim
+ext:
+  schema-version: v1.0.0
+  stream: IETF

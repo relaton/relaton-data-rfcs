@@ -1,0 +1,129 @@
+---
+schema-version: v1.2.3
+id: RFC1292
+title:
+- content: A Catalog of Available X.500 Implementations
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc1292
+  type: src
+type: standard
+docid:
+- id: RFC 1292
+  type: IETF
+  primary: true
+- id: 10.17487/RFC1292
+  type: DOI
+docnumber: RFC1292
+date:
+- type: published
+  value: 1992-01
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: R
+        formatted_initials:
+          content: R.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Lang
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: R. Lang
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: R
+        formatted_initials:
+          content: R.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Wright
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: R. Wright
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 1992-01
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "<p>The goal of this document is to provide information regarding the availability
+    and capability of implementations of X.500. This memo provides information for
+    the Internet community. It does not specify an Internet standard.</p>"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: RFC1632
+    docid:
+    - id: RFC1632
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC1632
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '1292'
+editorialgroup:
+- name: disi
+ext:
+  schema-version: v1.0.0
+  stream: IETF

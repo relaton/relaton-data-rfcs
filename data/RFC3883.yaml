@@ -1,0 +1,167 @@
+---
+schema-version: v1.2.3
+id: RFC3883
+title:
+- content: Detecting Inactive Neighbors over OSPF Demand Circuits (DC)
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc3883
+  type: src
+type: standard
+docid:
+- id: RFC 3883
+  type: IETF
+  primary: true
+- id: 10.17487/RFC3883
+  type: DOI
+docnumber: RFC3883
+date:
+- type: published
+  value: 2004-10
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: S
+        formatted_initials:
+          content: S.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Rao
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: S. Rao
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Zinin
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: A. Zinin
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Roy
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: A. Roy
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 2004-10
+language:
+- en
+script:
+- Latn
+abstract:
+- content: <p>OSPF is a link-state intra-domain routing protocol used in IP networks.
+    OSPF behavior over demand circuits (DC) is optimized in RFC 1793 to minimize the
+    amount of overhead traffic. A part of the OSPF demand circuit extensions is the
+    Hello suppression mechanism. This technique allows a demand circuit to go down
+    when no interesting traffic is going through the link. However, it also introduces
+    a problem, where it becomes impossible to detect an OSPF-inactive neighbor over
+    such a link. This memo introduces a new mechanism called "neighbor probing" to
+    address the above problem. [STANDARDS-TRACK]</p>
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: updates
+  bibitem:
+    id: RFC1793
+    docid:
+    - id: RFC1793
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC1793
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '3883'
+keyword:
+- content: OSPF-DC
+- content: Open Shortest Path First
+- content: Demand Circuits
+editorialgroup:
+- name: ospf
+ext:
+  schema-version: v1.0.0
+  stream: IETF

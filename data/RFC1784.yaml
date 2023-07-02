@@ -1,0 +1,144 @@
+---
+schema-version: v1.2.3
+id: RFC1784
+title:
+- content: TFTP Timeout Interval and Transfer Size Options
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc1784
+  type: src
+type: standard
+docid:
+- id: RFC 1784
+  type: IETF
+  primary: true
+- id: 10.17487/RFC1784
+  type: DOI
+docnumber: RFC1784
+date:
+- type: published
+  value: 1995-03
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: G
+        formatted_initials:
+          content: G.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Malkin
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: G. Malkin
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Harkin
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: A. Harkin
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 1995-03
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "<p>This document describes two TFTP options. The first allows the client
+    and server to negotiate the Timeout Interval. The second allows the side receiving
+    the file to determine the ultimate size of the transfer before it begins. [STANDARDS-TRACK]</p>"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: RFC2349
+    docid:
+    - id: RFC2349
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC2349
+      format: text/plain
+- type: updates
+  bibitem:
+    id: RFC1350
+    docid:
+    - id: RFC1350
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC1350
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '1784'
+keyword:
+- content: trivial
+- content: file
+- content: transfer
+- content: booting
+editorialgroup:
+- name: tftpexts
+ext:
+  schema-version: v1.0.0
+  stream: IETF

@@ -1,0 +1,190 @@
+---
+schema-version: v1.2.3
+id: RFC7730
+title:
+- content: Resource Public Key Infrastructure (RPKI) Trust Anchor Locator
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc7730
+  type: src
+type: standard
+docid:
+- id: RFC 7730
+  type: IETF
+  primary: true
+- id: 10.17487/RFC7730
+  type: DOI
+docnumber: RFC7730
+date:
+- type: published
+  value: 2016-01
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: G
+        formatted_initials:
+          content: G.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Huston
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: G. Huston
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: S
+        formatted_initials:
+          content: S.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Weiler
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: S. Weiler
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: G
+        formatted_initials:
+          content: G.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Michaelson
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: G. Michaelson
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: S
+        formatted_initials:
+          content: S.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Kent
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: S. Kent
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 2016-01
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "<p>This document defines a Trust Anchor Locator (TAL) for the Resource
+    Public Key Infrastructure (RPKI). This document obsoletes RFC 6490 by adding support
+    for multiple URIs in a TAL.</p>"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: RFC8630
+    docid:
+    - id: RFC8630
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC8630
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '7730'
+keyword:
+- content: RPKI
+- content: BGP Security
+editorialgroup:
+- name: sidr
+ext:
+  schema-version: v1.0.0
+  stream: IETF

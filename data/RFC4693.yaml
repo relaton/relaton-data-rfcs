@@ -1,0 +1,103 @@
+---
+schema-version: v1.2.3
+id: RFC4693
+title:
+- content: IETF Operational Notes
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc4693
+  type: src
+type: standard
+docid:
+- id: RFC 4693
+  type: IETF
+  primary: true
+- id: 10.17487/RFC4693
+  type: DOI
+docnumber: RFC4693
+date:
+- type: published
+  value: 2006-10
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: H
+        formatted_initials:
+          content: H.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Alvestrand
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: H. Alvestrand
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 2006-10
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "<p>This document describes a new document series intended for use as a
+    repository for IETF operations documents, which should be more ephemeral than
+    RFCs, but more referenceable than Internet-Drafts, and with more clear handling
+    procedures than a random Web page.</p><p>It proposes to establish this series
+    as an RFC 3933 process experiment. This memo defines an Experimental Protocol
+    for the Internet community.</p>"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: RFC6393
+    docid:
+    - id: RFC6393
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC6393
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '4693'
+keyword:
+- content: ION
+ext:
+  schema-version: v1.0.0
+  stream: IETF

@@ -1,0 +1,138 @@
+---
+schema-version: v1.2.3
+id: RFC3847
+title:
+- content: Restart Signaling for Intermediate System to Intermediate System (IS-IS)
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc3847
+  type: src
+type: standard
+docid:
+- id: RFC 3847
+  type: IETF
+  primary: true
+- id: 10.17487/RFC3847
+  type: DOI
+docnumber: RFC3847
+date:
+- type: published
+  value: 2004-07
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Shand
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: M. Shand
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: L
+        formatted_initials:
+          content: L.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Ginsberg
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: L. Ginsberg
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 2004-07
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "<p>This document describes a mechanism for a restarting router to signal
+    to its neighbors that it is restarting, allowing them to reestablish their adjacencies
+    without cycling through the down state, while still correctly initiating database
+    synchronization. This document additionally describes a mechanism for a restarting
+    router to determine when it has achieved LSP database synchronization with its
+    neighbors and a mechanism to optimize LSP database synchronization, while minimizing
+    transient routing disruption when a router starts. This memo provides information
+    for the Internet community.</p>"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: RFC5306
+    docid:
+    - id: RFC5306
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC5306
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '3847'
+keyword:
+- content: LSP database synchronization
+- content: transient routing disruption
+- content: database synchronization
+editorialgroup:
+- name: isis
+ext:
+  schema-version: v1.0.0
+  stream: IETF

@@ -1,0 +1,223 @@
+---
+schema-version: v1.2.3
+id: RFC1664
+title:
+- content: Using the Internet DNS to Distribute RFC1327 Mail Address Mapping Tables
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc1664
+  type: src
+type: standard
+docid:
+- id: RFC 1664
+  type: IETF
+  primary: true
+- id: 10.17487/RFC1664
+  type: DOI
+docnumber: RFC1664
+date:
+- type: published
+  value: 1994-08
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: C
+        formatted_initials:
+          content: C.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Allocchio
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: C. Allocchio
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Bonito
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: A. Bonito
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: B
+        formatted_initials:
+          content: B.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Cole
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: B. Cole
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: S
+        formatted_initials:
+          content: S.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Giordano
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: S. Giordano
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: R
+        formatted_initials:
+          content: R.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Hagens
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: R. Hagens
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 1994-08
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "<p>This memo defines how to store in the Internet Domain Name System the
+    mapping information needed by e-mail gateways and other tools to map RFC822 domain
+    names into X.400 O/R names and vice versa. This memo defines an Experimental Protocol
+    for the Internet community.</p>"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: RFC2163
+    docid:
+    - id: RFC2163
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC2163
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '1664'
+keyword:
+- content: domain
+- content: Name
+- content: System
+- content: X.400
+- content: Email
+editorialgroup:
+- name: x400ops
+ext:
+  schema-version: v1.0.0
+  stream: IETF

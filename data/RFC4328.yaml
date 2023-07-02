@@ -1,0 +1,106 @@
+---
+schema-version: v1.2.3
+id: RFC4328
+title:
+- content: Generalized Multi-Protocol Label Switching (GMPLS) Signaling Extensions
+    for G.709 Optical Transport Networks Control
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc4328
+  type: src
+type: standard
+docid:
+- id: RFC 4328
+  type: IETF
+  primary: true
+- id: 10.17487/RFC4328
+  type: DOI
+docnumber: RFC4328
+date:
+- type: published
+  value: 2006-01
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: D
+        formatted_initials:
+          content: D.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Papadimitriou
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: D. Papadimitriou
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 2006-01
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "<p>This document is a companion to the Generalized Multi-Protocol Label
+    Switching (GMPLS) signaling documents. It describes the technology-specific information
+    needed to extend GMPLS signaling to control Optical Transport Networks (OTN);
+    it also includes the so-called pre-OTN developments. [STANDARDS-TRACK]</p>"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: updates
+  bibitem:
+    id: RFC3471
+    docid:
+    - id: RFC3471
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC3471
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '4328'
+keyword:
+- content: otn
+- content: optical transport networks
+- content: pre-otn
+editorialgroup:
+- name: ccamp
+ext:
+  schema-version: v1.0.0
+  stream: IETF

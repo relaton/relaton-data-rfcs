@@ -1,0 +1,151 @@
+---
+schema-version: v1.2.3
+id: RFC5512
+title:
+- content: The BGP Encapsulation Subsequent Address Family Identifier (SAFI) and the
+    BGP Tunnel Encapsulation Attribute
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc5512
+  type: src
+type: standard
+docid:
+- id: RFC 5512
+  type: IETF
+  primary: true
+- id: 10.17487/RFC5512
+  type: DOI
+docnumber: RFC5512
+date:
+- type: published
+  value: 2009-04
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: P
+        formatted_initials:
+          content: P.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Mohapatra
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: P. Mohapatra
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: E
+        formatted_initials:
+          content: E.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Rosen
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: E. Rosen
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 2009-04
+language:
+- en
+script:
+- Latn
+abstract:
+- content: <p>In certain situations, transporting a packet from one Border Gateway
+    Protocol (BGP) speaker to another (the BGP next hop) requires that the packet
+    be encapsulated by the first BGP speaker and decapsulated by the second. To support
+    these situations, there needs to be some agreement between the two BGP speakers
+    with regard to the "encapsulation information", i.e., the format of the encapsulation
+    header as well as the contents of various fields of the header.</p><p>The encapsulation
+    information need not be signaled for all encapsulation types. In cases where signaling
+    is required (such as Layer Two Tunneling Protocol - Version 3 (L2TPv3) or Generic
+    Routing Encapsulation (GRE) with key), this document specifies a method by which
+    BGP speakers can signal encapsulation information to each other. The signaling
+    is done by sending BGP updates using the Encapsulation Subsequent Address Family
+    Identifier (SAFI) and the IPv4 or IPv6 Address Family Identifier (AFI). In cases
+    where no encapsulation information needs to be signaled (such as GRE without key),
+    this document specifies a BGP extended community that can be attached to BGP UPDATE
+    messages that carry payload prefixes in order to indicate the encapsulation protocol
+    type to be used. [STANDARDS-TRACK]</p>
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: RFC9012
+    docid:
+    - id: RFC9012
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC9012
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '5512'
+keyword:
+- content: BGP
+- content: Encapsulation
+- content: Encap SAFI
+- content: Tunnel
+- content: Softwire
+- content: 4over6
+- content: 6over4
+editorialgroup:
+- name: softwire
+ext:
+  schema-version: v1.0.0
+  stream: IETF

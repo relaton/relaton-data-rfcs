@@ -1,0 +1,134 @@
+---
+schema-version: v1.2.3
+id: RFC4877
+title:
+- content: Mobile IPv6 Operation with IKEv2 and the Revised IPsec Architecture
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc4877
+  type: src
+type: standard
+docid:
+- id: RFC 4877
+  type: IETF
+  primary: true
+- id: 10.17487/RFC4877
+  type: DOI
+docnumber: RFC4877
+date:
+- type: published
+  value: 2007-04
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: V
+        formatted_initials:
+          content: V.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Devarapalli
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: V. Devarapalli
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: F
+        formatted_initials:
+          content: F.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Dupont
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: F. Dupont
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 2007-04
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "<p>This document describes Mobile IPv6 operation with the revised IPsec
+    architecture and IKEv2. [STANDARDS-TRACK]</p>"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: updates
+  bibitem:
+    id: RFC3776
+    docid:
+    - id: RFC3776
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC3776
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '4877'
+keyword:
+- content: Bootstrapping
+- content: MIP6
+- content: Selector Granularity
+- content: Mobility Header
+- content: EAP Authentication
+editorialgroup:
+- name: mip6
+ext:
+  schema-version: v1.0.0
+  stream: IETF

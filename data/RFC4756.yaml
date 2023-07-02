@@ -1,0 +1,106 @@
+---
+schema-version: v1.2.3
+id: RFC4756
+title:
+- content: Forward Error Correction Grouping Semantics in Session Description Protocol
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc4756
+  type: src
+type: standard
+docid:
+- id: RFC 4756
+  type: IETF
+  primary: true
+- id: 10.17487/RFC4756
+  type: DOI
+docnumber: RFC4756
+date:
+- type: published
+  value: 2006-11
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Li
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: A. Li
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 2006-11
+language:
+- en
+script:
+- Latn
+abstract:
+- content: <p>This document defines the semantics that allow for grouping of Forward
+    Error Correction (FEC) streams with the protected payload streams in Session Description
+    Protocol (SDP). The semantics defined in this document are to be used with "Grouping
+    of Media Lines in the Session Description Protocol" (RFC 3388) to group together
+    "m" lines in the same session. [STANDARDS-TRACK]</p>
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: RFC5956
+    docid:
+    - id: RFC5956
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC5956
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '4756'
+keyword:
+- content: fec
+- content: sdp
+- content: media lines
+editorialgroup:
+- name: mmusic
+ext:
+  schema-version: v1.0.0
+  stream: IETF

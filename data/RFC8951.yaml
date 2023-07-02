@@ -1,0 +1,165 @@
+---
+schema-version: v1.2.3
+id: RFC8951
+title:
+- content: 'Clarification of Enrollment over Secure Transport (EST): Transfer Encodings
+    and ASN.1'
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc8951
+  type: src
+type: standard
+docid:
+- id: RFC 8951
+  type: IETF
+  primary: true
+- id: 10.17487/RFC8951
+  type: DOI
+docnumber: RFC8951
+date:
+- type: published
+  value: 2020-11
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Richardson
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: M. Richardson
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: T
+        formatted_initials:
+          content: T.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Werner
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: T. Werner
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: W
+        formatted_initials:
+          content: W.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Pan
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: W. Pan
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 2020-11
+language:
+- en
+script:
+- Latn
+abstract:
+- content: '<p>This document updates RFC 7030: Enrollment over Secure Transport to
+    resolve some errata that were reported and that have proven to cause interoperability
+    issues when RFC 7030 was extended.</p><p>This document deprecates the specification
+    of "Content-Transfer-Encoding" headers for Enrollment over Secure Transport (EST)
+    endpoints. This document fixes some syntactical errors in ASN.1 that were present.</p>'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: updates
+  bibitem:
+    id: RFC7030
+    docid:
+    - id: RFC7030
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC7030
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '8951'
+keyword:
+- content: CSRattributes
+- content: BRSKI
+- content: RFC7030
+editorialgroup:
+- name: lamps
+ext:
+  schema-version: v1.0.0
+  stream: IETF

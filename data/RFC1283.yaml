@@ -1,0 +1,104 @@
+---
+schema-version: v1.2.3
+id: RFC1283
+title:
+- content: SNMP over OSI
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc1283
+  type: src
+type: standard
+docid:
+- id: RFC 1283
+  type: IETF
+  primary: true
+- id: 10.17487/RFC1283
+  type: DOI
+docnumber: RFC1283
+date:
+- type: published
+  value: 1991-12
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Rose
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: M. Rose
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 1991-12
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "<p>This memo describes mappings from the SNMP onto both the COTS and the
+    CLTS. This memo defines an Experimental Protocol for the Internet community. It
+    does not specify an Internet Standard.</p>"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: RFC1418
+    docid:
+    - id: RFC1418
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC1418
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '1283'
+keyword:
+- content: ISO
+- content: Management
+- content: MIB
+editorialgroup:
+- name: snmp
+ext:
+  schema-version: v1.0.0
+  stream: IETF

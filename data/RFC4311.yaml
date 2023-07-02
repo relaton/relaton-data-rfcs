@@ -1,0 +1,134 @@
+---
+schema-version: v1.2.3
+id: RFC4311
+title:
+- content: IPv6 Host-to-Router Load Sharing
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc4311
+  type: src
+type: standard
+docid:
+- id: RFC 4311
+  type: IETF
+  primary: true
+- id: 10.17487/RFC4311
+  type: DOI
+docnumber: RFC4311
+date:
+- type: published
+  value: 2005-11
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: R
+        formatted_initials:
+          content: R.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Hinden
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: R. Hinden
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: D
+        formatted_initials:
+          content: D.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Thaler
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: D. Thaler
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 2005-11
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "<p>The original IPv6 conceptual sending algorithm does not do load sharing
+    among equivalent IPv6 routers, and suggests schemes that can be problematic in
+    practice. This document updates the conceptual sending algorithm in RFC 2461 so
+    that traffic to different destinations can be distributed among routers in an
+    efficient fashion. [STANDARDS-TRACK]</p>"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: updates
+  bibitem:
+    id: RFC2461
+    docid:
+    - id: RFC2461
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC2461
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '4311'
+keyword:
+- content: internet protocol version 6
+- content: conceptual sending algorithm
+editorialgroup:
+- name: ipv6
+ext:
+  schema-version: v1.0.0
+  stream: IETF

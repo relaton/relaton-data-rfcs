@@ -1,0 +1,116 @@
+---
+schema-version: v1.2.3
+id: RFC2646
+title:
+- content: The Text/Plain Format Parameter
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc2646
+  type: src
+type: standard
+docid:
+- id: RFC 2646
+  type: IETF
+  primary: true
+- id: 10.17487/RFC2646
+  type: DOI
+docnumber: RFC2646
+date:
+- type: published
+  value: 1999-08
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: R
+        formatted_initials:
+          content: R.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Gellens
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: R. Gellens
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 1999-08
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "<p>This memo proposes a new parameter to be used with Text/Plain, and,
+    in the presence of this parameter, the use of trailing whitespace to indicate
+    flowed lines. This results in an encoding which appears as normal Text/Plain in
+    older implementations, since it is in fact normal Text/Plain. [STANDARDS-TRACK]</p>"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: RFC3676
+    docid:
+    - id: RFC3676
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC3676
+      format: text/plain
+- type: updates
+  bibitem:
+    id: RFC2046
+    docid:
+    - id: RFC2046
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC2046
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: Legacy
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '2646'
+keyword:
+- content: media type
+- content: mime
+- content: multipurpose
+- content: internet
+- content: mail
+- content: extension
+ext:
+  schema-version: v1.0.0
+  stream: Legacy

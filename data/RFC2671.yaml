@@ -1,0 +1,107 @@
+---
+schema-version: v1.2.3
+id: RFC2671
+title:
+- content: Extension Mechanisms for DNS (EDNS0)
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc2671
+  type: src
+type: standard
+docid:
+- id: RFC 2671
+  type: IETF
+  primary: true
+- id: 10.17487/RFC2671
+  type: DOI
+docnumber: RFC2671
+date:
+- type: published
+  value: 1999-08
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: P
+        formatted_initials:
+          content: P.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Vixie
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: P. Vixie
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 1999-08
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "<p>The Domain Name System's wire protocol includes a number of fixed fields
+    whose range has been or soon will be exhausted and does not allow clients to advertise
+    their capabilities to servers. This document describes backward compatible mechanisms
+    for allowing the protocol to grow. [STANDARDS-TRACK]</p>"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: RFC6891
+    docid:
+    - id: RFC6891
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC6891
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '2671'
+keyword:
+- content: EDNS0
+- content: domain name system
+- content: RR
+- content: resource records
+- content: opt
+editorialgroup:
+- name: dnsind
+ext:
+  schema-version: v1.0.0
+  stream: IETF

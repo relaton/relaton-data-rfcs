@@ -1,0 +1,164 @@
+---
+schema-version: v1.2.3
+id: RFC2447
+title:
+- content: iCalendar Message-Based Interoperability Protocol (iMIP)
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc2447
+  type: src
+type: standard
+docid:
+- id: RFC 2447
+  type: IETF
+  primary: true
+- id: 10.17487/RFC2447
+  type: DOI
+docnumber: RFC2447
+date:
+- type: published
+  value: 1998-11
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: F
+        formatted_initials:
+          content: F.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Dawson
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: F. Dawson
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: S
+        formatted_initials:
+          content: S.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Mansour
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: S. Mansour
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: S
+        formatted_initials:
+          content: S.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Silverberg
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: S. Silverberg
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 1998-11
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "<p>This document specifies a binding from the iCalendar Transport- independent
+    Interoperability Protocol (iTIP) to Internet email-based transports. [STANDARDS-TRACK]</p>"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: RFC6047
+    docid:
+    - id: RFC6047
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC6047
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '2447'
+keyword:
+- content: IMIP
+- content: iCalendar Message-Based Interoperability Protocol
+- content: internet
+- content: electronic
+- content: mail
+- content: transport
+editorialgroup:
+- name: calsch
+ext:
+  schema-version: v1.0.0
+  stream: IETF

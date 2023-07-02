@@ -1,0 +1,166 @@
+---
+schema-version: v1.2.3
+id: RFC2966
+title:
+- content: Domain-wide Prefix Distribution with Two-Level IS-IS
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc2966
+  type: src
+type: standard
+docid:
+- id: RFC 2966
+  type: IETF
+  primary: true
+- id: 10.17487/RFC2966
+  type: DOI
+docnumber: RFC2966
+date:
+- type: published
+  value: 2000-10
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: T
+        formatted_initials:
+          content: T.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Li
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: T. Li
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: T
+        formatted_initials:
+          content: T.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Przygienda
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: T. Przygienda
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: H
+        formatted_initials:
+          content: H.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Smit
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: H. Smit
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 2000-10
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "<p>This document describes extensions to the Intermediate System to Intermediate
+    System (IS-IS) protocol to support optimal routing within a two-level domain.
+    This memo provides information for the Internet community.</p>"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: RFC5302
+    docid:
+    - id: RFC5302
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC5302
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '2966'
+keyword:
+- content: intermediate
+- content: system
+- content: routers
+- content: loops
+- content: IP
+- content: internet
+- content: protocol
+editorialgroup:
+- name: isis
+ext:
+  schema-version: v1.0.0
+  stream: IETF

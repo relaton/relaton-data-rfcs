@@ -1,0 +1,195 @@
+---
+schema-version: v1.2.3
+id: RFC7568
+title:
+- content: Deprecating Secure Sockets Layer Version 3.0
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc7568
+  type: src
+type: standard
+docid:
+- id: RFC 7568
+  type: IETF
+  primary: true
+- id: 10.17487/RFC7568
+  type: DOI
+docnumber: RFC7568
+date:
+- type: published
+  value: 2015-06
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: R
+        formatted_initials:
+          content: R.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Barnes
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: R. Barnes
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Thomson
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: M. Thomson
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Pironti
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: A. Pironti
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Langley
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: A. Langley
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 2015-06
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "<p>The Secure Sockets Layer version 3.0 (SSLv3), as specified in RFC 6101,
+    is not sufficiently secure. This document requires that SSLv3 not be used. The
+    replacement versions, in particular, Transport Layer Security (TLS) 1.2 (RFC 5246),
+    are considerably more secure and capable protocols.</p><p>This document updates
+    the backward compatibility section of RFC 5246 and its predecessors to prohibit
+    fallback to SSLv3.</p>"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: updates
+  bibitem:
+    id: RFC5246
+    docid:
+    - id: RFC5246
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC5246
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '7568'
+keyword:
+- content: SSL
+- content: TLS
+- content: insecure
+- content: diediedie
+editorialgroup:
+- name: tls
+ext:
+  schema-version: v1.0.0
+  stream: IETF

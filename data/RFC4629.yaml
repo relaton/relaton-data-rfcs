@@ -1,0 +1,225 @@
+---
+schema-version: v1.2.3
+id: RFC4629
+title:
+- content: RTP Payload Format for ITU-T Rec. H.263 Video
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc4629
+  type: src
+type: standard
+docid:
+- id: RFC 4629
+  type: IETF
+  primary: true
+- id: 10.17487/RFC4629
+  type: DOI
+docnumber: RFC4629
+date:
+- type: published
+  value: 2007-01
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: J
+        formatted_initials:
+          content: J.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Ott
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: J. Ott
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: C
+        formatted_initials:
+          content: C.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Bormann
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: C. Bormann
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: G
+        formatted_initials:
+          content: G.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Sullivan
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: G. Sullivan
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: S
+        formatted_initials:
+          content: S.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Wenger
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: S. Wenger
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: R
+        formatted_initials:
+          content: R.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Even
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: R. Even
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 2007-01
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "<p>This document describes a scheme to packetize an H.263 video stream
+    for transport using the Real-time Transport Protocol (RTP) with any of the underlying
+    protocols that carry RTP.</p><p>The document also describes the syntax and semantics
+    of the Session Description Protocol (SDP) parameters needed to support the H.263
+    video codec.</p><p>The document obsoletes RFC 2429 and updates the H263-1998 and
+    H263-2000 MIME media type in RFC 3555. [STANDARDS-TRACK]</p>"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: updates
+  bibitem:
+    id: RFC3555
+    docid:
+    - id: RFC3555
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC3555
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '4629'
+keyword:
+- content: real-time transport protocol
+- content: multicast
+- content: unicast
+- content: sdp
+- content: session description protocol
+editorialgroup:
+- name: avt
+ext:
+  schema-version: v1.0.0
+  stream: IETF

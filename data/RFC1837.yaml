@@ -1,0 +1,103 @@
+---
+schema-version: v1.2.3
+id: RFC1837
+title:
+- content: Representing Tables and Subtrees in the X.500 Directory
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc1837
+  type: src
+type: standard
+docid:
+- id: RFC 1837
+  type: IETF
+  primary: true
+- id: 10.17487/RFC1837
+  type: DOI
+docnumber: RFC1837
+date:
+- type: published
+  value: 1995-08
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: S
+        formatted_initials:
+          content: S.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Kille
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: S. Kille
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 1995-08
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "<p>This document defines techniques for representing two types of information
+    mapping in the OSI Directory. This memo defines an Experimental Protocol for the
+    Internet community.</p>"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: RFC2293
+    docid:
+    - id: RFC2293
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC2293
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '1837'
+keyword:
+- content: message
+- content: handling
+editorialgroup:
+- name: mhsds
+ext:
+  schema-version: v1.0.0
+  stream: IETF

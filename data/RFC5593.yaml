@@ -1,0 +1,104 @@
+---
+schema-version: v1.2.3
+id: RFC5593
+title:
+- content: Internet Message Access Protocol (IMAP) - URL Access Identifier Extension
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc5593
+  type: src
+type: standard
+docid:
+- id: RFC 5593
+  type: IETF
+  primary: true
+- id: 10.17487/RFC5593
+  type: DOI
+docnumber: RFC5593
+date:
+- type: published
+  value: 2009-06
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: N
+        formatted_initials:
+          content: N.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Cook
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: N. Cook
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 2009-06
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "<p>The existing IMAP URL specification (RFC 5092) lists several identifiers
+    and identifier prefixes that can be used to restrict access to URLAUTH-generated
+    URLs. However, these identifiers do not provide facilities for new services such
+    as streaming. This document proposes a set of new identifiers as well as an IANA
+    mechanism to register new identifiers for future applications.</p><p>This document
+    updates RFC 5092. [STANDARDS-TRACK]</p>"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: updates
+  bibitem:
+    id: RFC5092
+    docid:
+    - id: RFC5092
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC5092
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '5593'
+keyword:
+- content: urlauth
+- content: imap url
+ext:
+  schema-version: v1.0.0
+  stream: IETF

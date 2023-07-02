@@ -1,0 +1,142 @@
+---
+schema-version: v1.2.3
+id: RFC8608
+title:
+- content: BGPsec Algorithms, Key Formats, and Signature Formats
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc8608
+  type: src
+type: standard
+docid:
+- id: RFC 8608
+  type: IETF
+  primary: true
+- id: 10.17487/RFC8608
+  type: DOI
+docnumber: RFC8608
+date:
+- type: published
+  value: 2019-06
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: S
+        formatted_initials:
+          content: S.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Turner
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: S. Turner
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: O
+        formatted_initials:
+          content: O.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Borchert
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: O. Borchert
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 2019-06
+language:
+- en
+script:
+- Latn
+abstract:
+- content: <p>This document specifies the algorithms, algorithm parameters, asymmetric
+    key formats, asymmetric key sizes, and signature formats used in BGPsec (Border
+    Gateway Protocol Security). This document updates RFC 7935 ("The Profile for Algorithms
+    and Key Sizes for Use in the Resource Public Key Infrastructure") and obsoletes
+    RFC 8208 ("BGPsec Algorithms, Key Formats, and Signature Formats") by adding Documentation
+    and Experimentation Algorithm IDs, correcting the range of unassigned algorithms
+    IDs to fill the complete range, and restructuring the document for better reading.</p><p>This
+    document also includes example BGPsec UPDATE messages as well as the private keys
+    used to generate the messages and the certificates necessary to validate those
+    signatures.</p>
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: updates
+  bibitem:
+    id: RFC7935
+    docid:
+    - id: RFC7935
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC7935
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '8608'
+keyword:
+- content: BGPsec
+- content: BGPsec Algorithms
+- content: Crypto Algorithms
+- content: ECDSA
+- content: Cryptography
+editorialgroup:
+- name: sidrops
+ext:
+  schema-version: v1.0.0
+  stream: IETF

@@ -1,0 +1,105 @@
+---
+schema-version: v1.2.3
+id: RFC9100
+title:
+- content: Sensor Measurement Lists (SenML) Features and Versions
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc9100
+  type: src
+type: standard
+docid:
+- id: RFC 9100
+  type: IETF
+  primary: true
+- id: 10.17487/RFC9100
+  type: DOI
+docnumber: RFC9100
+date:
+- type: published
+  value: 2021-08
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: C
+        formatted_initials:
+          content: C.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Bormann
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: C. Bormann
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 2021-08
+language:
+- en
+script:
+- Latn
+abstract:
+- content: <p>This short document updates RFC 8428, "Sensor Measurement Lists (SenML)",
+    by specifying the use of independently selectable "SenML Features" and mapping
+    them to SenML version numbers.</p>
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: updates
+  bibitem:
+    id: RFC8428
+    docid:
+    - id: RFC8428
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC8428
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '9100'
+keyword:
+- content: Internet of Things (IoT)
+- content: Internet of Things
+- content: IOT
+- content: data model
+editorialgroup:
+- name: core
+ext:
+  schema-version: v1.0.0
+  stream: IETF

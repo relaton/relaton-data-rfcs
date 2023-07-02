@@ -1,0 +1,203 @@
+---
+schema-version: v1.2.3
+id: RFC9041
+title:
+- content: Updating the MPLS Label Switched Paths (LSPs) Ping Parameters IANA Registry
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc9041
+  type: src
+type: standard
+docid:
+- id: RFC 9041
+  type: IETF
+  primary: true
+- id: 10.17487/RFC9041
+  type: DOI
+docnumber: RFC9041
+date:
+- type: published
+  value: 2021-07
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: L
+        formatted_initials:
+          content: L.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Andersson
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: L. Andersson
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Chen
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: M. Chen
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: C
+        formatted_initials:
+          content: C.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Pignataro
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: C. Pignataro
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: T
+        formatted_initials:
+          content: T.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Saad
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: T. Saad
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 2021-07
+language:
+- en
+script:
+- Latn
+abstract:
+- content: <p>This document updates RFCs 8029 and 8611, both of which define IANA
+    registries for MPLS Label Switched Path (LSP) Ping. In particular, the registration
+    procedure "Private Use" (previously known as "Vendor Private Use") has been changed
+    to "First Come First Served" for the TLV and sub-TLV registries.</p><p>It also
+    updates the description of the procedures for the responses sent when an unknown
+    or erroneous code point is found. The updates are to clarify and align this namespace
+    with recent developments, e.g., aligning terminology with RFC 8126 instead of
+    the now obsoleted RFC 5226 (both titled "Guidelines for Writing an IANA Considerations
+    Section in RFCs").</p>
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: updates
+  bibitem:
+    id: RFC8029
+    docid:
+    - id: RFC8029
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC8029
+      format: text/plain
+- type: updates
+  bibitem:
+    id: RFC8611
+    docid:
+    - id: RFC8611
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC8611
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '9041'
+editorialgroup:
+- name: mpls
+ext:
+  schema-version: v1.0.0
+  stream: IETF

@@ -1,0 +1,105 @@
+---
+schema-version: v1.2.3
+id: RFC1623
+title:
+- content: Definitions of Managed Objects for the Ethernet-like Interface Types
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc1623
+  type: src
+type: standard
+docid:
+- id: RFC 1623
+  type: IETF
+  primary: true
+- id: 10.17487/RFC1623
+  type: DOI
+docnumber: RFC1623
+date:
+- type: published
+  value: 1994-05
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: F
+        formatted_initials:
+          content: F.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Kastenholz
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: F. Kastenholz
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 1994-05
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "<p>This memo defines a portion of the Management Information Base (MIB)
+    for use with network management protocols in the Internet community. In particular,
+    it defines objects for managing ethernet-like objects. [STANDARDS-TRACK]</p>"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: RFC1643
+    docid:
+    - id: RFC1643
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC1643
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '1623'
+keyword:
+- content: MIB
+- content: Management
+- content: Information
+- content: Base
+editorialgroup:
+- name: ifmib
+ext:
+  schema-version: v1.0.0
+  stream: IETF

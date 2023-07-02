@@ -1,0 +1,102 @@
+---
+schema-version: v1.2.3
+id: RFC7372
+title:
+- content: Email Authentication Status Codes
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc7372
+  type: src
+type: standard
+docid:
+- id: RFC 7372
+  type: IETF
+  primary: true
+- id: 10.17487/RFC7372
+  type: DOI
+docnumber: RFC7372
+date:
+- type: published
+  value: 2014-09
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Kucherawy
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: M. Kucherawy
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 2014-09
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "<p>This document registers code points to allow status codes to be returned
+    to an email client to indicate that a message is being rejected or deferred specifically
+    because of email authentication failures.</p><p>This document updates RFC 7208,
+    since some of the code points registered replace the ones recommended for use
+    in that document.</p>"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: updates
+  bibitem:
+    id: RFC7208
+    docid:
+    - id: RFC7208
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC7208
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '7372'
+editorialgroup:
+- name: appsawg
+ext:
+  schema-version: v1.0.0
+  stream: IETF

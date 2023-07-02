@@ -1,0 +1,134 @@
+---
+schema-version: v1.2.3
+id: RFC1884
+title:
+- content: IP Version 6 Addressing Architecture
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc1884
+  type: src
+type: standard
+docid:
+- id: RFC 1884
+  type: IETF
+  primary: true
+- id: 10.17487/RFC1884
+  type: DOI
+docnumber: RFC1884
+date:
+- type: published
+  value: 1995-12
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: R
+        formatted_initials:
+          content: R.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Hinden
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: R. Hinden
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: S
+        formatted_initials:
+          content: S.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Deering
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: S. Deering
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 1995-12
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "<p>This specification defines the addressing architecture of the IP Version
+    6 protocol [IPV6]. [STANDARDS-TRACK]</p>"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: RFC2373
+    docid:
+    - id: RFC2373
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC2373
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '1884'
+keyword:
+- content: IPV6-Addr
+- content: IP
+- content: Next
+- content: Generation
+- content: IPng
+editorialgroup:
+- name: ipngwg
+ext:
+  schema-version: v1.0.0
+  stream: IETF

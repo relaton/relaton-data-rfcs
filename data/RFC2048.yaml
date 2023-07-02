@@ -1,0 +1,177 @@
+---
+schema-version: v1.2.3
+id: RFC2048
+title:
+- content: 'Multipurpose Internet Mail Extensions (MIME) Part Four: Registration Procedures'
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc2048
+  type: src
+type: standard
+docid:
+- id: RFC 2048
+  type: IETF
+  primary: true
+- id: 10.17487/RFC2048
+  type: DOI
+docnumber: RFC2048
+date:
+- type: published
+  value: 1996-11
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: N
+        formatted_initials:
+          content: N.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Freed
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: N. Freed
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: J
+        formatted_initials:
+          content: J.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Klensin
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: J. Klensin
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: J
+        formatted_initials:
+          content: J.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Postel
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: J. Postel
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 1996-11
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "<p>This set of documents, collectively called the Multipurpose Internet
+    Mail Extensions, or MIME, redefines the format of messages. This fourth document,
+    RFC 2048, specifies various IANA registration procedures for some MIME facilities.
+    This document specifies an Internet Best Current Practices for the Internet Community,
+    and requests discussion and suggestions for improvements.</p>"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: RFC4288
+    docid:
+    - id: RFC4288
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC4288
+      format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: RFC4289
+    docid:
+    - id: RFC4289
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC4289
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '2048'
+keyword:
+- content: media
+- content: types
+- content: external
+- content: body
+- content: access
+- content: content-transfer-encodings
+editorialgroup:
+- name: 822ext
+ext:
+  schema-version: v1.0.0
+  stream: IETF

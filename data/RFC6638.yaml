@@ -1,0 +1,152 @@
+---
+schema-version: v1.2.3
+id: RFC6638
+title:
+- content: Scheduling Extensions to CalDAV
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc6638
+  type: src
+type: standard
+docid:
+- id: RFC 6638
+  type: IETF
+  primary: true
+- id: 10.17487/RFC6638
+  type: DOI
+docnumber: RFC6638
+date:
+- type: published
+  value: 2012-06
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: C
+        formatted_initials:
+          content: C.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Daboo
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: C. Daboo
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: B
+        formatted_initials:
+          content: B.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Desruisseaux
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: B. Desruisseaux
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 2012-06
+language:
+- en
+script:
+- Latn
+abstract:
+- content: <p>This document defines extensions to the Calendaring Extensions to WebDAV
+    (CalDAV) "calendar-access" feature to specify a standard way of performing scheduling
+    operations with iCalendar-based calendar components. This document defines the
+    "calendar-auto-schedule" feature of CalDAV. [STANDARDS-TRACK]</p>
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: updates
+  bibitem:
+    id: RFC4791
+    docid:
+    - id: RFC4791
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC4791
+      format: text/plain
+- type: updates
+  bibitem:
+    id: RFC5546
+    docid:
+    - id: RFC5546
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC5546
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '6638'
+keyword:
+- content: calsify
+- content: calsched
+- content: calsch
+- content: calendar
+- content: calendaring
+- content: webcal
+- content: ical
+- content: icalendar
+- content: ischedule
+- content: itip
+- content: imip
+- content: text/calendar
+- content: http
+ext:
+  schema-version: v1.0.0
+  stream: IETF

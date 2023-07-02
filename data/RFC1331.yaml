@@ -1,0 +1,106 @@
+---
+schema-version: v1.2.3
+id: RFC1331
+title:
+- content: The Point-to-Point Protocol (PPP) for the Transmission of Multi-protocol
+    Datagrams over Point-to-Point Links
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc1331
+  type: src
+type: standard
+docid:
+- id: RFC 1331
+  type: IETF
+  primary: true
+- id: 10.17487/RFC1331
+  type: DOI
+docnumber: RFC1331
+date:
+- type: published
+  value: 1992-05
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: W
+        formatted_initials:
+          content: W.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Simpson
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: W. Simpson
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 1992-05
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "<p>This document defines the PPP encapsulation scheme, together with the
+    PPP Link Control Protocol (LCP), an extensible option negotiation protocol which
+    is able to negotiate a rich assortment of configuration parameters and provides
+    additional management functions. [STANDARDS-TRACK]</p>"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: RFC1548
+    docid:
+    - id: RFC1548
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC1548
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '1331'
+keyword:
+- content: serial line
+- content: IP over serial
+- content: dial-up
+editorialgroup:
+- name: pppext
+ext:
+  schema-version: v1.0.0
+  stream: IETF

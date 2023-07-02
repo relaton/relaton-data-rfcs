@@ -1,0 +1,160 @@
+---
+schema-version: v1.2.3
+id: RFC8129
+title:
+- content: Authentication Indicator in Kerberos Tickets
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc8129
+  type: src
+type: standard
+docid:
+- id: RFC 8129
+  type: IETF
+  primary: true
+- id: 10.17487/RFC8129
+  type: DOI
+docnumber: RFC8129
+date:
+- type: published
+  value: 2017-03
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Jain
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: A. Jain
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: N
+        formatted_initials:
+          content: N.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Kinder
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: N. Kinder
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: N
+        formatted_initials:
+          content: N.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: McCallum
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: N. McCallum
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 2017-03
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "<p>This document updates RFC 4120, as it specifies an extension in the
+    Kerberos protocol. It defines a new authorization data type, AD-AUTHENTICATION-INDICATOR.
+    The purpose of introducing this data type is to include an indicator of the strength
+    of a client's authentication in service tickets so that application services can
+    use it as an input into policy decisions.</p>"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: updates
+  bibitem:
+    id: RFC4120
+    docid:
+    - id: RFC4120
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC4120
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '8129'
+editorialgroup:
+- name: kitten
+ext:
+  schema-version: v1.0.0
+  stream: IETF

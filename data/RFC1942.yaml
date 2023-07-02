@@ -1,0 +1,105 @@
+---
+schema-version: v1.2.3
+id: RFC1942
+title:
+- content: HTML Tables
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc1942
+  type: src
+type: standard
+docid:
+- id: RFC 1942
+  type: IETF
+  primary: true
+- id: 10.17487/RFC1942
+  type: DOI
+docnumber: RFC1942
+date:
+- type: published
+  value: 1996-05
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: D
+        formatted_initials:
+          content: D.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Raggett
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: D. Raggett
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 1996-05
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "<p>This specification extends HTML to support a wide variety of tables.
+    This memo defines an Experimental Protocol for the Internet community.</p>"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: RFC2854
+    docid:
+    - id: RFC2854
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC2854
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '1942'
+keyword:
+- content: HTML-TBL
+- content: HyperText
+- content: Markup
+- content: Language
+- content: SGML
+editorialgroup:
+- name: html
+ext:
+  schema-version: v1.0.0
+  stream: IETF

@@ -1,0 +1,163 @@
+---
+schema-version: v1.2.3
+id: RFC2836
+title:
+- content: Per Hop Behavior Identification Codes
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc2836
+  type: src
+type: standard
+docid:
+- id: RFC 2836
+  type: IETF
+  primary: true
+- id: 10.17487/RFC2836
+  type: DOI
+docnumber: RFC2836
+date:
+- type: published
+  value: 2000-05
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: S
+        formatted_initials:
+          content: S.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Brim
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: S. Brim
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: B
+        formatted_initials:
+          content: B.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Carpenter
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: B. Carpenter
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: F
+        formatted_initials:
+          content: F.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Le Faucheur
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: F. Le Faucheur
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 2000-05
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "<p>This document defines a binary encoding to uniquely identify PHBs (Per
+    Hop Behaviors) and/or sets of PHBs in protocol messages. [STANDARDS-TRACK]</p>"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: RFC3140
+    docid:
+    - id: RFC3140
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC3140
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '2836'
+keyword:
+- content: PHB
+- content: differentiated
+- content: services
+- content: codepoint
+- content: DSCP
+editorialgroup:
+- name: diffserv
+ext:
+  schema-version: v1.0.0
+  stream: IETF

@@ -1,0 +1,135 @@
+---
+schema-version: v1.2.3
+id: RFC1407
+title:
+- content: Definitions of Managed Objects for the DS3/E3 Interface Type
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc1407
+  type: src
+type: standard
+docid:
+- id: RFC 1407
+  type: IETF
+  primary: true
+- id: 10.17487/RFC1407
+  type: DOI
+docnumber: RFC1407
+date:
+- type: published
+  value: 1993-01
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: T
+        formatted_initials:
+          content: T.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Cox
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: T. Cox
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: K
+        formatted_initials:
+          content: K.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Tesink
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: K. Tesink
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 1993-01
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "<p>This memo defines an extension to the Management Information Base (MIB)
+    for use with network management protocols in TCP/IP-based internets. In particular,
+    it defines objects for managing DS3 and E3 Interfaces. [STANDARDS-TRACK]</p>"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: RFC2496
+    docid:
+    - id: RFC2496
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC2496
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '1407'
+keyword:
+- content: DS3/E3-MIB
+- content: T3
+- content: MIB
+- content: Management
+- content: SNMP
+editorialgroup:
+- name: trunkmib
+ext:
+  schema-version: v1.0.0
+  stream: IETF

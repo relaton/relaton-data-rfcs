@@ -1,0 +1,165 @@
+---
+schema-version: v1.2.3
+id: RFC6506
+title:
+- content: Supporting Authentication Trailer for OSPFv3
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc6506
+  type: src
+type: standard
+docid:
+- id: RFC 6506
+  type: IETF
+  primary: true
+- id: 10.17487/RFC6506
+  type: DOI
+docnumber: RFC6506
+date:
+- type: published
+  value: 2012-02
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Bhatia
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: M. Bhatia
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: V
+        formatted_initials:
+          content: V.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Manral
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: V. Manral
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Lindem
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: A. Lindem
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 2012-02
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "<p>Currently, OSPF for IPv6 (OSPFv3) uses IPsec as the only mechanism
+    for authenticating protocol packets. This behavior is different from authentication
+    mechanisms present in other routing protocols (OSPFv2, Intermediate System to
+    Intermediate System (IS-IS), RIP, and Routing Information Protocol Next Generation
+    (RIPng)). In some environments, it has been found that IPsec is difficult to configure
+    and maintain and thus cannot be used. This document defines an alternative mechanism
+    to authenticate OSPFv3 protocol packets so that OSPFv3 does not only depend upon
+    IPsec for authentication. [STANDARDS-TRACK]</p>"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: RFC7166
+    docid:
+    - id: RFC7166
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC7166
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '6506'
+keyword:
+- content: Routing security
+editorialgroup:
+- name: ospf
+ext:
+  schema-version: v1.0.0
+  stream: IETF

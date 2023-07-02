@@ -1,0 +1,101 @@
+---
+schema-version: v1.2.3
+id: RFC1162
+title:
+- content: Connectionless Network Protocol (ISO 8473) and End System to Intermediate
+    System (ISO 9542) Management Information Base
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc1162
+  type: src
+type: standard
+docid:
+- id: RFC 1162
+  type: IETF
+  primary: true
+- id: 10.17487/RFC1162
+  type: DOI
+docnumber: RFC1162
+date:
+- type: published
+  value: 1990-06
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: G
+        formatted_initials:
+          content: G.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Satz
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: G. Satz
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 1990-06
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "<p>This memo defines an experimental portion of the Management Information
+    Base (MIB) for use with network management protocols in TCP/IP-based internets.
+    This memo does not specify a standard for the Internet community.</p>"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: RFC1238
+    docid:
+    - id: RFC1238
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC1238
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '1162'
+editorialgroup:
+- name: snmp
+ext:
+  schema-version: v1.0.0
+  stream: IETF

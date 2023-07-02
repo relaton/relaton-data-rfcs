@@ -1,0 +1,99 @@
+---
+schema-version: v1.2.3
+id: RFC1624
+title:
+- content: Computation of the Internet Checksum via Incremental Update
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc1624
+  type: src
+type: standard
+docid:
+- id: RFC 1624
+  type: IETF
+  primary: true
+- id: 10.17487/RFC1624
+  type: DOI
+docnumber: RFC1624
+date:
+- type: published
+  value: 1994-05
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Rijsinghani
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: A. Rijsinghani
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 1994-05
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "<p>This memo describes an updated technique for incremental computation
+    of the standard Internet checksum. It updates the method described in RFC 1141.
+    This memo provides information for the Internet community. This memo does not
+    specify an Internet standard of any kind.</p>"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: updates
+  bibitem:
+    id: RFC1141
+    docid:
+    - id: RFC1141
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC1141
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: Legacy
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '1624'
+ext:
+  schema-version: v1.0.0
+  stream: Legacy

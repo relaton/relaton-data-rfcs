@@ -1,0 +1,96 @@
+---
+schema-version: v1.2.3
+id: RFC1360
+title:
+- content: IAB Official Protocol Standards
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc1360
+  type: src
+type: standard
+docid:
+- id: RFC 1360
+  type: IETF
+  primary: true
+- id: 10.17487/RFC1360
+  type: DOI
+docnumber: RFC1360
+date:
+- type: published
+  value: 1992-09
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: J
+        formatted_initials:
+          content: J.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Postel
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: J. Postel
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 1992-09
+language:
+- en
+script:
+- Latn
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: RFC1410
+    docid:
+    - id: RFC1410
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC1410
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: Legacy
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '1360'
+keyword:
+- content: proposed
+- content: draft
+- content: experimental
+- content: informational
+- content: historic
+- content: full
+ext:
+  schema-version: v1.0.0
+  stream: Legacy

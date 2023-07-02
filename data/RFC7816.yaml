@@ -1,0 +1,100 @@
+---
+schema-version: v1.2.3
+id: RFC7816
+title:
+- content: DNS Query Name Minimisation to Improve Privacy
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc7816
+  type: src
+type: standard
+docid:
+- id: RFC 7816
+  type: IETF
+  primary: true
+- id: 10.17487/RFC7816
+  type: DOI
+docnumber: RFC7816
+date:
+- type: published
+  value: 2016-03
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: S
+        formatted_initials:
+          content: S.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Bortzmeyer
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: S. Bortzmeyer
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 2016-03
+language:
+- en
+script:
+- Latn
+abstract:
+- content: <p>This document describes a technique to improve DNS privacy, a technique
+    called "QNAME minimisation", where the DNS resolver no longer sends the full original
+    QNAME to the upstream name server.</p>
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: RFC9156
+    docid:
+    - id: RFC9156
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC9156
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '7816'
+editorialgroup:
+- name: dnsop
+ext:
+  schema-version: v1.0.0
+  stream: IETF

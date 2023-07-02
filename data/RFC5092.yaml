@@ -1,0 +1,141 @@
+---
+schema-version: v1.2.3
+id: RFC5092
+title:
+- content: IMAP URL Scheme
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc5092
+  type: src
+type: standard
+docid:
+- id: RFC 5092
+  type: IETF
+  primary: true
+- id: 10.17487/RFC5092
+  type: DOI
+docnumber: RFC5092
+date:
+- type: published
+  value: 2007-11
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Melnikov
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: A. Melnikov
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: C
+        formatted_initials:
+          content: C.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Newman
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: C. Newman
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 2007-11
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "<p>IMAP (RFC 3501) is a rich protocol for accessing remote message stores.
+    It provides an ideal mechanism for accessing public mailing list archives as well
+    as private and shared message stores. This document defines a URL scheme for referencing
+    objects on an IMAP server.</p><p>This document obsoletes RFC 2192. It also updates
+    RFC 4467. [STANDARDS-TRACK]</p>"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: updates
+  bibitem:
+    id: RFC4467
+    docid:
+    - id: RFC4467
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC4467
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '5092'
+keyword:
+- content: IMAP-URL
+- content: remote access store
+- content: Internet
+- content: Message
+- content: Access
+- content: Protocol
+- content: Uniform
+- content: Resource
+- content: Identifiers
+editorialgroup:
+- name: lemonade
+ext:
+  schema-version: v1.0.0
+  stream: IETF

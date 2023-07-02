@@ -1,0 +1,135 @@
+---
+schema-version: v1.2.3
+id: RFC2032
+title:
+- content: RTP Payload Format for H.261 Video Streams
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc2032
+  type: src
+type: standard
+docid:
+- id: RFC 2032
+  type: IETF
+  primary: true
+- id: 10.17487/RFC2032
+  type: DOI
+docnumber: RFC2032
+date:
+- type: published
+  value: 1996-10
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: T
+        formatted_initials:
+          content: T.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Turletti
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: T. Turletti
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: C
+        formatted_initials:
+          content: C.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Huitema
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: C. Huitema
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 1996-10
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "<p>This memo describes a scheme to packetize an H.261 video stream for
+    transport using the Real-time Transport Protocol, RTP, with any of the underlying
+    protocols that carry RTP. [STANDARDS-TRACK]</p>"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: RFC4587
+    docid:
+    - id: RFC4587
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC4587
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '2032'
+keyword:
+- content: RTP-H.261
+- content: Real
+- content: Time
+- content: Transport
+- content: Protocol
+editorialgroup:
+- name: avt
+ext:
+  schema-version: v1.0.0
+  stream: IETF

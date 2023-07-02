@@ -1,0 +1,107 @@
+---
+schema-version: v1.2.3
+id: RFC5554
+title:
+- content: Clarifications and Extensions to the Generic Security Service Application
+    Program Interface (GSS-API) for the Use of Channel Bindings
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc5554
+  type: src
+type: standard
+docid:
+- id: RFC 5554
+  type: IETF
+  primary: true
+- id: 10.17487/RFC5554
+  type: DOI
+docnumber: RFC5554
+date:
+- type: published
+  value: 2009-05
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: N
+        formatted_initials:
+          content: N.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Williams
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: N. Williams
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 2009-05
+language:
+- en
+script:
+- Latn
+abstract:
+- content: <p>This document clarifies and generalizes the Generic Security Service
+    Application Programming Interface (GSS-API) "channel bindings" facility, and imposes
+    requirements on future GSS-API mechanisms and programming language bindings of
+    the GSS-API. [STANDARDS-TRACK]</p>
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: updates
+  bibitem:
+    id: RFC2743
+    docid:
+    - id: RFC2743
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC2743
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '5554'
+keyword:
+- content: GSS
+- content: GSS-API
+- content: channel binding
+- content: and C-bindings
+editorialgroup:
+- name: kitten
+ext:
+  schema-version: v1.0.0
+  stream: IETF

@@ -1,0 +1,111 @@
+---
+schema-version: v1.2.3
+id: RFC7346
+title:
+- content: IPv6 Multicast Address Scopes
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc7346
+  type: src
+type: standard
+docid:
+- id: RFC 7346
+  type: IETF
+  primary: true
+- id: 10.17487/RFC7346
+  type: DOI
+docnumber: RFC7346
+date:
+- type: published
+  value: 2014-08
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: R
+        formatted_initials:
+          content: R.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Droms
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: R. Droms
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 2014-08
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "<p>This document updates the definitions of IPv6 multicast scopes and
+    therefore updates RFCs 4007 and 4291.</p>"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: updates
+  bibitem:
+    id: RFC4007
+    docid:
+    - id: RFC4007
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC4007
+      format: text/plain
+- type: updates
+  bibitem:
+    id: RFC4291
+    docid:
+    - id: RFC4291
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC4291
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '7346'
+keyword:
+- content: IPv6 multicast address scopes
+editorialgroup:
+- name: 6man
+ext:
+  schema-version: v1.0.0
+  stream: IETF

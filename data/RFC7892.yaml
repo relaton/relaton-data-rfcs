@@ -1,0 +1,188 @@
+---
+schema-version: v1.2.3
+id: RFC7892
+title:
+- content: IANA Allocation Procedures for the GMPLS OTN Signal Type Registry
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc7892
+  type: src
+type: standard
+docid:
+- id: RFC 7892
+  type: IETF
+  primary: true
+- id: 10.17487/RFC7892
+  type: DOI
+docnumber: RFC7892
+date:
+- type: published
+  value: 2016-05
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: Z
+        formatted_initials:
+          content: Z.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Ali
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: Z. Ali
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Bonfanti
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: A. Bonfanti
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Hartley
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: M. Hartley
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: F
+        formatted_initials:
+          content: F.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Zhang
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: F. Zhang
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 2016-05
+language:
+- en
+script:
+- Latn
+abstract:
+- content: <p>IANA defined the "OTN Signal Type" subregistry of the "Generalized Multi-Protocol
+    Label Switching (GMPLS) Signaling Parameters" registry in RFC 7139. This document
+    updates the "OTN Signal Type" subregistry to allow registration via Specification
+    Required.</p>
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: updates
+  bibitem:
+    id: RFC7139
+    docid:
+    - id: RFC7139
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC7139
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '7892'
+editorialgroup:
+- name: ccamp
+ext:
+  schema-version: v1.0.0
+  stream: IETF

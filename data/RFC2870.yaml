@@ -1,0 +1,191 @@
+---
+schema-version: v1.2.3
+id: RFC2870
+title:
+- content: Root Name Server Operational Requirements
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc2870
+  type: src
+type: standard
+docid:
+- id: RFC 2870
+  type: IETF
+  primary: true
+- id: 10.17487/RFC2870
+  type: DOI
+docnumber: RFC2870
+date:
+- type: published
+  value: 2000-06
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: R
+        formatted_initials:
+          content: R.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Bush
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: R. Bush
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: D
+        formatted_initials:
+          content: D.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Karrenberg
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: D. Karrenberg
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Kosters
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: M. Kosters
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: R
+        formatted_initials:
+          content: R.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Plzak
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: R. Plzak
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 2000-06
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "<p>The primary focus of this document is to provide guidelines for operation
+    of the root name servers. This document specifies an Internet Best Current Practices
+    for the Internet Community, and requests discussion and suggestions for improvements.</p>"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: RFC7720
+    docid:
+    - id: RFC7720
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC7720
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '2870'
+keyword:
+- content: infrastructure
+- content: domain names
+- content: security
+editorialgroup:
+- name: dnsop
+ext:
+  schema-version: v1.0.0
+  stream: IETF

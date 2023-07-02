@@ -1,0 +1,197 @@
+---
+schema-version: v1.2.3
+id: RFC2035
+title:
+- content: RTP Payload Format for JPEG-compressed Video
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc2035
+  type: src
+type: standard
+docid:
+- id: RFC 2035
+  type: IETF
+  primary: true
+- id: 10.17487/RFC2035
+  type: DOI
+docnumber: RFC2035
+date:
+- type: published
+  value: 1996-10
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: L
+        formatted_initials:
+          content: L.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Berc
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: L. Berc
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: W
+        formatted_initials:
+          content: W.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Fenner
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: W. Fenner
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: R
+        formatted_initials:
+          content: R.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Frederick
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: R. Frederick
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: S
+        formatted_initials:
+          content: S.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: McCanne
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: S. McCanne
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 1996-10
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "<p>This memo describes the RTP payload format for JPEG video streams.
+    The packet format is optimized for real-time video streams where codec parameters
+    change rarely from frame to frame. [STANDARDS-TRACK]</p>"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: RFC2435
+    docid:
+    - id: RFC2435
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC2435
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '2035'
+keyword:
+- content: RTP-JPEG
+- content: Real
+- content: Time
+- content: Transport
+- content: Protocol
+- content: Joint
+- content: Photographic
+- content: Experts
+- content: Group
+editorialgroup:
+- name: avt
+ext:
+  schema-version: v1.0.0
+  stream: IETF

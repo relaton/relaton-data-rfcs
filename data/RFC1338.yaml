@@ -1,0 +1,190 @@
+---
+schema-version: v1.2.3
+id: RFC1338
+title:
+- content: 'Supernetting: an Address Assignment and Aggregation Strategy'
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc1338
+  type: src
+type: standard
+docid:
+- id: RFC 1338
+  type: IETF
+  primary: true
+- id: 10.17487/RFC1338
+  type: DOI
+docnumber: RFC1338
+date:
+- type: published
+  value: 1992-06
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: V
+        formatted_initials:
+          content: V.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Fuller
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: V. Fuller
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: T
+        formatted_initials:
+          content: T.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Li
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: T. Li
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: J
+        formatted_initials:
+          content: J.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Yu
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: J. Yu
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: K
+        formatted_initials:
+          content: K.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Varadhan
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: K. Varadhan
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 1992-06
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "<p>This memo discusses strategies for address assignment of the existing
+    IP address space with a view to conserve the address space and stem the explosive
+    growth of routing tables in default-route-free routers run by transit routing
+    domain providers. This memo provides information for the Internet community. It
+    does not specify an Internet standard.</p>"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: RFC1519
+    docid:
+    - id: RFC1519
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC1519
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: Legacy
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '1338'
+keyword:
+- content: internet address
+- content: routing
+ext:
+  schema-version: v1.0.0
+  stream: Legacy

@@ -1,0 +1,203 @@
+---
+schema-version: v1.2.3
+id: RFC3267
+title:
+- content: Real-Time Transport Protocol (RTP) Payload Format and File Storage Format
+    for the Adaptive Multi-Rate (AMR) and Adaptive Multi-Rate Wideband (AMR-WB) Audio
+    Codecs
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc3267
+  type: src
+type: standard
+docid:
+- id: RFC 3267
+  type: IETF
+  primary: true
+- id: 10.17487/RFC3267
+  type: DOI
+docnumber: RFC3267
+date:
+- type: published
+  value: 2002-06
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: J
+        formatted_initials:
+          content: J.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Sjoberg
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: J. Sjoberg
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Westerlund
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: M. Westerlund
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: A.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Lakaniemi
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: A. Lakaniemi
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: Q
+        formatted_initials:
+          content: Q.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Xie
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: Q. Xie
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 2002-06
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "<p>This document specifies a real-time transport protocol (RTP) payload
+    format to be used for Adaptive Multi-Rate (AMR) and Adaptive Multi-Rate Wideband
+    (AMR-WB) encoded speech signals. The payload format is designed to be able to
+    interoperate with existing AMR and AMR-WB transport formats on non-IP networks.
+    In addition, a file format is specified for transport of AMR and AMR-WB speech
+    data in storage mode applications such as email. Two separate MIME type registrations
+    are included, one for AMR and one for AMR-WB, specifying use of both the RTP payload
+    format and the storage format. [STANDARDS-TRACK]</p>"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: RFC4867
+    docid:
+    - id: RFC4867
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC4867
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '3267'
+keyword:
+- content: RTP
+- content: Real-Time Transport Protocol
+- content: Adaptive Multi-Rate
+- content: AMR
+- content: Adaptive Multi-Rate Wideband
+- content: AMR-WB
+- content: " interoperate"
+- content: applications
+editorialgroup:
+- name: avt
+ext:
+  schema-version: v1.0.0
+  stream: IETF

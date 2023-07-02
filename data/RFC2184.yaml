@@ -1,0 +1,161 @@
+---
+schema-version: v1.2.3
+id: RFC2184
+title:
+- content: 'MIME Parameter Value and Encoded Word Extensions: Character Sets, Languages,
+    and Continuations'
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc2184
+  type: src
+type: standard
+docid:
+- id: RFC 2184
+  type: IETF
+  primary: true
+- id: 10.17487/RFC2184
+  type: DOI
+docnumber: RFC2184
+date:
+- type: published
+  value: 1997-08
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: N
+        formatted_initials:
+          content: N.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Freed
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: N. Freed
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: K
+        formatted_initials:
+          content: K.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Moore
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: K. Moore
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 1997-08
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "<p>This memo defines extensions to the RFC 2045 media type and RFC 2183
+    disposition parameter value mechanisms. [STANDARDS-TRACK]</p>"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: RFC2231
+    docid:
+    - id: RFC2231
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC2231
+      format: text/plain
+- type: updates
+  bibitem:
+    id: RFC2045
+    docid:
+    - id: RFC2045
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC2045
+      format: text/plain
+- type: updates
+  bibitem:
+    id: RFC2047
+    docid:
+    - id: RFC2047
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC2047
+      format: text/plain
+- type: updates
+  bibitem:
+    id: RFC2183
+    docid:
+    - id: RFC2183
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC2183
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: Legacy
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '2184'
+keyword:
+- content: mail
+- content: Multimedia
+- content: EMail
+ext:
+  schema-version: v1.0.0
+  stream: Legacy

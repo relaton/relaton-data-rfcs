@@ -1,0 +1,133 @@
+---
+schema-version: v1.2.3
+id: RFC8813
+title:
+- content: Clarifications for Elliptic Curve Cryptography Subject Public Key Information
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc8813
+  type: src
+type: standard
+docid:
+- id: RFC 8813
+  type: IETF
+  primary: true
+- id: 10.17487/RFC8813
+  type: DOI
+docnumber: RFC8813
+date:
+- type: published
+  value: 2020-08
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: T
+        formatted_initials:
+          content: T.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Ito
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: T. Ito
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: S
+        formatted_initials:
+          content: S.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Turner
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: S. Turner
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 2020-08
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "<p>This document updates RFC 5480 to specify semantics for the keyEncipherment
+    and dataEncipherment key usage bits when used in certificates that support Elliptic
+    Curve Cryptography.</p>"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: updates
+  bibitem:
+    id: RFC5480
+    docid:
+    - id: RFC5480
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC5480
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '8813'
+keyword:
+- content: PKIX
+- content: X.509
+- content: ECC
+editorialgroup:
+- name: lamps
+ext:
+  schema-version: v1.0.0
+  stream: IETF

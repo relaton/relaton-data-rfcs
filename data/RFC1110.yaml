@@ -1,0 +1,101 @@
+---
+schema-version: v1.2.3
+id: RFC1110
+title:
+- content: Problem with the TCP big window option
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc1110
+  type: src
+type: standard
+docid:
+- id: RFC 1110
+  type: IETF
+  primary: true
+- id: 10.17487/RFC1110
+  type: DOI
+docnumber: RFC1110
+date:
+- type: published
+  value: 1989-08
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: A
+        - language:
+          - en
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: A.M.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: McKenzie
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: A.M. McKenzie
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 1989-08
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "<p>This memo comments on the TCP Big Window option described in RFC 1106.</p>"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: RFC6247
+    docid:
+    - id: RFC6247
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC6247
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: Legacy
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '1110'
+ext:
+  schema-version: v1.0.0
+  stream: Legacy

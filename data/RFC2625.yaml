@@ -1,0 +1,163 @@
+---
+schema-version: v1.2.3
+id: RFC2625
+title:
+- content: IP and ARP over Fibre Channel
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc2625
+  type: src
+type: standard
+docid:
+- id: RFC 2625
+  type: IETF
+  primary: true
+- id: 10.17487/RFC2625
+  type: DOI
+docnumber: RFC2625
+date:
+- type: published
+  value: 1999-06
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Rajagopal
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: M. Rajagopal
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: R
+        formatted_initials:
+          content: R.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Bhagwat
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: R. Bhagwat
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: W
+        formatted_initials:
+          content: W.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Rickard
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: W. Rickard
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 1999-06
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "<p>The purpose of this document is to specify a way of encapsulating IP
+    and Address Resolution Protocol(ARP) over Fibre Channel and also to describe a
+    mechanism(s) for IP address resolution. [STANDARDS-TRACK]</p>"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: RFC4338
+    docid:
+    - id: RFC4338
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC4338
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '2625'
+keyword:
+- content: IP
+- content: internet protocol
+- content: ARP
+- content: address resolution protocol
+editorialgroup:
+- name: ipfc
+ext:
+  schema-version: v1.0.0
+  stream: IETF

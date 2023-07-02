@@ -1,0 +1,246 @@
+---
+schema-version: v1.2.3
+id: RFC4366
+title:
+- content: Transport Layer Security (TLS) Extensions
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc4366
+  type: src
+type: standard
+docid:
+- id: RFC 4366
+  type: IETF
+  primary: true
+- id: 10.17487/RFC4366
+  type: DOI
+docnumber: RFC4366
+date:
+- type: published
+  value: 2006-04
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: S
+        formatted_initials:
+          content: S.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Blake-Wilson
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: S. Blake-Wilson
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Nystrom
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: M. Nystrom
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: D
+        formatted_initials:
+          content: D.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Hopwood
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: D. Hopwood
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: J
+        formatted_initials:
+          content: J.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Mikkelsen
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: J. Mikkelsen
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: T
+        formatted_initials:
+          content: T.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Wright
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: T. Wright
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 2006-04
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "<p>This document describes extensions that may be used to add functionality
+    to Transport Layer Security (TLS). It provides both generic extension mechanisms
+    for the TLS handshake client and server hellos, and specific extensions using
+    these generic mechanisms.</p><p>The extensions may be used by TLS clients and
+    servers. The extensions are backwards compatible: communication is possible between
+    TLS clients that support the extensions and TLS servers that do not support the
+    extensions, and vice versa. [STANDARDS-TRACK]</p>"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: RFC5246
+    docid:
+    - id: RFC5246
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC5246
+      format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: RFC6066
+    docid:
+    - id: RFC6066
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC6066
+      format: text/plain
+- type: updates
+  bibitem:
+    id: RFC4346
+    docid:
+    - id: RFC4346
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC4346
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '4366'
+keyword:
+- content: transport
+- content: protocol
+- content: layer
+- content: authentication
+- content: privacy
+editorialgroup:
+- name: tls
+ext:
+  schema-version: v1.0.0
+  stream: IETF

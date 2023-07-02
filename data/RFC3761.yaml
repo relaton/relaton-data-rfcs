@@ -1,0 +1,152 @@
+---
+schema-version: v1.2.3
+id: RFC3761
+title:
+- content: The E.164 to Uniform Resource Identifiers (URI) Dynamic Delegation Discovery
+    System (DDDS) Application (ENUM)
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc3761
+  type: src
+type: standard
+docid:
+- id: RFC 3761
+  type: IETF
+  primary: true
+- id: 10.17487/RFC3761
+  type: DOI
+docnumber: RFC3761
+date:
+- type: published
+  value: 2004-04
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: P
+        formatted_initials:
+          content: P.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Faltstrom
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: P. Faltstrom
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Mealling
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: M. Mealling
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 2004-04
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "<p>This document discusses the use of the Domain Name System (DNS) for
+    storage of E.164 numbers. More specifically, how DNS can be used for identifying
+    available services connected to one E.164 number. It specifically obsoletes RFC
+    2916 to bring it in line with the Dynamic Delegation Discovery System (DDDS) Application
+    specification found in the document series specified in RFC 3401. It is very important
+    to note that it is impossible to read and understand this document without reading
+    the documents discussed in RFC 3401. [STANDARDS-TRACK]</p>"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: RFC6116
+    docid:
+    - id: RFC6116
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC6116
+      format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: RFC6117
+    docid:
+    - id: RFC6117
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC6117
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: IETF
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '3761'
+keyword:
+- content: E.164
+- content: URI
+- content: Uniform Resource Identifier
+- content: DDDS
+- content: Dynamic Delegation Discovery System
+- content: DNS
+- content: domain name system
+editorialgroup:
+- name: enum
+ext:
+  schema-version: v1.0.0
+  stream: IETF

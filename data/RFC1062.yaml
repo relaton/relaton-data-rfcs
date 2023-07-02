@@ -1,0 +1,170 @@
+---
+schema-version: v1.2.3
+id: RFC1062
+title:
+- content: Internet numbers
+  format: text/plain
+  type: main
+link:
+- content: https://www.rfc-editor.org/info/rfc1062
+  type: src
+type: standard
+docid:
+- id: RFC 1062
+  type: IETF
+  primary: true
+- id: 10.17487/RFC1062
+  type: DOI
+docnumber: RFC1062
+date:
+- type: published
+  value: 1988-08
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: S
+        formatted_initials:
+          content: S.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Romano
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: S. Romano
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: M
+        - language:
+          - en
+          script:
+          - Latn
+          initial: K
+        formatted_initials:
+          content: M.K.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Stahl
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: M.K. Stahl
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: M
+        formatted_initials:
+          content: M.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Recker
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: M. Recker
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: RFC Publisher
+  role:
+  - type: publisher
+- organization:
+    name:
+    - content: RFC Series
+  role:
+  - type: authorizer
+revdate: 1988-08
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "<p>This memo is an official status report on the network numbers and gateway
+    autonomous system numbers used in the Internet community.</p>"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/html
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: RFC1117
+    docid:
+    - id: RFC1117
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC1117
+      format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: RFC1166
+    docid:
+    - id: RFC1166
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC1166
+      format: text/plain
+series:
+- type: stream
+  title:
+    content: Legacy
+    format: text/plain
+- title:
+    content: RFC
+    format: text/plain
+  number: '1062'
+ext:
+  schema-version: v1.0.0
+  stream: Legacy
