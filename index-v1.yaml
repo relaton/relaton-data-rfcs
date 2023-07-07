@@ -18427,7 +18427,11 @@
   :file: data/RFC9412.yaml
 - :id: RFC 9413
   :file: data/RFC9413.yaml
+- :id: RFC 9419
+  :file: data/RFC9419.yaml
 - :id: RFC 9425
   :file: data/RFC9425.yaml
 - :id: RFC 9427
   :file: data/RFC9427.yaml
+- :id: RFC 9432
+  :file: data/RFC9432.yaml
