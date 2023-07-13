@@ -18443,3 +18443,5 @@
   :file: data/RFC9431.yaml
 - :id: RFC 9432
   :file: data/RFC9432.yaml
+- :id: RFC 9443
+  :file: data/RFC9443.yaml
