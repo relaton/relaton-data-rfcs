@@ -18437,6 +18437,8 @@
   :file: data/RFC9418.yaml
 - :id: RFC 9419
   :file: data/RFC9419.yaml
+- :id: RFC 9420
+  :file: data/RFC9420.yaml
 - :id: RFC 9425
   :file: data/RFC9425.yaml
 - :id: RFC 9427
@@ -18447,5 +18449,7 @@
   :file: data/RFC9431.yaml
 - :id: RFC 9432
   :file: data/RFC9432.yaml
+- :id: RFC 9434
+  :file: data/RFC9434.yaml
 - :id: RFC 9443
   :file: data/RFC9443.yaml
