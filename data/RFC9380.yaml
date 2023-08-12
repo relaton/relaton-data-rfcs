@@ -1,24 +1,24 @@
 ---
 schema-version: v1.2.3
-id: RFC8312
+id: RFC9380
 title:
-- content: CUBIC for Fast Long-Distance Networks
+- content: Hashing to Elliptic Curves
   format: text/plain
   type: main
 link:
-- content: https://www.rfc-editor.org/info/rfc8312
+- content: https://www.rfc-editor.org/info/rfc9380
   type: src
 type: standard
 docid:
-- id: RFC 8312
+- id: RFC 9380
   type: IETF
   primary: true
-- id: 10.17487/RFC8312
+- id: 10.17487/RFC9380
   type: DOI
-docnumber: RFC8312
+docnumber: RFC9380
 date:
 - type: published
-  value: 2018-02
+  value: 2023-08
 contributor:
 - person:
     name:
@@ -28,50 +28,21 @@ contributor:
           - en
           script:
           - Latn
-          initial: I
+          initial: A
         formatted_initials:
-          content: I.
+          content: A.
           language:
           - en
           script:
           - Latn
       surname:
-        content: Rhee
+        content: Faz-Hernandez
         language:
         - en
         script:
         - Latn
       completename:
-        content: I. Rhee
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: author
-- person:
-    name:
-      given:
-        forename:
-        - language:
-          - en
-          script:
-          - Latn
-          initial: L
-        formatted_initials:
-          content: L.
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Xu
-        language:
-        - en
-        script:
-        - Latn
-      completename:
-        content: L. Xu
+        content: A. Faz-Hernandez
         language:
         - en
         script:
@@ -94,13 +65,13 @@ contributor:
           script:
           - Latn
       surname:
-        content: Ha
+        content: Scott
         language:
         - en
         script:
         - Latn
       completename:
-        content: S. Ha
+        content: S. Scott
         language:
         - en
         script:
@@ -115,50 +86,21 @@ contributor:
           - en
           script:
           - Latn
-          initial: A
+          initial: N
         formatted_initials:
-          content: A.
+          content: N.
           language:
           - en
           script:
           - Latn
       surname:
-        content: Zimmermann
+        content: Sullivan
         language:
         - en
         script:
         - Latn
       completename:
-        content: A. Zimmermann
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: author
-- person:
-    name:
-      given:
-        forename:
-        - language:
-          - en
-          script:
-          - Latn
-          initial: L
-        formatted_initials:
-          content: L.
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Eggert
-        language:
-        - en
-        script:
-        - Latn
-      completename:
-        content: L. Eggert
+        content: N. Sullivan
         language:
         - en
         script:
@@ -174,20 +116,59 @@ contributor:
           script:
           - Latn
           initial: R
+        - language:
+          - en
+          script:
+          - Latn
+          initial: S
         formatted_initials:
-          content: R.
+          content: R. S.
           language:
           - en
           script:
           - Latn
       surname:
-        content: Scheffenegger
+        content: Wahby
         language:
         - en
         script:
         - Latn
       completename:
-        content: R. Scheffenegger
+        content: R. S. Wahby
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: C
+        - language:
+          - en
+          script:
+          - Latn
+          initial: A
+        formatted_initials:
+          content: C. A.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Wood
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: C. A. Wood
         language:
         - en
         script:
@@ -204,47 +185,29 @@ contributor:
     - content: RFC Series
   role:
   - type: authorizer
-revdate: 2018-02
+revdate: 2023-08
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "<p>CUBIC is an extension to the current TCP standards. It differs from
-    the current TCP standards only in the congestion control algorithm on the sender
-    side. In particular, it uses a cubic function instead of a linear window increase
-    function of the current TCP standards to improve scalability and stability under
-    fast and long-distance networks. CUBIC and its predecessor algorithm have been
-    adopted as defaults by Linux and have been used for many years. This document
-    provides a specification of CUBIC to enable third-party implementations and to
-    solicit community feedback through experimentation on the performance of CUBIC.</p>"
+- content: "<p>This document specifies a number of algorithms for encoding or hashing
+    an arbitrary string to a point on an elliptic curve. This document is a product
+    of the Crypto Forum Research Group (CFRG) in the IRTF.</p>"
   language:
   - en
   script:
   - Latn
   format: text/html
-relation:
-- type: obsoletedBy
-  bibitem:
-    id: RFC9438
-    docid:
-    - id: RFC9438
-      type: IETF
-      primary: true
-    formattedref:
-      content: RFC9438
-      format: text/plain
 series:
 - title:
     content: RFC
     format: text/plain
-  number: '8312'
+  number: '9380'
 - type: stream
   title:
-    content: IETF
+    content: IRTF
     format: text/plain
-editorialgroup:
-- name: tcpm
 ext:
   schema-version: v1.0.1
-  stream: IETF
+  stream: IRTF
