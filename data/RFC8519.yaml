@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: RFC8519
 title:
 - content: YANG Data Model for Network Access Control Lists (ACLs)

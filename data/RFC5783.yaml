@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: RFC5783
 title:
 - content: Congestion Control in the RFC Series

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: RFC1238
 title:
 - content: CLNS MIB for use with Connectionless Network Protocol (ISO 8473) and End

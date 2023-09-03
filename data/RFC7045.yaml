@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: RFC7045
 title:
 - content: Transmission and Processing of IPv6 Extension Headers

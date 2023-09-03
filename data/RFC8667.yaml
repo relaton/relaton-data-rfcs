@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: RFC8667
 title:
 - content: IS-IS Extensions for Segment Routing

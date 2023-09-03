@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: RFC8369
 title:
 - content: Internationalizing IPv6 Using 128-Bit Unicode

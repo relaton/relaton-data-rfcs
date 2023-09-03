@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: RFC1029
 title:
 - content: More fault tolerant approach to address resolution for a Multi-LAN system

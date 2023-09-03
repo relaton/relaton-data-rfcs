@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: RFC3658
 title:
 - content: Delegation Signer (DS) Resource Record (RR)

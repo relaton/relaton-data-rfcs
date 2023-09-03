@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: RFC1276
 title:
 - content: Replication and Distributed Operations extensions to provide an Internet

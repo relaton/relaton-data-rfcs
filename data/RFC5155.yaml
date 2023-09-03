@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: RFC5155
 title:
 - content: DNS Security (DNSSEC) Hashed Authenticated Denial of Existence

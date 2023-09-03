@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: RFC5595
 title:
 - content: The Datagram Congestion Control Protocol (DCCP) Service Codes

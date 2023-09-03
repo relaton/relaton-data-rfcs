@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: RFC7938
 title:
 - content: Use of BGP for Routing in Large-Scale Data Centers

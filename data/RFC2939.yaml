@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: RFC2939
 title:
 - content: Procedures and IANA Guidelines for Definition of New DHCP Options and Message

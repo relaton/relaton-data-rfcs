@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: RFC7061
 title:
 - content: eXtensible Access Control Markup Language (XACML) XML Media Type

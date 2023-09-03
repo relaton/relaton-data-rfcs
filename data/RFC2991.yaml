@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: RFC2991
 title:
 - content: Multipath Issues in Unicast and Multicast Next-Hop Selection

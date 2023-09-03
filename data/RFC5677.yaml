@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: RFC5677
 title:
 - content: IEEE 802.21 Mobility Services Framework Design (MSFD)

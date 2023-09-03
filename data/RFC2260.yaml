@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: RFC2260
 title:
 - content: Scalable Support for Multi-homed Multi-provider Connectivity

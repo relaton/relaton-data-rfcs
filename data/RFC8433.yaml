@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: RFC8433
 title:
 - content: A Simpler Method for Resolving Alert-Info URNs

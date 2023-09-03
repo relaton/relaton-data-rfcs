@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: RFC6521
 title:
 - content: Home Agent-Assisted Route Optimization between Mobile IPv4 Networks

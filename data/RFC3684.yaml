@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: RFC3684
 title:
 - content: Topology Dissemination Based on Reverse-Path Forwarding (TBRPF)

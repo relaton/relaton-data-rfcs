@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: RFC6426
 title:
 - content: MPLS On-Demand Connectivity Verification and Route Tracing

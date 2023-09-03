@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: RFC6164
 title:
 - content: Using 127-Bit IPv6 Prefixes on Inter-Router Links

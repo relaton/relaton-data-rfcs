@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: RFC6007
 title:
 - content: Use of the Synchronization VECtor (SVEC) List for Synchronized Dependent

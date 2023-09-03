@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: RFC5523
 title:
 - content: OSPFv3-Based Layer 1 VPN Auto-Discovery

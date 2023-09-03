@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: RFC4659
 title:
 - content: BGP-MPLS IP Virtual Private Network (VPN) Extension for IPv6 VPN

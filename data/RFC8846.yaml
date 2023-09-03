@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: RFC8846
 title:
 - content: An XML Schema for the Controlling Multiple Streams for Telepresence (CLUE)

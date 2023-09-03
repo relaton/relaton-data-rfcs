@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: RFC2274
 title:
 - content: User-based Security Model (USM) for version 3 of the Simple Network Management

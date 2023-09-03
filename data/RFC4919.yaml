@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: RFC4919
 title:
 - content: 'IPv6 over Low-Power Wireless Personal Area Networks (6LoWPANs): Overview,

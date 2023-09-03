@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: RFC8517
 title:
 - content: 'An Inventory of Transport-Centric Functions Provided by Middleboxes: An

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: RFC2681
 title:
 - content: A Round-trip Delay Metric for IPPM

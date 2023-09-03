@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: RFC1513
 title:
 - content: Token Ring Extensions to the Remote Network Monitoring MIB

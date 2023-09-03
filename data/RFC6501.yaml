@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: RFC6501
 title:
 - content: Conference Information Data Model for Centralized Conferencing (XCON)

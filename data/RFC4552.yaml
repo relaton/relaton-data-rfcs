@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: RFC4552
 title:
 - content: Authentication/Confidentiality for OSPFv3

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: RFC8328
 title:
 - content: Policy-Based Management Framework for the Simplified Use of Policy Abstractions

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: RFC1056
 title:
 - content: 'PCMAIL: A distributed mail system for personal computers'

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: RFC9247
 title:
 - content: BGP - Link State (BGP-LS) Extensions for Seamless Bidirectional Forwarding

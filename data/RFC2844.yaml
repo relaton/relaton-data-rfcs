@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: RFC2844
 title:
 - content: OSPF over ATM and Proxy-PAR

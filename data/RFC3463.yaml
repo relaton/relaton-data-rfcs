@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: RFC3463
 title:
 - content: Enhanced Mail System Status Codes

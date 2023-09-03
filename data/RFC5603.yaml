@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: RFC5603
 title:
 - content: Ethernet Pseudowire (PW) Management Information Base (MIB)

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: RFC3993
 title:
 - content: Subscriber-ID Suboption for the Dynamic Host Configuration Protocol (DHCP)

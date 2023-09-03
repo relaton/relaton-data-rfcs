@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: RFC966
 title:
 - content: 'Host groups: A multicast extension to the Internet Protocol'

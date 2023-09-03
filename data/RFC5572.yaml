@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: RFC5572
 title:
 - content: IPv6 Tunnel Broker with the Tunnel Setup Protocol (TSP)

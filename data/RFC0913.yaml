@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: RFC913
 title:
 - content: Simple File Transfer Protocol

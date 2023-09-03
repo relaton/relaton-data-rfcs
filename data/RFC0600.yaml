@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: RFC600
 title:
 - content: Interfacing an Illinois plasma terminal to the ARPANET

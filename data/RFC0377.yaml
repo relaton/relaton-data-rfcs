@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: RFC377
 title:
 - content: Using TSO via ARPA Network Virtual Terminal

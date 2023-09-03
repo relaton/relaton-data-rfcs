@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: RFC5194
 title:
 - content: Framework for Real-Time Text over IP Using the Session Initiation Protocol

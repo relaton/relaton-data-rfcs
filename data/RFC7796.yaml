@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: RFC7796
 title:
 - content: Ethernet-Tree (E-Tree) Support in Virtual Private LAN Service (VPLS)

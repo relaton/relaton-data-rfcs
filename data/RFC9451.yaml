@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: RFC9451
 title:
 - content: Operations, Administration, and Maintenance (OAM) Packet and Behavior in

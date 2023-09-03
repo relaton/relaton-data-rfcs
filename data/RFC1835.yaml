@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: RFC1835
 title:
 - content: Architecture of the WHOIS++ service

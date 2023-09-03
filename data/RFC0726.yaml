@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: RFC726
 title:
 - content: Remote Controlled Transmission and Echoing Telnet option

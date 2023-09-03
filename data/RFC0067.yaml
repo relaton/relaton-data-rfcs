@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: RFC67
 title:
 - content: Proposed Change to Host/IMP Spec to Eliminate Marking

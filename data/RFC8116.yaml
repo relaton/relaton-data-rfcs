@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: RFC8116
 title:
 - content: Security Threats to the Optimized Link State Routing Protocol Version 2

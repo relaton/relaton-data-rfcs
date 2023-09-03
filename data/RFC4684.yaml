@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: RFC4684
 title:
 - content: Constrained Route Distribution for Border Gateway Protocol/MultiProtocol

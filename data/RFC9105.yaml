@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: RFC9105
 title:
 - content: A YANG Data Model for Terminal Access Controller Access-Control System

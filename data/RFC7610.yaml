@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: RFC7610
 title:
 - content: 'DHCPv6-Shield: Protecting against Rogue DHCPv6 Servers'

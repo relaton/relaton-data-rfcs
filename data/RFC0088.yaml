@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: RFC88
 title:
 - content: 'NETRJS: A third level protocol for Remote Job Entry'

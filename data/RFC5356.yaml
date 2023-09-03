@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: RFC5356
 title:
 - content: Reliable Server Pooling Policies

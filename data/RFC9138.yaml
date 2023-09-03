@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: RFC9138
 title:
 - content: Design Considerations for Name Resolution Service in Information-Centric

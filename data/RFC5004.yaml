@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: RFC5004
 title:
 - content: Avoid BGP Best Path Transitions from One External to Another

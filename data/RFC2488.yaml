@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: RFC2488
 title:
 - content: Enhancing TCP Over Satellite Channels using Standard Mechanisms

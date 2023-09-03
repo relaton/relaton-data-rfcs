@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: RFC1257
 title:
 - content: Isochronous applications do not require jitter-controlled networks
