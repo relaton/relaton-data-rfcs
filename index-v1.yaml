@@ -18501,6 +18501,8 @@
   :file: data/RFC9445.yaml
 - :id: RFC 9446
   :file: data/RFC9446.yaml
+- :id: RFC 9449
+  :file: data/RFC9449.yaml
 - :id: RFC 9450
   :file: data/RFC9450.yaml
 - :id: RFC 9451
