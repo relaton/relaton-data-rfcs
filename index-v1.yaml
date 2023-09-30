@@ -18523,6 +18523,8 @@
   :file: data/RFC9457.yaml
 - :id: RFC 9459
   :file: data/RFC9459.yaml
+- :id: RFC 9465
+  :file: data/RFC9465.yaml
 - :id: RFC 9468
   :file: data/RFC9468.yaml
 - :id: RFC 9469
@@ -18535,3 +18537,5 @@
   :file: data/RFC9476.yaml
 - :id: RFC 9477
   :file: data/RFC9477.yaml
+- :id: RFC 9486
+  :file: data/RFC9486.yaml
