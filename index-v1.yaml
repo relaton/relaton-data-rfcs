@@ -5577,8 +5577,6 @@
   :file: data/RFC2859.yaml
 - :id: RFC 2860
   :file: data/RFC2860.yaml
-- :id: RFC 2861
-  :file: data/RFC2861.yaml
 - :id: RFC 2862
   :file: data/RFC2862.yaml
 - :id: RFC 2863
@@ -5621,8 +5619,6 @@
   :file: data/RFC2881.yaml
 - :id: RFC 2882
   :file: data/RFC2882.yaml
-- :id: RFC 2883
-  :file: data/RFC2883.yaml
 - :id: RFC 2884
   :file: data/RFC2884.yaml
 - :id: RFC 2885
@@ -5831,8 +5827,6 @@
   :file: data/RFC2986.yaml
 - :id: RFC 2987
   :file: data/RFC2987.yaml
-- :id: RFC 2988
-  :file: data/RFC2988.yaml
 - :id: RFC 2989
   :file: data/RFC2989.yaml
 - :id: RFC 2990
@@ -5939,8 +5933,6 @@
   :file: data/RFC3040.yaml
 - :id: RFC 3041
   :file: data/RFC3041.yaml
-- :id: RFC 3042
-  :file: data/RFC3042.yaml
 - :id: RFC 3043
   :file: data/RFC3043.yaml
 - :id: RFC 3044
@@ -6189,8 +6181,6 @@
   :file: data/RFC3166.yaml
 - :id: RFC 3167
   :file: data/RFC3167.yaml
-- :id: RFC 3168
-  :file: data/RFC3168.yaml
 - :id: RFC 3169
   :file: data/RFC3169.yaml
 - :id: RFC 3170
@@ -6467,8 +6457,6 @@
   :file: data/RFC3307.yaml
 - :id: RFC 3308
   :file: data/RFC3308.yaml
-- :id: RFC 3309
-  :file: data/RFC3309.yaml
 - :id: RFC 3310
   :file: data/RFC3310.yaml
 - :id: RFC 3311
@@ -6623,8 +6611,6 @@
   :file: data/RFC3388.yaml
 - :id: RFC 3389
   :file: data/RFC3389.yaml
-- :id: RFC 3390
-  :file: data/RFC3390.yaml
 - :id: RFC 3391
   :file: data/RFC3391.yaml
 - :id: RFC 3392
@@ -6711,8 +6697,6 @@
   :file: data/RFC3434.yaml
 - :id: RFC 3435
   :file: data/RFC3435.yaml
-- :id: RFC 3436
-  :file: data/RFC3436.yaml
 - :id: RFC 3437
   :file: data/RFC3437.yaml
 - :id: RFC 3438
@@ -6735,8 +6719,6 @@
   :file: data/RFC3446.yaml
 - :id: RFC 3447
   :file: data/RFC3447.yaml
-- :id: RFC 3448
-  :file: data/RFC3448.yaml
 - :id: RFC 3449
   :file: data/RFC3449.yaml
 - :id: RFC 3450
@@ -6871,8 +6853,6 @@
   :file: data/RFC3515.yaml
 - :id: RFC 3516
   :file: data/RFC3516.yaml
-- :id: RFC 3517
-  :file: data/RFC3517.yaml
 - :id: RFC 3518
   :file: data/RFC3518.yaml
 - :id: RFC 3519
@@ -6881,8 +6861,6 @@
   :file: data/RFC3520.yaml
 - :id: RFC 3521
   :file: data/RFC3521.yaml
-- :id: RFC 3522
-  :file: data/RFC3522.yaml
 - :id: RFC 3523
   :file: data/RFC3523.yaml
 - :id: RFC 3524
@@ -6917,8 +6895,6 @@
   :file: data/RFC3538.yaml
 - :id: RFC 3539
   :file: data/RFC3539.yaml
-- :id: RFC 3540
-  :file: data/RFC3540.yaml
 - :id: RFC 3541
   :file: data/RFC3541.yaml
 - :id: RFC 3542
@@ -7135,8 +7111,6 @@
   :file: data/RFC3647.yaml
 - :id: RFC 3648
   :file: data/RFC3648.yaml
-- :id: RFC 3649
-  :file: data/RFC3649.yaml
 - :id: RFC 3650
   :file: data/RFC3650.yaml
 - :id: RFC 3651
@@ -7251,8 +7225,6 @@
   :file: data/RFC3706.yaml
 - :id: RFC 3707
   :file: data/RFC3707.yaml
-- :id: RFC 3708
-  :file: data/RFC3708.yaml
 - :id: RFC 3709
   :file: data/RFC3709.yaml
 - :id: RFC 3710
@@ -7319,8 +7291,6 @@
   :file: data/RFC3740.yaml
 - :id: RFC 3741
   :file: data/RFC3741.yaml
-- :id: RFC 3742
-  :file: data/RFC3742.yaml
 - :id: RFC 3743
   :file: data/RFC3743.yaml
 - :id: RFC 3744
@@ -7351,8 +7321,6 @@
   :file: data/RFC3756.yaml
 - :id: RFC 3757
   :file: data/RFC3757.yaml
-- :id: RFC 3758
-  :file: data/RFC3758.yaml
 - :id: RFC 3759
   :file: data/RFC3759.yaml
 - :id: RFC 3760
@@ -7399,8 +7367,6 @@
   :file: data/RFC3780.yaml
 - :id: RFC 3781
   :file: data/RFC3781.yaml
-- :id: RFC 3782
-  :file: data/RFC3782.yaml
 - :id: RFC 3783
   :file: data/RFC3783.yaml
 - :id: RFC 3784
@@ -7487,8 +7453,6 @@
   :file: data/RFC3826.yaml
 - :id: RFC 3827
   :file: data/RFC3827.yaml
-- :id: RFC 3828
-  :file: data/RFC3828.yaml
 - :id: RFC 3829
   :file: data/RFC3829.yaml
 - :id: RFC 3830
@@ -7847,8 +7811,6 @@
   :file: data/RFC4013.yaml
 - :id: RFC 4014
   :file: data/RFC4014.yaml
-- :id: RFC 4015
-  :file: data/RFC4015.yaml
 - :id: RFC 4016
   :file: data/RFC4016.yaml
 - :id: RFC 4017
@@ -8719,8 +8681,6 @@
   :file: data/RFC4458.yaml
 - :id: RFC 4459
   :file: data/RFC4459.yaml
-- :id: RFC 4460
-  :file: data/RFC4460.yaml
 - :id: RFC 4461
   :file: data/RFC4461.yaml
 - :id: RFC 4462
@@ -8789,8 +8749,6 @@
   :file: data/RFC4493.yaml
 - :id: RFC 4494
   :file: data/RFC4494.yaml
-- :id: RFC 4495
-  :file: data/RFC4495.yaml
 - :id: RFC 4496
   :file: data/RFC4496.yaml
 - :id: RFC 4497
@@ -8879,8 +8837,6 @@
   :file: data/RFC4540.yaml
 - :id: RFC 4541
   :file: data/RFC4541.yaml
-- :id: RFC 4542
-  :file: data/RFC4542.yaml
 - :id: RFC 4543
   :file: data/RFC4543.yaml
 - :id: RFC 4544
@@ -8983,8 +8939,6 @@
   :file: data/RFC4592.yaml
 - :id: RFC 4593
   :file: data/RFC4593.yaml
-- :id: RFC 4594
-  :file: data/RFC4594.yaml
 - :id: RFC 4595
   :file: data/RFC4595.yaml
 - :id: RFC 4596
@@ -9329,8 +9283,6 @@
   :file: data/RFC4772.yaml
 - :id: RFC 4773
   :file: data/RFC4773.yaml
-- :id: RFC 4774
-  :file: data/RFC4774.yaml
 - :id: RFC 4775
   :file: data/RFC4775.yaml
 - :id: RFC 4776
@@ -9345,8 +9297,6 @@
   :file: data/RFC4780.yaml
 - :id: RFC 4781
   :file: data/RFC4781.yaml
-- :id: RFC 4782
-  :file: data/RFC4782.yaml
 - :id: RFC 4783
   :file: data/RFC4783.yaml
 - :id: RFC 4784
@@ -9385,8 +9335,6 @@
   :file: data/RFC4802.yaml
 - :id: RFC 4803
   :file: data/RFC4803.yaml
-- :id: RFC 4804
-  :file: data/RFC4804.yaml
 - :id: RFC 4805
   :file: data/RFC4805.yaml
 - :id: RFC 4806
@@ -9417,8 +9365,6 @@
   :file: data/RFC4818.yaml
 - :id: RFC 4819
   :file: data/RFC4819.yaml
-- :id: RFC 4820
-  :file: data/RFC4820.yaml
 - :id: RFC 4821
   :file: data/RFC4821.yaml
 - :id: RFC 4822
@@ -9497,8 +9443,6 @@
   :file: data/RFC4858.yaml
 - :id: RFC 4859
   :file: data/RFC4859.yaml
-- :id: RFC 4860
-  :file: data/RFC4860.yaml
 - :id: RFC 4861
   :file: data/RFC4861.yaml
 - :id: RFC 4862
@@ -9567,14 +9511,10 @@
   :file: data/RFC4893.yaml
 - :id: RFC 4894
   :file: data/RFC4894.yaml
-- :id: RFC 4895
-  :file: data/RFC4895.yaml
 - :id: RFC 4896
   :file: data/RFC4896.yaml
 - :id: RFC 4897
   :file: data/RFC4897.yaml
-- :id: RFC 4898
-  :file: data/RFC4898.yaml
 - :id: RFC 4901
   :file: data/RFC4901.yaml
 - :id: RFC 4902
@@ -9615,8 +9555,6 @@
   :file: data/RFC4919.yaml
 - :id: RFC 4920
   :file: data/RFC4920.yaml
-- :id: RFC 4923
-  :file: data/RFC4923.yaml
 - :id: RFC 4924
   :file: data/RFC4924.yaml
 - :id: RFC 4925
@@ -9689,8 +9627,6 @@
   :file: data/RFC4958.yaml
 - :id: RFC 4959
   :file: data/RFC4959.yaml
-- :id: RFC 4960
-  :file: data/RFC4960.yaml
 - :id: RFC 4961
   :file: data/RFC4961.yaml
 - :id: RFC 4962
@@ -9831,8 +9767,6 @@
   :file: data/RFC5031.yaml
 - :id: RFC 5032
   :file: data/RFC5032.yaml
-- :id: RFC 5033
-  :file: data/RFC5033.yaml
 - :id: RFC 5034
   :file: data/RFC5034.yaml
 - :id: RFC 5035
@@ -9887,10 +9821,6 @@
   :file: data/RFC5059.yaml
 - :id: RFC 5060
   :file: data/RFC5060.yaml
-- :id: RFC 5061
-  :file: data/RFC5061.yaml
-- :id: RFC 5062
-  :file: data/RFC5062.yaml
 - :id: RFC 5063
   :file: data/RFC5063.yaml
 - :id: RFC 5064
@@ -9959,8 +9889,6 @@
   :file: data/RFC5095.yaml
 - :id: RFC 5096
   :file: data/RFC5096.yaml
-- :id: RFC 5097
-  :file: data/RFC5097.yaml
 - :id: RFC 5098
   :file: data/RFC5098.yaml
 - :id: RFC 5101
@@ -10013,12 +9941,8 @@
   :file: data/RFC5125.yaml
 - :id: RFC 5126
   :file: data/RFC5126.yaml
-- :id: RFC 5127
-  :file: data/RFC5127.yaml
 - :id: RFC 5128
   :file: data/RFC5128.yaml
-- :id: RFC 5129
-  :file: data/RFC5129.yaml
 - :id: RFC 5130
   :file: data/RFC5130.yaml
 - :id: RFC 5131
@@ -10323,8 +10247,6 @@
   :file: data/RFC5282.yaml
 - :id: RFC 5283
   :file: data/RFC5283.yaml
-- :id: RFC 5284
-  :file: data/RFC5284.yaml
 - :id: RFC 5285
   :file: data/RFC5285.yaml
 - :id: RFC 5286
@@ -10547,8 +10469,6 @@
   :file: data/RFC5403.yaml
 - :id: RFC 5404
   :file: data/RFC5404.yaml
-- :id: RFC 5405
-  :file: data/RFC5405.yaml
 - :id: RFC 5406
   :file: data/RFC5406.yaml
 - :id: RFC 5407
@@ -11443,8 +11363,6 @@
   :file: data/RFC5863.yaml
 - :id: RFC 5864
   :file: data/RFC5864.yaml
-- :id: RFC 5865
-  :file: data/RFC5865.yaml
 - :id: RFC 5866
   :file: data/RFC5866.yaml
 - :id: RFC 5867
@@ -11599,10 +11517,6 @@
   :file: data/RFC5943.yaml
 - :id: RFC 5944
   :file: data/RFC5944.yaml
-- :id: RFC 5945
-  :file: data/RFC5945.yaml
-- :id: RFC 5946
-  :file: data/RFC5946.yaml
 - :id: RFC 5947
   :file: data/RFC5947.yaml
 - :id: RFC 5948
@@ -11737,8 +11651,6 @@
   :file: data/RFC6014.yaml
 - :id: RFC 6015
   :file: data/RFC6015.yaml
-- :id: RFC 6016
-  :file: data/RFC6016.yaml
 - :id: RFC 6017
   :file: data/RFC6017.yaml
 - :id: RFC 6018
@@ -11785,8 +11697,6 @@
   :file: data/RFC6038.yaml
 - :id: RFC 6039
   :file: data/RFC6039.yaml
-- :id: RFC 6040
-  :file: data/RFC6040.yaml
 - :id: RFC 6041
   :file: data/RFC6041.yaml
 - :id: RFC 6042
@@ -11817,8 +11727,6 @@
   :file: data/RFC6054.yaml
 - :id: RFC 6055
   :file: data/RFC6055.yaml
-- :id: RFC 6056
-  :file: data/RFC6056.yaml
 - :id: RFC 6057
   :file: data/RFC6057.yaml
 - :id: RFC 6058
@@ -11871,8 +11779,6 @@
   :file: data/RFC6081.yaml
 - :id: RFC 6082
   :file: data/RFC6082.yaml
-- :id: RFC 6083
-  :file: data/RFC6083.yaml
 - :id: RFC 6084
   :file: data/RFC6084.yaml
 - :id: RFC 6085
@@ -11897,8 +11803,6 @@
   :file: data/RFC6094.yaml
 - :id: RFC 6095
   :file: data/RFC6095.yaml
-- :id: RFC 6096
-  :file: data/RFC6096.yaml
 - :id: RFC 6097
   :file: data/RFC6097.yaml
 - :id: RFC 6098
@@ -12359,8 +12263,6 @@
   :file: data/RFC6333.yaml
 - :id: RFC 6334
   :file: data/RFC6334.yaml
-- :id: RFC 6335
-  :file: data/RFC6335.yaml
 - :id: RFC 6336
   :file: data/RFC6336.yaml
 - :id: RFC 6337
@@ -12487,8 +12389,6 @@
   :file: data/RFC6397.yaml
 - :id: RFC 6398
   :file: data/RFC6398.yaml
-- :id: RFC 6401
-  :file: data/RFC6401.yaml
 - :id: RFC 6402
   :file: data/RFC6402.yaml
 - :id: RFC 6403
@@ -12507,8 +12407,6 @@
   :file: data/RFC6409.yaml
 - :id: RFC 6410
   :file: data/RFC6410.yaml
-- :id: RFC 6411
-  :file: data/RFC6411.yaml
 - :id: RFC 6412
   :file: data/RFC6412.yaml
 - :id: RFC 6413
@@ -12601,8 +12499,6 @@
   :file: data/RFC6456.yaml
 - :id: RFC 6457
   :file: data/RFC6457.yaml
-- :id: RFC 6458
-  :file: data/RFC6458.yaml
 - :id: RFC 6459
   :file: data/RFC6459.yaml
 - :id: RFC 6460
@@ -12727,8 +12623,6 @@
   :file: data/RFC6521.yaml
 - :id: RFC 6522
   :file: data/RFC6522.yaml
-- :id: RFC 6525
-  :file: data/RFC6525.yaml
 - :id: RFC 6526
   :file: data/RFC6526.yaml
 - :id: RFC 6527
@@ -12939,8 +12833,6 @@
   :file: data/RFC6631.yaml
 - :id: RFC 6632
   :file: data/RFC6632.yaml
-- :id: RFC 6633
-  :file: data/RFC6633.yaml
 - :id: RFC 6635
   :file: data/RFC6635.yaml
 - :id: RFC 6636
@@ -13561,8 +13453,6 @@
   :file: data/RFC6949.yaml
 - :id: RFC 6950
   :file: data/RFC6950.yaml
-- :id: RFC 6951
-  :file: data/RFC6951.yaml
 - :id: RFC 6952
   :file: data/RFC6952.yaml
 - :id: RFC 6953
@@ -13757,8 +13647,6 @@
   :file: data/RFC7051.yaml
 - :id: RFC 7052
   :file: data/RFC7052.yaml
-- :id: RFC 7053
-  :file: data/RFC7053.yaml
 - :id: RFC 7054
   :file: data/RFC7054.yaml
 - :id: RFC 7055
@@ -13931,8 +13819,6 @@
   :file: data/RFC7139.yaml
 - :id: RFC 7140
   :file: data/RFC7140.yaml
-- :id: RFC 7141
-  :file: data/RFC7141.yaml
 - :id: RFC 7142
   :file: data/RFC7142.yaml
 - :id: RFC 7143
@@ -14481,8 +14367,6 @@
   :file: data/RFC7415.yaml
 - :id: RFC 7416
   :file: data/RFC7416.yaml
-- :id: RFC 7417
-  :file: data/RFC7417.yaml
 - :id: RFC 7418
   :file: data/RFC7418.yaml
 - :id: RFC 7419
@@ -14639,8 +14523,6 @@
   :file: data/RFC7494.yaml
 - :id: RFC 7495
   :file: data/RFC7495.yaml
-- :id: RFC 7496
-  :file: data/RFC7496.yaml
 - :id: RFC 7497
   :file: data/RFC7497.yaml
 - :id: RFC 7498
@@ -14857,8 +14739,6 @@
   :file: data/RFC7603.yaml
 - :id: RFC 7604
   :file: data/RFC7604.yaml
-- :id: RFC 7605
-  :file: data/RFC7605.yaml
 - :id: RFC 7606
   :file: data/RFC7606.yaml
 - :id: RFC 7607
@@ -15305,8 +15185,6 @@
   :file: data/RFC7827.yaml
 - :id: RFC 7828
   :file: data/RFC7828.yaml
-- :id: RFC 7829
-  :file: data/RFC7829.yaml
 - :id: RFC 7830
   :file: data/RFC7830.yaml
 - :id: RFC 7831
@@ -15361,8 +15239,6 @@
   :file: data/RFC7855.yaml
 - :id: RFC 7856
   :file: data/RFC7856.yaml
-- :id: RFC 7857
-  :file: data/RFC7857.yaml
 - :id: RFC 7858
   :file: data/RFC7858.yaml
 - :id: RFC 7859
@@ -15813,12 +15689,6 @@
   :file: data/RFC8082.yaml
 - :id: RFC 8083
   :file: data/RFC8083.yaml
-- :id: RFC 8084
-  :file: data/RFC8084.yaml
-- :id: RFC 8085
-  :file: data/RFC8085.yaml
-- :id: RFC 8086
-  :file: data/RFC8086.yaml
 - :id: RFC 8087
   :file: data/RFC8087.yaml
 - :id: RFC 8088
@@ -15845,8 +15715,6 @@
   :file: data/RFC8098.yaml
 - :id: RFC 8099
   :file: data/RFC8099.yaml
-- :id: RFC 8100
-  :file: data/RFC8100.yaml
 - :id: RFC 8101
   :file: data/RFC8101.yaml
 - :id: RFC 8102
@@ -16165,10 +16033,6 @@
   :file: data/RFC8258.yaml
 - :id: RFC 8259
   :file: data/RFC8259.yaml
-- :id: RFC 8260
-  :file: data/RFC8260.yaml
-- :id: RFC 8261
-  :file: data/RFC8261.yaml
 - :id: RFC 8262
   :file: data/RFC8262.yaml
 - :id: RFC 8263
@@ -16267,8 +16131,6 @@
   :file: data/RFC8309.yaml
 - :id: RFC 8310
   :file: data/RFC8310.yaml
-- :id: RFC 8311
-  :file: data/RFC8311.yaml
 - :id: RFC 8312
   :file: data/RFC8312.yaml
 - :id: RFC 8313
@@ -16295,8 +16157,6 @@
   :file: data/RFC8323.yaml
 - :id: RFC 8324
   :file: data/RFC8324.yaml
-- :id: RFC 8325
-  :file: data/RFC8325.yaml
 - :id: RFC 8326
   :file: data/RFC8326.yaml
 - :id: RFC 8327
@@ -16517,8 +16377,6 @@
   :file: data/RFC8434.yaml
 - :id: RFC 8435
   :file: data/RFC8435.yaml
-- :id: RFC 8436
-  :file: data/RFC8436.yaml
 - :id: RFC 8437
   :file: data/RFC8437.yaml
 - :id: RFC 8438
@@ -16719,8 +16577,6 @@
   :file: data/RFC8538.yaml
 - :id: RFC 8539
   :file: data/RFC8539.yaml
-- :id: RFC 8540
-  :file: data/RFC8540.yaml
 - :id: RFC 8541
   :file: data/RFC8541.yaml
 - :id: RFC 8542
@@ -16881,8 +16737,6 @@
   :file: data/RFC8620.yaml
 - :id: RFC 8621
   :file: data/RFC8621.yaml
-- :id: RFC 8622
-  :file: data/RFC8622.yaml
 - :id: RFC 8623
   :file: data/RFC8623.yaml
 - :id: RFC 8624
@@ -16987,12 +16841,6 @@
   :file: data/RFC8678.yaml
 - :id: RFC 8679
   :file: data/RFC8679.yaml
-- :id: RFC 8680
-  :file: data/RFC8680.yaml
-- :id: RFC 8681
-  :file: data/RFC8681.yaml
-- :id: RFC 8682
-  :file: data/RFC8682.yaml
 - :id: RFC 8683
   :file: data/RFC8683.yaml
 - :id: RFC 8684
@@ -17301,8 +17149,6 @@
   :file: data/RFC8835.yaml
 - :id: RFC 8836
   :file: data/RFC8836.yaml
-- :id: RFC 8837
-  :file: data/RFC8837.yaml
 - :id: RFC 8838
   :file: data/RFC8838.yaml
 - :id: RFC 8839
@@ -17425,8 +17271,6 @@
   :file: data/RFC8897.yaml
 - :id: RFC 8898
   :file: data/RFC8898.yaml
-- :id: RFC 8899
-  :file: data/RFC8899.yaml
 - :id: RFC 8900
   :file: data/RFC8900.yaml
 - :id: RFC 8901
@@ -17755,8 +17599,6 @@
   :file: data/RFC9063.yaml
 - :id: RFC 9064
   :file: data/RFC9064.yaml
-- :id: RFC 9065
-  :file: data/RFC9065.yaml
 - :id: RFC 9066
   :file: data/RFC9066.yaml
 - :id: RFC 9067
@@ -18143,8 +17985,6 @@
   :file: data/RFC9258.yaml
 - :id: RFC 9259
   :file: data/RFC9259.yaml
-- :id: RFC 9260
-  :file: data/RFC9260.yaml
 - :id: RFC 9261
   :file: data/RFC9261.yaml
 - :id: RFC 9262
@@ -18283,12 +18123,6 @@
   :file: data/RFC9328.yaml
 - :id: RFC 9329
   :file: data/RFC9329.yaml
-- :id: RFC 9330
-  :file: data/RFC9330.yaml
-- :id: RFC 9331
-  :file: data/RFC9331.yaml
-- :id: RFC 9332
-  :file: data/RFC9332.yaml
 - :id: RFC 9333
   :file: data/RFC9333.yaml
 - :id: RFC 9334
@@ -18481,8 +18315,6 @@
   :file: data/RFC9433.yaml
 - :id: RFC 9434
   :file: data/RFC9434.yaml
-- :id: RFC 9435
-  :file: data/RFC9435.yaml
 - :id: RFC 9436
   :file: data/RFC9436.yaml
 - :id: RFC 9437
