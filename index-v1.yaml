@@ -18537,11 +18537,21 @@
   :file: data/RFC9470.yaml
 - :id: RFC 9471
   :file: data/RFC9471.yaml
+- :id: RFC 9472
+  :file: data/RFC9472.yaml
 - :id: RFC 9473
   :file: data/RFC9473.yaml
+- :id: RFC 9474
+  :file: data/RFC9474.yaml
 - :id: RFC 9476
   :file: data/RFC9476.yaml
 - :id: RFC 9477
   :file: data/RFC9477.yaml
+- :id: RFC 9478
+  :file: data/RFC9478.yaml
+- :id: RFC 9479
+  :file: data/RFC9479.yaml
 - :id: RFC 9486
   :file: data/RFC9486.yaml
+- :id: RFC 9492
+  :file: data/RFC9492.yaml
