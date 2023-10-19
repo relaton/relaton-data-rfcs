@@ -18557,6 +18557,8 @@
   :file: data/RFC9485.yaml
 - :id: RFC 9486
   :file: data/RFC9486.yaml
+- :id: RFC 9488
+  :file: data/RFC9488.yaml
 - :id: RFC 9492
   :file: data/RFC9492.yaml
 - :id: RFC 9495
