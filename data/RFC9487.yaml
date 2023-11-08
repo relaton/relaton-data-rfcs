@@ -1,27 +1,84 @@
 ---
 schema-version: v1.2.4
-id: RFC6125
+id: RFC9487
 title:
-- content: Representation and Verification of Domain-Based Application Service Identity
-    within Internet Public Key Infrastructure Using X.509 (PKIX) Certificates in the
-    Context of Transport Layer Security (TLS)
+- content: Export of Segment Routing over IPv6 Information in IP Flow Information
+    Export (IPFIX)
   format: text/plain
   type: main
 link:
-- content: https://www.rfc-editor.org/info/rfc6125
+- content: https://www.rfc-editor.org/info/rfc9487
   type: src
 type: standard
 docid:
-- id: RFC 6125
+- id: RFC 9487
   type: IETF
   primary: true
-- id: 10.17487/RFC6125
+- id: 10.17487/RFC9487
   type: DOI
-docnumber: RFC6125
+docnumber: RFC9487
 date:
 - type: published
-  value: 2011-03
+  value: 2023-11
 contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: T
+        formatted_initials:
+          content: T.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Graf
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: T. Graf
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          script:
+          - Latn
+          initial: B
+        formatted_initials:
+          content: B.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Claise
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: B. Claise
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
 - person:
     name:
       given:
@@ -38,42 +95,13 @@ contributor:
           script:
           - Latn
       surname:
-        content: Saint-Andre
+        content: Francois
         language:
         - en
         script:
         - Latn
       completename:
-        content: P. Saint-Andre
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: author
-- person:
-    name:
-      given:
-        forename:
-        - language:
-          - en
-          script:
-          - Latn
-          initial: J
-        formatted_initials:
-          content: J.
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Hodges
-        language:
-        - en
-        script:
-        - Latn
-      completename:
-        content: J. Hodges
+        content: P. Francois
         language:
         - en
         script:
@@ -90,42 +118,37 @@ contributor:
     - content: RFC Series
   role:
   - type: authorizer
-revdate: 2011-03
+revdate: 2023-11
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "<p>Many application technologies enable secure communication between two
-    entities by means of Internet Public Key Infrastructure Using X.509 (PKIX) certificates
-    in the context of Transport Layer Security (TLS). This document specifies procedures
-    for representing and verifying the identity of application services in such interactions.
-    [STANDARDS-TRACK]</p>"
+- content: "<p>This document introduces new IP Flow Information Export (IPFIX) Information
+    Elements (IEs) to identify a set of information related to Segment Routing over
+    IPv6 (SRv6) such as data contained in a Segment Routing Header (SRH), the SRv6
+    control plane, and the SRv6 Endpoint behavior that traffic is being forwarded
+    with.</p>"
   language:
   - en
   script:
   - Latn
   format: text/html
-relation:
-- type: obsoletedBy
-  bibitem:
-    id: RFC9525
-    docid:
-    - id: RFC9525
-      type: IETF
-      primary: true
-    formattedref:
-      content: RFC9525
-      format: text/plain
 series:
 - title:
     content: RFC
     format: text/plain
-  number: '6125'
+  number: '9487'
 - type: stream
   title:
     content: IETF
     format: text/plain
+keyword:
+- content: SRv6
+- content: SR
+- content: Flow Record
+editorialgroup:
+- name: opsawg
 ext:
   schema-version: v1.0.1
   stream: IETF
