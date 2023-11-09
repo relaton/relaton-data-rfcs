@@ -56,7 +56,8 @@ contributor:
     name:
       given:
         forename:
-        - language:
+        - content: 
+          language:
           - en
           script:
           - Latn
@@ -85,7 +86,8 @@ contributor:
     name:
       given:
         forename:
-        - language:
+        - content: 
+          language:
           - en
           script:
           - Latn
@@ -114,12 +116,14 @@ contributor:
     name:
       given:
         forename:
-        - language:
+        - content: 
+          language:
           - en
           script:
           - Latn
           initial: E
-        - language:
+        - content: 
+          language:
           - en
           script:
           - Latn

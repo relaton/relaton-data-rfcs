@@ -25,12 +25,14 @@ contributor:
     name:
       given:
         forename:
-        - language:
+        - content: 
+          language:
           - en
           script:
           - Latn
           initial: U
-        - language:
+        - content: 
+          language:
           - en
           script:
           - Latn
@@ -59,7 +61,8 @@ contributor:
     name:
       given:
         forename:
-        - language:
+        - content: 
+          language:
           - en
           script:
           - Latn
@@ -88,7 +91,8 @@ contributor:
     name:
       given:
         forename:
-        - language:
+        - content: 
+          language:
           - en
           script:
           - Latn
@@ -117,12 +121,14 @@ contributor:
     name:
       given:
         forename:
-        - language:
+        - content: 
+          language:
           - en
           script:
           - Latn
           initial: B
-        - language:
+        - content: 
+          language:
           - en
           script:
           - Latn
