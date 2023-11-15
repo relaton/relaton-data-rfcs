@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: RFC6043
 title:
 - content: 'MIKEY-TICKET: Ticket-Based Modes of Key Distribution in Multimedia Internet

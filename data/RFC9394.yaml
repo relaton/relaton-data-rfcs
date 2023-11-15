@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: RFC9394
 title:
 - content: IMAP PARTIAL Extension for Paged SEARCH and FETCH

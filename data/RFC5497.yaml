@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: RFC5497
 title:
 - content: Representing Multi-Value Time in Mobile Ad Hoc Networks (MANETs)

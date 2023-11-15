@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: RFC1186
 title:
 - content: MD4 Message Digest Algorithm

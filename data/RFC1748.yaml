@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: RFC1748
 title:
 - content: IEEE 802.5 MIB using SMIv2

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: RFC5248
 title:
 - content: A Registry for SMTP Enhanced Mail System Status Codes

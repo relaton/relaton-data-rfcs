@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: RFC8556
 title:
 - content: Multicast VPN Using Bit Index Explicit Replication (BIER)

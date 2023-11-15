@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: RFC7823
 title:
 - content: Performance-Based Path Selection for Explicitly Routed Label Switched Paths

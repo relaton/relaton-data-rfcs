@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: RFC3849
 title:
 - content: IPv6 Address Prefix Reserved for Documentation

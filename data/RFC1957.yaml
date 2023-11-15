@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: RFC1957
 title:
 - content: Some Observations on Implementations of the Post Office Protocol (POP3)

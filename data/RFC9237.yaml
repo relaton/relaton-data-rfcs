@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: RFC9237
 title:
 - content: An Authorization Information Format (AIF) for Authentication and Authorization

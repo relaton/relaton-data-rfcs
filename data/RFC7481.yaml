@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: RFC7481
 title:
 - content: Security Services for the Registration Data Access Protocol (RDAP)

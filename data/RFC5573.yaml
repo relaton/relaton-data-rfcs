@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: RFC5573
 title:
 - content: Asynchronous Channels for the Blocks Extensible Exchange Protocol (BEEP)

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: RFC8690
 title:
 - content: Clarification of Segment ID Sub-TLV Length for RFC 8287

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: RFC6210
 title:
 - content: 'Experiment: Hash Functions with Parameters in the Cryptographic Message

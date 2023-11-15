@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: RFC8197
 title:
 - content: A SIP Response Code for Unwanted Calls

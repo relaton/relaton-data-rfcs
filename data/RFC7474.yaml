@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: RFC7474
 title:
 - content: Security Extension for OSPFv2 When Using Manual Key Management

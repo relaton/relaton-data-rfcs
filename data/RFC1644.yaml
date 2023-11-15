@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: RFC1644
 title:
 - content: T/TCP -- TCP Extensions for Transactions Functional Specification

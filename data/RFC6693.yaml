@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: RFC6693
 title:
 - content: Probabilistic Routing Protocol for Intermittently Connected Networks

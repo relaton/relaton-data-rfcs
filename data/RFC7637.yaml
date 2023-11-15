@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: RFC7637
 title:
 - content: 'NVGRE: Network Virtualization Using Generic Routing Encapsulation'

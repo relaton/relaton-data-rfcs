@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: RFC3567
 title:
 - content: Intermediate System to Intermediate System (IS-IS) Cryptographic Authentication

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: RFC176
 title:
 - content: Comments on "Byte size for connections"

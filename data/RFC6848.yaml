@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: RFC6848
 title:
 - content: Specifying Civic Address Extensions in the Presence Information Data Format

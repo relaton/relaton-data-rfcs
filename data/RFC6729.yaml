@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: RFC6729
 title:
 - content: Indicating Email Handling States in Trace Fields

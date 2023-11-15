@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: RFC8270
 title:
 - content: Increase the Secure Shell Minimum Recommended Diffie-Hellman Modulus Size

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: RFC6424
 title:
 - content: Mechanism for Performing Label Switched Path Ping (LSP Ping) over MPLS

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: RFC4850
 title:
 - content: Declarative Public Extension Key for Internet Small Computer Systems Interface

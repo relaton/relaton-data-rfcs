@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: RFC879
 title:
 - content: The TCP Maximum Segment Size and Related Topics

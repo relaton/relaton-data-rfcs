@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: RFC3246
 title:
 - content: An Expedited Forwarding PHB (Per-Hop Behavior)

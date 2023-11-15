@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: RFC5302
 title:
 - content: Domain-Wide Prefix Distribution with Two-Level IS-IS

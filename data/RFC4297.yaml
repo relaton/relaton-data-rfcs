@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: RFC4297
 title:
 - content: Remote Direct Memory Access (RDMA) over IP Problem Statement

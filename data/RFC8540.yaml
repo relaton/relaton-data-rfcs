@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: RFC8540
 title:
 - content: 'Stream Control Transmission Protocol: Errata and Issues in RFC 4960'

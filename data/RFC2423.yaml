@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: RFC2423
 title:
 - content: VPIM Voice Message MIME Sub-type Registration

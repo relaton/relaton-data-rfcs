@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: RFC7479
 title:
 - content: Using Ed25519 in SSHFP Resource Records

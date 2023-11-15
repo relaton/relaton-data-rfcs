@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: RFC644
 title:
 - content: On the problem of signature authentication for network mail

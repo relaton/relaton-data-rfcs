@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: RFC4813
 title:
 - content: OSPF Link-Local Signaling

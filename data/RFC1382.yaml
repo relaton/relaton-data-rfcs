@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: RFC1382
 title:
 - content: SNMP MIB Extension for the X.25 Packet Layer

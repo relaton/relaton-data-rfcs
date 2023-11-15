@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: RFC2425
 title:
 - content: A MIME Content-Type for Directory Information

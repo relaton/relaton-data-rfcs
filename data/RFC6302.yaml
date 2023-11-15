@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: RFC6302
 title:
 - content: Logging Recommendations for Internet-Facing Servers

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: RFC9213
 title:
 - content: Targeted HTTP Cache Control

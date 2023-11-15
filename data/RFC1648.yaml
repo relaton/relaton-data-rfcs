@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: RFC1648
 title:
 - content: Postmaster Convention for X.400 Operations

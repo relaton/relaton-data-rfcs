@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: RFC8986
 title:
 - content: Segment Routing over IPv6 (SRv6) Network Programming

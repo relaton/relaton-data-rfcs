@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: RFC9016
 title:
 - content: Flow and Service Information Model for Deterministic Networking (DetNet)

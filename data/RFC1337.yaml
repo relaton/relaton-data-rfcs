@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: RFC1337
 title:
 - content: TIME-WAIT Assassination Hazards in TCP

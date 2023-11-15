@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: RFC6886
 title:
 - content: NAT Port Mapping Protocol (NAT-PMP)

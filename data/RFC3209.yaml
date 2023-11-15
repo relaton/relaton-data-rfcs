@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: RFC3209
 title:
 - content: 'RSVP-TE: Extensions to RSVP for LSP Tunnels'

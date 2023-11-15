@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: RFC5135
 title:
 - content: IP Multicast Requirements for a Network Address Translator (NAT) and a

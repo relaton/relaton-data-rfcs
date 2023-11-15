@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: RFC1843
 title:
 - content: HZ - A Data Format for Exchanging Files of Arbitrarily Mixed Chinese and

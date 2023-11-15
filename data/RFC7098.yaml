@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: RFC7098
 title:
 - content: Using the IPv6 Flow Label for Load Balancing in Server Farms

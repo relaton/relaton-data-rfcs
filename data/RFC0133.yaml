@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: RFC133
 title:
 - content: File Transfer and Error Recovery

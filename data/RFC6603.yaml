@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: RFC6603
 title:
 - content: Prefix Exclude Option for DHCPv6-based Prefix Delegation

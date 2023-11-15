@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: RFC6882
 title:
 - content: Support for Resource Reservation Protocol Traffic Engineering (RSVP-TE)

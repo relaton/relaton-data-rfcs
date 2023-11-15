@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: RFC5121
 title:
 - content: Transmission of IPv6 via the IPv6 Convergence Sublayer over IEEE 802.16

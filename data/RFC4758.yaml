@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: RFC4758
 title:
 - content: Cryptographic Token Key Initialization Protocol (CT-KIP) Version 1.0 Revision

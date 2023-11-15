@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: RFC8855
 title:
 - content: The Binary Floor Control Protocol (BFCP)

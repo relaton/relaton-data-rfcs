@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: RFC6472
 title:
 - content: Recommendation for Not Using AS_SET and AS_CONFED_SET in BGP

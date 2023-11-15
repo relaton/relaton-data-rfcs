@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: RFC3602
 title:
 - content: The AES-CBC Cipher Algorithm and Its Use with IPsec

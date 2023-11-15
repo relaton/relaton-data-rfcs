@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: RFC7393
 title:
 - content: Using the Port Control Protocol (PCP) to Update Dynamic DNS

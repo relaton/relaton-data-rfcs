@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: RFC9491
 title:
 - content: Integration of the Network Service Header (NSH) and Segment Routing for

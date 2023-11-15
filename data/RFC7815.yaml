@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: RFC7815
 title:
 - content: Minimal Internet Key Exchange Version 2 (IKEv2) Initiator Implementation

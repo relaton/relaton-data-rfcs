@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: RFC619
 title:
 - content: Mean round-trip times in the ARPANET

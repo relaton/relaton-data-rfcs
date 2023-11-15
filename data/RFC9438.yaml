@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: RFC9438
 title:
 - content: CUBIC for Fast and Long-Distance Networks

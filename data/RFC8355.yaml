@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: RFC8355
 title:
 - content: Resiliency Use Cases in Source Packet Routing in Networking (SPRING) Networks

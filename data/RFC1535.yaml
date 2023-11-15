@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: RFC1535
 title:
 - content: A Security Problem and Proposed Correction With Widely Deployed DNS Software

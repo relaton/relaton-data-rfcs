@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: RFC3695
 title:
 - content: Compact Forward Error Correction (FEC) Schemes

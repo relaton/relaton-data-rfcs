@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: RFC6516
 title:
 - content: IPv6 Multicast VPN (MVPN) Support Using PIM Control Plane and Selective

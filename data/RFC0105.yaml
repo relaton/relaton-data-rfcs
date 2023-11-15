@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: RFC105
 title:
 - content: Network Specifications for Remote Job Entry and Remote Job Output Retrieval

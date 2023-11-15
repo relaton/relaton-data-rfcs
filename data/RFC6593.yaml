@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: RFC6593
 title:
 - content: Service Undiscovery Using Hide-and-Go-Seek for the Domain Pseudonym System

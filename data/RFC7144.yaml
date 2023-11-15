@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: RFC7144
 title:
 - content: Internet Small Computer System Interface (iSCSI) SCSI Features Update

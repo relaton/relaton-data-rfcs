@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: RFC611
 title:
 - content: Two changes to the IMP/Host Protocol to improve user/network communications

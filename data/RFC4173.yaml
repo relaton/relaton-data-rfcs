@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: RFC4173
 title:
 - content: Bootstrapping Clients using the Internet Small Computer System Interface

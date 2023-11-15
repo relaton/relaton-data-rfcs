@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: RFC7891
 title:
 - content: Explicit Reverse Path Forwarding (RPF) Vector

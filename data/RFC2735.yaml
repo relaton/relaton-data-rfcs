@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: RFC2735
 title:
 - content: NHRP Support for Virtual Private Networks

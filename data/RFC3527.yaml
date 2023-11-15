@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: RFC3527
 title:
 - content: Link Selection sub-option for the Relay Agent Information Option for DHCPv4

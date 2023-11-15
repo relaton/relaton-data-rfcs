@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: RFC9060
 title:
 - content: Secure Telephone Identity Revisited (STIR) Certificate Delegation

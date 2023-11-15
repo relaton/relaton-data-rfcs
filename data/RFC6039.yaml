@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: RFC6039
 title:
 - content: Issues with Existing Cryptographic Protection Methods for Routing Protocols

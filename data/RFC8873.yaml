@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: RFC8873
 title:
 - content: Message Session Relay Protocol (MSRP) over Data Channels

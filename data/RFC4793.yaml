@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: RFC4793
 title:
 - content: The EAP Protected One-Time Password Protocol (EAP-POTP)

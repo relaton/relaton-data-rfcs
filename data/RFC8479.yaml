@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: RFC8479
 title:
 - content: Storing Validation Parameters in PKCS#8

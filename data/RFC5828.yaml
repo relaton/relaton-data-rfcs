@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: RFC5828
 title:
 - content: Generalized Multiprotocol Label Switching (GMPLS) Ethernet Label Switching

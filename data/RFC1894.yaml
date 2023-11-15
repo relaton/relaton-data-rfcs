@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: RFC1894
 title:
 - content: An Extensible Message Format for Delivery Status Notifications
