@@ -18603,6 +18603,8 @@
   :file: data/RFC9505.yaml
 - :id: RFC 9506
   :file: data/RFC9506.yaml
+- :id: RFC 9511
+  :file: data/RFC9511.yaml
 - :id: RFC 9516
   :file: data/RFC9516.yaml
 - :id: RFC 9525
