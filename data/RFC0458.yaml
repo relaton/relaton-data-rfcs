@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: RFC458
 title:
 - content: Mail retrieval via FTP

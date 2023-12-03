@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: RFC4615
 title:
 - content: The Advanced Encryption Standard-Cipher-based Message Authentication Code-Pseudo-Random

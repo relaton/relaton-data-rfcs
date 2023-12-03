@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: RFC3306
 title:
 - content: Unicast-Prefix-based IPv6 Multicast Addresses

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: RFC2233
 title:
 - content: The Interfaces Group MIB using SMIv2

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: RFC7554
 title:
 - content: 'Using IEEE 802.15.4e Time-Slotted Channel Hopping (TSCH) in the Internet

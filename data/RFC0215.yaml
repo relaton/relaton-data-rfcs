@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: RFC215
 title:
 - content: 'NCP, ICP, and Telnet: The Terminal IMP implementation'

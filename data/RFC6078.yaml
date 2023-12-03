@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: RFC6078
 title:
 - content: Host Identity Protocol (HIP) Immediate Carriage and Conveyance of Upper-Layer

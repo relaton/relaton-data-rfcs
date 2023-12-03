@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: RFC6571
 title:
 - content: Loop-Free Alternate (LFA) Applicability in Service Provider (SP) Networks

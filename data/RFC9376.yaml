@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: RFC9376
 title:
 - content: Applicability of GMPLS for beyond 100 Gbit/s Optical Transport Network

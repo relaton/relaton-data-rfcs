@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: RFC7137
 title:
 - content: Use of the OSPF-MANET Interface in Single-Hop Broadcast Networks

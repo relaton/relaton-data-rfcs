@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: RFC110
 title:
 - content: Conventions for Using an IBM 2741 Terminal as a User Console for Access

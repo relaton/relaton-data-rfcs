@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: RFC4258
 title:
 - content: Requirements for Generalized Multi-Protocol Label Switching (GMPLS) Routing

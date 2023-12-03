@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: RFC6034
 title:
 - content: Unicast-Prefix-Based IPv4 Multicast Addresses

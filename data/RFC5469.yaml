@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: RFC5469
 title:
 - content: DES and IDEA Cipher Suites for Transport Layer Security (TLS)

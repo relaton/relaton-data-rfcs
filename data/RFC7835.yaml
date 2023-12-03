@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: RFC7835
 title:
 - content: Locator/ID Separation Protocol (LISP) Threat Analysis

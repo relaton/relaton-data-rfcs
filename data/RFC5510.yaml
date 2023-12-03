@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: RFC5510
 title:
 - content: Reed-Solomon Forward Error Correction (FEC) Schemes

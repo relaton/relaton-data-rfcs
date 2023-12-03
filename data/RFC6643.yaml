@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: RFC6643
 title:
 - content: Translation of Structure of Management Information Version 2 (SMIv2) MIB

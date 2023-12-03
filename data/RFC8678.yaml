@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: RFC8678
 title:
 - content: 'Enterprise Multihoming using Provider-Assigned IPv6 Addresses without

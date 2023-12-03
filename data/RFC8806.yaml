@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: RFC8806
 title:
 - content: Running a Root Server Local to a Resolver

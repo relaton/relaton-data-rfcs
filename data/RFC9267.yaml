@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: RFC9267
 title:
 - content: Common Implementation Anti-Patterns Related to Domain Name System (DNS)

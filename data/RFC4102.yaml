@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: RFC4102
 title:
 - content: Registration of the text/red MIME Sub-Type

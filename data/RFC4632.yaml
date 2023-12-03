@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: RFC4632
 title:
 - content: 'Classless Inter-domain Routing (CIDR): The Internet Address Assignment

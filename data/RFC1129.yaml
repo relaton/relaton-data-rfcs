@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: RFC1129
 title:
 - content: 'Internet Time Synchronization: The Network Time Protocol'

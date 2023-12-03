@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: RFC6178
 title:
 - content: Label Edge Router Forwarding of IPv4 Option Packets

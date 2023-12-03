@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: RFC6727
 title:
 - content: Definitions of Managed Objects for Packet Sampling

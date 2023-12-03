@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: RFC6448
 title:
 - content: The Unencrypted Form of Kerberos 5 KRB-CRED Message

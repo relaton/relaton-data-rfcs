@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: RFC3906
 title:
 - content: Calculating Interior Gateway Protocol (IGP) Routes Over Traffic Engineering

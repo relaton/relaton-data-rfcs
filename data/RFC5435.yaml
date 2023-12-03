@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: RFC5435
 title:
 - content: 'Sieve Email Filtering: Extension for Notifications'

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: RFC2071
 title:
 - content: 'Network Renumbering Overview: Why would I want it and what is it anyway?'

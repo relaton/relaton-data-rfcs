@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: RFC7529
 title:
 - content: Non-Gregorian Recurrence Rules in the Internet Calendaring and Scheduling

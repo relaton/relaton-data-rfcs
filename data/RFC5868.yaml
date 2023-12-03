@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: RFC5868
 title:
 - content: Problem Statement on the Cross-Realm Operation of Kerberos

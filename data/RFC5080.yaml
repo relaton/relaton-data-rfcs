@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: RFC5080
 title:
 - content: Common Remote Authentication Dial In User Service (RADIUS) Implementation

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: RFC3413
 title:
 - content: Simple Network Management Protocol (SNMP) Applications

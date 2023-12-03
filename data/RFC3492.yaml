@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: RFC3492
 title:
 - content: 'Punycode: A Bootstring encoding of Unicode for Internationalized Domain

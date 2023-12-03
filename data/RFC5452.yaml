@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: RFC5452
 title:
 - content: Measures for Making DNS More Resilient against Forged Answers

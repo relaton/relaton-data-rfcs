@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: RFC721
 title:
 - content: Out-of-Band Control Signals in a Host-to-Host Protocol

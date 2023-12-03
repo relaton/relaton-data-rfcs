@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: RFC9313
 title:
 - content: Pros and Cons of IPv6 Transition Technologies for IPv4-as-a-Service (IPv4aaS)

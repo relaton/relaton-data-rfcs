@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: RFC6425
 title:
 - content: Detecting Data-Plane Failures in Point-to-Multipoint MPLS - Extensions

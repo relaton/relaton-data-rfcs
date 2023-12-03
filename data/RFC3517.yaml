@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: RFC3517
 title:
 - content: A Conservative Selective Acknowledgment (SACK)-based Loss Recovery Algorithm

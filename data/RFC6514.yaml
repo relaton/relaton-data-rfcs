@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: RFC6514
 title:
 - content: BGP Encodings and Procedures for Multicast in MPLS/BGP IP VPNs

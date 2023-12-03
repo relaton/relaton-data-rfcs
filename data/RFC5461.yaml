@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: RFC5461
 title:
 - content: TCP's Reaction to Soft Errors

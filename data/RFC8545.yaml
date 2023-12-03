@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: RFC8545
 title:
 - content: Well-Known Port Assignments for the One-Way Active Measurement Protocol

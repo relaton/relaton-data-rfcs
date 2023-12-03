@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: RFC3568
 title:
 - content: Known Content Network (CN) Request-Routing Mechanisms

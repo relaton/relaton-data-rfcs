@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: RFC4047
 title:
 - content: MIME Sub-type Registrations for Flexible Image Transport System (FITS)

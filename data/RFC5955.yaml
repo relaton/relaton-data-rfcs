@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: RFC5955
 title:
 - content: The application/timestamped-data Media Type

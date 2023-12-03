@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: RFC696
 title:
 - content: Comments on the IMP/Host and Host/IMP Protocol changes

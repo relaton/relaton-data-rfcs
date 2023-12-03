@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: RFC183
 title:
 - content: EBCDIC Codes and Their Mapping to ASCII

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: RFC7798
 title:
 - content: RTP Payload Format for High Efficiency Video Coding (HEVC)

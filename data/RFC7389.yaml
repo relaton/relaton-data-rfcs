@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: RFC7389
 title:
 - content: Separation of Control and User Plane for Proxy Mobile IPv6

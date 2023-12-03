@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: RFC2307
 title:
 - content: An Approach for Using LDAP as a Network Information Service

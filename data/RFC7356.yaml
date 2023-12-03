@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: RFC7356
 title:
 - content: IS-IS Flooding Scope Link State PDUs (LSPs)

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: RFC6261
 title:
 - content: Encrypted Signaling Transport Modes for the Host Identity Protocol

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: RFC8732
 title:
 - content: Generic Security Service Application Program Interface (GSS-API) Key Exchange

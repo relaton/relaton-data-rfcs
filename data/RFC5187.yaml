@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: RFC5187
 title:
 - content: OSPFv3 Graceful Restart

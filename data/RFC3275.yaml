@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: RFC3275
 title:
 - content: "(Extensible Markup Language) XML-Signature Syntax and Processing"

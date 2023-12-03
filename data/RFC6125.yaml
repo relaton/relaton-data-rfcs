@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: RFC6125
 title:
 - content: Representation and Verification of Domain-Based Application Service Identity

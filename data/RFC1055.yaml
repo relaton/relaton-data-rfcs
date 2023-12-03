@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: RFC1055
 title:
 - content: 'Nonstandard for transmission of IP datagrams over serial lines: SLIP'

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: RFC2324
 title:
 - content: Hyper Text Coffee Pot Control Protocol (HTCPCP/1.0)

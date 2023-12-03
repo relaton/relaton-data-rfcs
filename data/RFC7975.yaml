@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: RFC7975
 title:
 - content: Request Routing Redirection Interface for Content Delivery Network (CDN)

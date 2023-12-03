@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: RFC2226
 title:
 - content: IP Broadcast over ATM Networks

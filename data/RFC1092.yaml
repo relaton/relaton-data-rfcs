@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: RFC1092
 title:
 - content: EGP and policy based routing in the new NSFNET backbone

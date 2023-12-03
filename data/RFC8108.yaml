@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: RFC8108
 title:
 - content: Sending Multiple RTP Streams in a Single RTP Session

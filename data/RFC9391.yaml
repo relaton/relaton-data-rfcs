@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: RFC9391
 title:
 - content: Static Context Header Compression over Narrowband Internet of Things

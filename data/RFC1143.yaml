@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: RFC1143
 title:
 - content: The Q Method of Implementing TELNET Option Negotiation

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: RFC9118
 title:
 - content: Enhanced JSON Web Token (JWT) Claim Constraints for Secure Telephone Identity

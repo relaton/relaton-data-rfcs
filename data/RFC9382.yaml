@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: RFC9382
 title:
 - content: SPAKE2, a Password-Authenticated Key Exchange

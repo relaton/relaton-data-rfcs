@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: RFC1891
 title:
 - content: SMTP Service Extension for Delivery Status Notifications

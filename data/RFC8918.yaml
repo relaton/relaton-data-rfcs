@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: RFC8918
 title:
 - content: Invalid TLV Handling in IS-IS

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: RFC5059
 title:
 - content: Bootstrap Router (BSR) Mechanism for Protocol Independent Multicast (PIM)

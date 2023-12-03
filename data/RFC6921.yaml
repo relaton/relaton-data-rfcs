@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: RFC6921
 title:
 - content: Design Considerations for Faster-Than-Light (FTL) Communication

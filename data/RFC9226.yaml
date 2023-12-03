@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: RFC9226
 title:
 - content: 'Bioctal: Hexadecimal 2.0'

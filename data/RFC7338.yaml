@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: RFC7338
 title:
 - content: Requirements and Framework for Point-to-Multipoint Pseudowires over MPLS

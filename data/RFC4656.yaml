@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: RFC4656
 title:
 - content: A One-way Active Measurement Protocol (OWAMP)

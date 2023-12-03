@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: RFC7771
 title:
 - content: Switching Provider Edge (S-PE) Protection for MPLS and MPLS Transport Profile

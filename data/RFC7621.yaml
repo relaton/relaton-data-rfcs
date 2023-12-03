@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: RFC7621
 title:
 - content: A Clarification on the Use of Globally Routable User Agent URIs (GRUUs)

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: RFC1043
 title:
 - content: 'Telnet Data Entry Terminal option: DODIIS implementation'

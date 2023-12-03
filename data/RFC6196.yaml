@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: RFC6196
 title:
 - content: 'Moving mailserver: URI Scheme to Historic'

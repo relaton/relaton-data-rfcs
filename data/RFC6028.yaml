@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: RFC6028
 title:
 - content: Host Identity Protocol (HIP) Multi-Hop Routing Extension

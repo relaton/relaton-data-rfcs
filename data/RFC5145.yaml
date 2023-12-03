@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: RFC5145
 title:
 - content: Framework for MPLS-TE to GMPLS Migration

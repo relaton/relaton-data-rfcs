@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: RFC8594
 title:
 - content: The Sunset HTTP Header Field

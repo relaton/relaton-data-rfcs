@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: RFC7342
 title:
 - content: Practices for Scaling ARP and Neighbor Discovery (ND) in Large Data Centers

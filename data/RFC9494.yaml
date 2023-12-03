@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: RFC9494
 title:
 - content: Long-Lived Graceful Restart for BGP

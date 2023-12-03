@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: RFC9148
 title:
 - content: 'EST-coaps: Enrollment over Secure Transport with the Secure Constrained

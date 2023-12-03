@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: RFC6515
 title:
 - content: IPv4 and IPv6 Infrastructure Addresses in BGP Updates for Multicast VPN

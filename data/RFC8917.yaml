@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: RFC8917
 title:
 - content: The LoST-Validation Straightforward-Naming Authority PoinTeR (S-NAPTR)

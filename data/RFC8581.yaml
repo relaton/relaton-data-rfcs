@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: RFC8581
 title:
 - content: Diameter Agent Overload and the Peer Overload Report

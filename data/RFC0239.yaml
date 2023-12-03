@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: RFC239
 title:
 - content: Host mnemonics proposed in RFC 226 (NIC 7625)

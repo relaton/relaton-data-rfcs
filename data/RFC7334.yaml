@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: RFC7334
 title:
 - content: PCE-Based Computation Procedure to Compute Shortest Constrained Point-to-Multipoint

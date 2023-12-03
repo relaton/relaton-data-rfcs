@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: RFC3218
 title:
 - content: Preventing the Million Message Attack on Cryptographic Message Syntax

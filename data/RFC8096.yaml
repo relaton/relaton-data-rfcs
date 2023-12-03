@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: RFC8096
 title:
 - content: The IPv6-Specific MIB Modules Are Obsolete

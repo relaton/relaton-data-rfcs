@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: RFC4870
 title:
 - content: Domain-Based Email Authentication Using Public Keys Advertised in the DNS

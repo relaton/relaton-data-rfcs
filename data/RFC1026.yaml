@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: RFC1026
 title:
 - content: 'Addendum to RFC 987: (Mapping between X.400 and RFC-822)'

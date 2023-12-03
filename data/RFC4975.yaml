@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: RFC4975
 title:
 - content: The Message Session Relay Protocol (MSRP)

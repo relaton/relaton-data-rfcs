@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: RFC803
 title:
 - content: Dacom 450/500 facsimile data transcoding

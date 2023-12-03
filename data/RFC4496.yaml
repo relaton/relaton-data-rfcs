@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: RFC4496
 title:
 - content: Open Pluggable Edge Services (OPES) SMTP Use Cases

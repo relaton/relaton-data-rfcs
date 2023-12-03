@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: RFC8850
 title:
 - content: Controlling Multiple Streams for Telepresence (CLUE) Protocol Data Channel

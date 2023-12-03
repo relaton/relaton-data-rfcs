@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: RFC8438
 title:
 - content: IMAP Extension for STATUS=SIZE
