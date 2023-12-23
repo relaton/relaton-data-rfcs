@@ -1,25 +1,24 @@
 ---
 schema-version: v1.2.7
-id: RFC7752
+id: RFC9496
 title:
-- content: North-Bound Distribution of Link-State and Traffic Engineering (TE) Information
-    Using BGP
+- content: The ristretto255 and decaf448 Groups
   format: text/plain
   type: main
 link:
-- content: https://www.rfc-editor.org/info/rfc7752
+- content: https://www.rfc-editor.org/info/rfc9496
   type: src
 type: standard
 docid:
-- id: RFC 7752
+- id: RFC 9496
   type: IETF
   primary: true
-- id: 10.17487/RFC7752
+- id: 10.17487/RFC9496
   type: DOI
-docnumber: RFC7752
+docnumber: RFC9496
 date:
 - type: published
-  value: 2016-03
+  value: 2023-12
 contributor:
 - person:
     name:
@@ -38,19 +37,19 @@ contributor:
           script:
           - Latn
       surname:
-        content: Gredler
+        content: de Valence
         language:
         - en
         script:
         - Latn
       completename:
-        content: H. Gredler
+        content: H. de Valence
         language:
         - en
         script:
         - Latn
   role:
-  - type: editor
+  - type: author
 - person:
     name:
       given:
@@ -68,13 +67,13 @@ contributor:
           script:
           - Latn
       surname:
-        content: Medved
+        content: Grigg
         language:
         - en
         script:
         - Latn
       completename:
-        content: J. Medved
+        content: J. Grigg
         language:
         - en
         script:
@@ -90,21 +89,21 @@ contributor:
           - en
           script:
           - Latn
-          initial: S
+          initial: M
         formatted_initials:
-          content: S.
+          content: M.
           language:
           - en
           script:
           - Latn
       surname:
-        content: Previdi
+        content: Hamburg
         language:
         - en
         script:
         - Latn
       completename:
-        content: S. Previdi
+        content: M. Hamburg
         language:
         - en
         script:
@@ -120,21 +119,21 @@ contributor:
           - en
           script:
           - Latn
-          initial: A
+          initial: I
         formatted_initials:
-          content: A.
+          content: I.
           language:
           - en
           script:
           - Latn
       surname:
-        content: Farrel
+        content: Lovecruft
         language:
         - en
         script:
         - Latn
       completename:
-        content: A. Farrel
+        content: I. Lovecruft
         language:
         - en
         script:
@@ -150,21 +149,51 @@ contributor:
           - en
           script:
           - Latn
-          initial: S
+          initial: G
         formatted_initials:
-          content: S.
+          content: G.
           language:
           - en
           script:
           - Latn
       surname:
-        content: Ray
+        content: Tankersley
         language:
         - en
         script:
         - Latn
       completename:
-        content: S. Ray
+        content: G. Tankersley
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: 
+          language:
+          - en
+          script:
+          - Latn
+          initial: F
+        formatted_initials:
+          content: F.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Valsorda
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: F. Valsorda
         language:
         - en
         script:
@@ -181,59 +210,43 @@ contributor:
     - content: RFC Series
   role:
   - type: authorizer
-revdate: 2016-03
+revdate: 2023-12
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "<p>In a number of environments, a component external to a network is called
-    upon to perform computations based on the network topology and current state of
-    the connections within the network, including Traffic Engineering (TE) information.
-    This is information typically distributed by IGP routing protocols within the
-    network.</p><p>This document describes a mechanism by which link-state and TE
-    information can be collected from networks and shared with external components
-    using the BGP routing protocol. This is achieved using a new BGP Network Layer
-    Reachability Information (NLRI) encoding format. The mechanism is applicable to
-    physical and virtual IGP links. The mechanism described is subject to policy control.</p><p>Applications
-    of this technique include Application-Layer Traffic Optimization (ALTO) servers
-    and Path Computation Elements (PCEs).</p>"
+- content: "<p>This memo specifies two prime-order groups, ristretto255 and decaf448,
+    suitable for safely implementing higher-level and complex cryptographic protocols.
+    The ristretto255 group can be implemented using Curve25519, allowing existing
+    Curve25519 implementations to be reused and extended to provide a prime-order
+    group. Likewise, the decaf448 group can be implemented using edwards448.</p><p>This
+    document is a product of the Crypto Forum Research Group (CFRG) in the IRTF.</p>"
   language:
   - en
   script:
   - Latn
   format: text/html
-relation:
-- type: obsoletedBy
-  bibitem:
-    id: RFC9552
-    docid:
-    - id: RFC9552
-      type: IETF
-      primary: true
-    formattedref:
-      content: RFC9552
-      format: text/plain
 series:
 - title:
     content: RFC
     format: text/plain
-  number: '7752'
+  number: '9496'
 - type: stream
   title:
-    content: IETF
+    content: IRTF
     format: text/plain
 keyword:
-- content: BGP
-- content: North-Bound
-- content: API
-- content: Link-State
-- content: Topology
-- content: Controller
-- content: Multi-Area
-- content: Multi-AS
-editorialgroup:
-- name: idr
+- content: cryptographic group
+- content: cryptography
+- content: Curve25519
+- content: ecc
+- content: edwards448
+- content: elliptic curve
+- content: elliptic curve cryptography
+- content: nonmalleable encodings
+- content: prime-order
+- content: prime order
 ext:
   schema-version: v1.0.1
-  stream: IETF
+  stream: IRTF
