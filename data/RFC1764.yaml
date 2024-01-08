@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: RFC1764
 title:
 - content: The PPP XNS IDP Control Protocol (XNSCP)

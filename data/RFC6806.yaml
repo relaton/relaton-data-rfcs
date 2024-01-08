@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: RFC6806
 title:
 - content: Kerberos Principal Name Canonicalization and Cross-Realm Referrals

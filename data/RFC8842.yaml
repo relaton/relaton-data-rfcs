@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: RFC8842
 title:
 - content: Session Description Protocol (SDP) Offer/Answer Considerations for Datagram

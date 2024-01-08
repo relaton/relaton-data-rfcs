@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: RFC4874
 title:
 - content: Exclude Routes - Extension to Resource ReserVation Protocol-Traffic Engineering

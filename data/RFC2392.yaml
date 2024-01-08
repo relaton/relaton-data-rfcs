@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: RFC2392
 title:
 - content: Content-ID and Message-ID Uniform Resource Locators

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: RFC2963
 title:
 - content: A Rate Adaptive Shaper for Differentiated Services

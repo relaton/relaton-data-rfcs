@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: RFC655
 title:
 - content: Telnet output formfeed disposition option

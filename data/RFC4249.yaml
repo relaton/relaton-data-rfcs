@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: RFC4249
 title:
 - content: Implementer-Friendly Specification of Message and MIME-Part Header Fields

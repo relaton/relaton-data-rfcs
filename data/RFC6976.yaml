@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: RFC6976
 title:
 - content: Framework for Loop-Free Convergence Using the Ordered Forwarding Information

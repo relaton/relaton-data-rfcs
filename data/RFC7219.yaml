@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: RFC7219
 title:
 - content: SEcure Neighbor Discovery (SEND) Source Address Validation Improvement

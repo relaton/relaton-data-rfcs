@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: RFC7844
 title:
 - content: Anonymity Profiles for DHCP Clients

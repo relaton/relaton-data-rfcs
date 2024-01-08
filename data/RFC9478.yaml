@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: RFC9478
 title:
 - content: Labeled IPsec Traffic Selector Support for the Internet Key Exchange Protocol

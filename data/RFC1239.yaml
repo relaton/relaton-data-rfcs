@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: RFC1239
 title:
 - content: Reassignment of experimental MIBs to standard MIBs

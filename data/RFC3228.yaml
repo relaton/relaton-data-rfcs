@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: RFC3228
 title:
 - content: IANA Considerations for IPv4 Internet Group Management Protocol (IGMP)

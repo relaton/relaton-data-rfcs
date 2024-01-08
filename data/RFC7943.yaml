@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: RFC7943
 title:
 - content: A Method for Generating Semantically Opaque Interface Identifiers (IIDs)

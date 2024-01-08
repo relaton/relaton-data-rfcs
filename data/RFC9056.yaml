@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: RFC9056
 title:
 - content: 'Deterministic Networking (DetNet) Data Plane: IP over MPLS'

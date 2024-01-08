@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: RFC1049
 title:
 - content: Content-type header field for Internet messages

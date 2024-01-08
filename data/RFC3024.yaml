@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: RFC3024
 title:
 - content: Reverse Tunneling for Mobile IP, revised

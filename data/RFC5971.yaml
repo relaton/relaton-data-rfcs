@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: RFC5971
 title:
 - content: 'GIST: General Internet Signalling Transport'

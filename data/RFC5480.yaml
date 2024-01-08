@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: RFC5480
 title:
 - content: Elliptic Curve Cryptography Subject Public Key Information

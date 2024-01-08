@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: RFC8342
 title:
 - content: Network Management Datastore Architecture (NMDA)

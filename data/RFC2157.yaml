@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: RFC2157
 title:
 - content: Mapping between X.400 and RFC-822/MIME Message Bodies

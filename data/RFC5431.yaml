@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: RFC5431
 title:
 - content: Diameter ITU-T Rw Policy Enforcement Interface Application

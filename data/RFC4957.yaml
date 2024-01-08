@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: RFC4957
 title:
 - content: Link-Layer Event Notifications for Detecting Network Attachments

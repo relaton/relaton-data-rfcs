@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: RFC1187
 title:
 - content: Bulk Table Retrieval with the SNMP

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: RFC19
 title:
 - content: Two protocol suggestions to reduce congestion at swap bound nodes

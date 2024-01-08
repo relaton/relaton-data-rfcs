@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: RFC3337
 title:
 - content: Class Extensions for PPP over Asynchronous Transfer Mode Adaptation Layer

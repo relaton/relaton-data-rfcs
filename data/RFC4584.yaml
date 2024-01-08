@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: RFC4584
 title:
 - content: Extension to Sockets API for Mobile IPv6

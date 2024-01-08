@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: RFC1613
 title:
 - content: cisco Systems X.25 over TCP (XOT)

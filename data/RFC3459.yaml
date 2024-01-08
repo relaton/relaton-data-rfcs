@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: RFC3459
 title:
 - content: Critical Content Multi-purpose Internet Mail Extensions (MIME) Parameter

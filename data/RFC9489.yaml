@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: RFC9489
 title:
 - content: Label Switched Path (LSP) Ping Mechanisms for EVPN and Provider Backbone

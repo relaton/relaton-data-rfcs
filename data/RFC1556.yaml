@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: RFC1556
 title:
 - content: Handling of Bi-directional Texts in MIME

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: RFC5507
 title:
 - content: Design Choices When Expanding the DNS

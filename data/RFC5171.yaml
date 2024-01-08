@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: RFC5171
 title:
 - content: Cisco Systems UniDirectional Link Detection (UDLD) Protocol

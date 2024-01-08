@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: RFC8792
 title:
 - content: Handling Long Lines in Content of Internet-Drafts and RFCs

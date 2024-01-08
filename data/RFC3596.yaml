@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: RFC3596
 title:
 - content: DNS Extensions to Support IP Version 6

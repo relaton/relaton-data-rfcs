@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: RFC8616
 title:
 - content: Email Authentication for Internationalized Mail

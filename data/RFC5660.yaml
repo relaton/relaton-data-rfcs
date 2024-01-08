@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: RFC5660
 title:
 - content: 'IPsec Channels: Connection Latching'

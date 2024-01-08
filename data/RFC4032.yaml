@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: RFC4032
 title:
 - content: Update to the Session Initiation Protocol (SIP) Preconditions Framework

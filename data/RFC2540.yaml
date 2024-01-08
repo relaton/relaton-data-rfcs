@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: RFC2540
 title:
 - content: Detached Domain Name System (DNS) Information

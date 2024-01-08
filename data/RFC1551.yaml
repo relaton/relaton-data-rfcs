@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: RFC1551
 title:
 - content: Novell IPX Over Various WAN Media (IPXWAN)

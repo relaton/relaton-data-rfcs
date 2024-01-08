@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: RFC401
 title:
 - content: Conversion of NGP-0 Coordinates to Device Specific Coordinates

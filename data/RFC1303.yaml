@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: RFC1303
 title:
 - content: A Convention for Describing SNMP-based Agents

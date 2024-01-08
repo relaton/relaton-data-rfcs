@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: RFC2528
 title:
 - content: Internet X.509 Public Key Infrastructure Representation of Key Exchange

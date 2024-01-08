@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: RFC6205
 title:
 - content: Generalized Labels for Lambda-Switch-Capable (LSC) Label Switching Routers

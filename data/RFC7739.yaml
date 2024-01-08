@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: RFC7739
 title:
 - content: Security Implications of Predictable Fragment Identification Values

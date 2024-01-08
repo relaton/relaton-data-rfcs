@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: RFC5243
 title:
 - content: OSPF Database Exchange Summary List Optimization

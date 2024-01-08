@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: RFC7278
 title:
 - content: Extending an IPv6 /64 Prefix from a Third Generation Partnership Project

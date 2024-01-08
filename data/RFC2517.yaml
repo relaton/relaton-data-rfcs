@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: RFC2517
 title:
 - content: 'Building Directories from DNS: Experiences from WWWSeeker'

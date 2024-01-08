@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: RFC4334
 title:
 - content: Certificate Extensions and Attributes Supporting Authentication in Point-to-Point

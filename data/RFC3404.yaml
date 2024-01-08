@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: RFC3404
 title:
 - content: 'Dynamic Delegation Discovery System (DDDS) Part Four: The Uniform Resource

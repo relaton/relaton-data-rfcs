@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: RFC5282
 title:
 - content: Using Authenticated Encryption Algorithms with the Encrypted Payload of

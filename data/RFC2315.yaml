@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: RFC2315
 title:
 - content: 'PKCS #7: Cryptographic Message Syntax Version 1.5'

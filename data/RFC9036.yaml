@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: RFC9036
 title:
 - content: Changing the Location-to-Service Translation (LoST) Location Profiles Registry

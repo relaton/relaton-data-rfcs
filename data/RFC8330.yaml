@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: RFC8330
 title:
 - content: OSPF Traffic Engineering (OSPF-TE) Link Availability Extension for Links

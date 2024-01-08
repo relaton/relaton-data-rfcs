@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: RFC7846
 title:
 - content: Peer-to-Peer Streaming Tracker Protocol (PPSTP)

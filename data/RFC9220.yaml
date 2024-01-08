@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: RFC9220
 title:
 - content: Bootstrapping WebSockets with HTTP/3

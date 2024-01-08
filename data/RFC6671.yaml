@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: RFC6671
 title:
 - content: Allocation of a Generic Associated Channel Type for ITU-T MPLS Transport

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: RFC2710
 title:
 - content: Multicast Listener Discovery (MLD) for IPv6

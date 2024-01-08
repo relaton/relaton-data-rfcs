@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: RFC4448
 title:
 - content: Encapsulation Methods for Transport of Ethernet over MPLS Networks

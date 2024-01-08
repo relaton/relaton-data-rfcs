@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: RFC5934
 title:
 - content: Trust Anchor Management Protocol (TAMP)

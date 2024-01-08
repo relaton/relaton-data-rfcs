@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: RFC5244
 title:
 - content: Definition of Events for Channel-Oriented Telephony Signalling

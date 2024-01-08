@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: RFC6321
 title:
 - content: 'xCal: The XML Format for iCalendar'

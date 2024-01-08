@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: RFC5195
 title:
 - content: BGP-Based Auto-Discovery for Layer-1 VPNs

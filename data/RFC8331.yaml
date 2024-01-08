@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: RFC8331
 title:
 - content: RTP Payload for Society of Motion Picture and Television Engineers (SMPTE)

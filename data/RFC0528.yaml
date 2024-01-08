@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: RFC528
 title:
 - content: Software checksumming in the IMP and network reliability

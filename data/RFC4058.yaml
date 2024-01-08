@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: RFC4058
 title:
 - content: Protocol for Carrying Authentication for Network Access (PANA) Requirements

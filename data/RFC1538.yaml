@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: RFC1538
 title:
 - content: 'Advanced SNA/IP : A Simple SNA Transport Protocol'

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: RFC984
 title:
 - content: 'PCMAIL: A distributed mail system for personal computers'

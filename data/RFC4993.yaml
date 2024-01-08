@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: RFC4993
 title:
 - content: A Lightweight UDP Transfer Protocol for the Internet Registry Information

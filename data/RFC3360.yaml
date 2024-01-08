@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: RFC3360
 title:
 - content: Inappropriate TCP Resets Considered Harmful

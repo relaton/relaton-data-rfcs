@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: RFC9199
 title:
 - content: Considerations for Large Authoritative DNS Server Operators

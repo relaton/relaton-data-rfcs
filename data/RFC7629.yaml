@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: RFC7629
 title:
 - content: Flow-Binding Support for Mobile IP

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: RFC9061
 title:
 - content: A YANG Data Model for IPsec Flow Protection Based on Software-Defined Networking

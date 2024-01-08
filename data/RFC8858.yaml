@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: RFC8858
 title:
 - content: Indicating Exclusive Support of RTP and RTP Control Protocol (RTCP) Multiplexing

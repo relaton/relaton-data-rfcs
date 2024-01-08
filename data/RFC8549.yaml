@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: RFC8549
 title:
 - content: Export of BGP Community Information in IP Flow Information Export (IPFIX)

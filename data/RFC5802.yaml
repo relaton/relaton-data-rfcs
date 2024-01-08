@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: RFC5802
 title:
 - content: Salted Challenge Response Authentication Mechanism (SCRAM) SASL and GSS-API

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: RFC9427
 title:
 - content: TLS-Based Extensible Authentication Protocol (EAP) Types for Use with TLS

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: RFC2483
 title:
 - content: URI Resolution Services Necessary for URN Resolution

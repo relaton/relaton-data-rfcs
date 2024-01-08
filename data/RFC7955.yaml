@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: RFC7955
 title:
 - content: Management Guidelines for the Locator/ID Separation Protocol (LISP) Endpoint

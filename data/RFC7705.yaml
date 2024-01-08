@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: RFC7705
 title:
 - content: Autonomous System Migration Mechanisms and Their Effects on the BGP AS_PATH

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: RFC7041
 title:
 - content: Extensions to the Virtual Private LAN Service (VPLS) Provider Edge (PE)

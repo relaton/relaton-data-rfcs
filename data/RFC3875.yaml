@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: RFC3875
 title:
 - content: The Common Gateway Interface (CGI) Version 1.1

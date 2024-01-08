@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: RFC1608
 title:
 - content: Representing IP Information in the X.500 Directory

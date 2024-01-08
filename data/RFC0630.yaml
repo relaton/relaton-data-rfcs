@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: RFC630
 title:
 - content: FTP error code usage for more reliable mail service

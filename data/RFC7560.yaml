@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: RFC7560
 title:
 - content: Problem Statement and Requirements for Increased Accuracy in Explicit Congestion

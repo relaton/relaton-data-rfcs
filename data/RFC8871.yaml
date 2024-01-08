@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: RFC8871
 title:
 - content: A Solution Framework for Private Media in Privacy-Enhanced RTP Conferencing

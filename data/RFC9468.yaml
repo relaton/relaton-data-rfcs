@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: RFC9468
 title:
 - content: Unsolicited Bidirectional Forwarding Detection (BFD) for Sessionless Applications

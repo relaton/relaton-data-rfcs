@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: RFC5853
 title:
 - content: Requirements from Session Initiation Protocol (SIP) Session Border Control

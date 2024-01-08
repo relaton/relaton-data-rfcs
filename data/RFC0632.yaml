@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: RFC632
 title:
 - content: Throughput degradations for single packet messages

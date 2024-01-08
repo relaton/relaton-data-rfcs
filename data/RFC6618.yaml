@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: RFC6618
 title:
 - content: Mobile IPv6 Security Framework Using Transport Layer Security for Communication

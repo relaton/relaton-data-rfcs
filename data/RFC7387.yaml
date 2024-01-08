@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: RFC7387
 title:
 - content: A Framework for Ethernet Tree (E-Tree) Service over a Multiprotocol Label

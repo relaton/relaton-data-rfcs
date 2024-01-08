@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: RFC647
 title:
 - content: Proposed protocol for connecting host computers to ARPA-like networks via

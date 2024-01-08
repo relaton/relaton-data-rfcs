@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: RFC7575
 title:
 - content: 'Autonomic Networking: Definitions and Design Goals'

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: RFC470
 title:
 - content: Change in socket for TIP news facility

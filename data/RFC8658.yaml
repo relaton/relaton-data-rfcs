@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: RFC8658
 title:
 - content: RADIUS Attributes for Softwire Mechanisms Based on Address plus Port (A+P)

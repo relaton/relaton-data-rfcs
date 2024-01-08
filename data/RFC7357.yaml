@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: RFC7357
 title:
 - content: 'Transparent Interconnection of Lots of Links (TRILL): End Station Address

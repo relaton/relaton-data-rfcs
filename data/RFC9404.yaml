@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: RFC9404
 title:
 - content: JSON Meta Application Protocol (JMAP) Blob Management Extension

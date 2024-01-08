@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: RFC786
 title:
 - content: 'Mail Transfer Protocol: ISI TOPS20 MTP-NIMAIL interface'

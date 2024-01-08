@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: RFC7298
 title:
 - content: Babel Hashed Message Authentication Code (HMAC) Cryptographic Authentication

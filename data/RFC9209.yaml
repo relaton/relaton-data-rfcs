@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: RFC9209
 title:
 - content: The Proxy-Status HTTP Response Header Field
