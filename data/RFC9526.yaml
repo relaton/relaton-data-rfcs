@@ -1,24 +1,24 @@
 ---
 schema-version: v1.2.8
-id: RFC3272
+id: RFC9526
 title:
-- content: Overview and Principles of Internet Traffic Engineering
+- content: Simple Provisioning of Public Names for Residential Networks
   format: text/plain
   type: main
 link:
-- content: https://www.rfc-editor.org/info/rfc3272
+- content: https://www.rfc-editor.org/info/rfc9526
   type: src
 type: standard
 docid:
-- id: RFC 3272
+- id: RFC 9526
   type: IETF
   primary: true
-- id: 10.17487/RFC3272
+- id: 10.17487/RFC9526
   type: DOI
-docnumber: RFC3272
+docnumber: RFC9526
 date:
 - type: published
-  value: 2002-05
+  value: 2024-01
 contributor:
 - person:
     name:
@@ -37,13 +37,13 @@ contributor:
           script:
           - Latn
       surname:
-        content: Awduche
+        content: Migault
         language:
         - en
         script:
         - Latn
       completename:
-        content: D. Awduche
+        content: D. Migault
         language:
         - en
         script:
@@ -59,21 +59,21 @@ contributor:
           - en
           script:
           - Latn
-          initial: A
+          initial: R
         formatted_initials:
-          content: A.
+          content: R.
           language:
           - en
           script:
           - Latn
       surname:
-        content: Chiu
+        content: Weber
         language:
         - en
         script:
         - Latn
       completename:
-        content: A. Chiu
+        content: R. Weber
         language:
         - en
         script:
@@ -89,21 +89,21 @@ contributor:
           - en
           script:
           - Latn
-          initial: A
+          initial: M
         formatted_initials:
-          content: A.
+          content: M.
           language:
           - en
           script:
           - Latn
       surname:
-        content: Elwalid
+        content: Richardson
         language:
         - en
         script:
         - Latn
       completename:
-        content: A. Elwalid
+        content: M. Richardson
         language:
         - en
         script:
@@ -119,51 +119,21 @@ contributor:
           - en
           script:
           - Latn
-          initial: I
+          initial: R
         formatted_initials:
-          content: I.
+          content: R.
           language:
           - en
           script:
           - Latn
       surname:
-        content: Widjaja
+        content: Hunter
         language:
         - en
         script:
         - Latn
       completename:
-        content: I. Widjaja
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: author
-- person:
-    name:
-      given:
-        forename:
-        - content: 
-          language:
-          - en
-          script:
-          - Latn
-          initial: X
-        formatted_initials:
-          content: X.
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Xiao
-        language:
-        - en
-        script:
-        - Latn
-      completename:
-        content: X. Xiao
+        content: R. Hunter
         language:
         - en
         script:
@@ -180,50 +150,45 @@ contributor:
     - content: RFC Series
   role:
   - type: authorizer
-revdate: 2002-05
+revdate: 2024-01
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "<p>This memo describes the principles of Traffic Engineering (TE) in the
-    Internet. The document is intended to promote better understanding of the issues
-    surrounding traffic engineering in IP networks, and to provide a common basis
-    for the development of traffic engineering capabilities for the Internet. The
-    principles, architectures, and methodologies for performance evaluation and performance
-    optimization of operational IP networks are discussed throughout this document.
-    This memo provides information for the Internet community.</p>"
+- content: "<p>Home network owners may have devices or services hosted on their home
+    network that they wish to access from the Internet (i.e., from a network outside
+    of the home network). Home networks are increasingly numbered using IPv6 addresses,
+    which in principle makes this access simpler, but accessing home networks from
+    the Internet requires the names and IP addresses of these devices and services
+    to be made available in the public DNS.</p><p>This document describes how a Home
+    Naming Authority (NHA) instructs the outsourced infrastructure to publish these
+    pieces of information in the public DNS. The names and IP addresses of the home
+    network are set in the Public Homenet Zone by the Homenet Naming Authority (HNA),
+    which in turn instructs an outsourced infrastructure to publish the zone on behalf
+    of the home network owner.</p>"
   language:
   - en
   script:
   - Latn
   format: text/html
-relation:
-- type: obsoletedBy
-  bibitem:
-    id: RFC9522
-    docid:
-    - id: RFC9522
-      type: IETF
-      primary: true
-    formattedref:
-      content: RFC9522
-      format: text/plain
 series:
 - title:
     content: RFC
     format: text/plain
-  number: '3272'
+  number: '9526'
 - type: stream
   title:
     content: IETF
     format: text/plain
 keyword:
-- content: te
-- content: ip
-- content: networks
+- content: DNS
+- content: Homenet
+- content: outsourcing
+- content: management
+- content: hosting
 editorialgroup:
-- name: tewg
+- name: homenet
 ext:
   schema-version: v1.0.1
   stream: IETF
