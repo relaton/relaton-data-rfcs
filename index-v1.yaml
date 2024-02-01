@@ -18653,5 +18653,11 @@
   :file: data/RFC9526.yaml
 - :id: RFC 9527
   :file: data/RFC9527.yaml
+- :id: RFC 9532
+  :file: data/RFC9532.yaml
+- :id: RFC 9533
+  :file: data/RFC9533.yaml
+- :id: RFC 9534
+  :file: data/RFC9534.yaml
 - :id: RFC 9552
   :file: data/RFC9552.yaml
