@@ -18653,6 +18653,8 @@
   :file: data/RFC9521.yaml
 - :id: RFC 9522
   :file: data/RFC9522.yaml
+- :id: RFC 9523
+  :file: data/RFC9523.yaml
 - :id: RFC 9525
   :file: data/RFC9525.yaml
 - :id: RFC 9526
@@ -18667,6 +18669,10 @@
   :file: data/RFC9533.yaml
 - :id: RFC 9534
   :file: data/RFC9534.yaml
+- :id: RFC 9535
+  :file: data/RFC9535.yaml
+- :id: RFC 9540
+  :file: data/RFC9540.yaml
 - :id: RFC 9547
   :file: data/RFC9547.yaml
 - :id: RFC 9552
