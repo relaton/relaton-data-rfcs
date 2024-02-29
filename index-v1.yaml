@@ -18677,10 +18677,14 @@
   :file: data/RFC9535.yaml
 - :id: RFC 9538
   :file: data/RFC9538.yaml
+- :id: RFC 9539
+  :file: data/RFC9539.yaml
 - :id: RFC 9540
   :file: data/RFC9540.yaml
 - :id: RFC 9545
   :file: data/RFC9545.yaml
+- :id: RFC 9546
+  :file: data/RFC9546.yaml
 - :id: RFC 9547
   :file: data/RFC9547.yaml
 - :id: RFC 9552
