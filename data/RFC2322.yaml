@@ -142,7 +142,7 @@ series:
   number: '2322'
 - type: stream
   title:
-    content: Legacy
+    content: INDEPENDENT
     format: text/plain
 keyword:
 - content: Internet
@@ -153,4 +153,4 @@ keyword:
 - content: progress
 ext:
   schema-version: v1.0.1
-  stream: Legacy
+  stream: INDEPENDENT

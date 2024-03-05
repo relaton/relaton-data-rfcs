@@ -83,7 +83,7 @@ series:
   number: '2551'
 - type: stream
   title:
-    content: Legacy
+    content: INDEPENDENT
     format: text/plain
 keyword:
 - content: numerals
@@ -93,4 +93,4 @@ keyword:
 - content: fools
 ext:
   schema-version: v1.0.1
-  stream: Legacy
+  stream: INDEPENDENT

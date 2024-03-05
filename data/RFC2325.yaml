@@ -84,7 +84,7 @@ series:
   number: '2325'
 - type: stream
   title:
-    content: Legacy
+    content: INDEPENDENT
     format: text/plain
 keyword:
 - content: MIB
@@ -95,4 +95,4 @@ keyword:
 - content: brewing
 ext:
   schema-version: v1.0.1
-  stream: Legacy
+  stream: INDEPENDENT

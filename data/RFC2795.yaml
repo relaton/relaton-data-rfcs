@@ -82,7 +82,7 @@ series:
   number: '2795'
 - type: stream
   title:
-    content: Legacy
+    content: INDEPENDENT
     format: text/plain
 keyword:
 - content: control
@@ -90,4 +90,4 @@ keyword:
 - content: client
 ext:
   schema-version: v1.0.1
-  stream: Legacy
+  stream: INDEPENDENT
