@@ -1,24 +1,24 @@
 ---
 schema-version: v1.2.8
-id: RFC8399
+id: RFC9549
 title:
 - content: Internationalization Updates to RFC 5280
   format: text/plain
   type: main
 link:
-- content: https://www.rfc-editor.org/info/rfc8399
+- content: https://www.rfc-editor.org/info/rfc9549
   type: src
 type: standard
 docid:
-- id: RFC 8399
+- id: RFC 9549
   type: IETF
   primary: true
-- id: 10.17487/RFC8399
+- id: 10.17487/RFC9549
   type: DOI
-docnumber: RFC8399
+docnumber: RFC9549
 date:
 - type: published
-  value: 2018-05
+  value: 2024-03
 contributor:
 - person:
     name:
@@ -60,31 +60,24 @@ contributor:
     - content: RFC Series
   role:
   - type: authorizer
-revdate: 2018-05
+revdate: 2024-03
 language:
 - en
 script:
 - Latn
 abstract:
 - content: "<p>The updates to RFC 5280 described in this document provide alignment
-    with the 2008 specification for Internationalized Domain Names (IDNs) and add
-    support for internationalized email addresses in X.509 certificates.</p>"
+    with the 2008 specification for Internationalized Domain Names (IDNs) and includes
+    support for internationalized email addresses in X.509 certificates. The updates
+    ensure that name constraints for email addresses that contain only ASCII characters
+    and internationalized email addresses are handled in the same manner. This document
+    obsoletes RFC 8399.</p>"
   language:
   - en
   script:
   - Latn
   format: text/html
 relation:
-- type: obsoletedBy
-  bibitem:
-    id: RFC9549
-    docid:
-    - id: RFC9549
-      type: IETF
-      primary: true
-    formattedref:
-      content: RFC9549
-      format: text/plain
 - type: updates
   bibitem:
     id: RFC5280
@@ -99,11 +92,13 @@ series:
 - title:
     content: RFC
     format: text/plain
-  number: '8399'
+  number: '9549'
 - type: stream
   title:
     content: IETF
     format: text/plain
+keyword:
+- content: Internationalized Email Address
 editorialgroup:
 - name: lamps
 ext:
