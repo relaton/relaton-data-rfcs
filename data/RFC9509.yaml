@@ -1,24 +1,24 @@
 ---
 schema-version: v1.2.8
-id: RFC8499
+id: RFC9509
 title:
-- content: DNS Terminology
+- content: X.509 Certificate Extended Key Usage (EKU) for 5G Network Functions
   format: text/plain
   type: main
 link:
-- content: https://www.rfc-editor.org/info/rfc8499
+- content: https://www.rfc-editor.org/info/rfc9509
   type: src
 type: standard
 docid:
-- id: RFC 8499
+- id: RFC 9509
   type: IETF
   primary: true
-- id: 10.17487/RFC8499
+- id: 10.17487/RFC9509
   type: DOI
-docnumber: RFC8499
+docnumber: RFC9509
 date:
 - type: published
-  value: 2019-01
+  value: 2024-03
 contributor:
 - person:
     name:
@@ -29,21 +29,21 @@ contributor:
           - en
           script:
           - Latn
-          initial: P
+          initial: T
         formatted_initials:
-          content: P.
+          content: T.
           language:
           - en
           script:
           - Latn
       surname:
-        content: Hoffman
+        content: Reddy.K
         language:
         - en
         script:
         - Latn
       completename:
-        content: P. Hoffman
+        content: T. Reddy.K
         language:
         - en
         script:
@@ -59,21 +59,21 @@ contributor:
           - en
           script:
           - Latn
-          initial: A
+          initial: J
         formatted_initials:
-          content: A.
+          content: J.
           language:
           - en
           script:
           - Latn
       surname:
-        content: Sullivan
+        content: Ekman
         language:
         - en
         script:
         - Latn
       completename:
-        content: A. Sullivan
+        content: J. Ekman
         language:
         - en
         script:
@@ -89,21 +89,21 @@ contributor:
           - en
           script:
           - Latn
-          initial: K
+          initial: D
         formatted_initials:
-          content: K.
+          content: D.
           language:
           - en
           script:
           - Latn
       surname:
-        content: Fujiwara
+        content: Migault
         language:
         - en
         script:
         - Latn
       completename:
-        content: K. Fujiwara
+        content: D. Migault
         language:
         - en
         script:
@@ -120,58 +120,35 @@ contributor:
     - content: RFC Series
   role:
   - type: authorizer
-revdate: 2019-01
+revdate: 2024-03
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "<p>The Domain Name System (DNS) is defined in literally dozens of different
-    RFCs. The terminology used by implementers and developers of DNS protocols, and
-    by operators of DNS systems, has sometimes changed in the decades since the DNS
-    was first defined. This document gives current definitions for many of the terms
-    used in the DNS in a single document.</p><p>This document obsoletes RFC 7719 and
-    updates RFC 2308.</p>"
+- content: "<p>RFC 5280 specifies several extended key purpose identifiers (KeyPurposeIds)
+    for X.509 certificates. This document defines encrypting JSON objects in HTTP
+    messages, using JSON Web Tokens (JWTs), and signing the OAuth 2.0 access tokens
+    KeyPurposeIds for inclusion in the Extended Key Usage (EKU) extension of X.509
+    v3 public key certificates used by Network Functions (NFs) for the 5G System.</p>"
   language:
   - en
   script:
   - Latn
   format: text/html
-relation:
-- type: obsoletedBy
-  bibitem:
-    id: RFC9499
-    docid:
-    - id: RFC9499
-      type: IETF
-      primary: true
-    formattedref:
-      content: RFC9499
-      format: text/plain
-- type: updates
-  bibitem:
-    id: RFC2308
-    docid:
-    - id: RFC2308
-      type: IETF
-      primary: true
-    formattedref:
-      content: RFC2308
-      format: text/plain
 series:
 - title:
     content: RFC
     format: text/plain
-  number: '8499'
+  number: '9509'
 - type: stream
   title:
     content: IETF
     format: text/plain
 keyword:
-- content: vocabulary
-- content: domain name system
+- content: 3GPP
 editorialgroup:
-- name: dnsop
+- name: lamps
 ext:
   schema-version: v1.0.1
   stream: IETF

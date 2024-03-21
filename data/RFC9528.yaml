@@ -1,24 +1,24 @@
 ---
 schema-version: v1.2.8
-id: RFC8499
+id: RFC9528
 title:
-- content: DNS Terminology
+- content: Ephemeral Diffie-Hellman Over COSE (EDHOC)
   format: text/plain
   type: main
 link:
-- content: https://www.rfc-editor.org/info/rfc8499
+- content: https://www.rfc-editor.org/info/rfc9528
   type: src
 type: standard
 docid:
-- id: RFC 8499
+- id: RFC 9528
   type: IETF
   primary: true
-- id: 10.17487/RFC8499
+- id: 10.17487/RFC9528
   type: DOI
-docnumber: RFC8499
+docnumber: RFC9528
 date:
 - type: published
-  value: 2019-01
+  value: 2024-03
 contributor:
 - person:
     name:
@@ -29,21 +29,21 @@ contributor:
           - en
           script:
           - Latn
-          initial: P
+          initial: G
         formatted_initials:
-          content: P.
+          content: G.
           language:
           - en
           script:
           - Latn
       surname:
-        content: Hoffman
+        content: Selander
         language:
         - en
         script:
         - Latn
       completename:
-        content: P. Hoffman
+        content: G. Selander
         language:
         - en
         script:
@@ -59,21 +59,21 @@ contributor:
           - en
           script:
           - Latn
-          initial: A
+          initial: J
         formatted_initials:
-          content: A.
+          content: J.
           language:
           - en
           script:
           - Latn
       surname:
-        content: Sullivan
+        content: Preuß Mattsson
         language:
         - en
         script:
         - Latn
       completename:
-        content: A. Sullivan
+        content: J. Preuß Mattsson
         language:
         - en
         script:
@@ -89,21 +89,21 @@ contributor:
           - en
           script:
           - Latn
-          initial: K
+          initial: F
         formatted_initials:
-          content: K.
+          content: F.
           language:
           - en
           script:
           - Latn
       surname:
-        content: Fujiwara
+        content: Palombini
         language:
         - en
         script:
         - Latn
       completename:
-        content: K. Fujiwara
+        content: F. Palombini
         language:
         - en
         script:
@@ -120,58 +120,44 @@ contributor:
     - content: RFC Series
   role:
   - type: authorizer
-revdate: 2019-01
+revdate: 2024-03
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "<p>The Domain Name System (DNS) is defined in literally dozens of different
-    RFCs. The terminology used by implementers and developers of DNS protocols, and
-    by operators of DNS systems, has sometimes changed in the decades since the DNS
-    was first defined. This document gives current definitions for many of the terms
-    used in the DNS in a single document.</p><p>This document obsoletes RFC 7719 and
-    updates RFC 2308.</p>"
+- content: "<p>This document specifies Ephemeral Diffie-Hellman Over COSE (EDHOC),
+    a very compact and lightweight authenticated Diffie-Hellman key exchange with
+    ephemeral keys. EDHOC provides mutual authentication, forward secrecy, and identity
+    protection. EDHOC is intended for usage in constrained scenarios, and a main use
+    case is to establish an Object Security for Constrained RESTful Environments (OSCORE)
+    security context. By reusing CBOR Object Signing and Encryption (COSE) for cryptography,
+    Concise Binary Object Representation (CBOR) for encoding, and Constrained Application
+    Protocol (CoAP) for transport, the additional code size can be kept very low.</p>"
   language:
   - en
   script:
   - Latn
   format: text/html
-relation:
-- type: obsoletedBy
-  bibitem:
-    id: RFC9499
-    docid:
-    - id: RFC9499
-      type: IETF
-      primary: true
-    formattedref:
-      content: RFC9499
-      format: text/plain
-- type: updates
-  bibitem:
-    id: RFC2308
-    docid:
-    - id: RFC2308
-      type: IETF
-      primary: true
-    formattedref:
-      content: RFC2308
-      format: text/plain
 series:
 - title:
     content: RFC
     format: text/plain
-  number: '8499'
+  number: '9528'
 - type: stream
   title:
     content: IETF
     format: text/plain
 keyword:
-- content: vocabulary
-- content: domain name system
+- content: AKE
+- content: LAKE
+- content: COSE
+- content: OSCORE
+- content: lightweight authenticated key exchange
+- content: constrained node networks
+- content: IoT security
 editorialgroup:
-- name: dnsop
+- name: lake
 ext:
   schema-version: v1.0.1
   stream: IETF
