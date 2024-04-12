@@ -1,25 +1,56 @@
 ---
 schema-version: v1.2.8
-id: RFC8829
+id: RFC9542
 title:
-- content: JavaScript Session Establishment Protocol (JSEP)
+- content: IANA Considerations and IETF Protocol and Documentation Usage for IEEE
+    802 Parameters
   format: text/plain
   type: main
 link:
-- content: https://www.rfc-editor.org/info/rfc8829
+- content: https://www.rfc-editor.org/info/rfc9542
   type: src
 type: standard
 docid:
-- id: RFC 8829
+- id: RFC 9542
   type: IETF
   primary: true
-- id: 10.17487/RFC8829
+- id: 10.17487/RFC9542
   type: DOI
-docnumber: RFC8829
+docnumber: RFC9542
 date:
 - type: published
-  value: 2021-01
+  value: 2024-04
 contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: 
+          language:
+          - en
+          script:
+          - Latn
+          initial: D
+        formatted_initials:
+          content: D.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Eastlake 3rd
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: D. Eastlake 3rd
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
 - person:
     name:
       given:
@@ -37,13 +68,13 @@ contributor:
           script:
           - Latn
       surname:
-        content: Uberti
+        content: Abley
         language:
         - en
         script:
         - Latn
       completename:
-        content: J. Uberti
+        content: J. Abley
         language:
         - en
         script:
@@ -59,57 +90,27 @@ contributor:
           - en
           script:
           - Latn
-          initial: C
+          initial: Y
         formatted_initials:
-          content: C.
+          content: Y.
           language:
           - en
           script:
           - Latn
       surname:
-        content: Jennings
+        content: Li
         language:
         - en
         script:
         - Latn
       completename:
-        content: C. Jennings
+        content: Y. Li
         language:
         - en
         script:
         - Latn
   role:
   - type: author
-- person:
-    name:
-      given:
-        forename:
-        - content: 
-          language:
-          - en
-          script:
-          - Latn
-          initial: E
-        formatted_initials:
-          content: E.
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Rescorla
-        language:
-        - en
-        script:
-        - Latn
-      completename:
-        content: E. Rescorla
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
 - organization:
     name:
     - content: RFC Publisher
@@ -120,54 +121,50 @@ contributor:
     - content: RFC Series
   role:
   - type: authorizer
-revdate: 2021-01
+revdate: 2024-04
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "<p>This document describes the mechanisms for allowing a JavaScript application
-    to control the signaling plane of a multimedia session via the interface specified
-    in the W3C RTCPeerConnection API and discusses how this relates to existing signaling
-    protocols.</p>"
+- content: "<p>Some IETF protocols make use of Ethernet frame formats and IEEE 802
+    parameters. This document discusses several aspects of such parameters and their
+    use in IETF protocols, specifies IANA considerations for assignment of points
+    under the IANA Organizationally Unique Identifier (OUI), and provides some values
+    for use in documentation. This document obsoletes RFC 7042.</p>"
   language:
   - en
   script:
   - Latn
   format: text/html
-relation:
-- type: obsoletedBy
-  bibitem:
-    id: RFC9429
-    docid:
-    - id: RFC9429
-      type: IETF
-      primary: true
-    formattedref:
-      content: RFC9429
-      format: text/plain
 series:
+- title:
+    content: BCP
+    format: text/plain
+  number: '141'
 - title:
     content: RFC
     format: text/plain
-  number: '8829'
+  number: '9542'
 - type: stream
   title:
     content: IETF
     format: text/plain
 keyword:
-- content: webrtc
-- content: sdp
-- content: negotiation
-- content: signaling
-- content: peerconnection
-- content: api
-- content: ice
-- content: rtp
-- content: offer
-- content: answer
+- content: Ethernet
+- content: EtherType
+- content: '802'
+- content: OUI
+- content: EUI
+- content: LSAP
+- content: AFN
+- content: CBOR
+- content: LLC
+- content: SLAP
+- content: SNAP
+- content: CID
 editorialgroup:
-- name: rtcweb
+- name: intarea
 ext:
   schema-version: v1.0.1
   stream: IETF

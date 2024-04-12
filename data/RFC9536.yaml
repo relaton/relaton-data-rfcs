@@ -1,25 +1,24 @@
 ---
 schema-version: v1.2.8
-id: RFC7042
+id: RFC9536
 title:
-- content: IANA Considerations and IETF Protocol and Documentation Usage for IEEE
-    802 Parameters
+- content: Registration Data Access Protocol (RDAP) Reverse Search
   format: text/plain
   type: main
 link:
-- content: https://www.rfc-editor.org/info/rfc7042
+- content: https://www.rfc-editor.org/info/rfc9536
   type: src
 type: standard
 docid:
-- id: RFC 7042
+- id: RFC 9536
   type: IETF
   primary: true
-- id: 10.17487/RFC7042
+- id: 10.17487/RFC9536
   type: DOI
-docnumber: RFC7042
+docnumber: RFC9536
 date:
 - type: published
-  value: 2013-10
+  value: 2024-04
 contributor:
 - person:
     name:
@@ -30,21 +29,21 @@ contributor:
           - en
           script:
           - Latn
-          initial: D
+          initial: M
         formatted_initials:
-          content: D.
+          content: M.
           language:
           - en
           script:
           - Latn
       surname:
-        content: Eastlake 3rd
+        content: Loffredo
         language:
         - en
         script:
         - Latn
       completename:
-        content: D. Eastlake 3rd
+        content: M. Loffredo
         language:
         - en
         script:
@@ -60,21 +59,21 @@ contributor:
           - en
           script:
           - Latn
-          initial: J
+          initial: M
         formatted_initials:
-          content: J.
+          content: M.
           language:
           - en
           script:
           - Latn
       surname:
-        content: Abley
+        content: Martinelli
         language:
         - en
         script:
         - Latn
       completename:
-        content: J. Abley
+        content: M. Martinelli
         language:
         - en
         script:
@@ -91,59 +90,40 @@ contributor:
     - content: RFC Series
   role:
   - type: authorizer
-revdate: 2013-10
+revdate: 2024-04
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "<p>Some IETF protocols make use of Ethernet frame formats and IEEE 802
-    parameters. This document discusses several uses of such parameters in IETF protocols,
-    specifies IANA considerations for assignment of points under the IANA OUI (Organizationally
-    Unique Identifier), and provides some values for use in documentation. This document
-    obsoletes RFC 5342.</p>"
+- content: "<p>The Registration Data Access Protocol (RDAP) does not include query
+    capabilities for finding the list of domains related to a set of entities matching
+    a given search pattern. Considering that an RDAP entity can be associated with
+    any defined object class and other relationships between RDAP object classes exist,
+    a reverse search can be applied to other use cases besides the classic domain-entity
+    scenario. This document describes an RDAP extension that allows servers to provide
+    a reverse search feature based on the relationship defined in RDAP between an
+    object class for search and any related object class. The reverse search based
+    on the domain-entity relationship is treated as a particular case.</p>"
   language:
   - en
   script:
   - Latn
   format: text/html
-relation:
-- type: obsoletedBy
-  bibitem:
-    id: RFC9542
-    docid:
-    - id: RFC9542
-      type: IETF
-      primary: true
-    formattedref:
-      content: RFC9542
-      format: text/plain
-- type: updates
-  bibitem:
-    id: RFC2153
-    docid:
-    - id: RFC2153
-      type: IETF
-      primary: true
-    formattedref:
-      content: RFC2153
-      format: text/plain
 series:
 - title:
     content: RFC
     format: text/plain
-  number: '7042'
+  number: '9536'
 - type: stream
   title:
     content: IETF
     format: text/plain
 keyword:
-- content: Ethernet
-- content: Ethertype
-- content: '802'
-- content: OUI
-- content: EUI
-- content: LSAP
+- content: RDAP
+- content: Reverse search
+editorialgroup:
+- name: regext
 ext:
   schema-version: v1.0.1
   stream: IETF
