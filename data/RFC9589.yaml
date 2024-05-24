@@ -1,24 +1,25 @@
 ---
 schema-version: v1.2.8
-id: RFC8398
+id: RFC9589
 title:
-- content: Internationalized Email Addresses in X.509 Certificates
+- content: On the Use of the Cryptographic Message Syntax (CMS) Signing-Time Attribute
+    in Resource Public Key Infrastructure (RPKI) Signed Objects
   format: text/plain
   type: main
 link:
-- content: https://www.rfc-editor.org/info/rfc8398
+- content: https://www.rfc-editor.org/info/rfc9589
   type: src
 type: standard
 docid:
-- id: RFC 8398
+- id: RFC 9589
   type: IETF
   primary: true
-- id: 10.17487/RFC8398
+- id: 10.17487/RFC9589
   type: DOI
-docnumber: RFC8398
+docnumber: RFC9589
 date:
 - type: published
-  value: 2018-05
+  value: 2024-05
 contributor:
 - person:
     name:
@@ -29,27 +30,27 @@ contributor:
           - en
           script:
           - Latn
-          initial: A
+          initial: J
         formatted_initials:
-          content: A.
+          content: J.
           language:
           - en
           script:
           - Latn
       surname:
-        content: Melnikov
+        content: Snijders
         language:
         - en
         script:
         - Latn
       completename:
-        content: A. Melnikov
+        content: J. Snijders
         language:
         - en
         script:
         - Latn
   role:
-  - type: editor
+  - type: author
 - person:
     name:
       given:
@@ -59,27 +60,27 @@ contributor:
           - en
           script:
           - Latn
-          initial: W
+          initial: T
         formatted_initials:
-          content: W.
+          content: T.
           language:
           - en
           script:
           - Latn
       surname:
-        content: Chuang
+        content: Harrison
         language:
         - en
         script:
         - Latn
       completename:
-        content: W. Chuang
+        content: T. Harrison
         language:
         - en
         script:
         - Latn
   role:
-  - type: editor
+  - type: author
 - organization:
     name:
     - content: RFC Publisher
@@ -90,57 +91,52 @@ contributor:
     - content: RFC Series
   role:
   - type: authorizer
-revdate: 2018-05
+revdate: 2024-05
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "<p>This document defines a new name form for inclusion in the otherName
-    field of an X.509 Subject Alternative Name and Issuer Alternative Name extension
-    that allows a certificate subject to be associated with an internationalized email
-    address.</p><p>This document updates RFC 5280.</p>"
+- content: "<p>In the Resource Public Key Infrastructure (RPKI), Signed Objects are
+    defined as Cryptographic Message Syntax (CMS) protected content types. A Signed
+    Object contains a signing-time attribute, representing the purported time at which
+    the object was signed by its issuer. RPKI repositories are accessible using the
+    rsync and RPKI Repository Delta protocols, allowing Relying Parties (RPs) to synchronize
+    a local copy of the RPKI repository used for validation with the remote repositories.
+    This document describes how the CMS signing-time attribute can be used to avoid
+    needless retransfers of data when switching between different synchronization
+    protocols. This document updates RFC 6488 by mandating the presence of the CMS
+    signing-time attribute and disallowing the use of the binary-signing-time attribute.</p>"
   language:
   - en
   script:
   - Latn
   format: text/html
 relation:
-- type: obsoletedBy
-  bibitem:
-    id: RFC9598
-    docid:
-    - id: RFC9598
-      type: IETF
-      primary: true
-    formattedref:
-      content: RFC9598
-      format: text/plain
 - type: updates
   bibitem:
-    id: RFC5280
+    id: RFC6488
     docid:
-    - id: RFC5280
+    - id: RFC6488
       type: IETF
       primary: true
     formattedref:
-      content: RFC5280
+      content: RFC6488
       format: text/plain
 series:
 - title:
     content: RFC
     format: text/plain
-  number: '8398'
+  number: '9589'
 - type: stream
   title:
     content: IETF
     format: text/plain
 keyword:
-- content: EAI
-- content: PKIX
-- content: emal address
+- content: CMS
+- content: signing-time
 editorialgroup:
-- name: lamps
+- name: sidrops
 ext:
   schema-version: v1.0.1
   stream: IETF
