@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC4635
 title:
 - content: HMAC SHA (Hashed Message Authentication Code, Secure Hash Algorithm) TSIG

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC8160
 title:
 - content: IUTF8 Terminal Mode in Secure Shell (SSH)

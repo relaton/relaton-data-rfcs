@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC9497
 title:
 - content: Oblivious Pseudorandom Functions (OPRFs) Using Prime-Order Groups

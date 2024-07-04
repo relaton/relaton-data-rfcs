@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC3881
 title:
 - content: Security Audit and Access Accountability Message XML Data Definitions for

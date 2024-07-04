@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC1712
 title:
 - content: DNS Encoding of Geographical Location

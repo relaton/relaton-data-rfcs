@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC6386
 title:
 - content: VP8 Data Format and Decoding Guide

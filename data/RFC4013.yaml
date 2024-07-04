@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC4013
 title:
 - content: 'SASLprep: Stringprep Profile for User Names and Passwords'

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC8272
 title:
 - content: TinyIPFIX for Smart Meters in Constrained Networks

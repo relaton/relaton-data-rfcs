@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC1877
 title:
 - content: PPP Internet Protocol Control Protocol Extensions for Name Server Addresses

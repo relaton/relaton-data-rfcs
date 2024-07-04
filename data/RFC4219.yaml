@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC4219
 title:
 - content: Things Multihoming in IPv6 (MULTI6) Developers Should Think About

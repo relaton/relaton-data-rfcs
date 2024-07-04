@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC2284
 title:
 - content: PPP Extensible Authentication Protocol (EAP)

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC4256
 title:
 - content: Generic Message Exchange Authentication for the Secure Shell Protocol (SSH)

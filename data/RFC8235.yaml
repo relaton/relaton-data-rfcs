@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC8235
 title:
 - content: Schnorr Non-interactive Zero-Knowledge Proof

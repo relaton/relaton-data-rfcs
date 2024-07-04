@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC5631
 title:
 - content: Session Initiation Protocol (SIP) Session Mobility

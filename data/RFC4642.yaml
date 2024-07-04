@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC4642
 title:
 - content: Using Transport Layer Security (TLS) with Network News Transfer Protocol

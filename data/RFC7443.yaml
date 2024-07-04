@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC7443
 title:
 - content: Application-Layer Protocol Negotiation (ALPN) Labels for Session Traversal

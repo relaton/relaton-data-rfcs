@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC3542
 title:
 - content: Advanced Sockets Application Program Interface (API) for IPv6

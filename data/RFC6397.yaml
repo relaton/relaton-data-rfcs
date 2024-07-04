@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC6397
 title:
 - content: Multi-Threaded Routing Toolkit (MRT) Border Gateway Protocol (BGP) Routing

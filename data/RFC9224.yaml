@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC9224
 title:
 - content: Finding the Authoritative Registration Data Access Protocol (RDAP) Service

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC7966
 title:
 - content: 'Security at the Attribute-Value Pair (AVP) Level for Non-neighboring Diameter

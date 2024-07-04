@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC1344
 title:
 - content: Implications of MIME for Internet Mail Gateways

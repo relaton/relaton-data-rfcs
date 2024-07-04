@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC6714
 title:
 - content: Connection Establishment for Media Anchoring (CEMA) for the Message Session

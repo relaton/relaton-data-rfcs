@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC9553
 title:
 - content: 'JSContact: A JSON Representation of Contact Data'

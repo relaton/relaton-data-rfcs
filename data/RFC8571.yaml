@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC8571
 title:
 - content: BGP - Link State (BGP-LS) Advertisement of IGP Traffic Engineering Performance

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC7931
 title:
 - content: 'NFSv4.0 Migration: Specification Update'

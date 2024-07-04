@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC4225
 title:
 - content: Mobile IP Version 6 Route Optimization Security Design Background

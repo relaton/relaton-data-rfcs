@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC7635
 title:
 - content: Session Traversal Utilities for NAT (STUN) Extension for Third-Party Authorization

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC7197
 title:
 - content: Duplication Delay Attribute in the Session Description Protocol

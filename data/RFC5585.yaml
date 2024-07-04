@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC5585
 title:
 - content: DomainKeys Identified Mail (DKIM) Service Overview

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC8505
 title:
 - content: Registration Extensions for IPv6 over Low-Power Wireless Personal Area

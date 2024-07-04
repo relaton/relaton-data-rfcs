@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC5126
 title:
 - content: CMS Advanced Electronic Signatures (CAdES)

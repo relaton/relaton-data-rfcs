@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC2367
 title:
 - content: PF_KEY Key Management API, Version 2

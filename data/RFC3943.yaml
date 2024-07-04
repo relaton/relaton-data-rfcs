@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC3943
 title:
 - content: Transport Layer Security (TLS) Protocol Compression Using Lempel-Ziv-Stac

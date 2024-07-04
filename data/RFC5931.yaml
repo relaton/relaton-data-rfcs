@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC5931
 title:
 - content: Extensible Authentication Protocol (EAP) Authentication Using Only a Password

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC8544
 title:
 - content: Organization Extension for the Extensible Provisioning Protocol (EPP)

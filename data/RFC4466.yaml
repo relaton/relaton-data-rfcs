@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC4466
 title:
 - content: Collected Extensions to IMAP4 ABNF

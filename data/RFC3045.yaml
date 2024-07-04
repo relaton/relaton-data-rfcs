@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC3045
 title:
 - content: Storing Vendor Information in the LDAP root DSE

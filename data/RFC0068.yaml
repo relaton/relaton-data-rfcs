@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC68
 title:
 - content: 'Comments on Memory Allocation Control Commands: CEASE, ALL, GVB, RET,

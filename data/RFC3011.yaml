@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC3011
 title:
 - content: The IPv4 Subnet Selection Option for DHCP

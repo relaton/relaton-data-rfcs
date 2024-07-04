@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC6649
 title:
 - content: Deprecate DES, RC4-HMAC-EXP, and Other Weak Cryptographic Algorithms in

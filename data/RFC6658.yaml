@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC6658
 title:
 - content: Packet Pseudowire Encapsulation over an MPLS PSN

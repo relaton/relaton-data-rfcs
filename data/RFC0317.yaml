@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC317
 title:
 - content: 'Official Host-Host Protocol Modification: Assigned Link Numbers'

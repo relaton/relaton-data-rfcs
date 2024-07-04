@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC6677
 title:
 - content: Channel-Binding Support for Extensible Authentication Protocol (EAP) Methods

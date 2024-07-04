@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC4042
 title:
 - content: UTF-9 and UTF-18 Efficient Transformation Formats of Unicode

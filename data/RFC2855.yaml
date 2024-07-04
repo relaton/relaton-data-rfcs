@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC2855
 title:
 - content: DHCP for IEEE 1394

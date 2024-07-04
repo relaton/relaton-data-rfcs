@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC6594
 title:
 - content: Use of the SHA-256 Algorithm with RSA, Digital Signature Algorithm (DSA),

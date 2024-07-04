@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC3226
 title:
 - content: DNSSEC and IPv6 A6 aware server/resolver message size requirements

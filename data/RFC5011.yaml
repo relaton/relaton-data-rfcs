@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC5011
 title:
 - content: Automated Updates of DNS Security (DNSSEC) Trust Anchors

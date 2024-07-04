@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC6619
 title:
 - content: Scalable Operation of Address Translators with Per-Interface Bindings

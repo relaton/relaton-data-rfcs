@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC8565
 title:
 - content: Hypertext Jeopardy Protocol (HTJP/1.0)

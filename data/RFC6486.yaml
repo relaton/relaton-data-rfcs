@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC6486
 title:
 - content: Manifests for the Resource Public Key Infrastructure (RPKI)

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC3137
 title:
 - content: OSPF Stub Router Advertisement

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC8793
 title:
 - content: 'Information-Centric Networking (ICN): Content-Centric Networking (CCNx)

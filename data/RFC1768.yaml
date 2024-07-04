@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC1768
 title:
 - content: Host Group Extensions for CLNP Multicasting

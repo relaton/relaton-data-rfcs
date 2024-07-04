@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC4875
 title:
 - content: Extensions to Resource Reservation Protocol - Traffic Engineering (RSVP-TE)

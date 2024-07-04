@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC7949
 title:
 - content: OSPFv3 over IPv4 for IPv6 Transition

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC708
 title:
 - content: Elements of a Distributed Programming System

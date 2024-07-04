@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC592
 title:
 - content: Some thoughts on system design to facilitate resource sharing

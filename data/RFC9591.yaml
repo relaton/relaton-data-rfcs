@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC9591
 title:
 - content: The Flexible Round-Optimized Schnorr Threshold (FROST) Protocol for Two-Round

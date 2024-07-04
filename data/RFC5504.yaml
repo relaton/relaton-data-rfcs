@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC5504
 title:
 - content: Downgrading Mechanism for Email Address Internationalization

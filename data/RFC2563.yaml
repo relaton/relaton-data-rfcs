@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC2563
 title:
 - content: DHCP Option to Disable Stateless Auto-Configuration in IPv4 Clients

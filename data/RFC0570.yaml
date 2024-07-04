@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC570
 title:
 - content: Experimental input mapping between NVT ASCII and UCSB On Line System

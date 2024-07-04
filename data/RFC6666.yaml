@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC6666
 title:
 - content: A Discard Prefix for IPv6

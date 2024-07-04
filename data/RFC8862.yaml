@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC8862
 title:
 - content: Best Practices for Securing RTP Media Signaled with SIP

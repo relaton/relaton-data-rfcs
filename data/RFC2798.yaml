@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC2798
 title:
 - content: Definition of the inetOrgPerson LDAP Object Class

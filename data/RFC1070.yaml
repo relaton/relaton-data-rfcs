@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC1070
 title:
 - content: Use of the Internet as a subnetwork for experimentation with the OSI network

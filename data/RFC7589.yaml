@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC7589
 title:
 - content: Using the NETCONF Protocol over Transport Layer Security (TLS) with Mutual

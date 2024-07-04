@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC6626
 title:
 - content: Dynamic Prefix Allocation for Network Mobility for Mobile IPv4 (NEMOv4)

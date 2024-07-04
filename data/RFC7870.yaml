@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC7870
 title:
 - content: Dual-Stack Lite (DS-Lite) Management Information Base (MIB) for Address

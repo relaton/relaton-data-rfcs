@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC5317
 title:
 - content: Joint Working Team (JWT) Report on MPLS Architectural Considerations for

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC4902
 title:
 - content: Integrity, Privacy, and Security in Open Pluggable Edge Services (OPES)

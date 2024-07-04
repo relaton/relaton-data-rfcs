@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC1504
 title:
 - content: 'Appletalk Update-Based Routing Protocol: Enhanced Appletalk Routing'

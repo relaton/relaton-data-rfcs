@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC3518
 title:
 - content: Point-to-Point Protocol (PPP) Bridging Control Protocol (BCP)

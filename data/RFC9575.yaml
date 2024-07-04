@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC9575
 title:
 - content: DRIP Entity Tag (DET) Authentication Formats and Protocols for Broadcast

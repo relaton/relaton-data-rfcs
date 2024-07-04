@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC7150
 title:
 - content: Conveying Vendor-Specific Constraints in the Path Computation Element Communication

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC6216
 title:
 - content: Example Call Flows Using Session Initiation Protocol (SIP) Security Mechanisms

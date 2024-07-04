@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC7506
 title:
 - content: IPv6 Router Alert Option for MPLS Operations, Administration, and Maintenance

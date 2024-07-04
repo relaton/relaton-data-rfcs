@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC9326
 title:
 - content: In Situ Operations, Administration, and Maintenance (IOAM) Direct Exporting

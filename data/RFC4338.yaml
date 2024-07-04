@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC4338
 title:
 - content: Transmission of IPv6, IPv4, and Address Resolution Protocol (ARP) Packets

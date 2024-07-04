@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC6578
 title:
 - content: Collection Synchronization for Web Distributed Authoring and Versioning

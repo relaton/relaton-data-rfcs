@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC109
 title:
 - content: Level III Server Protocol for the Lincoln Laboratory 360/67 Host

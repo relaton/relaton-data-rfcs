@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC8569
 title:
 - content: Content-Centric Networking (CCNx) Semantics

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC5128
 title:
 - content: State of Peer-to-Peer (P2P) Communication across Network Address Translators

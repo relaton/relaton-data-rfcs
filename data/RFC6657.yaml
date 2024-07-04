@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC6657
 title:
 - content: Update to MIME regarding "charset" Parameter Handling in Textual Media

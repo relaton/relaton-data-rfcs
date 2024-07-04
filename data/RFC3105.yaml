@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC3105
 title:
 - content: Finding an RSIP Server with SLP

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC5455
 title:
 - content: Diffserv-Aware Class-Type Object for the Path Computation Element Communication

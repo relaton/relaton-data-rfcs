@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC8751
 title:
 - content: Hierarchical Stateful Path Computation Element (PCE)

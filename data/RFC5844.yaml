@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC5844
 title:
 - content: IPv4 Support for Proxy Mobile IPv6

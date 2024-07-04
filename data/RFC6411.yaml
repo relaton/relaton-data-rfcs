@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC6411
 title:
 - content: Applicability of Keying Methods for RSVP Security

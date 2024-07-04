@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC9363
 title:
 - content: A YANG Data Model for Static Context Header Compression (SCHC)

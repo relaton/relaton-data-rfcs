@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC166
 title:
 - content: 'Data Reconfiguration Service: An implementation specification'

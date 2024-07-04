@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC8214
 title:
 - content: Virtual Private Wire Service Support in Ethernet VPN

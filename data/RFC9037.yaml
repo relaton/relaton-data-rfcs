@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC9037
 title:
 - content: 'Deterministic Networking (DetNet) Data Plane: MPLS over IEEE 802.1 Time-Sensitive

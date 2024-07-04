@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC4486
 title:
 - content: Subcodes for BGP Cease Notification Message

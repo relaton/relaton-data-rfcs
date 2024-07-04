@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC9521
 title:
 - content: Bidirectional Forwarding Detection (BFD) for  Generic Network Virtualization

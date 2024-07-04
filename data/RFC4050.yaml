@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC4050
 title:
 - content: Using the Elliptic Curve Signature Algorithm (ECDSA) for XML Digital Signatures

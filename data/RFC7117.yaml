@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC7117
 title:
 - content: Multicast in Virtual Private LAN Service (VPLS)

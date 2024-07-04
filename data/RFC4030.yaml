@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC4030
 title:
 - content: The Authentication Suboption for the Dynamic Host Configuration Protocol

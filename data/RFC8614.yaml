@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC8614
 title:
 - content: Updated Processing of Control Flags for BGP Virtual Private LAN Service

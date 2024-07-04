@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC7220
 title:
 - content: Description Option for the Port Control Protocol (PCP)

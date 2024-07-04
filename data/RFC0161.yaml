@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC161
 title:
 - content: Solution to the race condition in the ICP

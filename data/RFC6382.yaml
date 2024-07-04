@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC6382
 title:
 - content: Unique Origin Autonomous System Numbers (ASNs) per Node for Globally Anycasted

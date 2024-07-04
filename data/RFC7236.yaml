@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC7236
 title:
 - content: Initial Hypertext Transfer Protocol (HTTP) Authentication Scheme Registrations

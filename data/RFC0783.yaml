@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC783
 title:
 - content: TFTP Protocol (revision 2)

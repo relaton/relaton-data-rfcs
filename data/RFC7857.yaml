@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC7857
 title:
 - content: Updates to Network Address Translation (NAT) Behavioral Requirements

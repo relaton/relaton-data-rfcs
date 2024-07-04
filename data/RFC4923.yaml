@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC4923
 title:
 - content: Quality of Service (QoS) Signaling in a Nested Virtual Private Network

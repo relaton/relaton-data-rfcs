@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC9211
 title:
 - content: The Cache-Status HTTP Response Header Field

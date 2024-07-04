@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC5131
 title:
 - content: A MIB Textual Convention for Language Tags

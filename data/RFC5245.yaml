@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC5245
 title:
 - content: 'Interactive Connectivity Establishment (ICE): A Protocol for Network Address

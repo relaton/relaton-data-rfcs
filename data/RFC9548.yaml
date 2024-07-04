@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC9548
 title:
 - content: Generating Transport Key Containers (PFX) Using the GOST Algorithms

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC2505
 title:
 - content: Anti-Spam Recommendations for SMTP MTAs

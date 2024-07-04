@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC4438
 title:
 - content: Fibre-Channel Name Server MIB

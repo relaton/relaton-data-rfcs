@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC9452
 title:
 - content: Network Service Header (NSH) Encapsulation for In Situ OAM (IOAM) Data

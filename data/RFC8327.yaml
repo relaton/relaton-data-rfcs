@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC8327
 title:
 - content: Mitigating the Negative Impact of Maintenance through BGP Session Culling

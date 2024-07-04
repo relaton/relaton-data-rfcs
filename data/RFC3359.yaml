@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC3359
 title:
 - content: Reserved Type, Length and Value (TLV) Codepoints in Intermediate System

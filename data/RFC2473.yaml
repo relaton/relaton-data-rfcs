@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC2473
 title:
 - content: Generic Packet Tunneling in IPv6 Specification

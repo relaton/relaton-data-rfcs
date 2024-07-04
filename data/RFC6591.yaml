@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC6591
 title:
 - content: Authentication Failure Reporting Using the Abuse Reporting Format

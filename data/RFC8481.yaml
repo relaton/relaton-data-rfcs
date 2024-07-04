@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC8481
 title:
 - content: Clarifications to BGP Origin Validation Based on Resource Public Key Infrastructure

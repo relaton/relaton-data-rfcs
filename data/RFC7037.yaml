@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC7037
 title:
 - content: RADIUS Option for the DHCPv6 Relay Agent

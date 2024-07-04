@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC9545
 title:
 - content: Path Segment Identifier in MPLS-Based Segment Routing Networks

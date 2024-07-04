@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC6953
 title:
 - content: 'Protocol to Access White-Space (PAWS) Databases: Use Cases and Requirements'

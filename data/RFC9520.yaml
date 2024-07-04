@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC9520
 title:
 - content: Negative Caching of DNS Resolution Failures

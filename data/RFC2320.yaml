@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC2320
 title:
 - content: Definitions of Managed Objects for Classical IP and ARP Over ATM Using

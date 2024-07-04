@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC8286
 title:
 - content: RTP/RTCP Extension for RTP Splicing Notification

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC3312
 title:
 - content: Integration of Resource Management and Session Initiation Protocol (SIP)

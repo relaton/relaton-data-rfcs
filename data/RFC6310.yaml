@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC6310
 title:
 - content: Pseudowire (PW) Operations, Administration, and Maintenance (OAM) Message

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC7043
 title:
 - content: Resource Records for EUI-48 and EUI-64 Addresses in the DNS

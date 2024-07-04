@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC6332
 title:
 - content: Multicast Acquisition Report Block Type for RTP Control Protocol (RTCP)

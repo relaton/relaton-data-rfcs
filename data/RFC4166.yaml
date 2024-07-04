@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC4166
 title:
 - content: Telephony Signalling Transport over Stream Control Transmission Protocol

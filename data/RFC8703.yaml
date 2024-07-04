@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC8703
 title:
 - content: Dynamic Link Exchange Protocol (DLEP) Link Identifier Extension

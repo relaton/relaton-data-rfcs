@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC3431
 title:
 - content: 'Sieve Extension: Relational Tests'

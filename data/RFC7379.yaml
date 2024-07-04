@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC7379
 title:
 - content: Problem Statement and Goals for Active-Active Connection at the Transparent

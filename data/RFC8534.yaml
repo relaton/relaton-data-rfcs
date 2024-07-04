@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC8534
 title:
 - content: Explicit Tracking with Wildcard Routes in Multicast VPN

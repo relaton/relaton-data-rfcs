@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC8420
 title:
 - content: Using the Edwards-Curve Digital Signature Algorithm (EdDSA) in the Internet

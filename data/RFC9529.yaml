@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC9529
 title:
 - content: Traces of Ephemeral Diffie-Hellman Over COSE (EDHOC)

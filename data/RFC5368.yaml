@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC5368
 title:
 - content: Referring to Multiple Resources in the Session Initiation Protocol (SIP)

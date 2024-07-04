@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC8867
 title:
 - content: Test Cases for Evaluating Congestion Control for Interactive Real-Time

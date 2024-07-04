@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC4881
 title:
 - content: Low-Latency Handoffs in Mobile IPv4

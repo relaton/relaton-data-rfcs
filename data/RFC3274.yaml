@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC3274
 title:
 - content: Compressed Data Content Type for Cryptographic Message Syntax (CMS)

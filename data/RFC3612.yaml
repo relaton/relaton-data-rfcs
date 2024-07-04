@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC3612
 title:
 - content: Applicability Statement for Restart Mechanisms for the Label Distribution

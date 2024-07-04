@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC5098
 title:
 - content: Signaling MIB for PacketCable and IPCablecom Multimedia Terminal Adapters

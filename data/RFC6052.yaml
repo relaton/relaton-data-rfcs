@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC6052
 title:
 - content: IPv6 Addressing of IPv4/IPv6 Translators

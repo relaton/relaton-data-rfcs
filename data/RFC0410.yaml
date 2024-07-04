@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC410
 title:
 - content: Removal of the 30-Second Delay When Hosts Come Up

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC6926
 title:
 - content: DHCPv4 Bulk Leasequery

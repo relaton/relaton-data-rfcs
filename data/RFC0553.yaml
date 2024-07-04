@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC553
 title:
 - content: Draft design for a text/graphics protocol

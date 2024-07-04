@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC2910
 title:
 - content: 'Internet Printing Protocol/1.1: Encoding and Transport'

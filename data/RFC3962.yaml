@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC3962
 title:
 - content: Advanced Encryption Standard (AES) Encryption for Kerberos 5

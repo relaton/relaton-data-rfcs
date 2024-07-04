@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC4675
 title:
 - content: RADIUS Attributes for Virtual LAN and Priority Support

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC4543
 title:
 - content: The Use of Galois Message Authentication Code (GMAC) in IPsec ESP and AH

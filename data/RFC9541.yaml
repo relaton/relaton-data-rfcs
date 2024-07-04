@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC9541
 title:
 - content: Flush Mechanism for Customer MAC Addresses Based on Service Instance Identifier

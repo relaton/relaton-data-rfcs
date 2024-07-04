@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC9572
 title:
 - content: Updates to EVPN Broadcast, Unknown Unicast, or Multicast (BUM) Procedures

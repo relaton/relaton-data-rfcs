@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC4832
 title:
 - content: Security Threats to Network-Based Localized Mobility Management (NETLMM)

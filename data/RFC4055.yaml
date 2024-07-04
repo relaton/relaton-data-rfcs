@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC4055
 title:
 - content: Additional Algorithms and Identifiers for RSA Cryptography for use in the

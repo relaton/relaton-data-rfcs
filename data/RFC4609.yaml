@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC4609
 title:
 - content: Protocol Independent Multicast - Sparse Mode (PIM-SM) Multicast Routing

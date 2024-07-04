@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC9531
 title:
 - content: Path Steering in Content-Centric Networking (CCNx) and Named Data Networking

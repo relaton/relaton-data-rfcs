@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC8670
 title:
 - content: BGP Prefix Segment in Large-Scale Data Centers

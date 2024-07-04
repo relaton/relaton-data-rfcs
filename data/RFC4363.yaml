@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC4363
 title:
 - content: Definitions of Managed Objects for Bridges with Traffic Classes, Multicast

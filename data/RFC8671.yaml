@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC8671
 title:
 - content: Support for Adj-RIB-Out in the BGP Monitoring Protocol (BMP)

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC689
 title:
 - content: Tenex NCP finite state machine for connections

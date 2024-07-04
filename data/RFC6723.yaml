@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC6723
 title:
 - content: Update of the Pseudowire Control-Word Negotiation Mechanism

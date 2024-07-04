@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC7901
 title:
 - content: CHAIN Query Requests in DNS

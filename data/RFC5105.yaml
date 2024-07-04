@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC5105
 title:
 - content: ENUM Validation Token Format Definition

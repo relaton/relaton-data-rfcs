@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC9351
 title:
 - content: Border Gateway Protocol - Link State (BGP-LS) Extensions for Flexible Algorithm

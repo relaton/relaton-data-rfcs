@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC1952
 title:
 - content: GZIP file format specification version 4.3

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC4419
 title:
 - content: Diffie-Hellman Group Exchange for the Secure Shell (SSH) Transport Layer

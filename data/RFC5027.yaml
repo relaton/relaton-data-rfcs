@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC5027
 title:
 - content: Security Preconditions for Session Description Protocol (SDP) Media Streams

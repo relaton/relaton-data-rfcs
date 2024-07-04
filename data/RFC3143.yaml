@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC3143
 title:
 - content: Known HTTP Proxy/Caching Problems

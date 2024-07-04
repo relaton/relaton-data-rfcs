@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC6074
 title:
 - content: Provisioning, Auto-Discovery, and Signaling in Layer 2 Virtual Private

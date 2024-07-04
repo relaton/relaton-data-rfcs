@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC4789
 title:
 - content: Simple Network Management Protocol (SNMP) over IEEE 802 Networks

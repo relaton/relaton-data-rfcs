@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC7660
 title:
 - content: Diameter Congestion and Filter Attributes

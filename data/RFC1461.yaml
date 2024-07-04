@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC1461
 title:
 - content: SNMP MIB extension for Multiprotocol Interconnect over X.25

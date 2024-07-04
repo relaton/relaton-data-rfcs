@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC6703
 title:
 - content: 'Reporting IP Network Performance Metrics: Different Points of View'

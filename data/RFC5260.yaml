@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC5260
 title:
 - content: 'Sieve Email Filtering: Date and Index Extensions'

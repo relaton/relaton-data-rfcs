@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC7078
 title:
 - content: Distributing Address Selection Policy Using DHCPv6

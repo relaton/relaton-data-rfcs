@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC5967
 title:
 - content: The application/pkcs10 Media Type

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC9106
 title:
 - content: Argon2 Memory-Hard Function for Password Hashing and Proof-of-Work Applications

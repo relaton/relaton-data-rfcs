@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC9533
 title:
 - content: One-Way and Two-Way Active Measurement Protocol Extensions for Performance

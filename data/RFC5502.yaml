@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC5502
 title:
 - content: The SIP P-Served-User Private-Header (P-Header) for the 3GPP IP Multimedia

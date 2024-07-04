@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC1931
 title:
 - content: Dynamic RARP Extensions for Automatic Network Address Acquisition

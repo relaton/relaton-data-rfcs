@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC5938
 title:
 - content: Individual Session Control Feature for the Two-Way Active Measurement Protocol

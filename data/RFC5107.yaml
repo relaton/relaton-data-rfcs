@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC5107
 title:
 - content: DHCP Server Identifier Override Suboption

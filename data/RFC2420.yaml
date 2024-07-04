@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC2420
 title:
 - content: The PPP Triple-DES Encryption Protocol (3DESE)

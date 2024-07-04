@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC7756
 title:
 - content: 'Stateless IP/ICMP Translation for IPv6 Internet Data Center Environments

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC9586
 title:
 - content: IMAP Extension for Using and Returning Unique Identifiers (UIDs) Only

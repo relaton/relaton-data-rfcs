@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC5253
 title:
 - content: Applicability Statement for Layer 1 Virtual Private Network (L1VPN) Basic

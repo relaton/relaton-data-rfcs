@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC505
 title:
 - content: Two solutions to a file transfer access problem

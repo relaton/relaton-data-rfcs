@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC5895
 title:
 - content: Mapping Characters for Internationalized Domain Names in Applications (IDNA)

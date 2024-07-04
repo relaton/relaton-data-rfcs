@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC8189
 title:
 - content: Multi-Cost Application-Layer Traffic Optimization (ALTO)

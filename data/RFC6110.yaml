@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC6110
 title:
 - content: Mapping YANG to Document Schema Definition Languages and Validating NETCONF

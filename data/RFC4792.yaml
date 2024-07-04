@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC4792
 title:
 - content: Encoding Instructions for the Generic String Encoding Rules (GSER)

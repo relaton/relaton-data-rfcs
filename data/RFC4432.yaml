@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC4432
 title:
 - content: RSA Key Exchange for the Secure Shell (SSH) Transport Layer Protocol

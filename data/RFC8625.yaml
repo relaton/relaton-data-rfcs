@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC8625
 title:
 - content: Ethernet Traffic Parameters with Availability Information

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC8227
 title:
 - content: MPLS-TP Shared-Ring Protection (MSRP) Mechanism for Ring Topology

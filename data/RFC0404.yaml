@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC404
 title:
 - content: Host Address Changes Involving Rand and ISI

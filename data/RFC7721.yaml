@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC7721
 title:
 - content: Security and Privacy Considerations for IPv6 Address Generation Mechanisms

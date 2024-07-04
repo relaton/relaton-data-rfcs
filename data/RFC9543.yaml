@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC9543
 title:
 - content: A Framework for Network Slices in Networks Built from IETF Technologies

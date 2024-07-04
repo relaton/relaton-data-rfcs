@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC1002
 title:
 - content: 'Protocol standard for a NetBIOS service on a TCP/UDP transport: Detailed

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC6610
 title:
 - content: DHCP Options for Home Information Discovery in Mobile IPv6 (MIPv6)

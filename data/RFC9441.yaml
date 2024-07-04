@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC9441
 title:
 - content: Static Context Header Compression (SCHC) Compound Acknowledgement (ACK)

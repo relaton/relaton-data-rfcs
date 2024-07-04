@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC8493
 title:
 - content: The BagIt File Packaging Format (V1.0)

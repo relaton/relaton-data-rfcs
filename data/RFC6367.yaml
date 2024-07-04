@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC6367
 title:
 - content: Addition of the Camellia Cipher Suites to Transport Layer Security (TLS)

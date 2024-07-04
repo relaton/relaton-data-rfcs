@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC9587
 title:
 - content: YANG Data Model for OSPFv3 Extended Link State Advertisements (LSAs)

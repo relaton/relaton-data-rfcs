@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC4545
 title:
 - content: Definitions of Managed Objects for IP Storage User Identity Authorization

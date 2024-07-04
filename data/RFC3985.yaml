@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC3985
 title:
 - content: Pseudo Wire Emulation Edge-to-Edge (PWE3) Architecture

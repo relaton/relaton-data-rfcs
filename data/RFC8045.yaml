@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC8045
 title:
 - content: RADIUS Extensions for IP Port Configuration and Reporting

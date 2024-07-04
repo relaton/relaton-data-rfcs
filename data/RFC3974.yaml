@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC3974
 title:
 - content: SMTP Operational Experience in Mixed IPv4/v6 Environments

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC71
 title:
 - content: Reallocation in Case of Input Error

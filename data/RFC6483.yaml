@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC6483
 title:
 - content: Validation of Route Origination Using the Resource Certificate Public Key

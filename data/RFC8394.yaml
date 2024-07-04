@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC8394
 title:
 - content: Split Network Virtualization Edge (Split-NVE) Control-Plane Requirements

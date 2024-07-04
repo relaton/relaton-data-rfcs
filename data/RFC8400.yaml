@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC8400
 title:
 - content: Extensions to RSVP-TE for Label Switched Path (LSP) Egress Protection

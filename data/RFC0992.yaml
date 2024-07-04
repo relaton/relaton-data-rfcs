@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC992
 title:
 - content: On communication support for fault tolerant process groups

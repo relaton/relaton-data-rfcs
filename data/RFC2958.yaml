@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC2958
 title:
 - content: The application/whoispp-response Content-type

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC9034
 title:
 - content: Packet Delivery Deadline Time in the Routing Header for IPv6 over Low-Power

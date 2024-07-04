@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC8992
 title:
 - content: Autonomic IPv6 Edge Prefix Management in Large-Scale Networks

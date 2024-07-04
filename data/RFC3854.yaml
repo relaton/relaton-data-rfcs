@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC3854
 title:
 - content: Securing X.400 Content with Secure/Multipurpose Internet Mail Extensions

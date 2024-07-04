@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC4429
 title:
 - content: Optimistic Duplicate Address Detection (DAD) for IPv6

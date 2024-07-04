@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC3429
 title:
 - content: Assignment of the 'OAM Alert Label' for Multiprotocol Label Switching Architecture

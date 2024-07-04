@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC7191
 title:
 - content: Cryptographic Message Syntax (CMS) Key Package Receipt and Error Content

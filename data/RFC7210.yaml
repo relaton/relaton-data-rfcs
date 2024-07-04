@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC7210
 title:
 - content: Database of Long-Lived Symmetric Cryptographic Keys

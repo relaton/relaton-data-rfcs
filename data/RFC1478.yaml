@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC1478
 title:
 - content: An Architecture for Inter-Domain Policy Routing

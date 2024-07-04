@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC3893
 title:
 - content: Session Initiation Protocol (SIP) Authenticated Identity Body (AIB) Format

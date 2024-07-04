@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC7959
 title:
 - content: Block-Wise Transfers in the Constrained Application Protocol (CoAP)

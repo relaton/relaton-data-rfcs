@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC5935
 title:
 - content: Expressing SNMP SMI Datatypes in XML Schema Definition Language

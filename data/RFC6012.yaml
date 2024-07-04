@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC6012
 title:
 - content: Datagram Transport Layer Security (DTLS) Transport Mapping for Syslog

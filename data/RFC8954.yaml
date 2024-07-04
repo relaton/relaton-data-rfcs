@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC8954
 title:
 - content: Online Certificate Status Protocol (OCSP) Nonce Extension

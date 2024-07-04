@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC8754
 title:
 - content: IPv6 Segment Routing Header (SRH)

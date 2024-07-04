@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC8815
 title:
 - content: Deprecating Any-Source Multicast (ASM) for Interdomain Multicast

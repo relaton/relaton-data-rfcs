@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC4135
 title:
 - content: Goals of Detecting Network Attachment in IPv6

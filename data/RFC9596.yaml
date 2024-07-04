@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC9596
 title:
 - content: CBOR Object Signing and Encryption (COSE) "typ" (type) Header Parameter

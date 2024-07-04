@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC2756
 title:
 - content: Hyper Text Caching Protocol (HTCP/0.0)

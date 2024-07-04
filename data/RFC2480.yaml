@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC2480
 title:
 - content: Gateways and MIME Security Multiparts

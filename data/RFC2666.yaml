@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC2666
 title:
 - content: Definitions of Object Identifiers for Identifying Ethernet Chip Sets

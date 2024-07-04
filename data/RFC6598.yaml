@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC6598
 title:
 - content: IANA-Reserved IPv4 Prefix for Shared Address Space

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC2333
 title:
 - content: NHRP Protocol Applicability Statement

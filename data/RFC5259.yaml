@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC5259
 title:
 - content: Internet Message Access Protocol - CONVERT Extension

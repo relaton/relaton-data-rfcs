@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC9392
 title:
 - content: Sending RTP Control Protocol (RTCP) Feedback for Congestion Control in

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC976
 title:
 - content: UUCP mail interchange format standard

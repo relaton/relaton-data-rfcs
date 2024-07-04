@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC7566
 title:
 - content: Enumservice Registration for 'acct' URI

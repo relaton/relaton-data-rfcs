@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC2811
 title:
 - content: 'Internet Relay Chat: Channel Management'

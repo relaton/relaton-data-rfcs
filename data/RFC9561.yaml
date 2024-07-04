@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC9561
 title:
 - content: Using the Parallel NFS (pNFS) SCSI Layout to Access Non-Volatile Memory

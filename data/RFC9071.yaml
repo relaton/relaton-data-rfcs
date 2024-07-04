@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC9071
 title:
 - content: RTP-Mixer Formatting of Multiparty Real-Time Text

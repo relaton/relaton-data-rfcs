@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC2739
 title:
 - content: Calendar Attributes for vCard and LDAP

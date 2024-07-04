@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC2569
 title:
 - content: Mapping between LPD and IPP Protocols

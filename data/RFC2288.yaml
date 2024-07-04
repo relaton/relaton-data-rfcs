@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC2288
 title:
 - content: Using Existing Bibliographic Identifiers as Uniform Resource Names

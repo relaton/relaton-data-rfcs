@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC9238
 title:
 - content: Loading Manufacturer Usage Description (MUD) URLs from QR Codes

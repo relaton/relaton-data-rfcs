@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC8650
 title:
 - content: Dynamic Subscription to YANG Events and Datastores over RESTCONF

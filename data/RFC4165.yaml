@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC4165
 title:
 - content: Signaling System 7 (SS7) Message Transfer Part 2 (MTP2) - User Peer-to-Peer

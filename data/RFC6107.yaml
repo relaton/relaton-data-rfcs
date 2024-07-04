@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC6107
 title:
 - content: Procedures for Dynamically Signaled Hierarchical Label Switched Paths

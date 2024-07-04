@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC5349
 title:
 - content: Elliptic Curve Cryptography (ECC) Support for Public Key Cryptography for

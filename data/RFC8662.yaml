@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC8662
 title:
 - content: Entropy Label for Source Packet Routing in Networking (SPRING) Tunnels

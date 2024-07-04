@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC2302
 title:
 - content: Tag Image File Format (TIFF) - image/tiff MIME Sub-type Registration

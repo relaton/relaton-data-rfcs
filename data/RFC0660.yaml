@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: RFC660
 title:
 - content: Some changes to the IMP and the IMP/Host interface
