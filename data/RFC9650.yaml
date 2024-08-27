@@ -1,24 +1,25 @@
 ---
 schema-version: v1.2.9
-id: RFC8954
+id: RFC9650
 title:
-- content: Online Certificate Status Protocol (OCSP) Nonce Extension
+- content: Revision to Registration Procedures for IS-IS Neighbor Link-Attribute Bit
+    Values
   format: text/plain
   type: main
 link:
-- content: https://www.rfc-editor.org/info/rfc8954
+- content: https://www.rfc-editor.org/info/rfc9650
   type: src
 type: standard
 docid:
-- id: RFC 8954
+- id: RFC 9650
   type: IETF
   primary: true
-- id: 10.17487/RFC8954
+- id: 10.17487/RFC9650
   type: DOI
-docnumber: RFC8954
+docnumber: RFC9650
 date:
 - type: published
-  value: 2020-11
+  value: 2024-08
 contributor:
 - person:
     name:
@@ -29,27 +30,27 @@ contributor:
           - en
           script:
           - Latn
-          initial: M
+          initial: T
         formatted_initials:
-          content: M.
+          content: T.
           language:
           - en
           script:
           - Latn
       surname:
-        content: Sahni
+        content: Li
         language:
         - en
         script:
         - Latn
       completename:
-        content: M. Sahni
+        content: T. Li
         language:
         - en
         script:
         - Latn
   role:
-  - type: editor
+  - type: author
 - organization:
     name:
     - content: RFC Publisher
@@ -60,57 +61,43 @@ contributor:
     - content: RFC Series
   role:
   - type: authorizer
-revdate: 2020-11
+revdate: 2024-08
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "<p>This document specifies the updated format of the Nonce extension in
-    the Online Certificate Status Protocol (OCSP) request and response messages. OCSP
-    is used to check the status of a certificate, and the Nonce extension is used
-    to cryptographically bind an OCSP response message to a particular OCSP request
-    message. This document updates RFC 6960.</p>"
+- content: <p>RFC 5029, "Definition of an IS-IS Link Attribute Sub-TLV", defines an
+    IANA registry called "IS-IS Neighbor Link-Attribute Bit Values". This document
+    changes the registration procedure for that registry from "Standards Action" to
+    "Expert Review". This document updates RFC 5029.</p>
   language:
   - en
   script:
   - Latn
   format: text/html
 relation:
-- type: obsoletedBy
-  bibitem:
-    id: RFC9654
-    docid:
-    - id: RFC9654
-      type: IETF
-      primary: true
-    formattedref:
-      content: RFC9654
-      format: text/plain
 - type: updates
   bibitem:
-    id: RFC6960
+    id: RFC5029
     docid:
-    - id: RFC6960
+    - id: RFC5029
       type: IETF
       primary: true
     formattedref:
-      content: RFC6960
+      content: RFC5029
       format: text/plain
 series:
 - title:
     content: RFC
     format: text/plain
-  number: '8954'
+  number: '9650'
 - type: stream
   title:
     content: IETF
     format: text/plain
-keyword:
-- content: OCSP Nonce Length
-- content: OCSP Nonce Randomness
 editorialgroup:
-- name: lamps
+- name: lsr
 ext:
   schema-version: v1.0.1
   stream: IETF
