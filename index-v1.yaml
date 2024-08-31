@@ -18811,6 +18811,12 @@
   :file: data/RFC9597.yaml
 - :id: RFC 9598
   :file: data/RFC9598.yaml
+- :id: RFC 9599
+  :file: data/RFC9599.yaml
+- :id: RFC 9600
+  :file: data/RFC9600.yaml
+- :id: RFC 9601
+  :file: data/RFC9601.yaml
 - :id: RFC 9603
   :file: data/RFC9603.yaml
 - :id: RFC 9604
@@ -18835,6 +18841,8 @@
   :file: data/RFC9615.yaml
 - :id: RFC 9617
   :file: data/RFC9617.yaml
+- :id: RFC 9618
+  :file: data/RFC9618.yaml
 - :id: RFC 9619
   :file: data/RFC9619.yaml
 - :id: RFC 9629
