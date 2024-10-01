@@ -1,24 +1,24 @@
 ---
 schema-version: v1.2.9
-id: RFC8941
+id: RFC9652
 title:
-- content: Structured Field Values for HTTP
+- content: The Link-Template HTTP Header Field
   format: text/plain
   type: main
 link:
-- content: https://www.rfc-editor.org/info/rfc8941
+- content: https://www.rfc-editor.org/info/rfc9652
   type: src
 type: standard
 docid:
-- id: RFC 8941
+- id: RFC 9652
   type: IETF
   primary: true
-- id: 10.17487/RFC8941
+- id: 10.17487/RFC9652
   type: DOI
-docnumber: RFC8941
+docnumber: RFC9652
 date:
 - type: published
-  value: 2021-02
+  value: 2024-09
 contributor:
 - person:
     name:
@@ -50,22 +50,6 @@ contributor:
         - Latn
   role:
   - type: author
-- person:
-    name:
-      surname:
-        content: P-H. Kamp
-        language:
-        - en
-        script:
-        - Latn
-      completename:
-        content: P-H. Kamp
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: author
 - organization:
     name:
     - content: RFC Publisher
@@ -76,47 +60,33 @@ contributor:
     - content: RFC Series
   role:
   - type: authorizer
-revdate: 2021-02
+revdate: 2024-09
 language:
 - en
 script:
 - Latn
 abstract:
-- content: <p>This document describes a set of data types and associated algorithms
-    that are intended to make it easier and safer to define and handle HTTP header
-    and trailer fields, known as "Structured Fields", "Structured Headers", or "Structured
-    Trailers". It is intended for use by specifications of new HTTP fields that wish
-    to use a common syntax that is more restrictive than traditional HTTP field values.</p>
+- content: "<p>This specification defines the Link-Template HTTP header field, providing
+    a means for describing the structure of a link between two resources so that new
+    links can be generated.</p>"
   language:
   - en
   script:
   - Latn
   format: text/html
-relation:
-- type: obsoletedBy
-  bibitem:
-    id: RFC9651
-    docid:
-    - id: RFC9651
-      type: IETF
-      primary: true
-    formattedref:
-      content: RFC9651
-      format: text/plain
 series:
 - title:
     content: RFC
     format: text/plain
-  number: '8941'
+  number: '9652'
 - type: stream
   title:
     content: IETF
     format: text/plain
 keyword:
-- content: trailer
-- content: header
+- content: link relation
 editorialgroup:
-- name: httpbis
+- name: httpapi
 ext:
   schema-version: v1.0.1
   stream: IETF

@@ -18871,10 +18871,16 @@
   :file: data/RFC9638.yaml
 - :id: RFC 9650
   :file: data/RFC9650.yaml
+- :id: RFC 9651
+  :file: data/RFC9651.yaml
+- :id: RFC 9652
+  :file: data/RFC9652.yaml
 - :id: RFC 9653
   :file: data/RFC9653.yaml
 - :id: RFC 9654
   :file: data/RFC9654.yaml
+- :id: RFC 9656
+  :file: data/RFC9656.yaml
 - :id: RFC 9659
   :file: data/RFC9659.yaml
 - :id: RFC 9661
