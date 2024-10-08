@@ -1,24 +1,25 @@
 ---
 schema-version: v1.2.9
-id: RFC5425
+id: RFC9663
 title:
-- content: Transport Layer Security (TLS) Transport Mapping for Syslog
+- content: Using DHCPv6 Prefix Delegation (DHCPv6-PD) to Allocate Unique IPv6 Prefixes
+    per Client in Large Broadcast Networks
   format: text/plain
   type: main
 link:
-- content: https://www.rfc-editor.org/info/rfc5425
+- content: https://www.rfc-editor.org/info/rfc9663
   type: src
 type: standard
 docid:
-- id: RFC 5425
+- id: RFC 9663
   type: IETF
   primary: true
-- id: 10.17487/RFC5425
+- id: 10.17487/RFC9663
   type: DOI
-docnumber: RFC5425
+docnumber: RFC9663
 date:
 - type: published
-  value: 2009-03
+  value: 2024-10
 contributor:
 - person:
     name:
@@ -29,57 +30,27 @@ contributor:
           - en
           script:
           - Latn
-          initial: F
+          initial: L
         formatted_initials:
-          content: F.
+          content: L.
           language:
           - en
           script:
           - Latn
       surname:
-        content: Miao
+        content: Colitti
         language:
         - en
         script:
         - Latn
       completename:
-        content: F. Miao
+        content: L. Colitti
         language:
         - en
         script:
         - Latn
   role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: 
-          language:
-          - en
-          script:
-          - Latn
-          initial: Y
-        formatted_initials:
-          content: Y.
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Ma
-        language:
-        - en
-        script:
-        - Latn
-      completename:
-        content: Y. Ma
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
+  - type: author
 - person:
     name:
       given:
@@ -97,13 +68,43 @@ contributor:
           script:
           - Latn
       surname:
-        content: Salowey
+        content: Linkova
         language:
         - en
         script:
         - Latn
       completename:
-        content: J. Salowey
+        content: J. Linkova
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: 
+          language:
+          - en
+          script:
+          - Latn
+          initial: X
+        formatted_initials:
+          content: X.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Ma
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: X. Ma
         language:
         - en
         script:
@@ -120,16 +121,16 @@ contributor:
     - content: RFC Series
   role:
   - type: authorizer
-revdate: 2009-03
+revdate: 2024-10
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "<p>This document describes the use of Transport Layer Security (TLS) to
-    provide a secure connection for the transport of syslog messages. This document
-    describes the security threats to syslog and how TLS can be used to counter such
-    threats.</p>"
+- content: "<p>This document discusses an IPv6 deployment scenario when individual
+    nodes connected to large broadcast networks (such as enterprise networks or public
+    Wi-Fi networks) are allocated unique prefixes via DHCPv6 Prefix Delegation (DHCPv6-PD),
+    as specified in RFC 8415.</p>"
   language:
   - en
   script:
@@ -139,16 +140,17 @@ series:
 - title:
     content: RFC
     format: text/plain
-  number: '5425'
+  number: '9663'
 - type: stream
   title:
     content: IETF
     format: text/plain
 keyword:
-- content: syslog message
-- content: syslog security
+- content: IPv6
+- content: SLAAC
+- content: DHCPv6-PD
 editorialgroup:
-- name: syslog
+- name: v6ops
 ext:
   schema-version: v1.0.1
   stream: IETF

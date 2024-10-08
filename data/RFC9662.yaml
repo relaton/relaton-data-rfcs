@@ -1,24 +1,24 @@
 ---
 schema-version: v1.2.9
-id: RFC5425
+id: RFC9662
 title:
-- content: Transport Layer Security (TLS) Transport Mapping for Syslog
+- content: Updates to the Cipher Suites in Secure Syslog
   format: text/plain
   type: main
 link:
-- content: https://www.rfc-editor.org/info/rfc5425
+- content: https://www.rfc-editor.org/info/rfc9662
   type: src
 type: standard
 docid:
-- id: RFC 5425
+- id: RFC 9662
   type: IETF
   primary: true
-- id: 10.17487/RFC5425
+- id: 10.17487/RFC9662
   type: DOI
-docnumber: RFC5425
+docnumber: RFC9662
 date:
 - type: published
-  value: 2009-03
+  value: 2024-10
 contributor:
 - person:
     name:
@@ -29,27 +29,27 @@ contributor:
           - en
           script:
           - Latn
-          initial: F
+          initial: C
         formatted_initials:
-          content: F.
+          content: C.
           language:
           - en
           script:
           - Latn
       surname:
-        content: Miao
+        content: Lonvick
         language:
         - en
         script:
         - Latn
       completename:
-        content: F. Miao
+        content: C. Lonvick
         language:
         - en
         script:
         - Latn
   role:
-  - type: editor
+  - type: author
 - person:
     name:
       given:
@@ -59,27 +59,27 @@ contributor:
           - en
           script:
           - Latn
-          initial: Y
+          initial: S
         formatted_initials:
-          content: Y.
+          content: S.
           language:
           - en
           script:
           - Latn
       surname:
-        content: Ma
+        content: Turner
         language:
         - en
         script:
         - Latn
       completename:
-        content: Y. Ma
+        content: S. Turner
         language:
         - en
         script:
         - Latn
   role:
-  - type: editor
+  - type: author
 - person:
     name:
       given:
@@ -109,7 +109,7 @@ contributor:
         script:
         - Latn
   role:
-  - type: editor
+  - type: author
 - organization:
     name:
     - content: RFC Publisher
@@ -120,35 +120,61 @@ contributor:
     - content: RFC Series
   role:
   - type: authorizer
-revdate: 2009-03
+revdate: 2024-10
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "<p>This document describes the use of Transport Layer Security (TLS) to
-    provide a secure connection for the transport of syslog messages. This document
-    describes the security threats to syslog and how TLS can be used to counter such
-    threats.</p>"
+- content: "<p>RFCs 5425 and 6012 describe using TLS and DTLS to securely transport
+    syslog messages. This document updates the cipher suites required by RFC 5245
+    (TLS Transport Mapping for Syslog) and RFC 6012 (DTLS Transport Mapping for Syslog).
+    It also updates the protocol recommended by RFC 6012 for secure datagram transport.</p>"
   language:
   - en
   script:
   - Latn
   format: text/html
+relation:
+- type: updates
+  bibitem:
+    id: RFC5425
+    docid:
+    - id: RFC5425
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC5425
+      format: text/plain
+- type: updates
+  bibitem:
+    id: RFC6012
+    docid:
+    - id: RFC6012
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC6012
+      format: text/plain
 series:
 - title:
     content: RFC
     format: text/plain
-  number: '5425'
+  number: '9662'
 - type: stream
   title:
     content: IETF
     format: text/plain
 keyword:
-- content: syslog message
-- content: syslog security
+- content: syslog
+- content: secure syslog
+- content: TLS_RSA_WITH_AES_128_CBC_SHA
+- content: TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+- content: DTLS
+- content: TLS
+- content: cipher suite
 editorialgroup:
-- name: syslog
+- name: uta
 ext:
   schema-version: v1.0.1
   stream: IETF
