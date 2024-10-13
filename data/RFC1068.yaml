@@ -24,13 +24,13 @@ contributor:
     name:
       given:
         forename:
-        - content: 
+        - content:
           language:
           - en
           script:
           - Latn
           initial: A
-        - content: 
+        - content:
           language:
           - en
           script:
@@ -60,13 +60,13 @@ contributor:
     name:
       given:
         forename:
-        - content: 
+        - content:
           language:
           - en
           script:
           - Latn
           initial: R
-        - content: 
+        - content:
           language:
           - en
           script:

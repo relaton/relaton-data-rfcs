@@ -24,7 +24,7 @@ contributor:
     name:
       given:
         forename:
-        - content: 
+        - content:
           language:
           - en
           script:
@@ -54,7 +54,7 @@ contributor:
     name:
       given:
         forename:
-        - content: 
+        - content:
           language:
           - en
           script:
@@ -84,19 +84,19 @@ contributor:
     name:
       given:
         forename:
-        - content: 
+        - content:
           language:
           - en
           script:
           - Latn
           initial: J
-        - content: 
+        - content:
           language:
           - en
           script:
           - Latn
           initial: C
-        - content: 
+        - content:
           language:
           - en
           script:
@@ -126,7 +126,7 @@ contributor:
     name:
       given:
         forename:
-        - content: 
+        - content:
           language:
           - en
           script:
@@ -156,13 +156,13 @@ contributor:
     name:
       given:
         forename:
-        - content: 
+        - content:
           language:
           - en
           script:
           - Latn
           initial: J
-        - content: 
+        - content:
           language:
           - en
           script:
@@ -192,7 +192,7 @@ contributor:
     name:
       given:
         forename:
-        - content: 
+        - content:
           language:
           - en
           script:
@@ -222,7 +222,7 @@ contributor:
     name:
       given:
         forename:
-        - content: 
+        - content:
           language:
           - en
           script:
@@ -252,7 +252,7 @@ contributor:
     name:
       given:
         forename:
-        - content: 
+        - content:
           language:
           - en
           script:
@@ -282,7 +282,7 @@ contributor:
     name:
       given:
         forename:
-        - content: 
+        - content:
           language:
           - en
           script:

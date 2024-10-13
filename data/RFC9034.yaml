@@ -25,7 +25,7 @@ contributor:
     name:
       given:
         forename:
-        - content: 
+        - content:
           language:
           - en
           script:
@@ -55,7 +55,7 @@ contributor:
     name:
       given:
         forename:
-        - content: 
+        - content:
           language:
           - en
           script:
@@ -85,19 +85,19 @@ contributor:
     name:
       given:
         forename:
-        - content: 
+        - content:
           language:
           - en
           script:
           - Latn
           initial: S
-        - content: 
+        - content:
           language:
           - en
           script:
           - Latn
           initial: V
-        - content: 
+        - content:
           language:
           - en
           script:
@@ -127,7 +127,7 @@ contributor:
     name:
       given:
         forename:
-        - content: 
+        - content:
           language:
           - en
           script:
@@ -157,7 +157,7 @@ contributor:
     name:
       given:
         forename:
-        - content: 
+        - content:
           language:
           - en
           script:
