@@ -24,7 +24,7 @@ contributor:
     name:
       given:
         forename:
-        - content:
+        - content: 
           language:
           - en
           script:
@@ -54,7 +54,7 @@ contributor:
     name:
       given:
         forename:
-        - content:
+        - content: 
           language:
           - en
           script:
@@ -84,7 +84,7 @@ contributor:
     name:
       given:
         forename:
-        - content:
+        - content: 
           language:
           - en
           script:
@@ -114,13 +114,13 @@ contributor:
     name:
       given:
         forename:
-        - content:
+        - content: 
           language:
           - en
           script:
           - Latn
           initial: Y
-        - content:
+        - content: 
           language:
           - en
           script:
@@ -150,13 +150,13 @@ contributor:
     name:
       given:
         forename:
-        - content:
+        - content: 
           language:
           - en
           script:
           - Latn
           initial: M
-        - content:
+        - content: 
           language:
           - en
           script:
