@@ -1,24 +1,25 @@
 ---
 schema-version: v1.2.9
-id: RFC8536
+id: RFC9677
 title:
-- content: The Time Zone Information Format (TZif)
+- content: Content Delivery Network Interconnection (CDNI) Metadata for Delegated
+    Credentials
   format: text/plain
   type: main
 link:
-- content: https://www.rfc-editor.org/info/rfc8536
+- content: https://www.rfc-editor.org/info/rfc9677
   type: src
 type: standard
 docid:
-- id: RFC 8536
+- id: RFC 9677
   type: IETF
   primary: true
-- id: 10.17487/RFC8536
+- id: 10.17487/RFC9677
   type: DOI
-docnumber: RFC8536
+docnumber: RFC9677
 date:
 - type: published
-  value: 2019-02
+  value: 2024-10
 contributor:
 - person:
     name:
@@ -29,21 +30,21 @@ contributor:
           - en
           script:
           - Latn
-          initial: A
+          initial: F
         formatted_initials:
-          content: A.
+          content: F.
           language:
           - en
           script:
           - Latn
       surname:
-        content: Olson
+        content: Fieau
         language:
         - en
         script:
         - Latn
       completename:
-        content: A. Olson
+        content: F. Fieau
         language:
         - en
         script:
@@ -59,21 +60,21 @@ contributor:
           - en
           script:
           - Latn
-          initial: P
+          initial: E
         formatted_initials:
-          content: P.
+          content: E.
           language:
           - en
           script:
           - Latn
       surname:
-        content: Eggert
+        content: Stephan
         language:
         - en
         script:
         - Latn
       completename:
-        content: P. Eggert
+        content: E. Stephan
         language:
         - en
         script:
@@ -89,21 +90,51 @@ contributor:
           - en
           script:
           - Latn
-          initial: K
+          initial: G
         formatted_initials:
-          content: K.
+          content: G.
           language:
           - en
           script:
           - Latn
       surname:
-        content: Murchison
+        content: Bichot
         language:
         - en
         script:
         - Latn
       completename:
-        content: K. Murchison
+        content: G. Bichot
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: 
+          language:
+          - en
+          script:
+          - Latn
+          initial: C
+        formatted_initials:
+          content: C.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Neumann
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: C. Neumann
         language:
         - en
         script:
@@ -120,44 +151,33 @@ contributor:
     - content: RFC Series
   role:
   - type: authorizer
-revdate: 2019-02
+revdate: 2024-10
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "<p>This document specifies the Time Zone Information Format (TZif) for
-    representing and exchanging time zone information, independent of any particular
-    service or protocol. Two media types for this format are also defined.</p>"
+- content: "<p>The delivery of content over HTTPS involving multiple Content Delivery
+    Networks (CDNs) raises credential management issues. This document defines metadata
+    in the Content Delivery Network Interconnection (CDNI) Control and Metadata interface
+    to set up HTTPS delegation using delegated credentials from an upstream CDN (uCDN)
+    to a downstream CDN (dCDN).</p>"
   language:
   - en
   script:
   - Latn
   format: text/html
-relation:
-- type: obsoletedBy
-  bibitem:
-    id: RFC9636
-    docid:
-    - id: RFC9636
-      type: IETF
-      primary: true
-    formattedref:
-      content: RFC9636
-      format: text/plain
 series:
 - title:
     content: RFC
     format: text/plain
-  number: '8536'
+  number: '9677'
 - type: stream
   title:
     content: IETF
     format: text/plain
-keyword:
-- content: time zone
-- content: tzdata
-- content: tzif
+editorialgroup:
+- name: cdni
 ext:
   schema-version: v1.0.1
   stream: IETF
