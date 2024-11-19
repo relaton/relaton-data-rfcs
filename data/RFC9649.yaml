@@ -1,24 +1,24 @@
 ---
 schema-version: v1.2.9
-id: RFC3660
+id: RFC9649
 title:
-- content: Basic Media Gateway Control Protocol (MGCP) Packages
+- content: WebP Image Format
   format: text/plain
   type: main
 link:
-- content: https://www.rfc-editor.org/info/rfc3660
+- content: https://www.rfc-editor.org/info/rfc9649
   type: src
 type: standard
 docid:
-- id: RFC 3660
+- id: RFC 9649
   type: IETF
   primary: true
-- id: 10.17487/RFC3660
+- id: 10.17487/RFC9649
   type: DOI
-docnumber: RFC3660
+docnumber: RFC9649
 date:
 - type: published
-  value: 2003-12
+  value: 2024-11
 contributor:
 - person:
     name:
@@ -29,21 +29,21 @@ contributor:
           - en
           script:
           - Latn
-          initial: B
+          initial: J
         formatted_initials:
-          content: B.
+          content: J.
           language:
           - en
           script:
           - Latn
       surname:
-        content: Foster
+        content: Zern
         language:
         - en
         script:
         - Latn
       completename:
-        content: B. Foster
+        content: J. Zern
         language:
         - en
         script:
@@ -59,21 +59,51 @@ contributor:
           - en
           script:
           - Latn
-          initial: F
+          initial: P
         formatted_initials:
-          content: F.
+          content: P.
           language:
           - en
           script:
           - Latn
       surname:
-        content: Andreasen
+        content: Massimino
         language:
         - en
         script:
         - Latn
       completename:
-        content: F. Andreasen
+        content: P. Massimino
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: 
+          language:
+          - en
+          script:
+          - Latn
+          initial: J
+        formatted_initials:
+          content: J.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Alakuijala
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: J. Alakuijala
         language:
         - en
         script:
@@ -90,51 +120,31 @@ contributor:
     - content: RFC Series
   role:
   - type: authorizer
-revdate: 2003-12
+revdate: 2024-11
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "<p>This document provides a basic set of Media Gateway Control Protocol
-    (MGCP) packages. The generic, line, trunk, handset, RTP, DTMF (Dual Tone Multifrequency),
-    announcement server and script packages are updates of packages from RFC 2705
-    with additional explanation and in some cases new versions of these packages.
-    In addition to these, five new packages are defined here. These are the signal
-    list, resource reservation, media format, supplementary services and digit map
-    extension packages.</p>"
+- content: "<p>This document defines the WebP image format and registers a media type
+    supporting its use.</p>"
   language:
   - en
   script:
   - Latn
   format: text/html
-relation:
-- type: updates
-  bibitem:
-    id: RFC2705
-    docid:
-    - id: RFC2705
-      type: IETF
-      primary: true
-    formattedref:
-      content: RFC2705
-      format: text/plain
 series:
 - title:
     content: RFC
     format: text/plain
-  number: '3660'
+  number: '9649'
 - type: stream
   title:
     content: IETF
     format: text/plain
 keyword:
-- content: generic
-- content: line
-- content: trunk
-- content: handset
-- content: dtmf
-- content: dual tone multifrequency
+- content: VP8
+- content: WebP
 ext:
   schema-version: v1.0.1
   stream: IETF
