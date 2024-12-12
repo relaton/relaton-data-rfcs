@@ -25,13 +25,13 @@ contributor:
     name:
       given:
         forename:
-        - content: 
+        - content:
           language:
           - en
           script:
           - Latn
           initial: H
-        - content: 
+        - content:
           language:
           - en
           script:
