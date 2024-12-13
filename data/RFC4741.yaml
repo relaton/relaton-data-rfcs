@@ -103,8 +103,8 @@ keyword:
 - content: extensible markup language
 - content: rpc
 - content: remote procedure call
-editorialgroup:
-- name: netconf
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: netconf
   stream: IETF

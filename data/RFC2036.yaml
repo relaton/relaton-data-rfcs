@@ -92,8 +92,8 @@ keyword:
 - content: Numbers
 - content: Authority
 - content: IANA
-editorialgroup:
-- name: cidrd
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: cidrd
   stream: IETF

@@ -216,8 +216,8 @@ keyword:
 - content: sip user agents
 - content: sip ua
 - content: sip proxy servers
-editorialgroup:
-- name: sipping
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: sipping
   stream: IETF

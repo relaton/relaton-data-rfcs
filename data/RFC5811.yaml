@@ -120,8 +120,8 @@ keyword:
 - content: ForCES
 - content: TML
 - content: stream conrol transmission protocol
-editorialgroup:
-- name: forces
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: forces
   stream: IETF

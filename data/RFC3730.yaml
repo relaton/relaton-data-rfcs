@@ -99,8 +99,8 @@ series:
     format: text/plain
 keyword:
 - content: shared framework mapping
-editorialgroup:
-- name: provreg
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: provreg
   stream: IETF

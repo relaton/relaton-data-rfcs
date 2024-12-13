@@ -94,8 +94,8 @@ keyword:
 - content: L2TPv3
 - content: pseudowire
 - content: forwarder
-editorialgroup:
-- name: l2tpext
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: l2tpext
   stream: IETF

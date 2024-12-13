@@ -185,8 +185,8 @@ keyword:
 - content: Resiliency
 - content: Denial-of-Service
 - content: Expired
-editorialgroup:
-- name: dnsop
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: dnsop
   stream: IETF

@@ -103,8 +103,8 @@ keyword:
 - content: mail
 - content: transfer
 - content: protocol
-editorialgroup:
-- name: notary
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: notary
   stream: IETF

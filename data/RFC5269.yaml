@@ -131,8 +131,8 @@ series:
     format: text/plain
 keyword:
 - content: fast binding update
-editorialgroup:
-- name: mipshop
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mipshop
   stream: IETF

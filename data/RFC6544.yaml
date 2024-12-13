@@ -195,8 +195,8 @@ keyword:
 - content: TCP
 - content: NAT
 - content: NAT traversal
-editorialgroup:
-- name: mmusic
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mmusic
   stream: IETF

@@ -146,8 +146,8 @@ keyword:
 - content: LDAP
 - content: lightweight directory access protocol
 - content: calendar
-editorialgroup:
-- name: calsch
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: calsch
   stream: IETF

@@ -116,8 +116,8 @@ series:
     format: text/plain
 keyword:
 - content: remote login
-editorialgroup:
-- name: secsh
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: secsh
   stream: IETF

@@ -139,8 +139,8 @@ keyword:
 - content: internet protocol
 - content: user datagram protocol
 - content: real-time transport protocol
-editorialgroup:
-- name: rohc
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: rohc
   stream: IETF

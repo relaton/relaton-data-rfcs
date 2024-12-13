@@ -200,8 +200,8 @@ keyword:
 - content: 6lo-plc
 - content: 6loplc
 - content: plc
-editorialgroup:
-- name: 6lo
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: 6lo
   stream: IETF

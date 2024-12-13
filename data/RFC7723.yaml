@@ -123,8 +123,8 @@ keyword:
 - content: port mapping
 - content: NAT control
 - content: firewall control
-editorialgroup:
-- name: pcp
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: pcp
   stream: IETF

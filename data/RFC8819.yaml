@@ -160,8 +160,8 @@ series:
 keyword:
 - content: YANG
 - content: tags
-editorialgroup:
-- name: netmod
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: netmod
   stream: IETF

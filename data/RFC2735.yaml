@@ -122,8 +122,8 @@ keyword:
 - content: VPN
 - content: Virtual Private Network
 - content: addresses
-editorialgroup:
-- name: ion
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ion
   stream: IETF

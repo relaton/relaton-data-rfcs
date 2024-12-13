@@ -123,8 +123,8 @@ series:
 keyword:
 - content: language tags
 - content: private interchange
-editorialgroup:
-- name: ltru
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ltru
   stream: IETF

@@ -221,8 +221,8 @@ keyword:
 - content: LSP
 - content: BFD
 - content: RFC 5884
-editorialgroup:
-- name: bfd
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: bfd
   stream: IETF

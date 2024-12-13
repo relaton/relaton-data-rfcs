@@ -129,8 +129,8 @@ keyword:
 - content: DSCP
 - content: RAI
 - content: RTP
-editorialgroup:
-- name: dart
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: dart
   stream: IETF

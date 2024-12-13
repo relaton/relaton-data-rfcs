@@ -92,8 +92,8 @@ keyword:
 - content: precision time protocol
 - content: ntp
 - content: network time protocol
-editorialgroup:
-- name: tictoc
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: tictoc
   stream: IETF

@@ -211,8 +211,8 @@ keyword:
 - content: SRTP
 - content: DTLS-SRTP
 - content: MIKEY
-editorialgroup:
-- name: avtcore
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: avtcore
   stream: IETF

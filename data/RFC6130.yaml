@@ -153,8 +153,8 @@ keyword:
 - content: 2-hop discovery
 - content: Wireless
 - content: SMF
-editorialgroup:
-- name: manet
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: manet
   stream: IETF

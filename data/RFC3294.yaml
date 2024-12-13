@@ -117,8 +117,8 @@ series:
     format: text/plain
 keyword:
 - content: internet
-editorialgroup:
-- name: gsmp
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: gsmp
   stream: IETF

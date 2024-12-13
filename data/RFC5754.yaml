@@ -112,8 +112,8 @@ keyword:
 - content: ecdsa
 - content: elliptic curve dsa
 - content: smimecapabilities
-editorialgroup:
-- name: smime
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: smime
   stream: IETF

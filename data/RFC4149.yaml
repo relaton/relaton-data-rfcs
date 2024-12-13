@@ -150,8 +150,8 @@ keyword:
 - content: mib
 - content: management information base
 - content: sspm mib
-editorialgroup:
-- name: rmonmib
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: rmonmib
   stream: IETF

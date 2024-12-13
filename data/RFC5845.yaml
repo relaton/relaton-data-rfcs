@@ -184,8 +184,8 @@ keyword:
 - content: TLV-Header Tunneling
 - content: TLV-Header Tunneling
 - content: GRE Key Exchange
-editorialgroup:
-- name: netlmm
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: netlmm
   stream: IETF

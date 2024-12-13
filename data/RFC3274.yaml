@@ -93,8 +93,8 @@ keyword:
 - content: CMS
 - content: Cryptographic Message Syntax
 - content: content info type
-editorialgroup:
-- name: smime
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: smime
   stream: IETF

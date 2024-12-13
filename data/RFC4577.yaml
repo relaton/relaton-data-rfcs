@@ -167,8 +167,8 @@ keyword:
 - content: open shortest path first
 - content: mpls
 - content: Multiprotocol Label Switching
-editorialgroup:
-- name: l3vpn
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: l3vpn
   stream: IETF

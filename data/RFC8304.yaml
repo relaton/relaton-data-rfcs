@@ -124,8 +124,8 @@ series:
     format: text/plain
 keyword:
 - content: UDP Transport
-editorialgroup:
-- name: taps
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: taps
   stream: IETF

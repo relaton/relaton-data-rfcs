@@ -125,8 +125,8 @@ keyword:
 - content: MANET
 - content: Link-Aware
 - content: Radio-Aware
-editorialgroup:
-- name: manet
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: manet
   stream: IETF

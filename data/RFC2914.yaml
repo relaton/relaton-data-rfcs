@@ -90,8 +90,8 @@ series:
     format: text/plain
 keyword:
 - content: end-to-end
-editorialgroup:
-- name: ecm
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ecm
   stream: IETF

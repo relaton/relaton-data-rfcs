@@ -128,8 +128,8 @@ keyword:
 - content: spd
 - content: btns
 - content: unauthenticated ipsec
-editorialgroup:
-- name: btns
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: btns
   stream: IETF

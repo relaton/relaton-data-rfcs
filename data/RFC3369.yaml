@@ -90,8 +90,8 @@ keyword:
 - content: authenticate
 - content: encrypt
 - content: arbitrary message content
-editorialgroup:
-- name: smime
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: smime
   stream: IETF

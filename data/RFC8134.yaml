@@ -121,8 +121,8 @@ keyword:
 - content: INCH
 - content: MILE
 - content: Implementation
-editorialgroup:
-- name: mile
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mile
   stream: IETF

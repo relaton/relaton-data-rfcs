@@ -119,8 +119,8 @@ keyword:
 - content: ipv6
 - content: architecture
 - content: site-local
-editorialgroup:
-- name: ipv6
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ipv6
   stream: IETF

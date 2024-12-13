@@ -335,8 +335,8 @@ keyword:
 - content: digital communication equipment
 - content: link-layer protocols
 - content: packet-switched local networks
-editorialgroup:
-- name: pilc
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: pilc
   stream: IETF

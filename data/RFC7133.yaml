@@ -149,8 +149,8 @@ keyword:
 - content: Provider Bridge
 - content: Provider Backbone Bridge
 - content: ipfix
-editorialgroup:
-- name: ipfix
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ipfix
   stream: IETF

@@ -221,8 +221,8 @@ keyword:
 - content: tunnel segmentation
 - content: inter-AS segmentation
 - content: inter-region segmentation
-editorialgroup:
-- name: bess
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: bess
   stream: IETF

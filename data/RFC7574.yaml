@@ -158,8 +158,8 @@ keyword:
 - content: video on demand
 - content: live streaming
 - content: content integrity protection
-editorialgroup:
-- name: ppsp
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ppsp
   stream: IETF

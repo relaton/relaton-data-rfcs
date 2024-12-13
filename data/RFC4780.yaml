@@ -168,8 +168,8 @@ keyword:
 - content: SIP-TC-MIB
 - content: SIP-UA-MIB DEFINITIONS
 - content: SIP-SERVER-MIB
-editorialgroup:
-- name: sip
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: sip
   stream: IETF

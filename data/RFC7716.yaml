@@ -212,8 +212,8 @@ series:
     format: text/plain
 keyword:
 - content: Multicast
-editorialgroup:
-- name: bess
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: bess
   stream: IETF

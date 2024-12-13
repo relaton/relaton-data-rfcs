@@ -78,8 +78,8 @@ keyword:
 - content: session peering
 - content: SIP interconnects
 - content: VoIP peering
-editorialgroup:
-- name: speermint
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: speermint
   stream: IETF

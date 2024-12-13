@@ -92,8 +92,8 @@ keyword:
 - content: digital signature
 - content: credentials
 - content: intermediate exchange
-editorialgroup:
-- name: ipsecme
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ipsecme
   stream: IETF

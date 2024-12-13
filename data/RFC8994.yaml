@@ -179,8 +179,8 @@ keyword:
 - content: ULA
 - content: VPN
 - content: VRF
-editorialgroup:
-- name: anima
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: anima
   stream: IETF

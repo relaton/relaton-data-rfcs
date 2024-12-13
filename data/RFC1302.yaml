@@ -153,8 +153,8 @@ keyword:
 - content: NISI
 - content: NIC
 - content: User Services
-editorialgroup:
-- name: nisi
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: nisi
   stream: IETF

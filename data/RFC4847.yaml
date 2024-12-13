@@ -88,8 +88,8 @@ series:
     format: text/plain
 keyword:
 - content: L1VPN
-editorialgroup:
-- name: l1vpn
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: l1vpn
   stream: IETF

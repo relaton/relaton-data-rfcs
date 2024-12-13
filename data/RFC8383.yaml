@@ -186,8 +186,8 @@ keyword:
 - content: VLAN
 - content: data label
 - content: FGL
-editorialgroup:
-- name: trill
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: trill
   stream: IETF

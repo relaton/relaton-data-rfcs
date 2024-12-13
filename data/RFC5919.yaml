@@ -180,8 +180,8 @@ keyword:
 - content: label distribution protocol
 - content: End-of-LIB
 - content: Unrecognized Notification
-editorialgroup:
-- name: mpls
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mpls
   stream: IETF

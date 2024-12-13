@@ -212,8 +212,8 @@ keyword:
 - content: ANI option
 - content: Access Network Identifier option
 - content: PMIPv6 ANI option
-editorialgroup:
-- name: netext
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: netext
   stream: IETF

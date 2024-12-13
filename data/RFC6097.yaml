@@ -122,8 +122,8 @@ keyword:
 - content: 3GPP
 - content: DNS
 - content: AAA
-editorialgroup:
-- name: netlmm
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: netlmm
   stream: IETF

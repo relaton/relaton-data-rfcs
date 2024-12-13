@@ -157,8 +157,8 @@ keyword:
 - content: intrusion
 - content: IDS
 - content: XML
-editorialgroup:
-- name: idwg
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: idwg
   stream: IETF

@@ -208,8 +208,8 @@ keyword:
 - content: authenticated key exchange
 - content: LAKE
 - content: AKE
-editorialgroup:
-- name: lake
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: lake
   stream: IETF

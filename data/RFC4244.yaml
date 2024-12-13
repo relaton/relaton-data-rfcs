@@ -104,8 +104,8 @@ keyword:
 - content: enhanced services
 - content: voicemail
 - content: automatic call distribution
-editorialgroup:
-- name: sip
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: sip
   stream: IETF

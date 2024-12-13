@@ -120,8 +120,8 @@ keyword:
 - content: SIP
 - content: Session Initiation Protocol
 - content: Join header
-editorialgroup:
-- name: sip
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: sip
   stream: IETF

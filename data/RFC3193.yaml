@@ -209,8 +209,8 @@ keyword:
 - content: layer two tunneling protocol
 - content: authentication
 - content: IP Security
-editorialgroup:
-- name: l2tpext
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: l2tpext
   stream: IETF

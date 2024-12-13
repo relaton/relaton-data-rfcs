@@ -204,8 +204,8 @@ keyword:
 - content: resource reservation protocol
 - content: traffic engineering
 - content: NOTIFY_REQUEST
-editorialgroup:
-- name: ccamp
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ccamp
   stream: IETF

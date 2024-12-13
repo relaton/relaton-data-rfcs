@@ -88,8 +88,8 @@ keyword:
 - content: eBPF
 - content: virtual machine
 - content: extensibility
-editorialgroup:
-- name: bpf
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: bpf
   stream: IETF

@@ -220,8 +220,8 @@ keyword:
 - content: session of interest
 - content: phb
 - content: per hop behavior
-editorialgroup:
-- name: tsvwg
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: tsvwg
   stream: IETF

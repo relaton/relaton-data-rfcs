@@ -189,8 +189,8 @@ keyword:
 - content: ule stream
 - content: gse
 - content: generic stream encapsulation
-editorialgroup:
-- name: ipdvb
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ipdvb
   stream: IETF

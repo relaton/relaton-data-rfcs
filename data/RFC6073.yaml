@@ -213,8 +213,8 @@ keyword:
 - content: psn
 - content: packet switched network
 - content: pw control plane domain
-editorialgroup:
-- name: pwe3
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: pwe3
   stream: IETF

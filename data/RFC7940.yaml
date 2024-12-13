@@ -123,8 +123,8 @@ keyword:
 - content: LGR
 - content: IDN table
 - content: variant table
-editorialgroup:
-- name: lager
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: lager
   stream: IETF

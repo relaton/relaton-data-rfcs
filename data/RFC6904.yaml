@@ -105,8 +105,8 @@ keyword:
 - content: rtp
 - content: header extensions
 - content: security
-editorialgroup:
-- name: avtcore
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: avtcore
   stream: IETF

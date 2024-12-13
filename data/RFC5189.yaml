@@ -152,8 +152,8 @@ keyword:
 - content: nat
 - content: network address translator
 - content: firewall
-editorialgroup:
-- name: midcom
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: midcom
   stream: IETF

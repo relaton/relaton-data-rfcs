@@ -144,8 +144,8 @@ keyword:
 - content: ICE
 - content: PAC
 - content: Candidate
-editorialgroup:
-- name: ice
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ice
   stream: IETF

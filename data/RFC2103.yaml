@@ -93,8 +93,8 @@ keyword:
 - content: Protocol
 - content: routing
 - content: addressing
-editorialgroup:
-- name: nimrod
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: nimrod
   stream: IETF

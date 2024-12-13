@@ -117,8 +117,8 @@ keyword:
 - content: management information base
 - content: ADSL
 - content: Asymmetric Bit-Rate DSL
-editorialgroup:
-- name: adslmib
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: adslmib
   stream: IETF

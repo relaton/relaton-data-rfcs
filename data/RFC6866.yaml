@@ -114,8 +114,8 @@ series:
   title:
     content: IETF
     format: text/plain
-editorialgroup:
-- name: 6renum
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: 6renum
   stream: IETF

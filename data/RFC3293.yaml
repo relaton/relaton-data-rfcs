@@ -151,8 +151,8 @@ keyword:
 - content: Asynchronous Transfer Mode
 - content: TCP
 - content: Transmission Control Protocol
-editorialgroup:
-- name: gsmp
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: gsmp
   stream: IETF

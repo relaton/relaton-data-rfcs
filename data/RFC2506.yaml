@@ -154,8 +154,8 @@ keyword:
 - content: vocabulary
 - content: negotiation
 - content: mechanism
-editorialgroup:
-- name: conneg
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: conneg
   stream: IETF

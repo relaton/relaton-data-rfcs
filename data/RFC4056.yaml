@@ -87,8 +87,8 @@ series:
 keyword:
 - content: RSA probabilistic signature scheme
 - content: digital signature
-editorialgroup:
-- name: smime
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: smime
   stream: IETF

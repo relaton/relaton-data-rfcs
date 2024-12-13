@@ -210,8 +210,8 @@ keyword:
 - content: DNSSEC
 - content: DANE
 - content: Raw Public Key
-editorialgroup:
-- name: tls
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: tls
   stream: IETF

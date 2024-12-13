@@ -188,8 +188,8 @@ keyword:
 - content: telecommunication networks
 - content: enterprise networks
 - content: signalling
-editorialgroup:
-- name: sipping
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: sipping
   stream: IETF

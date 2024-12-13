@@ -130,8 +130,8 @@ series:
 keyword:
 - content: mib
 - content: interfaces
-editorialgroup:
-- name: adslmib
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: adslmib
   stream: IETF

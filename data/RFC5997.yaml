@@ -99,8 +99,8 @@ series:
     format: text/plain
 keyword:
 - content: status-server
-editorialgroup:
-- name: radext
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: radext
   stream: IETF

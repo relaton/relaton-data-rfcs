@@ -147,8 +147,8 @@ series:
     format: text/plain
 keyword:
 - content: intermediate system to intermediate system
-editorialgroup:
-- name: isis
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: isis
   stream: IETF

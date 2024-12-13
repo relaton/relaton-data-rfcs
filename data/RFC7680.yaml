@@ -182,8 +182,8 @@ keyword:
 - content: Performance
 - content: Measurement
 - content: Quality of Service (QoS)
-editorialgroup:
-- name: ippm
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ippm
   stream: IETF

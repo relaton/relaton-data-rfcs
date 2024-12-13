@@ -208,8 +208,8 @@ keyword:
 - content: IPPM
 - content: Loss
 - content: Delay
-editorialgroup:
-- name: ippm
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ippm
   stream: IETF

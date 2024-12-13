@@ -147,8 +147,8 @@ keyword:
 - content: multihoming extensions
 - content: mobility extensions
 - content: locator
-editorialgroup:
-- name: hip
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: hip
   stream: IETF

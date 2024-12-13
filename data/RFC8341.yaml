@@ -125,8 +125,8 @@ keyword:
 - content: NETCONF RESTCONF
 - content: YANG
 - content: XML
-editorialgroup:
-- name: netconf
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: netconf
   stream: IETF

@@ -122,8 +122,8 @@ keyword:
 - content: internet
 - content: mail
 - content: extensions
-editorialgroup:
-- name: smime
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: smime
   stream: IETF

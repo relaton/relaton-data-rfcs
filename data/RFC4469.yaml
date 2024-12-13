@@ -109,8 +109,8 @@ series:
     format: text/plain
 keyword:
 - content: append
-editorialgroup:
-- name: lemonade
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: lemonade
   stream: IETF

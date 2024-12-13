@@ -212,8 +212,8 @@ series:
     format: text/plain
 keyword:
 - content: CL OAM Retrieval Methods
-editorialgroup:
-- name: lime
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: lime
   stream: IETF

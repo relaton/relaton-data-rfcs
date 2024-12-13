@@ -135,8 +135,8 @@ series:
 keyword:
 - content: initialization vector
 - content: IKE_SA_INIT
-editorialgroup:
-- name: ipsecme
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ipsecme
   stream: IETF

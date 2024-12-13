@@ -178,8 +178,8 @@ keyword:
 - content: ipfix
 - content: ipfix device
 - content: ipfix collector
-editorialgroup:
-- name: ipfix
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ipfix
   stream: IETF

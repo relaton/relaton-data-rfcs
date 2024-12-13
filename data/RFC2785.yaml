@@ -90,8 +90,8 @@ keyword:
 - content: multipurpose
 - content: internet
 - content: mail extensions
-editorialgroup:
-- name: smime
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: smime
   stream: IETF

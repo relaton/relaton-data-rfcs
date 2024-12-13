@@ -231,8 +231,8 @@ keyword:
 - content: content distribution
 - content: video streaming
 - content: anycast
-editorialgroup:
-- name: mboned
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mboned
   stream: IETF

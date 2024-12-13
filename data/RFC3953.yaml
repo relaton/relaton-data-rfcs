@@ -89,8 +89,8 @@ keyword:
 - content: provisioning pres
 - content: ENUM
 - content: Telephone Number Mapping
-editorialgroup:
-- name: enum
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: enum
   stream: IETF

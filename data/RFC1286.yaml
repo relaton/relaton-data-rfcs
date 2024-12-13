@@ -201,8 +201,8 @@ keyword:
 - content: MIB
 - content: standard
 - content: standards
-editorialgroup:
-- name: bridge
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: bridge
   stream: IETF

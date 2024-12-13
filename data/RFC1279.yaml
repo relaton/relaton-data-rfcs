@@ -93,8 +93,8 @@ keyword:
 - content: Domain
 - content: Name
 - content: naming
-editorialgroup:
-- name: osids
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: osids
   stream: IETF

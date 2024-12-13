@@ -125,8 +125,8 @@ series:
 keyword:
 - content: IMAP4rev2
 - content: imap
-editorialgroup:
-- name: extra
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: extra
   stream: IETF

@@ -92,8 +92,8 @@ keyword:
 - content: confidentiality
 - content: data origin authentication
 - content: connectionless integrity
-editorialgroup:
-- name: ipsec
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ipsec
   stream: IETF

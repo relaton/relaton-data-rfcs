@@ -148,8 +148,8 @@ keyword:
 - content: theft service
 - content: resource reservation
 - content: token
-editorialgroup:
-- name: rap
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: rap
   stream: IETF

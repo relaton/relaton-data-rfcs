@@ -171,8 +171,8 @@ keyword:
 - content: identifier
 - content: www
 - content: world wide web
-editorialgroup:
-- name: ipngwg
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ipngwg
   stream: IETF

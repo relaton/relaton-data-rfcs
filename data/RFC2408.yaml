@@ -189,8 +189,8 @@ keyword:
 - content: ipsec
 - content: cryptography
 - content: authentication
-editorialgroup:
-- name: ipsec
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ipsec
   stream: IETF

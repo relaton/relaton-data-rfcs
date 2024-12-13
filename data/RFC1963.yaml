@@ -118,8 +118,8 @@ series:
 keyword:
 - content: Point-to-Point
 - content: Protocol
-editorialgroup:
-- name: pppext
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: pppext
   stream: IETF

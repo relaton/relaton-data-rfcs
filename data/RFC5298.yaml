@@ -185,8 +185,8 @@ keyword:
 - content: gmpls
 - content: multi-domain environment
 - content: end-to-end diverse Traffic Engineering LSPs
-editorialgroup:
-- name: ccamp
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ccamp
   stream: IETF

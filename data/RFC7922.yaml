@@ -153,8 +153,8 @@ keyword:
 - content: I2RS
 - content: I2RS Traceability
 - content: I2RS Traceability
-editorialgroup:
-- name: i2rs
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: i2rs
   stream: IETF

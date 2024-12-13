@@ -146,8 +146,8 @@ series:
 keyword:
 - content: IMAP
 - content: IDNA
-editorialgroup:
-- name: eai
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: eai
   stream: IETF

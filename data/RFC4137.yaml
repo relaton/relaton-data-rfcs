@@ -190,8 +190,8 @@ keyword:
 - content: eap stand-alone authenticator
 - content: eap backend authenticator
 - content: eap full authenticator
-editorialgroup:
-- name: eap
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: eap
   stream: IETF

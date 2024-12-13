@@ -185,8 +185,8 @@ keyword:
 - content: internet
 - content: ATM
 - content: asynchronous transfer mode
-editorialgroup:
-- name: issll
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: issll
   stream: IETF

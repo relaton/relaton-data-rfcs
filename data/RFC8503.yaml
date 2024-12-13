@@ -93,8 +93,8 @@ keyword:
 - content: MIB
 - content: SNMP
 - content: monitor
-editorialgroup:
-- name: bess
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: bess
   stream: IETF

@@ -183,8 +183,8 @@ keyword:
 - content: TLS
 - content: export
 - content: replay
-editorialgroup:
-- name: tokbind
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: tokbind
   stream: IETF

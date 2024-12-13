@@ -125,8 +125,8 @@ keyword:
 - content: aggregation
 - content: 802.3ah
 - content: G.998.2
-editorialgroup:
-- name: adslmib
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: adslmib
   stream: IETF

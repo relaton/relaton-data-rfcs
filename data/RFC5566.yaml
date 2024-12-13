@@ -161,8 +161,8 @@ keyword:
 - content: border gateway protocol
 - content: safi
 - content: subsequent address family identifier
-editorialgroup:
-- name: softwire
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: softwire
   stream: IETF

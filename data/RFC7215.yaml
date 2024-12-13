@@ -209,8 +209,8 @@ series:
 keyword:
 - content: LISP
 - content: deployment
-editorialgroup:
-- name: lisp
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: lisp
   stream: IETF

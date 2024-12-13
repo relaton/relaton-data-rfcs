@@ -178,8 +178,8 @@ keyword:
 - content: MEXT-BGP4
 - content: border gateway protocol
 - content: network layer protocols
-editorialgroup:
-- name: idr
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: idr
   stream: IETF

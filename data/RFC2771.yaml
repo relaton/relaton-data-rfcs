@@ -88,8 +88,8 @@ keyword:
 - content: programming
 - content: interfaces
 - content: service
-editorialgroup:
-- name: malloc
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: malloc
   stream: IETF

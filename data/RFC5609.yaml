@@ -152,8 +152,8 @@ keyword:
 - content: PANA
 - content: State Machine
 - content: EAP
-editorialgroup:
-- name: pana
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: pana
   stream: IETF

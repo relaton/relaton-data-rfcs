@@ -88,8 +88,8 @@ keyword:
 - content: steering
 - content: group
 - content: protocol
-editorialgroup:
-- name: IESG
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: IESG
   stream: IETF

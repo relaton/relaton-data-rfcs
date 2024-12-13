@@ -220,8 +220,8 @@ keyword:
 - content: P2MP-TE tree re-evaluation
 - content: Preferable P2MP-TE tree
 - content: Inter-domain P2MP-TE
-editorialgroup:
-- name: teas
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: teas
   stream: IETF

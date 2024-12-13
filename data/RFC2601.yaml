@@ -88,8 +88,8 @@ keyword:
 - content: integrated local management interface
 - content: ATMARP
 - content: asynchronous transfer mode address resolution protocol
-editorialgroup:
-- name: ion
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ion
   stream: IETF

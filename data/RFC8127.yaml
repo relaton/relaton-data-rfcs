@@ -209,8 +209,8 @@ series:
 keyword:
 - content: Binding Refresh
 - content: Heartbeat
-editorialgroup:
-- name: dmm
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: dmm
   stream: IETF

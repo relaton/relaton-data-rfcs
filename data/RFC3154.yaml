@@ -331,8 +331,8 @@ keyword:
 - content: paging
 - content: mobile
 - content: hosts
-editorialgroup:
-- name: seamoby
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: seamoby
   stream: IETF

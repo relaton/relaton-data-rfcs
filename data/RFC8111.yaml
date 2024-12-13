@@ -217,8 +217,8 @@ keyword:
 - content: Map-Server
 - content: Map-Referral
 - content: Referral
-editorialgroup:
-- name: lisp
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: lisp
   stream: IETF

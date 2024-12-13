@@ -132,8 +132,8 @@ keyword:
 - content: Extensions
 - content: Content
 - content: Type
-editorialgroup:
-- name: notary
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: notary
   stream: IETF

@@ -118,8 +118,8 @@ series:
 keyword:
 - content: ECMP
 - content: LAG
-editorialgroup:
-- name: 6man
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: 6man
   stream: IETF

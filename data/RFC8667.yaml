@@ -242,8 +242,8 @@ keyword:
 - content: IS-IS
 - content: Label advertisement
 - content: Segment Routing
-editorialgroup:
-- name: lsr
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: lsr
   stream: IETF

@@ -118,8 +118,8 @@ keyword:
 - content: Border
 - content: Gateway
 - content: Protocol
-editorialgroup:
-- name: idr
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: idr
   stream: IETF

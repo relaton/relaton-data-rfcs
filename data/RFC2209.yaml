@@ -119,8 +119,8 @@ keyword:
 - content: QoS
 - content: implementation
 - content: algorithms
-editorialgroup:
-- name: rsvp
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: rsvp
   stream: IETF

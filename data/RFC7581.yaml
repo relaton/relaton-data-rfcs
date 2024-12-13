@@ -220,8 +220,8 @@ keyword:
 - content: Wavelength Assignment
 - content: Optical LSP
 - content: Optical Routing
-editorialgroup:
-- name: ccamp
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ccamp
   stream: IETF

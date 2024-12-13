@@ -179,8 +179,8 @@ keyword:
 - content: mail extensions
 - content: service
 - content: users
-editorialgroup:
-- name: impp
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: impp
   stream: IETF

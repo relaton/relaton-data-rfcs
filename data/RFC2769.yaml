@@ -178,8 +178,8 @@ keyword:
 - content: Routing Policy Specification Language
 - content: Routing Policy System Security
 - content: database
-editorialgroup:
-- name: rps
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: rps
   stream: IETF

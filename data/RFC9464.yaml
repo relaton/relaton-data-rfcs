@@ -192,8 +192,8 @@ keyword:
 - content: DoQ
 - content: Tunnel
 - content: connectivity
-editorialgroup:
-- name: ipsecme
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ipsecme
   stream: IETF

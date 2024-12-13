@@ -120,8 +120,8 @@ keyword:
 - content: MRF
 - content: IVR
 - content: IMS
-editorialgroup:
-- name: mediactrl
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mediactrl
   stream: IETF

@@ -153,8 +153,8 @@ series:
 keyword:
 - content: ssh
 - content: ssh2
-editorialgroup:
-- name: secsh
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: secsh
   stream: IETF

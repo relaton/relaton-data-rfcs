@@ -155,8 +155,8 @@ keyword:
 - content: Forwarding Equivalence Class
 - content: NHLFE
 - content: Next Hop Label Forwarding Entry
-editorialgroup:
-- name: mpls
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mpls
   stream: IETF

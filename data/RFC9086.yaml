@@ -244,8 +244,8 @@ keyword:
 - content: BGP
 - content: BGP-LS
 - content: Segment Routing
-editorialgroup:
-- name: idr
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: idr
   stream: IETF

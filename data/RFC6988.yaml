@@ -213,8 +213,8 @@ series:
 keyword:
 - content: monitoring functions
 - content: control functions
-editorialgroup:
-- name: eman
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: eman
   stream: IETF

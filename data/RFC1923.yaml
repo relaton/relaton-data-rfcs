@@ -119,8 +119,8 @@ keyword:
 - content: Routing
 - content: Information
 - content: Protocol
-editorialgroup:
-- name: rip
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: rip
   stream: IETF

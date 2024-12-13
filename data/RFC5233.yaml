@@ -90,8 +90,8 @@ keyword:
 - content: detailed addressing
 - content: ":user"
 - content: ":detail"
-editorialgroup:
-- name: sieve
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: sieve
   stream: IETF

@@ -118,8 +118,8 @@ keyword:
 - content: authentication header
 - content: encapsulating security payload
 - content: ah/esp
-editorialgroup:
-- name: ospf
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ospf
   stream: IETF

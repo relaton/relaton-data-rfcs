@@ -213,8 +213,8 @@ keyword:
 - content: multi-topology
 - content: fine-grained
 - content: VLAN
-editorialgroup:
-- name: isis
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: isis
   stream: IETF

@@ -160,8 +160,8 @@ keyword:
 - content: electronic
 - content: mail
 - content: transport
-editorialgroup:
-- name: calsch
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: calsch
   stream: IETF

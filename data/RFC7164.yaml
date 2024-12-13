@@ -135,8 +135,8 @@ keyword:
 - content: tai
 - content: International Atomic Time
 - content: Unix time
-editorialgroup:
-- name: avtcore
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: avtcore
   stream: IETF

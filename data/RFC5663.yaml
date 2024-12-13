@@ -151,8 +151,8 @@ series:
 keyword:
 - content: nfsv4
 - content: network file sharing version 4
-editorialgroup:
-- name: nfsv4
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: nfsv4
   stream: IETF

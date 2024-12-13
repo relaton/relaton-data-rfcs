@@ -131,8 +131,8 @@ keyword:
 - content: media type
 - content: MIME
 - content: multimedia internet mail extensions
-editorialgroup:
-- name: avt
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: avt
   stream: IETF

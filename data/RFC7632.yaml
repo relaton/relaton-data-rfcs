@@ -125,8 +125,8 @@ keyword:
 - content: configuration management
 - content: vulnerability management
 - content: content management
-editorialgroup:
-- name: sacm
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: sacm
   stream: IETF

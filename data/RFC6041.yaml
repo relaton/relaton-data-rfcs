@@ -212,8 +212,8 @@ keyword:
 - content: Control Plane
 - content: Management
 - content: Protocol
-editorialgroup:
-- name: forces
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: forces
   stream: IETF

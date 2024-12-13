@@ -119,8 +119,8 @@ series:
     format: text/plain
 keyword:
 - content: MANET
-editorialgroup:
-- name: manet
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: manet
   stream: IETF

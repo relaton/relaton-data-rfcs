@@ -102,8 +102,8 @@ keyword:
 - content: TI-RPC
 - content: transport identifier
 - content: protocol identifier
-editorialgroup:
-- name: nfsv4
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: nfsv4
   stream: IETF

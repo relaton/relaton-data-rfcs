@@ -90,8 +90,8 @@ keyword:
 - content: extensible
 - content: markup
 - content: language
-editorialgroup:
-- name: xmldsig
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: xmldsig
   stream: IETF

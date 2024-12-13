@@ -124,8 +124,8 @@ keyword:
 - content: i18n
 - content: Authentication
 - content: SASLprep
-editorialgroup:
-- name: precis
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: precis
   stream: IETF

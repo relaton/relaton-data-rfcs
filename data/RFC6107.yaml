@@ -144,8 +144,8 @@ keyword:
 - content: Bundled links
 - content: GMPLS
 - content: dynamically provisioned networks
-editorialgroup:
-- name: ccamp
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ccamp
   stream: IETF

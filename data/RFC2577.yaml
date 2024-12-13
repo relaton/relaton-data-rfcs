@@ -122,8 +122,8 @@ keyword:
 - content: attack
 - content: password
 - content: server
-editorialgroup:
-- name: ftpext
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ftpext
   stream: IETF

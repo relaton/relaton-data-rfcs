@@ -282,8 +282,8 @@ keyword:
 - content: Hypertext
 - content: Transfer
 - content: Protocol
-editorialgroup:
-- name: http
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: http
   stream: IETF

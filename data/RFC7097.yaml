@@ -150,8 +150,8 @@ keyword:
 - content: RTP
 - content: RTCP
 - content: discard metrics
-editorialgroup:
-- name: xrblock
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: xrblock
   stream: IETF

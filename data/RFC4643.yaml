@@ -135,8 +135,8 @@ keyword:
 - content: authinfo generic
 - content: sasl
 - content: simple authentication and security layer
-editorialgroup:
-- name: nntpext
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: nntpext
   stream: IETF

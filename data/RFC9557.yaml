@@ -136,8 +136,8 @@ keyword:
 - content: Extension
 - content: Internet Extended Date/Time Format
 - content: IXDTF
-editorialgroup:
-- name: sedate
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: sedate
   stream: IETF

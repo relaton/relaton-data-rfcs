@@ -88,8 +88,8 @@ keyword:
 - content: security
 - content: signature
 - content: eneryption
-editorialgroup:
-- name: pem
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: pem
   stream: IETF

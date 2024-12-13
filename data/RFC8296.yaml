@@ -245,8 +245,8 @@ series:
     format: text/plain
 keyword:
 - content: Multicast
-editorialgroup:
-- name: bier
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: bier
   stream: IETF

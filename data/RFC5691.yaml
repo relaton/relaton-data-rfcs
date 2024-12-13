@@ -195,8 +195,8 @@ keyword:
 - content: RTP
 - content: MPEG-4
 - content: AAC
-editorialgroup:
-- name: avt
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: avt
   stream: IETF

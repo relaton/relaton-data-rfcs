@@ -167,8 +167,8 @@ keyword:
 - content: recursive
 - content: authoritative
 - content: DNS
-editorialgroup:
-- name: dprive
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: dprive
   stream: IETF

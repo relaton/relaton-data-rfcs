@@ -117,8 +117,8 @@ keyword:
 - content: BGP-4-APP
 - content: BGP-4
 - content: Routing
-editorialgroup:
-- name: bgp
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: bgp
   stream: IETF

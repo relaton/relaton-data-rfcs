@@ -117,8 +117,8 @@ keyword:
 - content: contacts
 - content: address-book
 - content: personal-information
-editorialgroup:
-- name: vcarddav
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: vcarddav
   stream: IETF

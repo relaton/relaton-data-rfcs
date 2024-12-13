@@ -210,8 +210,8 @@ keyword:
 - content: authentication
 - content: authorization
 - content: diameter client
-editorialgroup:
-- name: aaa
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: aaa
   stream: IETF

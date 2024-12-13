@@ -120,8 +120,8 @@ series:
     format: text/plain
 keyword:
 - content: locator pair
-editorialgroup:
-- name: shim6
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: shim6
   stream: IETF

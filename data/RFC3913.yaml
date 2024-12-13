@@ -98,8 +98,8 @@ keyword:
 - content: enter-domain
 - content: source-specific multicast
 - content: ssm
-editorialgroup:
-- name: bgmp
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: bgmp
   stream: IETF

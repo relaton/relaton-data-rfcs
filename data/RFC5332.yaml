@@ -208,8 +208,8 @@ keyword:
 - content: upstream-assigned label
 - content: mac da
 - content: medium access layer destination address
-editorialgroup:
-- name: mpls
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mpls
   stream: IETF

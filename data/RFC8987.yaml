@@ -182,8 +182,8 @@ keyword:
 - content: Delegating router
 - content: Requesting router
 - content: Delegating relay
-editorialgroup:
-- name: dhc
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: dhc
   stream: IETF

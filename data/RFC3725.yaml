@@ -188,8 +188,8 @@ keyword:
 - content: Third Party Call Control
 - content: SIP
 - content: Session Initiation Protocol
-editorialgroup:
-- name: sipping
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: sipping
   stream: IETF

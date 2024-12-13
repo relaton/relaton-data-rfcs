@@ -121,8 +121,8 @@ keyword:
 - content: multi-domain-capable file system
 - content: Federated File System
 - content: FedFS
-editorialgroup:
-- name: nfsv4
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: nfsv4
   stream: IETF

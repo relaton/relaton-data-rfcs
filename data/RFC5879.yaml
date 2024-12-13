@@ -123,8 +123,8 @@ keyword:
 - content: Wrapped ESP (WESP)
 - content: deep-inspection
 - content: packet inspection
-editorialgroup:
-- name: ipsecme
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ipsecme
   stream: IETF

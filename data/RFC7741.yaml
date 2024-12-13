@@ -207,8 +207,8 @@ keyword:
 - content: RTP
 - content: V8
 - content: WebM
-editorialgroup:
-- name: payload
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: payload
   stream: IETF

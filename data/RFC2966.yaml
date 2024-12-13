@@ -162,8 +162,8 @@ keyword:
 - content: IP
 - content: internet
 - content: protocol
-editorialgroup:
-- name: isis
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: isis
   stream: IETF

@@ -97,8 +97,8 @@ keyword:
 - content: DNS
 - content: domain name system
 - content: E.164
-editorialgroup:
-- name: enum
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: enum
   stream: IETF

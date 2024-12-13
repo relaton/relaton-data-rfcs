@@ -163,8 +163,8 @@ keyword:
 - content: DoD
 - content: NSA
 - content: MIL-STD
-editorialgroup:
-- name: avtcore
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: avtcore
   stream: IETF

@@ -218,8 +218,8 @@ keyword:
 - content: completion
 - content: shared
 - content: sharing issues
-editorialgroup:
-- name: intarea
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: intarea
   stream: IETF

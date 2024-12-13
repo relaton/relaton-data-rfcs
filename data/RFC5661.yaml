@@ -176,8 +176,8 @@ keyword:
 - content: Parallel Storage
 - content: pNFS
 - content: Storage Cluster
-editorialgroup:
-- name: nfsv4
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: nfsv4
   stream: IETF

@@ -88,8 +88,8 @@ keyword:
 - content: Network
 - content: Management
 - content: Base
-editorialgroup:
-- name: charmib
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: charmib
   stream: IETF

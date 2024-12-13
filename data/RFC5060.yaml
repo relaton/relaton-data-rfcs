@@ -215,8 +215,8 @@ keyword:
 - content: Multicast Routing
 - content: PIM-STD-MIB
 - content: management information base
-editorialgroup:
-- name: pim
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: pim
   stream: IETF

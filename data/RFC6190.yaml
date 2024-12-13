@@ -194,8 +194,8 @@ keyword:
 - content: H.264/AVC
 - content: Advanced Video Coding
 - content: Scalable Video Coding
-editorialgroup:
-- name: payload
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: payload
   stream: IETF

@@ -157,8 +157,8 @@ keyword:
 - content: MSRP
 - content: Extensible Messaging and Presence Protocol
 - content: XMPP
-editorialgroup:
-- name: stox
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: stox
   stream: IETF

@@ -137,8 +137,8 @@ keyword:
 - content: intellectual property rights
 - content: copyright
 - content: ipr
-editorialgroup:
-- name: ipr
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ipr
   stream: IETF

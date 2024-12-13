@@ -154,8 +154,8 @@ keyword:
 - content: hypertext
 - content: transfer
 - content: protocol
-editorialgroup:
-- name: trade
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: trade
   stream: IETF

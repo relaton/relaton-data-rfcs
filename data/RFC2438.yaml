@@ -186,8 +186,8 @@ keyword:
 - content: engineering
 - content: task
 - content: force
-editorialgroup:
-- name: IESG
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: IESG
   stream: IETF

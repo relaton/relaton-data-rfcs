@@ -98,8 +98,8 @@ series:
 keyword:
 - content: EFM-CU-MIB
 - content: ieee
-editorialgroup:
-- name: opsawg
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: opsawg
   stream: IETF

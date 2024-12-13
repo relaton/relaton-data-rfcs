@@ -156,8 +156,8 @@ series:
     format: text/plain
 keyword:
 - content: bulk data transfer
-editorialgroup:
-- name: rmt
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: rmt
   stream: IETF

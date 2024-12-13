@@ -126,8 +126,8 @@ keyword:
 - content: multipath
 - content: disjoint routes
 - content: route diversity
-editorialgroup:
-- name: babel
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: babel
   stream: IETF

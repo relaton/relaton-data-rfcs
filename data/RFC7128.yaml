@@ -210,8 +210,8 @@ series:
 keyword:
 - content: routing
 - content: security
-editorialgroup:
-- name: sidr
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: sidr
   stream: IETF

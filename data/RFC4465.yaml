@@ -119,8 +119,8 @@ series:
     format: text/plain
 keyword:
 - content: SigComp Universal Decompressor Virtual Machine
-editorialgroup:
-- name: rohc
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: rohc
   stream: IETF

@@ -117,8 +117,8 @@ series:
 keyword:
 - content: Softwire
 - content: DS-Lite
-editorialgroup:
-- name: softwire
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: softwire
   stream: IETF

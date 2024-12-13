@@ -182,8 +182,8 @@ keyword:
 - content: vitalisation
 - content: Automation
 - content: Network Models
-editorialgroup:
-- name: opsawg
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: opsawg
   stream: IETF

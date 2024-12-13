@@ -129,8 +129,8 @@ series:
     format: text/plain
 keyword:
 - content: Kerberos
-editorialgroup:
-- name: kitten
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: kitten
   stream: IETF

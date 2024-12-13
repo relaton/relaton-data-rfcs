@@ -209,8 +209,8 @@ keyword:
 - content: routers
 - content: formats
 - content: codes
-editorialgroup:
-- name: gsmp
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: gsmp
   stream: IETF

@@ -220,8 +220,8 @@ keyword:
 - content: AL FEC code
 - content: Sub-blocking
 - content: FEC object delivery
-editorialgroup:
-- name: rmt
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: rmt
   stream: IETF

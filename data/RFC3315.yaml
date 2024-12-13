@@ -241,8 +241,8 @@ keyword:
 - content: internet protocol
 - content: parameters
 - content: addresses
-editorialgroup:
-- name: dhc
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: dhc
   stream: IETF

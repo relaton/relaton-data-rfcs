@@ -101,8 +101,8 @@ keyword:
 - content: Reason
 - content: Call
 - content: Location
-editorialgroup:
-- name: sipcore
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: sipcore
   stream: IETF

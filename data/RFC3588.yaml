@@ -223,8 +223,8 @@ keyword:
 - content: authentication authorization accounting
 - content: ip mobility
 - content: Diameter Base Protocol
-editorialgroup:
-- name: aaa
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: aaa
   stream: IETF

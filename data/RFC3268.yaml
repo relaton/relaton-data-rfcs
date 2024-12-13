@@ -105,8 +105,8 @@ keyword:
 - content: idea
 - content: international data algorithm
 - content: symmetric
-editorialgroup:
-- name: tls
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: tls
   stream: IETF

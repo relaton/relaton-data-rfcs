@@ -220,8 +220,8 @@ keyword:
 - content: DoH
 - content: DoT
 - content: DoQ
-editorialgroup:
-- name: add
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: add
   stream: IETF

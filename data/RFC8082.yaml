@@ -195,8 +195,8 @@ keyword:
 - content: Full Intra Request
 - content: FIR
 - content: Decoder Refresh Point
-editorialgroup:
-- name: avtext
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: avtext
   stream: IETF

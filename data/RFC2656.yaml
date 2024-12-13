@@ -87,8 +87,8 @@ keyword:
 - content: SOIF
 - content: summary object interchange format
 - content: stream
-editorialgroup:
-- name: find
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: find
   stream: IETF

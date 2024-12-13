@@ -122,8 +122,8 @@ keyword:
 - content: URL
 - content: URI
 - content: LDAPv3
-editorialgroup:
-- name: ldapbis
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ldapbis
   stream: IETF

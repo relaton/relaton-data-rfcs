@@ -210,8 +210,8 @@ keyword:
 - content: RSVP-TE Scaling
 - content: RI-RSVP
 - content: Per-Peer Flow Control
-editorialgroup:
-- name: teas
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: teas
   stream: IETF

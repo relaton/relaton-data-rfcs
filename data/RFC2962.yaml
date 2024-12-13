@@ -149,8 +149,8 @@ keyword:
 - content: network
 - content: management
 - content: protocol
-editorialgroup:
-- name: nat
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: nat
   stream: IETF

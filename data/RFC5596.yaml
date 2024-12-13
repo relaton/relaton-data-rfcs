@@ -102,8 +102,8 @@ keyword:
 - content: DCCP
 - content: NAT traversal
 - content: Middlebox Issues
-editorialgroup:
-- name: dccp
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: dccp
   stream: IETF

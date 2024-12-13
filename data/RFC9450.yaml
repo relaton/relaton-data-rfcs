@@ -182,8 +182,8 @@ keyword:
 - content: availability
 - content: routing
 - content: path
-editorialgroup:
-- name: raw
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: raw
   stream: IETF

@@ -183,8 +183,8 @@ keyword:
 - content: data integrity
 - content: authentication
 - content: host network
-editorialgroup:
-- name: ipsp
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ipsp
   stream: IETF

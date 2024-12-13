@@ -207,8 +207,8 @@ series:
     format: text/plain
 keyword:
 - content: internet protocol
-editorialgroup:
-- name: multi6
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: multi6
   stream: IETF

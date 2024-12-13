@@ -213,8 +213,8 @@ keyword:
 - content: Diameter
 - content: Mobile IPv6
 - content: Integrated Scenario
-editorialgroup:
-- name: dime
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: dime
   stream: IETF

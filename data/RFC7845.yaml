@@ -157,8 +157,8 @@ series:
 keyword:
 - content: container
 - content: mapping
-editorialgroup:
-- name: codec
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: codec
   stream: IETF

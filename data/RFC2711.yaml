@@ -118,8 +118,8 @@ keyword:
 - content: datagram
 - content: router
 - content: hop-by-hop
-editorialgroup:
-- name: ipngwg
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ipngwg
   stream: IETF

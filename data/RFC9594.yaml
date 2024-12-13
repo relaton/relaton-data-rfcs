@@ -128,8 +128,8 @@ keyword:
 - content: Access Control
 - content: Constrained Application Protocol (CoAP)
 - content: Secure group communication
-editorialgroup:
-- name: ace
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ace
   stream: IETF

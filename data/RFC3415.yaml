@@ -157,8 +157,8 @@ keyword:
 - content: Simple Network Management Protocol
 - content: mib
 - content: management information base
-editorialgroup:
-- name: snmpv3
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: snmpv3
   stream: IETF

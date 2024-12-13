@@ -208,8 +208,8 @@ keyword:
 - content: MSDC
 - content: DC
 - content: SRGB
-editorialgroup:
-- name: spring
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: spring
   stream: IETF

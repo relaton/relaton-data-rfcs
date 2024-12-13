@@ -108,8 +108,8 @@ keyword:
 - content: ROHC
 - content: RObust Header Compression
 - content: compression protocols
-editorialgroup:
-- name: rohc
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: rohc
   stream: IETF

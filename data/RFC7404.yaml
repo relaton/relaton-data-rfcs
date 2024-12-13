@@ -119,8 +119,8 @@ keyword:
 - content: Link-Local
 - content: Routing Protocol
 - content: Security
-editorialgroup:
-- name: opsec
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: opsec
   stream: IETF

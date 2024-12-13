@@ -88,8 +88,8 @@ keyword:
 - content: "'im:'"
 - content: uri
 - content: uniform resource identifier
-editorialgroup:
-- name: enum
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: enum
   stream: IETF

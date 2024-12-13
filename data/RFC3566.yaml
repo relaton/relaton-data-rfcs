@@ -123,8 +123,8 @@ keyword:
 - content: Internet Protocol Security
 - content: authentication
 - content: hash security
-editorialgroup:
-- name: ipsec
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ipsec
   stream: IETF

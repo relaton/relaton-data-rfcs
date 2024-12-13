@@ -121,8 +121,8 @@ series:
   title:
     content: IETF
     format: text/plain
-editorialgroup:
-- name: lwig
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: lwig
   stream: IETF

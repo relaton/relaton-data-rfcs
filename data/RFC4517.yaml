@@ -104,8 +104,8 @@ keyword:
 - content: LDAv3
 - content: x.500
 - content: syntax
-editorialgroup:
-- name: ldapbis
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ldapbis
   stream: IETF

@@ -243,8 +243,8 @@ keyword:
 - content: Measurement Method
 - content: Measurement Results
 - content: Registry
-editorialgroup:
-- name: lmap
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: lmap
   stream: IETF

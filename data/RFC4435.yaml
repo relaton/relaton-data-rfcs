@@ -197,8 +197,8 @@ keyword:
 - content: session description protocol
 - content: sdp
 - content: sdpng
-editorialgroup:
-- name: mmusic
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mmusic
   stream: IETF

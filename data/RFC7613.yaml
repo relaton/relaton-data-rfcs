@@ -139,8 +139,8 @@ keyword:
 - content: SASLprep
 - content: strings
 - content: stringprep
-editorialgroup:
-- name: precis
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: precis
   stream: IETF

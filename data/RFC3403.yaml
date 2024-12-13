@@ -96,8 +96,8 @@ keyword:
 - content: domain name system
 - content: RR
 - content: Resource Record
-editorialgroup:
-- name: urn
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: urn
   stream: IETF

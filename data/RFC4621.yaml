@@ -121,8 +121,8 @@ series:
     format: text/plain
 keyword:
 - content: internet key exchange
-editorialgroup:
-- name: mobike
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mobike
   stream: IETF

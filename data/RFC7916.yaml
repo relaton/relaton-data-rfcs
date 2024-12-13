@@ -244,8 +244,8 @@ keyword:
 - content: FRR
 - content: fast reroute
 - content: network planning
-editorialgroup:
-- name: rtgwg
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: rtgwg
   stream: IETF

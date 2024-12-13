@@ -122,8 +122,8 @@ keyword:
 - content: wlan
 - content: system service identifier
 - content: ssid
-editorialgroup:
-- name: pkix
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: pkix
   stream: IETF

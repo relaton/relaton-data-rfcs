@@ -121,8 +121,8 @@ keyword:
 - content: dte
 - content: power sourcing equipment
 - content: pse
-editorialgroup:
-- name: hubmib
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: hubmib
   stream: IETF

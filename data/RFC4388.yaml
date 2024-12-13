@@ -118,8 +118,8 @@ series:
 keyword:
 - content: dhcpv4
 - content: ip address
-editorialgroup:
-- name: dhc
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: dhc
   stream: IETF

@@ -119,8 +119,8 @@ keyword:
 - content: current practices
 - content: multi-homing
 - content: MIF
-editorialgroup:
-- name: mif
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mif
   stream: IETF

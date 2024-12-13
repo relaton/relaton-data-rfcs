@@ -131,8 +131,8 @@ keyword:
 - content: Signaling performance
 - content: RSVP-TE delay measurement
 - content: control plane performance
-editorialgroup:
-- name: ccamp
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ccamp
   stream: IETF

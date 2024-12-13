@@ -211,8 +211,8 @@ keyword:
 - content: transmission
 - content: control
 - content: protocol
-editorialgroup:
-- name: pilc
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: pilc
   stream: IETF

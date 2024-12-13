@@ -163,8 +163,8 @@ keyword:
 - content: multipath
 - content: tcp
 - content: congestion control
-editorialgroup:
-- name: mptcp
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mptcp
   stream: IETF

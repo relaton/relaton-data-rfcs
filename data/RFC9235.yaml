@@ -123,8 +123,8 @@ keyword:
 - content: authentication
 - content: option
 - content: test vector
-editorialgroup:
-- name: tcpm
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: tcpm
   stream: IETF

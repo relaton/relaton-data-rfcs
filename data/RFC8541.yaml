@@ -150,8 +150,8 @@ series:
 keyword:
 - content: IS-IS
 - content: OSPF
-editorialgroup:
-- name: rtgwg
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: rtgwg
   stream: IETF

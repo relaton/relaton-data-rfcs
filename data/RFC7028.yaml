@@ -214,8 +214,8 @@ keyword:
 - content: selector
 - content: MLD
 - content: IGMP
-editorialgroup:
-- name: multimob
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: multimob
   stream: IETF

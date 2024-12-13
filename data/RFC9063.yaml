@@ -137,8 +137,8 @@ keyword:
 - content: endpoint identity
 - content: leap of faith
 - content: rendezvous
-editorialgroup:
-- name: hip
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: hip
   stream: IETF

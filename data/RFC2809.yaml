@@ -121,8 +121,8 @@ keyword:
 - content: service
 - content: layer
 - content: two
-editorialgroup:
-- name: radius
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: radius
   stream: IETF

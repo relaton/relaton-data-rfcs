@@ -88,8 +88,8 @@ keyword:
 - content: NAT
 - content: firewall
 - content: PMTU discovery
-editorialgroup:
-- name: ipsecme
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ipsecme
   stream: IETF

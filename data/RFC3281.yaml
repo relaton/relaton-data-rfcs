@@ -135,8 +135,8 @@ keyword:
 - content: ipsec
 - content: www
 - content: security
-editorialgroup:
-- name: pkix
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: pkix
   stream: IETF

@@ -91,8 +91,8 @@ keyword:
 - content: ASN.1
 - content: OID
 - content: Object Identifier
-editorialgroup:
-- name: cbor
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: cbor
   stream: IETF

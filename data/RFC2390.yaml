@@ -148,8 +148,8 @@ keyword:
 - content: hardware
 - content: frame
 - content: relay
-editorialgroup:
-- name: ion
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ion
   stream: IETF

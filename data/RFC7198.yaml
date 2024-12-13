@@ -124,8 +124,8 @@ keyword:
 - content: RTP duplication
 - content: live/live
 - content: redundancy
-editorialgroup:
-- name: avtext
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: avtext
   stream: IETF

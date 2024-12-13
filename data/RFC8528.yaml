@@ -113,8 +113,8 @@ series:
   title:
     content: IETF
     format: text/plain
-editorialgroup:
-- name: netmod
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: netmod
   stream: IETF

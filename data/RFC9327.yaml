@@ -95,8 +95,8 @@ keyword:
 - content: NTP
 - content: mode 6
 - content: mode 7
-editorialgroup:
-- name: ntp
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ntp
   stream: IETF

@@ -216,8 +216,8 @@ series:
 keyword:
 - content: Secure Internet routing
 - content: Resource public key infrastructure
-editorialgroup:
-- name: sidrops
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: sidrops
   stream: IETF

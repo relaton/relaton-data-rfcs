@@ -150,8 +150,8 @@ keyword:
 - content: DIS
 - content: distributed
 - content: applications
-editorialgroup:
-- name: lsma
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: lsma
   stream: IETF

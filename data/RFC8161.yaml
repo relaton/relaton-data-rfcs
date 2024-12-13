@@ -147,8 +147,8 @@ keyword:
 - content: IPv6
 - content: Scaling
 - content: NDP
-editorialgroup:
-- name: bmwg
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: bmwg
   stream: IETF

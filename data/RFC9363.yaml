@@ -122,8 +122,8 @@ keyword:
 - content: UDP
 - content: CoAP
 - content: OSCORE
-editorialgroup:
-- name: lpwan
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: lpwan
   stream: IETF

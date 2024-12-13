@@ -153,8 +153,8 @@ keyword:
 - content: multimedia
 - content: uri
 - content: uniform resource identifiers
-editorialgroup:
-- name: mhtml
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mhtml
   stream: IETF

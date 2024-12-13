@@ -120,8 +120,8 @@ keyword:
 - content: Typed links
 - content: JSON
 - content: HTTP
-editorialgroup:
-- name: httpapi
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: httpapi
   stream: IETF

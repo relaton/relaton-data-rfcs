@@ -88,8 +88,8 @@ keyword:
 - content: fraud
 - content: phishing
 - content: spoofing
-editorialgroup:
-- name: marf
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: marf
   stream: IETF

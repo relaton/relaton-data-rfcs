@@ -105,8 +105,8 @@ keyword:
 - content: RFC 4944
 - content: adaptation layer
 - content: IEEE 802.15.4
-editorialgroup:
-- name: 6lo
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: 6lo
   stream: IETF

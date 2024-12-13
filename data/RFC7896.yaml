@@ -105,8 +105,8 @@ keyword:
 - content: PCEP
 - content: PCE
 - content: IRO
-editorialgroup:
-- name: pce
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: pce
   stream: IETF

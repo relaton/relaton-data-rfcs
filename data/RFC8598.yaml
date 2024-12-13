@@ -120,8 +120,8 @@ series:
 keyword:
 - content: IKEv2
 - content: DNS
-editorialgroup:
-- name: ipsecme
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ipsecme
   stream: IETF

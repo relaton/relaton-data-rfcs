@@ -91,8 +91,8 @@ keyword:
 - content: Early dialog
 - content: Forking
 - content: Provisional response
-editorialgroup:
-- name: sipcore
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: sipcore
   stream: IETF

@@ -212,8 +212,8 @@ keyword:
 - content: routing
 - content: IP
 - content: Internet Protocol
-editorialgroup:
-- name: idmr
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: idmr
   stream: IETF

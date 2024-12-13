@@ -119,8 +119,8 @@ keyword:
 - content: internet
 - content: protocol
 - content: unicast
-editorialgroup:
-- name: mboned
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mboned
   stream: IETF

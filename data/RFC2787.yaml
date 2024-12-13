@@ -130,8 +130,8 @@ keyword:
 - content: management information base
 - content: VRRP
 - content: Virtual Router Redundancy Protocol
-editorialgroup:
-- name: vrrp
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: vrrp
   stream: IETF

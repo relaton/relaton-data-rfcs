@@ -96,8 +96,8 @@ keyword:
 - content: diameter
 - content: cops
 - content: common open policy service
-editorialgroup:
-- name: midcom
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: midcom
   stream: IETF

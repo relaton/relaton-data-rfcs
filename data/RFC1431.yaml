@@ -89,8 +89,8 @@ keyword:
 - content: Statistics
 - content: Survey
 - content: X.500
-editorialgroup:
-- name: osids
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: osids
   stream: IETF

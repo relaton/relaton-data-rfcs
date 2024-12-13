@@ -105,8 +105,8 @@ series:
     format: text/plain
 keyword:
 - content: Lang-Tag
-editorialgroup:
-- name: mailext
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mailext
   stream: IETF

@@ -139,8 +139,8 @@ keyword:
 - content: Layer Two Tunneling Protocol
 - content: MIB
 - content: Management Information Base
-editorialgroup:
-- name: l2tpext
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: l2tpext
   stream: IETF

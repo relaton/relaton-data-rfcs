@@ -124,8 +124,8 @@ keyword:
 - content: TTLS
 - content: PEAP. FAST
 - content: TEAP
-editorialgroup:
-- name: emu
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: emu
   stream: IETF

@@ -89,8 +89,8 @@ keyword:
 - content: domain name system
 - content: resource record
 - content: transaction key
-editorialgroup:
-- name: dnsext
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: dnsext
   stream: IETF

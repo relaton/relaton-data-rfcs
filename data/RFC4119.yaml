@@ -87,8 +87,8 @@ series:
 keyword:
 - content: pidf
 - content: presence information data format
-editorialgroup:
-- name: geopriv
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: geopriv
   stream: IETF

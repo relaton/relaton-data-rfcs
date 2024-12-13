@@ -111,8 +111,8 @@ keyword:
 - content: revocation information
 - content: status_request
 - content: status_request_v2
-editorialgroup:
-- name: tls
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: tls
   stream: IETF

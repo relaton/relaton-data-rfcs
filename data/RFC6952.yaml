@@ -151,8 +151,8 @@ keyword:
 - content: authentication
 - content: routing
 - content: DoS
-editorialgroup:
-- name: karp
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: karp
   stream: IETF

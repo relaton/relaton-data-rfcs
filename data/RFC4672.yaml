@@ -152,8 +152,8 @@ keyword:
 - content: dynamic authorization client
 - content: RADIUS-DYNAUTH-CLIENT-MIB DEFINITIONS
 - content: management information base
-editorialgroup:
-- name: radext
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: radext
   stream: IETF

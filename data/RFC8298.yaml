@@ -120,8 +120,8 @@ keyword:
 - content: Cellular Network
 - content: Congestion Control
 - content: RTP
-editorialgroup:
-- name: rmcat
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: rmcat
   stream: IETF

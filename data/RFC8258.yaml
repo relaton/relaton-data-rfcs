@@ -122,8 +122,8 @@ series:
 keyword:
 - content: OSPF-TE
 - content: GMPLS
-editorialgroup:
-- name: teas
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: teas
   stream: IETF

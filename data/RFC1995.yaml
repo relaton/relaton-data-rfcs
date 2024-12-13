@@ -99,8 +99,8 @@ keyword:
 - content: Name
 - content: System
 - content: IXFR
-editorialgroup:
-- name: dnsind
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: dnsind
   stream: IETF

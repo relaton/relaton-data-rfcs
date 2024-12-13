@@ -129,8 +129,8 @@ keyword:
 - content: debug
 - content: debugging
 - content: logging
-editorialgroup:
-- name: insipid
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: insipid
   stream: IETF

@@ -99,8 +99,8 @@ keyword:
 - content: LDAP-URL
 - content: Lightweight Directory Access Protocol
 - content: Universal Resource Locator
-editorialgroup:
-- name: ldapbis
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ldapbis
   stream: IETF

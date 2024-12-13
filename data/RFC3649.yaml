@@ -101,8 +101,8 @@ keyword:
 - content: transmission control protocol
 - content: round-trip
 - content: rate packet
-editorialgroup:
-- name: tsvwg
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: tsvwg
   stream: IETF

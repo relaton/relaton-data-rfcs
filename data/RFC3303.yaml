@@ -196,8 +196,8 @@ series:
     format: text/plain
 keyword:
 - content: midcom
-editorialgroup:
-- name: midcom
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: midcom
   stream: IETF

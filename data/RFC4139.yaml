@@ -217,8 +217,8 @@ keyword:
 - content: control plane
 - content: call
 - content: connection
-editorialgroup:
-- name: ccamp
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ccamp
   stream: IETF

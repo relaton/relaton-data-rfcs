@@ -226,8 +226,8 @@ keyword:
 - content: Multicast
 - content: Access Node
 - content: Network Access Server
-editorialgroup:
-- name: ancp
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ancp
   stream: IETF

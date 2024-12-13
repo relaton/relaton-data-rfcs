@@ -125,8 +125,8 @@ keyword:
 - content: Privacy
 - content: Email
 - content: Account Expiration
-editorialgroup:
-- name: appsawg
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: appsawg
   stream: IETF

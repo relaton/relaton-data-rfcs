@@ -118,8 +118,8 @@ series:
     format: text/plain
 keyword:
 - content: router advertisement
-editorialgroup:
-- name: ipv6
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ipv6
   stream: IETF

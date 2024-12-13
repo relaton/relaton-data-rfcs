@@ -169,8 +169,8 @@ keyword:
 - content: data interoperability
 - content: synchronization
 - content: multi-master
-editorialgroup:
-- name: ldup
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ldup
   stream: IETF

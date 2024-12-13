@@ -211,8 +211,8 @@ keyword:
 - content: infrastructure
 - content: intent
 - content: autonomic control plane
-editorialgroup:
-- name: anima
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: anima
   stream: IETF

@@ -118,8 +118,8 @@ series:
     format: text/plain
 keyword:
 - content: P2P
-editorialgroup:
-- name: ppsp
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ppsp
   stream: IETF

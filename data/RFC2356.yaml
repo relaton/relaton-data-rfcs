@@ -122,8 +122,8 @@ keyword:
 - content: Protocol
 - content: security
 - content: traffic
-editorialgroup:
-- name: mobileip
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mobileip
   stream: IETF

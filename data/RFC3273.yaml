@@ -93,8 +93,8 @@ keyword:
 - content: mib
 - content: management information base
 - content: high speed networks
-editorialgroup:
-- name: rmonmib
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: rmonmib
   stream: IETF

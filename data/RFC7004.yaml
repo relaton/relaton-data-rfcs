@@ -180,8 +180,8 @@ keyword:
 - content: Burst/Gap Loss
 - content: Burst/Gap Discard
 - content: Frame Impairment
-editorialgroup:
-- name: xrblock
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: xrblock
   stream: IETF

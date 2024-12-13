@@ -94,8 +94,8 @@ keyword:
 - content: protocol
 - content: point-to-point
 - content: ipv6
-editorialgroup:
-- name: 6man
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: 6man
   stream: IETF

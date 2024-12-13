@@ -129,8 +129,8 @@ keyword:
 - content: MPLS-SR
 - content: SRv6
 - content: SFC
-editorialgroup:
-- name: spring
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: spring
   stream: IETF

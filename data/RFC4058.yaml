@@ -214,8 +214,8 @@ series:
 keyword:
 - content: network connectivity
 - content: link layer agnostic protocol
-editorialgroup:
-- name: pana
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: pana
   stream: IETF

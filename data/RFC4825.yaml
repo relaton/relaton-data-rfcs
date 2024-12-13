@@ -94,8 +94,8 @@ keyword:
 - content: simple
 - content: presence
 - content: data manipulation
-editorialgroup:
-- name: simple
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: simple
   stream: IETF

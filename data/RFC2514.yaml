@@ -147,8 +147,8 @@ keyword:
 - content: asynchronous transfer mode
 - content: MIB
 - content: management information base
-editorialgroup:
-- name: atommib
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: atommib
   stream: IETF

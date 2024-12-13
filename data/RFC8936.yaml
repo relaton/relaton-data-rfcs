@@ -212,8 +212,8 @@ keyword:
 - content: Delivery
 - content: JavaScript Object Notation
 - content: JSON
-editorialgroup:
-- name: secevent
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: secevent
   stream: IETF

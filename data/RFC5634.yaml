@@ -131,8 +131,8 @@ keyword:
 - content: ccid 2
 - content: ccid 3
 - content: ccid 4
-editorialgroup:
-- name: dccp
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: dccp
   stream: IETF

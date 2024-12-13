@@ -210,8 +210,8 @@ series:
 keyword:
 - content: Transport Protocols
 - content: Transport Security
-editorialgroup:
-- name: taps
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: taps
   stream: IETF

@@ -148,8 +148,8 @@ keyword:
 - content: Management Information Base
 - content: alarm condition
 - content: probably cause
-editorialgroup:
-- name: disman
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: disman
   stream: IETF

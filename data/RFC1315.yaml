@@ -156,8 +156,8 @@ series:
     format: text/plain
 keyword:
 - content: MIB
-editorialgroup:
-- name: iplpdn
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: iplpdn
   stream: IETF

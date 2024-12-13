@@ -154,8 +154,8 @@ keyword:
 - content: Feedback Suppression
 - content: NACK
 - content: Retransmission
-editorialgroup:
-- name: avtcore
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: avtcore
   stream: IETF

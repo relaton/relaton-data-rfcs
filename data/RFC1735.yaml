@@ -124,8 +124,8 @@ keyword:
 - content: Address
 - content: Resolution
 - content: Protocol
-editorialgroup:
-- name: rolc
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: rolc
   stream: IETF

@@ -90,8 +90,8 @@ keyword:
 - content: crytographic
 - content: secure
 - content: scalable
-editorialgroup:
-- name: ipsec
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ipsec
   stream: IETF

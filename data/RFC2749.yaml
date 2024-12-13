@@ -237,8 +237,8 @@ keyword:
 - content: common open policy service
 - content: RSVP
 - content: resource reservation protocol
-editorialgroup:
-- name: rap
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: rap
   stream: IETF

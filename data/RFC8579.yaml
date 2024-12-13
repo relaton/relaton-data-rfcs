@@ -91,8 +91,8 @@ keyword:
 - content: sieve
 - content: mailbox
 - content: special-use
-editorialgroup:
-- name: extra
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: extra
   stream: IETF

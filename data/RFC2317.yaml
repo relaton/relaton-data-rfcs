@@ -154,8 +154,8 @@ keyword:
 - content: addresses
 - content: zone
 - content: files
-editorialgroup:
-- name: dnsind
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: dnsind
   stream: IETF

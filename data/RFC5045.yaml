@@ -121,8 +121,8 @@ series:
     format: text/plain
 keyword:
 - content: rdmap
-editorialgroup:
-- name: rddp
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: rddp
   stream: IETF

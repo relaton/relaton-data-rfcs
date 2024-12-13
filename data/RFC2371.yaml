@@ -151,8 +151,8 @@ keyword:
 - content: commit
 - content: electronic
 - content: commerce
-editorialgroup:
-- name: tip
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: tip
   stream: IETF

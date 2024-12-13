@@ -151,8 +151,8 @@ keyword:
 - content: interface
 - content: network
 - content: protocol
-editorialgroup:
-- name: intserv
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: intserv
   stream: IETF

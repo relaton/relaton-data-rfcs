@@ -209,8 +209,8 @@ keyword:
 - content: IGMP Proxy
 - content: MLD Proxy
 - content: YANG
-editorialgroup:
-- name: pim
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: pim
   stream: IETF

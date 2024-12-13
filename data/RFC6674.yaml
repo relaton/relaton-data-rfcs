@@ -183,8 +183,8 @@ keyword:
 - content: Dual-Stack Lite
 - content: IPv6 Transitioning
 - content: IPv6 Migration
-editorialgroup:
-- name: softwire
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: softwire
   stream: IETF

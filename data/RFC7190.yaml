@@ -99,8 +99,8 @@ keyword:
 - content: link bundling
 - content: multipath
 - content: MPLS-TP
-editorialgroup:
-- name: mpls
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mpls
   stream: IETF

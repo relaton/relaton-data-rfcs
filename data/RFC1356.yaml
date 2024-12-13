@@ -149,8 +149,8 @@ keyword:
 - content: IP
 - content: 'on'
 - content: X.25
-editorialgroup:
-- name: iplpdn
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: iplpdn
   stream: IETF

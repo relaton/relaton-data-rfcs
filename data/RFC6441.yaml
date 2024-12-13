@@ -97,8 +97,8 @@ keyword:
 - content: IPv4
 - content: martians
 - content: filters
-editorialgroup:
-- name: grow
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: grow
   stream: IETF

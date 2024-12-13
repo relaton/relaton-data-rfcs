@@ -158,8 +158,8 @@ keyword:
 - content: cdni logging
 - content: cdmi metadata
 - content: cdni control
-editorialgroup:
-- name: cdni
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: cdni
   stream: IETF

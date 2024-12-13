@@ -89,8 +89,8 @@ keyword:
 - content: RSA
 - content: SHA-256
 - content: SHA-512
-editorialgroup:
-- name: dnsext
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: dnsext
   stream: IETF

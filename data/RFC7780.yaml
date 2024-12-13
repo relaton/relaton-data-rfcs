@@ -284,8 +284,8 @@ keyword:
 - content: color
 - content: E-L1FS
 - content: purge
-editorialgroup:
-- name: trill
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: trill
   stream: IETF

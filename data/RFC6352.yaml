@@ -88,8 +88,8 @@ keyword:
 - content: address
 - content: address book
 - content: contact
-editorialgroup:
-- name: vcarddav
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: vcarddav
   stream: IETF

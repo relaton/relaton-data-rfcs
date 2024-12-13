@@ -101,8 +101,8 @@ keyword:
 - content: server
 - content: tls
 - content: transport layer security
-editorialgroup:
-- name: provreg
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: provreg
   stream: IETF

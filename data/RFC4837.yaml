@@ -97,8 +97,8 @@ keyword:
 - content: onu
 - content: olt
 - content: optical access
-editorialgroup:
-- name: hubmib
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: hubmib
   stream: IETF

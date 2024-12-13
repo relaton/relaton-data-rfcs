@@ -155,8 +155,8 @@ keyword:
 - content: JSON
 - content: JSON Web Token
 - content: JWT
-editorialgroup:
-- name: oauth
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: oauth
   stream: IETF

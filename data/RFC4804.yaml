@@ -95,8 +95,8 @@ keyword:
 - content: multiprotocol label switching
 - content: traffic engineering
 - content: diffserv-aware mpls traffic engineering
-editorialgroup:
-- name: tsvwg
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: tsvwg
   stream: IETF

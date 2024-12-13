@@ -146,8 +146,8 @@ series:
     format: text/plain
 keyword:
 - content: instant message
-editorialgroup:
-- name: simple
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: simple
   stream: IETF

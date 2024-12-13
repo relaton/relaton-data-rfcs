@@ -174,8 +174,8 @@ series:
     format: text/plain
 keyword:
 - content: DOIC
-editorialgroup:
-- name: dime
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: dime
   stream: IETF

@@ -109,8 +109,8 @@ keyword:
 - content: certificate
 - content: key
 - content: management
-editorialgroup:
-- name: smime
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: smime
   stream: IETF

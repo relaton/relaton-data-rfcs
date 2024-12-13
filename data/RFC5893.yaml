@@ -122,8 +122,8 @@ keyword:
 - content: ascii
 - content: characters
 - content: Bidi
-editorialgroup:
-- name: idnabis
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: idnabis
   stream: IETF

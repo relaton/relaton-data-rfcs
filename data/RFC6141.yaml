@@ -164,8 +164,8 @@ keyword:
 - content: re-INVITE
 - content: offer/answer
 - content: rollback
-editorialgroup:
-- name: sipcore
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: sipcore
   stream: IETF

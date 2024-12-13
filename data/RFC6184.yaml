@@ -191,8 +191,8 @@ keyword:
 - content: AVC
 - content: H.264/AVC
 - content: Advanced Video Coding
-editorialgroup:
-- name: avt
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: avt
   stream: IETF

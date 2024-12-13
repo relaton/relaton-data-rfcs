@@ -184,8 +184,8 @@ series:
 keyword:
 - content: Mobile IPv6
 - content: Security
-editorialgroup:
-- name: mext
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mext
   stream: IETF

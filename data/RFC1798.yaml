@@ -102,8 +102,8 @@ keyword:
 - content: Application
 - content: Entity
 - content: Title
-editorialgroup:
-- name: osids
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: osids
   stream: IETF

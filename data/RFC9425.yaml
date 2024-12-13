@@ -87,8 +87,8 @@ keyword:
 - content: JSON
 - content: email
 - content: quotas
-editorialgroup:
-- name: jmap
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: jmap
   stream: IETF

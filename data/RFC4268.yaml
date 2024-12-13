@@ -121,8 +121,8 @@ keyword:
 - content: management information base
 - content: snmp
 - content: entity-state-tc-mib
-editorialgroup:
-- name: entmib
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: entmib
   stream: IETF

@@ -113,8 +113,8 @@ keyword:
 - content: PBX
 - content: SSP
 - content: SIP-PBX
-editorialgroup:
-- name: martini
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: martini
   stream: IETF

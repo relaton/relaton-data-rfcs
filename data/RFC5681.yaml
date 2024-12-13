@@ -150,8 +150,8 @@ keyword:
 - content: congestion avoidance
 - content: fast retransmit
 - content: fast recovery
-editorialgroup:
-- name: tcpm
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: tcpm
   stream: IETF

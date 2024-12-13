@@ -121,8 +121,8 @@ keyword:
 - content: Real-time Transport Protocol
 - content: iLBC
 - content: internet Low Bit Rate Codec
-editorialgroup:
-- name: avt
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: avt
   stream: IETF

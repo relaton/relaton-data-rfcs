@@ -122,8 +122,8 @@ keyword:
 - content: Rendezvous
 - content: HIP nodes
 - content: HIP rendezvous server
-editorialgroup:
-- name: hip
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: hip
   stream: IETF

@@ -243,8 +243,8 @@ series:
 keyword:
 - content: SR-MPLS
 - content: MPLS-in-UDP
-editorialgroup:
-- name: mpls
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mpls
   stream: IETF

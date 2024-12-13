@@ -149,8 +149,8 @@ keyword:
 - content: HIP
 - content: overlay
 - content: P2P
-editorialgroup:
-- name: hip
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: hip
   stream: IETF

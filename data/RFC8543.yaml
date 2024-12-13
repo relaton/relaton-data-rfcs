@@ -205,8 +205,8 @@ series:
     format: text/plain
 keyword:
 - content: epp registry organization object mapping
-editorialgroup:
-- name: regext
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: regext
   stream: IETF

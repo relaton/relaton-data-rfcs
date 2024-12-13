@@ -98,8 +98,8 @@ keyword:
 - content: IPsec
 - content: IoT
 - content: Constrained
-editorialgroup:
-- name: lwig
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: lwig
   stream: IETF

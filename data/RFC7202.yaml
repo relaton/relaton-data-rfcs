@@ -121,8 +121,8 @@ keyword:
 - content: SRTP
 - content: RTP Profile
 - content: Payload Format
-editorialgroup:
-- name: avtcore
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: avtcore
   stream: IETF

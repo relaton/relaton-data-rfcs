@@ -152,8 +152,8 @@ keyword:
 - content: encryption
 - content: networks
 - content: systems
-editorialgroup:
-- name: ssh
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ssh
   stream: IETF

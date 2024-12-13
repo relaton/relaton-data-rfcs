@@ -147,8 +147,8 @@ keyword:
 - content: DNS-SECEXT
 - content: dns
 - content: authentication
-editorialgroup:
-- name: dnssec
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: dnssec
   stream: IETF

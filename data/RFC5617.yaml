@@ -211,8 +211,8 @@ keyword:
 - content: return address
 - content: sender signing
 - content: signing practices
-editorialgroup:
-- name: dkim
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: dkim
   stream: IETF

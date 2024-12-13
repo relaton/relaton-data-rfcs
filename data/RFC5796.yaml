@@ -170,8 +170,8 @@ keyword:
 - content: multicast routing
 - content: link-local message
 - content: Protocol Independent Multicast Sparse Mode
-editorialgroup:
-- name: pim
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: pim
   stream: IETF

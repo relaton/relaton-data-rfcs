@@ -150,8 +150,8 @@ series:
     format: text/plain
 keyword:
 - content: pin
-editorialgroup:
-- name: websec
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: websec
   stream: IETF

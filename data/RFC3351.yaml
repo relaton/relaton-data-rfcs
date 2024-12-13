@@ -199,8 +199,8 @@ keyword:
 - content: relay service
 - content: transcoding service
 - content: textphone
-editorialgroup:
-- name: sipping
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: sipping
   stream: IETF

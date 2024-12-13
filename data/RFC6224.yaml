@@ -155,8 +155,8 @@ keyword:
 - content: multicast routing
 - content: mobility management
 - content: transparent handover
-editorialgroup:
-- name: multimob
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: multimob
   stream: IETF

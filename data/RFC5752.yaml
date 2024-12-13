@@ -124,8 +124,8 @@ keyword:
 - content: signerinfo
 - content: downgrade attacks
 - content: algorithm migration
-editorialgroup:
-- name: smime
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: smime
   stream: IETF

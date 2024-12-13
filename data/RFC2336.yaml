@@ -83,8 +83,8 @@ series:
   title:
     content: IETF
     format: text/plain
-editorialgroup:
-- name: ion
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ion
   stream: IETF

@@ -185,8 +185,8 @@ keyword:
 - content: iodef
 - content: xmpp-grid
 - content: information sharing
-editorialgroup:
-- name: mile
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mile
   stream: IETF

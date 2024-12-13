@@ -119,8 +119,8 @@ keyword:
 - content: voicemail
 - content: vpim
 - content: voice profile for internet mail
-editorialgroup:
-- name: vpim
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: vpim
   stream: IETF

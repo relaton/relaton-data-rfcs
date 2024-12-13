@@ -85,8 +85,8 @@ series:
 keyword:
 - content: SNMP-X.25
 - content: management
-editorialgroup:
-- name: x25mib
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: x25mib
   stream: IETF

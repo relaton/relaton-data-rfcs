@@ -110,8 +110,8 @@ keyword:
 - content: IMAP
 - content: IMAP4
 - content: EMail
-editorialgroup:
-- name: imap
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: imap
   stream: IETF

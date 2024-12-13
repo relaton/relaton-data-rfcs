@@ -87,8 +87,8 @@ series:
     format: text/plain
 keyword:
 - content: directory services domain
-editorialgroup:
-- name: crisp
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: crisp
   stream: IETF

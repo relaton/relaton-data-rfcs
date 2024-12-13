@@ -117,8 +117,8 @@ series:
     format: text/plain
 keyword:
 - content: ISCSI-MIB
-editorialgroup:
-- name: storm
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: storm
   stream: IETF

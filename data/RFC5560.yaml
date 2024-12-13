@@ -92,8 +92,8 @@ keyword:
 - content: performance metrics
 - content: packet duplication
 - content: unidirectional
-editorialgroup:
-- name: ippm
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ippm
   stream: IETF

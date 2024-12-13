@@ -210,8 +210,8 @@ series:
     format: text/plain
 keyword:
 - content: Web real-time communication
-editorialgroup:
-- name: xrblock
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: xrblock
   stream: IETF

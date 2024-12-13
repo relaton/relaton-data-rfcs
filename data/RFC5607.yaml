@@ -125,8 +125,8 @@ keyword:
 - content: Network Configuration Protocol
 - content: NETCONF
 - content: Access Control
-editorialgroup:
-- name: radext
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: radext
   stream: IETF

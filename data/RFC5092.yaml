@@ -136,8 +136,8 @@ keyword:
 - content: Uniform
 - content: Resource
 - content: Identifiers
-editorialgroup:
-- name: lemonade
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: lemonade
   stream: IETF

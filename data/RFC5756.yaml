@@ -220,8 +220,8 @@ keyword:
 - content: rsa encryption scheme
 - content: optical asymmetric encryption padding
 - content: subjectpublickeyinfo
-editorialgroup:
-- name: pkix
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: pkix
   stream: IETF

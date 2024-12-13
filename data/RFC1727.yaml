@@ -119,8 +119,8 @@ keyword:
 - content: Universal
 - content: Resource
 - content: Names
-editorialgroup:
-- name: iiir
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: iiir
   stream: IETF

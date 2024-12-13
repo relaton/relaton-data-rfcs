@@ -233,8 +233,8 @@ series:
 keyword:
 - content: GMPLS
 - content: Shared mesh protection
-editorialgroup:
-- name: teas
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: teas
   stream: IETF

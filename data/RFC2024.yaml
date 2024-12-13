@@ -151,8 +151,8 @@ keyword:
 - content: Management
 - content: Information
 - content: Base
-editorialgroup:
-- name: dlswmib
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: dlswmib
   stream: IETF

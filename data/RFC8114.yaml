@@ -231,8 +231,8 @@ keyword:
 - content: IPv6 Address Synthesis
 - content: Any-Source Multicast
 - content: Source-Specific Multicast
-editorialgroup:
-- name: softwire
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: softwire
   stream: IETF

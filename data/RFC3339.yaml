@@ -118,8 +118,8 @@ keyword:
 - content: gregorian calendar
 - content: iso
 - content: International Organization for Standardization
-editorialgroup:
-- name: impp
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: impp
   stream: IETF

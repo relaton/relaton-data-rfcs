@@ -96,8 +96,8 @@ keyword:
 - content: Internationalized Domain Names in Applications
 - content: syntax
 - content: string host label
-editorialgroup:
-- name: idn
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: idn
   stream: IETF

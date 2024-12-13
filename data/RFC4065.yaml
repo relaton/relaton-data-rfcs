@@ -97,8 +97,8 @@ keyword:
 - content: context transfer protocol
 - content: CXTP
 - content: ICMP
-editorialgroup:
-- name: seamoby
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: seamoby
   stream: IETF

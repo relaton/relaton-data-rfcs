@@ -150,8 +150,8 @@ keyword:
 - content: management information base
 - content: remote authentication dial-in user service
 - content: RADIUS-DYNAUTH-SERVER-MIB
-editorialgroup:
-- name: radext
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: radext
   stream: IETF

@@ -252,8 +252,8 @@ series:
     format: text/plain
 keyword:
 - content: rdma data transfer
-editorialgroup:
-- name: ips
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ips
   stream: IETF

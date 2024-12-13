@@ -163,8 +163,8 @@ keyword:
 - content: classification
 - content: 5G
 - content: traffic steering
-editorialgroup:
-- name: sfc
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: sfc
   stream: IETF

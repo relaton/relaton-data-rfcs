@@ -148,8 +148,8 @@ keyword:
 - content: mapping
 - content: transcoding
 - content: network
-editorialgroup:
-- name: megaco
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: megaco
   stream: IETF

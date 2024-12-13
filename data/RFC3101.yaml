@@ -94,8 +94,8 @@ keyword:
 - content: Not-So-Stubby Area
 - content: external routes
 - content: backward compatible
-editorialgroup:
-- name: ospf
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ospf
   stream: IETF

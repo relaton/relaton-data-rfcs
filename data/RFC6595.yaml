@@ -151,8 +151,8 @@ series:
 keyword:
 - content: Generic Security Service Application Program Interface
 - content: SAML 2.0
-editorialgroup:
-- name: kitten
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: kitten
   stream: IETF

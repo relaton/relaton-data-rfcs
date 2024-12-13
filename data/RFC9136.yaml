@@ -214,8 +214,8 @@ keyword:
 - content: Type-5
 - content: Interface-less
 - content: Interface-ful
-editorialgroup:
-- name: bess
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: bess
   stream: IETF

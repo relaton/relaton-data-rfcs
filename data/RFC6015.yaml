@@ -96,8 +96,8 @@ keyword:
 - content: loss repair
 - content: loss protection
 - content: DVB AL-FEC
-editorialgroup:
-- name: fecframe
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: fecframe
   stream: IETF

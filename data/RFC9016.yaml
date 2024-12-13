@@ -206,8 +206,8 @@ series:
 keyword:
 - content: DetNet
 - content: Flow and Service Information Model
-editorialgroup:
-- name: detnet
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: detnet
   stream: IETF

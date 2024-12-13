@@ -122,8 +122,8 @@ keyword:
 - content: mpeg-2 ts-concat
 - content: pdu-concat
 - content: timestamp
-editorialgroup:
-- name: ipdvb
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ipdvb
   stream: IETF

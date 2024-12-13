@@ -153,8 +153,8 @@ keyword:
 - content: p2mp
 - content: point-to-multipoint
 - content: traffic engineering
-editorialgroup:
-- name: mpls
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mpls
   stream: IETF

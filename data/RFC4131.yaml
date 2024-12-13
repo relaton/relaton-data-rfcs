@@ -183,8 +183,8 @@ keyword:
 - content: snmp
 - content: simple network management protocol
 - content: docs-ietf-bpi2-mib
-editorialgroup:
-- name: ipcdn
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ipcdn
   stream: IETF

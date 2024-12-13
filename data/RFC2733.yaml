@@ -129,8 +129,8 @@ keyword:
 - content: RTP
 - content: real-time protocol
 - content: stream
-editorialgroup:
-- name: avt
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: avt
   stream: IETF

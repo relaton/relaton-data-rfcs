@@ -125,8 +125,8 @@ keyword:
 - content: hom address destination
 - content: routing header type 2
 - content: socket applications
-editorialgroup:
-- name: mip6
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mip6
   stream: IETF

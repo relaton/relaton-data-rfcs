@@ -99,8 +99,8 @@ keyword:
 - content: SMTP
 - content: EMail
 - content: '822'
-editorialgroup:
-- name: x400ops
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: x400ops
   stream: IETF

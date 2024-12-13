@@ -132,8 +132,8 @@ keyword:
 - content: Transfer
 - content: Protocol
 - content: cookie
-editorialgroup:
-- name: http
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: http
   stream: IETF

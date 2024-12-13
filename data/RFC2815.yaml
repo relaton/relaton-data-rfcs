@@ -178,8 +178,8 @@ keyword:
 - content: local area network
 - content: resource
 - content: reservation
-editorialgroup:
-- name: issll
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: issll
   stream: IETF

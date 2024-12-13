@@ -125,8 +125,8 @@ keyword:
 - content: IODEF implementation recommendations
 - content: IODEF examples
 - content: IODEF practical recommendations
-editorialgroup:
-- name: mile
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mile
   stream: IETF

@@ -110,8 +110,8 @@ series:
 keyword:
 - content: itu-t
 - content: ospfv2 link state routing protocol
-editorialgroup:
-- name: ccamp
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ccamp
   stream: IETF

@@ -186,8 +186,8 @@ keyword:
 - content: EVPN
 - content: Applicability
 - content: NVO3
-editorialgroup:
-- name: nvo3
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: nvo3
   stream: IETF

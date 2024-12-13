@@ -120,8 +120,8 @@ series:
     format: text/plain
 keyword:
 - content: interactive communication
-editorialgroup:
-- name: sip
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: sip
   stream: IETF

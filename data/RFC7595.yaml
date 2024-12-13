@@ -153,8 +153,8 @@ keyword:
 - content: Internationalized Resource Identifier
 - content: Uniform Resource Identifier
 - content: URI registration
-editorialgroup:
-- name: appsawg
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: appsawg
   stream: IETF

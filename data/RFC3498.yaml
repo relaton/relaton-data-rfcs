@@ -155,8 +155,8 @@ keyword:
 - content: SONET
 - content: Automatic Protection Switching
 - content: APS
-editorialgroup:
-- name: atommib
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: atommib
   stream: IETF

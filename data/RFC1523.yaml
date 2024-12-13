@@ -110,8 +110,8 @@ keyword:
 - content: email
 - content: mail
 - content: richtext
-editorialgroup:
-- name: 822ext
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: 822ext
   stream: IETF

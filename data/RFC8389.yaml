@@ -207,8 +207,8 @@ series:
 keyword:
 - content: IPv6
 - content: MAP
-editorialgroup:
-- name: softwire
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: softwire
   stream: IETF

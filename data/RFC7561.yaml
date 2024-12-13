@@ -156,8 +156,8 @@ keyword:
 - content: PMIPv6
 - content: Wi-Fi
 - content: QoS
-editorialgroup:
-- name: netext
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: netext
   stream: IETF

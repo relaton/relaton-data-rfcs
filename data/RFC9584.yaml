@@ -151,8 +151,8 @@ keyword:
 - content: EVC
 - content: ISO/IEC 23094-1
 - content: Essential Video Coding
-editorialgroup:
-- name: avtcore
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: avtcore
   stream: IETF

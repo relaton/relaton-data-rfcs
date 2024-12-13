@@ -120,8 +120,8 @@ keyword:
 - content: Security
 - content: Reliability
 - content: DNS
-editorialgroup:
-- name: radext
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: radext
   stream: IETF

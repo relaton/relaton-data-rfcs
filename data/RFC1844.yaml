@@ -90,8 +90,8 @@ keyword:
 - content: Extensions
 - content: Media
 - content: Types
-editorialgroup:
-- name: mailext
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mailext
   stream: IETF

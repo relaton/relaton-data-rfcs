@@ -193,8 +193,8 @@ keyword:
 - content: SNMPv3
 - content: multiple
 - content: versions
-editorialgroup:
-- name: snmpv3
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: snmpv3
   stream: IETF

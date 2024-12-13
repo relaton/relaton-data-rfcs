@@ -179,8 +179,8 @@ series:
 keyword:
 - content: mobile node
 - content: mn
-editorialgroup:
-- name: seamoby
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: seamoby
   stream: IETF

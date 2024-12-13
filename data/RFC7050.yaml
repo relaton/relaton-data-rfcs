@@ -151,8 +151,8 @@ keyword:
 - content: DNS64
 - content: 464XLAT
 - content: Pref64::/n
-editorialgroup:
-- name: behave
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: behave
   stream: IETF

@@ -118,8 +118,8 @@ keyword:
 - content: SNMP
 - content: Management
 - content: Framework
-editorialgroup:
-- name: snmpsec
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: snmpsec
   stream: IETF

@@ -232,8 +232,8 @@ keyword:
 - content: Controller
 - content: Multi-Area
 - content: Multi-AS
-editorialgroup:
-- name: idr
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: idr
   stream: IETF

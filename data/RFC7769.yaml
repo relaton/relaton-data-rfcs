@@ -209,8 +209,8 @@ keyword:
 - content: PW
 - content: ACH
 - content: associated channel
-editorialgroup:
-- name: pals
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: pals
   stream: IETF

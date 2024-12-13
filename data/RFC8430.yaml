@@ -152,8 +152,8 @@ series:
 keyword:
 - content: RIB
 - content: info model
-editorialgroup:
-- name: i2rs
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: i2rs
   stream: IETF

@@ -183,8 +183,8 @@ keyword:
 - content: Quality of Service
 - content: QoS
 - content: Denial of Service
-editorialgroup:
-- name: conex
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: conex
   stream: IETF

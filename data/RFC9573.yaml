@@ -251,8 +251,8 @@ series:
 keyword:
 - content: DCB
 - content: Tunnel Aggregation
-editorialgroup:
-- name: bess
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: bess
   stream: IETF

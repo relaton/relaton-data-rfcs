@@ -159,8 +159,8 @@ keyword:
 - content: Internet
 - content: Mail
 - content: extensions
-editorialgroup:
-- name: fax
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: fax
   stream: IETF

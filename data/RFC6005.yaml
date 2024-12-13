@@ -125,8 +125,8 @@ keyword:
 - content: International Telecommunication Union
 - content: i-nni
 - content: internal nni
-editorialgroup:
-- name: ccamp
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ccamp
   stream: IETF

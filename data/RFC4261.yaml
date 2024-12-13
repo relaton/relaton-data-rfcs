@@ -127,8 +127,8 @@ series:
     format: text/plain
 keyword:
 - content: client-accept message
-editorialgroup:
-- name: rap
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: rap
   stream: IETF

@@ -155,8 +155,8 @@ keyword:
 - content: calendar access protocool
 - content: itip
 - content: imip
-editorialgroup:
-- name: calsch
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: calsch
   stream: IETF

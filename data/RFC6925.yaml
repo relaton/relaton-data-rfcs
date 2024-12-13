@@ -149,8 +149,8 @@ series:
 keyword:
 - content: DHCP
 - content: relay
-editorialgroup:
-- name: dhc
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: dhc
   stream: IETF

@@ -121,8 +121,8 @@ series:
 keyword:
 - content: enhancements to internet email to supportt diverse service environments
 - content: Phone
-editorialgroup:
-- name: lemonade
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: lemonade
   stream: IETF

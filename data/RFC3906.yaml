@@ -121,8 +121,8 @@ keyword:
 - content: hop-by-hop link-state routing protocols
 - content: SPF
 - content: shortest path first
-editorialgroup:
-- name: rtgwg
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: rtgwg
   stream: IETF

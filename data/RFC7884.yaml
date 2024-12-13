@@ -182,8 +182,8 @@ keyword:
 - content: label verification
 - content: segment routing
 - content: IP
-editorialgroup:
-- name: ospf
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ospf
   stream: IETF

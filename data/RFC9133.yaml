@@ -189,8 +189,8 @@ keyword:
 - content: Reactive
 - content: Collaborative Networking
 - content: Collaborative Security
-editorialgroup:
-- name: dots
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: dots
   stream: IETF

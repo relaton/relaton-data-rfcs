@@ -156,8 +156,8 @@ keyword:
 - content: DTLS tunnel
 - content: conferencing
 - content: security
-editorialgroup:
-- name: perc
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: perc
   stream: IETF

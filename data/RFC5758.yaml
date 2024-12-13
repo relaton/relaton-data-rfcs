@@ -223,8 +223,8 @@ keyword:
 - content: digital signature algorithm
 - content: elliptic curve digital signature algorithm
 - content: pki
-editorialgroup:
-- name: pkix
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: pkix
   stream: IETF

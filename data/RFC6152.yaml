@@ -179,8 +179,8 @@ series:
     format: text/plain
 keyword:
 - content: simple mail transfer
-editorialgroup:
-- name: yam
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: yam
   stream: IETF

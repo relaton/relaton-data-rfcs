@@ -187,8 +187,8 @@ keyword:
 - content: Mobile Network Prefix
 - content: Nested Mobile Networks
 - content: Nested Network Mobility
-editorialgroup:
-- name: mip4
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mip4
   stream: IETF

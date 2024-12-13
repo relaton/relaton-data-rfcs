@@ -103,8 +103,8 @@ keyword:
 - content: EFM
 - content: PAF
 - content: PME
-editorialgroup:
-- name: hubmib
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: hubmib
   stream: IETF

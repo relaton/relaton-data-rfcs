@@ -237,8 +237,8 @@ keyword:
 - content: SPKI
 - content: simple public key infrastructure
 - content: authentication
-editorialgroup:
-- name: spki
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: spki
   stream: IETF

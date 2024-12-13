@@ -179,8 +179,8 @@ keyword:
 - content: ds-te
 - content: diffserv-aware traffic engineering
 - content: pce
-editorialgroup:
-- name: pce
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: pce
   stream: IETF

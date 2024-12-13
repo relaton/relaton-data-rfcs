@@ -90,8 +90,8 @@ keyword:
 - content: data
 - content: unit
 - content: authentication
-editorialgroup:
-- name: cat
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: cat
   stream: IETF

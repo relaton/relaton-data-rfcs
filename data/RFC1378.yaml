@@ -85,8 +85,8 @@ series:
 keyword:
 - content: PPP-ATCP
 - content: point
-editorialgroup:
-- name: pppext
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: pppext
   stream: IETF

@@ -219,8 +219,8 @@ keyword:
 - content: DHCPv4 over IPv6
 - content: IPv6 Tunnel
 - content: IPv6 Transition
-editorialgroup:
-- name: softwire
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: softwire
   stream: IETF

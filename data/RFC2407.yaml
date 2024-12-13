@@ -103,8 +103,8 @@ keyword:
 - content: association
 - content: key
 - content: management
-editorialgroup:
-- name: ipsec
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ipsec
   stream: IETF

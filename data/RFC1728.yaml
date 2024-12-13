@@ -90,8 +90,8 @@ keyword:
 - content: Names
 - content: Location
 - content: System
-editorialgroup:
-- name: iiir
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: iiir
   stream: IETF

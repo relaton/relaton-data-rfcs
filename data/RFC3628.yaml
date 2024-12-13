@@ -148,8 +148,8 @@ series:
 keyword:
 - content: tokens
 - content: public key certificates
-editorialgroup:
-- name: pkix
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: pkix
   stream: IETF

@@ -128,8 +128,8 @@ series:
     format: text/plain
 keyword:
 - content: SSH
-editorialgroup:
-- name: curdle
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: curdle
   stream: IETF

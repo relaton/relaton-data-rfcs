@@ -200,8 +200,8 @@ keyword:
 - content: Provisioning
 - content: DHCP
 - content: PvD
-editorialgroup:
-- name: intarea
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: intarea
   stream: IETF

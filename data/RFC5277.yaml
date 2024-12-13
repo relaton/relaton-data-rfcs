@@ -122,8 +122,8 @@ keyword:
 - content: Event
 - content: Asynchronous Message
 - content: Notification
-editorialgroup:
-- name: netconf
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: netconf
   stream: IETF

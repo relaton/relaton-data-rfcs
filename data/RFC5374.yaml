@@ -149,8 +149,8 @@ keyword:
 - content: ip
 - content: ipsec
 - content: ip multicast packets
-editorialgroup:
-- name: msec
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: msec
   stream: IETF

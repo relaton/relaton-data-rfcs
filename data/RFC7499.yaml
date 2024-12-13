@@ -244,8 +244,8 @@ keyword:
 - content: extension
 - content: fragmentation
 - content: chunk
-editorialgroup:
-- name: radext
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: radext
   stream: IETF

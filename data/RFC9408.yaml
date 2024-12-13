@@ -224,8 +224,8 @@ keyword:
 - content: Service Delivery Point
 - content: Automation
 - content: Service Delivery
-editorialgroup:
-- name: opsawg
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: opsawg
   stream: IETF

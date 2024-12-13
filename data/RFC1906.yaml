@@ -191,8 +191,8 @@ keyword:
 - content: Management
 - content: Protocol
 - content: Version 2
-editorialgroup:
-- name: snmpv2
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: snmpv2
   stream: IETF

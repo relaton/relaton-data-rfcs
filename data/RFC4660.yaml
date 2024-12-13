@@ -184,8 +184,8 @@ keyword:
 - content: event state subscription
 - content: presence
 - content: filter criteria
-editorialgroup:
-- name: simple
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: simple
   stream: IETF

@@ -132,8 +132,8 @@ keyword:
 - content: DTMF
 - content: dual-tone
 - content: multifrequency
-editorialgroup:
-- name: avt
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: avt
   stream: IETF

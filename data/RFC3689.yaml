@@ -115,8 +115,8 @@ series:
   title:
     content: IETF
     format: text/plain
-editorialgroup:
-- name: ieprep
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ieprep
   stream: IETF

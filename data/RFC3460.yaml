@@ -106,8 +106,8 @@ keyword:
 - content: common
 - content: schema
 - content: object-oriented
-editorialgroup:
-- name: policy
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: policy
   stream: IETF

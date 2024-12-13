@@ -94,8 +94,8 @@ keyword:
 - content: security
 - content: remote access dialin user service
 - content: RADIUS-ACC-SERVER-MIB
-editorialgroup:
-- name: radext
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: radext
   stream: IETF

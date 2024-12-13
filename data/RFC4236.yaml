@@ -120,8 +120,8 @@ keyword:
 - content: ocp
 - content: opes tracing
 - content: opes bypass
-editorialgroup:
-- name: opes
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: opes
   stream: IETF

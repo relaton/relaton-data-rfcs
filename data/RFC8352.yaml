@@ -184,8 +184,8 @@ keyword:
 - content: 6Lo
 - content: CoAP
 - content: RPL
-editorialgroup:
-- name: lwig
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: lwig
   stream: IETF

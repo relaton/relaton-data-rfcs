@@ -85,8 +85,8 @@ series:
     format: text/plain
 keyword:
 - content: link layer
-editorialgroup:
-- name: mipshop
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mipshop
   stream: IETF

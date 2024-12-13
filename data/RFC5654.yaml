@@ -215,8 +215,8 @@ keyword:
 - content: MPLS-TP
 - content: ITU
 - content: ITU-T
-editorialgroup:
-- name: mpls
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mpls
   stream: IETF

@@ -134,8 +134,8 @@ keyword:
 - content: Internet
 - content: Mail
 - content: Extensions
-editorialgroup:
-- name: html
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: html
   stream: IETF

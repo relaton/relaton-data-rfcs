@@ -171,8 +171,8 @@ keyword:
 - content: data center network
 - content: switch
 - content: multicast
-editorialgroup:
-- name: trill
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: trill
   stream: IETF

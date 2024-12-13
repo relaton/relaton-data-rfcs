@@ -214,8 +214,8 @@ keyword:
 - content: Exchange
 - content: Token
 - content: OAuth
-editorialgroup:
-- name: oauth
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: oauth
   stream: IETF

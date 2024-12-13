@@ -185,8 +185,8 @@ keyword:
 - content: System
 - content: delegated
 - content: zone
-editorialgroup:
-- name: dnsind
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: dnsind
   stream: IETF

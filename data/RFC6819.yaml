@@ -151,8 +151,8 @@ keyword:
 - content: counter-measures
 - content: HTTP
 - content: REST
-editorialgroup:
-- name: oauth
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: oauth
   stream: IETF

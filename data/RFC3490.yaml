@@ -176,8 +176,8 @@ keyword:
 - content: Internationalized Domain Names
 - content: ascii
 - content: characters
-editorialgroup:
-- name: idn
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: idn
   stream: IETF

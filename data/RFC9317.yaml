@@ -156,8 +156,8 @@ keyword:
 - content: live streaming
 - content: live latency
 - content: media transport
-editorialgroup:
-- name: mops
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mops
   stream: IETF

@@ -110,8 +110,8 @@ keyword:
 - content: edge mobility
 - content: mobile ad hoc
 - content: mesh network
-editorialgroup:
-- name: manet
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: manet
   stream: IETF

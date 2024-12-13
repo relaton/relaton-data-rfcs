@@ -120,8 +120,8 @@ series:
 keyword:
 - content: IMAP
 - content: email
-editorialgroup:
-- name: morg
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: morg
   stream: IETF

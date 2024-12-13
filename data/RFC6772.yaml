@@ -245,8 +245,8 @@ series:
 keyword:
 - content: Authorization Policy
 - content: Location Privacy
-editorialgroup:
-- name: geopriv
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: geopriv
   stream: IETF

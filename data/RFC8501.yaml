@@ -90,8 +90,8 @@ keyword:
 - content: PTR
 - content: rDNS
 - content: Reverse DNS
-editorialgroup:
-- name: dnsop
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: dnsop
   stream: IETF

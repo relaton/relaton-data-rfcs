@@ -127,8 +127,8 @@ series:
 keyword:
 - content: spatial audio
 - content: lossy compression
-editorialgroup:
-- name: codec
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: codec
   stream: IETF

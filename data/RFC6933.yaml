@@ -180,8 +180,8 @@ keyword:
 - content: management information base
 - content: snmp
 - content: simple network management protocol
-editorialgroup:
-- name: eman
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: eman
   stream: IETF

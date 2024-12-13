@@ -186,8 +186,8 @@ series:
 keyword:
 - content: maximum distance separable
 - content: MDS
-editorialgroup:
-- name: rmt
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: rmt
   stream: IETF

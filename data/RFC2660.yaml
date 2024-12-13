@@ -122,8 +122,8 @@ keyword:
 - content: world wide web
 - content: http
 - content: authentication
-editorialgroup:
-- name: wts
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: wts
   stream: IETF

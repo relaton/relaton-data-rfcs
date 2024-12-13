@@ -88,8 +88,8 @@ series:
     format: text/plain
 keyword:
 - content: Low Power Wide Area Network Overview
-editorialgroup:
-- name: lpwan
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: lpwan
   stream: IETF

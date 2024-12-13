@@ -185,8 +185,8 @@ keyword:
 - content: XR
 - content: Reporting
 - content: Group
-editorialgroup:
-- name: avtcore
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: avtcore
   stream: IETF

@@ -156,8 +156,8 @@ series:
 keyword:
 - content: bgp encapsulation subsequent address family identifier
 - content: safi
-editorialgroup:
-- name: softwire
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: softwire
   stream: IETF

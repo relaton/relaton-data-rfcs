@@ -122,8 +122,8 @@ keyword:
 - content: YANG
 - content: Routing
 - content: RIB
-editorialgroup:
-- name: rtgwg
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: rtgwg
   stream: IETF

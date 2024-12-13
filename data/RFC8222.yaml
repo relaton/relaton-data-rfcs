@@ -97,8 +97,8 @@ keyword:
 - content: DNS
 - content: mDNS
 - content: DNS-SD
-editorialgroup:
-- name: dnssd
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: dnssd
   stream: IETF

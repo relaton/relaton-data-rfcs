@@ -240,8 +240,8 @@ keyword:
 - content: common profile for presence
 - content: presence data format
 - content: application/pidf+xml
-editorialgroup:
-- name: impp
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: impp
   stream: IETF

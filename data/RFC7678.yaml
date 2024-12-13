@@ -191,8 +191,8 @@ keyword:
 - content: Diameter
 - content: Multicast
 - content: IPv4 over IPv6
-editorialgroup:
-- name: dime
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: dime
   stream: IETF

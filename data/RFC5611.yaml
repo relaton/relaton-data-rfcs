@@ -123,8 +123,8 @@ keyword:
 - content: structure-aware
 - content: cesopsn
 - content: tdmoip
-editorialgroup:
-- name: l2tpext
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: l2tpext
   stream: IETF

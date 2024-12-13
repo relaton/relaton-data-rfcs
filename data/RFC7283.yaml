@@ -170,8 +170,8 @@ series:
 keyword:
 - content: DHCPv6
 - content: Unknown Messages
-editorialgroup:
-- name: dhc
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: dhc
   stream: IETF

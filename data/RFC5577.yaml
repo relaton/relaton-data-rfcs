@@ -118,8 +118,8 @@ series:
 keyword:
 - content: international telecommunication union
 - content: wide-band audio coded
-editorialgroup:
-- name: avt
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: avt
   stream: IETF

@@ -214,8 +214,8 @@ keyword:
 - content: data link layers
 - content: point-to-point
 - content: ieee 802
-editorialgroup:
-- name: eap
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: eap
   stream: IETF

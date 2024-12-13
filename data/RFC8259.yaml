@@ -90,8 +90,8 @@ series:
   title:
     content: IETF
     format: text/plain
-editorialgroup:
-- name: jsonbis
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: jsonbis
   stream: IETF

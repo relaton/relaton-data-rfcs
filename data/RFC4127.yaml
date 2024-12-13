@@ -89,8 +89,8 @@ keyword:
 - content: ds-te
 - content: russian dolls model
 - content: multi-protocol label switching
-editorialgroup:
-- name: tewg
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: tewg
   stream: IETF

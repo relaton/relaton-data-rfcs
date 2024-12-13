@@ -125,8 +125,8 @@ series:
 keyword:
 - content: peer-to-peer
 - content: p2p
-editorialgroup:
-- name: alto
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: alto
   stream: IETF

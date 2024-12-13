@@ -173,8 +173,8 @@ keyword:
 - content: Concurrent Block-Wise
 - content: Request-Response Binding
 - content: Token Reuse
-editorialgroup:
-- name: core
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: core
   stream: IETF

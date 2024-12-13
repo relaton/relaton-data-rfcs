@@ -94,8 +94,8 @@ keyword:
 - content: Communications
 - content: Services
 - content: Office
-editorialgroup:
-- name: ids
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ids
   stream: IETF

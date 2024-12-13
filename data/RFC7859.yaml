@@ -100,8 +100,8 @@ keyword:
 - content: IBS
 - content: identity-based encryption
 - content: IBE
-editorialgroup:
-- name: manet
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: manet
   stream: IETF

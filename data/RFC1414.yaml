@@ -117,8 +117,8 @@ keyword:
 - content: IDENT-MIB
 - content: Management
 - content: SNMP
-editorialgroup:
-- name: ident
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ident
   stream: IETF

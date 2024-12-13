@@ -211,8 +211,8 @@ keyword:
 - content: Traffic classification
 - content: Filtering
 - content: Firewalling
-editorialgroup:
-- name: dime
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: dime
   stream: IETF

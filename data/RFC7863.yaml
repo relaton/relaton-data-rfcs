@@ -86,8 +86,8 @@ series:
 keyword:
 - content: NFSv4.2
 - content: XDR
-editorialgroup:
-- name: nfsv4
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: nfsv4
   stream: IETF

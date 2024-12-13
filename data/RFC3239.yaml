@@ -150,8 +150,8 @@ series:
 keyword:
 - content: object
 - content: device
-editorialgroup:
-- name: ipp
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ipp
   stream: IETF

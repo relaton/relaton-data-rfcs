@@ -88,8 +88,8 @@ keyword:
 - content: simple
 - content: sip
 - content: session initiation protocol
-editorialgroup:
-- name: simple
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: simple
   stream: IETF

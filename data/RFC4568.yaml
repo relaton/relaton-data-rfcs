@@ -151,8 +151,8 @@ series:
 keyword:
 - content: srtp
 - content: secure real-time transport protocol
-editorialgroup:
-- name: mmusic
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mmusic
   stream: IETF

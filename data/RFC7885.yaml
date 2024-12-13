@@ -131,8 +131,8 @@ keyword:
 - content: L2TPv3
 - content: VCCV
 - content: S-BFD
-editorialgroup:
-- name: pals
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: pals
   stream: IETF

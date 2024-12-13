@@ -254,8 +254,8 @@ keyword:
 - content: IN
 - content: detection point
 - content: dp
-editorialgroup:
-- name: spirits
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: spirits
   stream: IETF

@@ -86,8 +86,8 @@ series:
     format: text/plain
 keyword:
 - content: ALERTS
-editorialgroup:
-- name: alertman
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: alertman
   stream: IETF

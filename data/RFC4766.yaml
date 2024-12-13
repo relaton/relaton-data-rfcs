@@ -121,8 +121,8 @@ keyword:
 - content: idmef
 - content: idwg
 - content: intrusion detection exchange format
-editorialgroup:
-- name: idwg
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: idwg
   stream: IETF

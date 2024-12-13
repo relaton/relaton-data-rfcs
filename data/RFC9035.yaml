@@ -133,8 +133,8 @@ keyword:
 - content: Source Routing Header
 - content: Hop-by-Hop Header
 - content: RPL artifacts
-editorialgroup:
-- name: roll
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: roll
   stream: IETF

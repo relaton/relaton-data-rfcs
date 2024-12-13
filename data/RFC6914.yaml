@@ -91,8 +91,8 @@ keyword:
 - content: SIMPLE
 - content: presence
 - content: IM
-editorialgroup:
-- name: simple
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: simple
   stream: IETF

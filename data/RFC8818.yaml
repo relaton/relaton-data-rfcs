@@ -219,8 +219,8 @@ keyword:
 - content: continuity
 - content: PMIPv6
 - content: MIPv6
-editorialgroup:
-- name: dmm
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: dmm
   stream: IETF

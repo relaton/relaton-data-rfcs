@@ -105,8 +105,8 @@ keyword:
 - content: ikev2
 - content: esn
 - content: extended sequence number
-editorialgroup:
-- name: ipsec
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ipsec
   stream: IETF

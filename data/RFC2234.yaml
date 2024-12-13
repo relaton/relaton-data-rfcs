@@ -133,8 +133,8 @@ keyword:
 - content: Form
 - content: electronic
 - content: mail
-editorialgroup:
-- name: drums
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: drums
   stream: IETF

@@ -120,8 +120,8 @@ keyword:
 - content: itu h.281
 - content: h.224
 - content: far-end camera control
-editorialgroup:
-- name: avt
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: avt
   stream: IETF

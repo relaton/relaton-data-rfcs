@@ -186,8 +186,8 @@ keyword:
 - content: service provider
 - content: border gateway protocol
 - content: multiprotocol label switching
-editorialgroup:
-- name: l3vpn
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: l3vpn
   stream: IETF

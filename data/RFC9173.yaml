@@ -150,8 +150,8 @@ keyword:
 - content: bundle
 - content: integrity
 - content: confidentiality
-editorialgroup:
-- name: dtn
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: dtn
   stream: IETF

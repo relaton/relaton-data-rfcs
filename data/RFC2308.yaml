@@ -111,8 +111,8 @@ keyword:
 - content: Domain Name System
 - content: negative
 - content: queries
-editorialgroup:
-- name: dnsind
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: dnsind
   stream: IETF

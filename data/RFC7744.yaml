@@ -215,8 +215,8 @@ keyword:
 - content: IoT
 - content: Smart Object
 - content: Security
-editorialgroup:
-- name: ace
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ace
   stream: IETF

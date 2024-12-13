@@ -186,8 +186,8 @@ keyword:
 - content: abstraction
 - content: IS-IS
 - content: proxy
-editorialgroup:
-- name: lsr
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: lsr
   stream: IETF

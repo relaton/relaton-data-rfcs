@@ -119,8 +119,8 @@ series:
 keyword:
 - content: xcap-diff
 - content: xcap diff
-editorialgroup:
-- name: sip
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: sip
   stream: IETF

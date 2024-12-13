@@ -207,8 +207,8 @@ series:
     format: text/plain
 keyword:
 - content: RDBMS-MIB
-editorialgroup:
-- name: rdbmsmib
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: rdbmsmib
   stream: IETF

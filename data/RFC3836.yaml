@@ -209,8 +209,8 @@ keyword:
 - content: callout protocol
 - content: remote execution
 - content: OPES services
-editorialgroup:
-- name: opes
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: opes
   stream: IETF

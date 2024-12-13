@@ -218,8 +218,8 @@ keyword:
 - content: multipath
 - content: multihomed
 - content: subflow
-editorialgroup:
-- name: mptcp
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mptcp
   stream: IETF

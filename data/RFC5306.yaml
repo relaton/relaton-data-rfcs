@@ -134,8 +134,8 @@ keyword:
 - content: LSP database synchronization
 - content: Link State
 - content: Routing
-editorialgroup:
-- name: isis
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: isis
   stream: IETF

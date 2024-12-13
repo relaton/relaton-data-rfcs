@@ -148,8 +148,8 @@ keyword:
 - content: randomly modifying timing
 - content: control traffic transmission
 - content: tranmission collision
-editorialgroup:
-- name: manet
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: manet
   stream: IETF

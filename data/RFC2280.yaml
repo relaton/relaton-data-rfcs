@@ -286,8 +286,8 @@ keyword:
 - content: autonomous
 - content: system
 - content: database
-editorialgroup:
-- name: rps
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: rps
   stream: IETF

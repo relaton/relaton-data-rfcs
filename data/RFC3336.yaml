@@ -143,8 +143,8 @@ keyword:
 - content: aal2
 - content: datagram
 - content: packets
-editorialgroup:
-- name: pppext
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: pppext
   stream: IETF

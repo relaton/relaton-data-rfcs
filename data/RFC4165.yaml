@@ -214,8 +214,8 @@ keyword:
 - content: ss7/ip
 - content: sigtran
 - content: m2ua
-editorialgroup:
-- name: sigtran
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: sigtran
   stream: IETF

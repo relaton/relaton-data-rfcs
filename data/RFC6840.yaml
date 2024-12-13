@@ -161,8 +161,8 @@ keyword:
 - content: EAP
 - content: AAA
 - content: reconnect
-editorialgroup:
-- name: dnsext
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: dnsext
   stream: IETF

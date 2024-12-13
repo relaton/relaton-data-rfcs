@@ -123,8 +123,8 @@ keyword:
 - content: RPL
 - content: Low Power and Lossy Networks
 - content: LLN
-editorialgroup:
-- name: roll
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: roll
   stream: IETF

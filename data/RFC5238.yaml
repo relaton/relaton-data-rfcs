@@ -90,8 +90,8 @@ series:
 keyword:
 - content: tls
 - content: transport protocol
-editorialgroup:
-- name: dccp
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: dccp
   stream: IETF

@@ -215,8 +215,8 @@ series:
     format: text/plain
 keyword:
 - content: IPV6-UNI
-editorialgroup:
-- name: ipngwg
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ipngwg
   stream: IETF

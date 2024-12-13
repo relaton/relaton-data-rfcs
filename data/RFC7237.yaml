@@ -86,8 +86,8 @@ keyword:
 - content: HyperText Transfer Protocol
 - content: HTTP
 - content: Request Method
-editorialgroup:
-- name: httpbis
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: httpbis
   stream: IETF

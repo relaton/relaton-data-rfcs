@@ -176,8 +176,8 @@ series:
     format: text/plain
 keyword:
 - content: SDLCSMIv2
-editorialgroup:
-- name: snadlc
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: snadlc
   stream: IETF

@@ -111,8 +111,8 @@ series:
 keyword:
 - content: tcp/ip
 - content: subnetworks
-editorialgroup:
-- name: pilc
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: pilc
   stream: IETF

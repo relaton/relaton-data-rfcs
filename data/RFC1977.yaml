@@ -89,8 +89,8 @@ keyword:
 - content: Protocol
 - content: Unix
 - content: Compress
-editorialgroup:
-- name: pppext
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: pppext
   stream: IETF

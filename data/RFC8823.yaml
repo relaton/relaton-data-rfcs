@@ -87,8 +87,8 @@ series:
 keyword:
 - content: ACME
 - content: S/MIME
-editorialgroup:
-- name: acme
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: acme
   stream: IETF

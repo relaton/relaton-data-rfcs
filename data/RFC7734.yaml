@@ -180,8 +180,8 @@ keyword:
 - content: SPBM
 - content: Provider Backbone Bridging Provider Edges
 - content: PBB-EVPN
-editorialgroup:
-- name: bess
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: bess
   stream: IETF

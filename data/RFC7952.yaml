@@ -97,8 +97,8 @@ series:
 keyword:
 - content: metadata annotations
 - content: YANG extension
-editorialgroup:
-- name: netmod
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: netmod
   stream: IETF

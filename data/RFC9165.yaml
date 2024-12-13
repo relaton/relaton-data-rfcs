@@ -95,8 +95,8 @@ keyword:
 - content: ABNF
 - content: Augmented BNF
 - content: feature indication
-editorialgroup:
-- name: cbor
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: cbor
   stream: IETF

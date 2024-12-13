@@ -211,8 +211,8 @@ series:
     format: text/plain
 keyword:
 - content: PON Protection
-editorialgroup:
-- name: pals
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: pals
   stream: IETF

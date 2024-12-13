@@ -96,8 +96,8 @@ keyword:
 - content: " IN-ADDR.ARPA"
 - content: " IP6.ARPA"
 - content: " RFC1918"
-editorialgroup:
-- name: dnsop
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: dnsop
   stream: IETF

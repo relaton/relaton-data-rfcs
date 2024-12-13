@@ -163,8 +163,8 @@ keyword:
 - content: pull delivery method
 - content: event notifications
 - content: event subscriptions
-editorialgroup:
-- name: ipp
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ipp
   stream: IETF

@@ -93,8 +93,8 @@ keyword:
 - content: instant messaging and presence protocol
 - content: presentity
 - content: instant inbox
-editorialgroup:
-- name: impp
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: impp
   stream: IETF

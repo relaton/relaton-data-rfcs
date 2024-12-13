@@ -162,8 +162,8 @@ keyword:
 - content: dual radio handover
 - content: single radio handover
 - content: transient binding cache entry
-editorialgroup:
-- name: mipshop
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mipshop
   stream: IETF

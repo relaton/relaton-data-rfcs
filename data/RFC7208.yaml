@@ -93,8 +93,8 @@ keyword:
 - content: spf
 - content: anti-forgery
 - content: authentication
-editorialgroup:
-- name: spfbis
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: spfbis
   stream: IETF

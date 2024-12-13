@@ -89,8 +89,8 @@ keyword:
 - content: Session Initiation Protocol
 - content: message waiting status
 - content: message summary
-editorialgroup:
-- name: sipping
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: sipping
   stream: IETF

@@ -90,8 +90,8 @@ series:
     format: text/plain
 keyword:
 - content: ISPs
-editorialgroup:
-- name: grip
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: grip
   stream: IETF

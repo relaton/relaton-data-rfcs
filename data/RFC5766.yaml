@@ -165,8 +165,8 @@ keyword:
 - content: TURN
 - content: STUN
 - content: ICE
-editorialgroup:
-- name: behave
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: behave
   stream: IETF

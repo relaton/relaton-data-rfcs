@@ -132,8 +132,8 @@ keyword:
 - content: RAMS
 - content: rapid acquisition
 - content: fast channel change
-editorialgroup:
-- name: avtext
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: avtext
   stream: IETF

@@ -213,8 +213,8 @@ keyword:
 - content: CDNI
 - content: CDN Interconnect
 - content: Request Routing
-editorialgroup:
-- name: cdni
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: cdni
   stream: IETF

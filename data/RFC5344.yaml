@@ -152,8 +152,8 @@ keyword:
 - content: collaboration service
 - content: instant messaging
 - content: im
-editorialgroup:
-- name: speermint
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: speermint
   stream: IETF

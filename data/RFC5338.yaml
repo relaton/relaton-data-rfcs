@@ -157,8 +157,8 @@ keyword:
 - content: network stack names
 - content: api
 - content: application programming interface
-editorialgroup:
-- name: hip
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: hip
   stream: IETF

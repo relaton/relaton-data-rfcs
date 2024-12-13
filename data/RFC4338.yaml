@@ -150,8 +150,8 @@ series:
 keyword:
 - content: link local address
 - content: link-local address
-editorialgroup:
-- name: imss
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: imss
   stream: IETF

@@ -115,8 +115,8 @@ series:
 keyword:
 - content: link-attributes
 - content: tlv 22
-editorialgroup:
-- name: isis
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: isis
   stream: IETF

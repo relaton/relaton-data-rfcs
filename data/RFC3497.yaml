@@ -183,8 +183,8 @@ keyword:
 - content: high definition television
 - content: SMPTE
 - content: Society of Motion Picture and Television Engineers
-editorialgroup:
-- name: avt
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: avt
   stream: IETF

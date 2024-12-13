@@ -127,8 +127,8 @@ keyword:
 - content: PHB
 - content: Treatment Aggregate
 - content: MPLS Short Pipe
-editorialgroup:
-- name: tsvwg
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: tsvwg
   stream: IETF

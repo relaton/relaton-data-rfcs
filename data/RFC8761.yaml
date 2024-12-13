@@ -156,8 +156,8 @@ keyword:
 - content: requirements
 - content: compression performance
 - content: video coding applications
-editorialgroup:
-- name: netvc
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: netvc
   stream: IETF

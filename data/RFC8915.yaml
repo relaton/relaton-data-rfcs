@@ -214,8 +214,8 @@ keyword:
 - content: Authentication
 - content: NTP
 - content: Security
-editorialgroup:
-- name: ntp
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ntp
   stream: IETF

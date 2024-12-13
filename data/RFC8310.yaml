@@ -162,8 +162,8 @@ series:
 keyword:
 - content: DNS
 - content: transport
-editorialgroup:
-- name: dprive
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: dprive
   stream: IETF

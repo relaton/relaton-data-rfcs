@@ -179,8 +179,8 @@ keyword:
 - content: Lightweight Directory Access Protocol
 - content: LCUP
 - content: Client Update Protocol
-editorialgroup:
-- name: ldup
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ldup
   stream: IETF

@@ -153,8 +153,8 @@ keyword:
 - content: policy
 - content: hash algorithm
 - content: public key algorithm
-editorialgroup:
-- name: ltans
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ltans
   stream: IETF

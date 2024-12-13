@@ -123,8 +123,8 @@ keyword:
 - content: data structure
 - content: naming scheme
 - content: IWPS
-editorialgroup:
-- name: ids
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ids
   stream: IETF

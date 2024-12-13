@@ -97,8 +97,8 @@ series:
 keyword:
 - content: GSSAPI
 - content: CAT,GSS
-editorialgroup:
-- name: cat
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: cat
   stream: IETF

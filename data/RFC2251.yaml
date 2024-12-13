@@ -188,8 +188,8 @@ keyword:
 - content: LDAPV3
 - content: Lightweight Directory Access Protocol
 - content: x.500
-editorialgroup:
-- name: asid
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: asid
   stream: IETF

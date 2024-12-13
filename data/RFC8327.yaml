@@ -184,8 +184,8 @@ keyword:
 - content: culling
 - content: EBGP
 - content: sessions
-editorialgroup:
-- name: grow
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: grow
   stream: IETF

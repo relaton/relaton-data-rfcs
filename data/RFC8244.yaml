@@ -153,8 +153,8 @@ keyword:
 - content: SUN
 - content: SUTLD
 - content: RFC6761
-editorialgroup:
-- name: dnsop
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: dnsop
   stream: IETF

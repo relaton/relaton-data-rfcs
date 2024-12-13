@@ -217,8 +217,8 @@ keyword:
 - content: TCP/IP
 - content: network
 - content: host
-editorialgroup:
-- name: cidrd
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: cidrd
   stream: IETF

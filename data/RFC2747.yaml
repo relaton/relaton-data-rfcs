@@ -146,8 +146,8 @@ keyword:
 - content: RSVP
 - content: resource reservation protocol
 - content: security
-editorialgroup:
-- name: vgmib
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: vgmib
   stream: IETF

@@ -90,8 +90,8 @@ keyword:
 - content: dynamic hos configuration protocol
 - content: ipv6
 - content: dhcpv6 bindings
-editorialgroup:
-- name: dhc
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: dhc
   stream: IETF

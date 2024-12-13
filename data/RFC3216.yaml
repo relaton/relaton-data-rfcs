@@ -246,8 +246,8 @@ keyword:
 - content: policy
 - content: service
 - content: provisioning
-editorialgroup:
-- name: sming
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: sming
   stream: IETF

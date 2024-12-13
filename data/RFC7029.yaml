@@ -156,8 +156,8 @@ keyword:
 - content: EMSK crypto binding
 - content: Extended Master Session Key
 - content: tunnel
-editorialgroup:
-- name: emu
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: emu
   stream: IETF

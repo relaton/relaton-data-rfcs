@@ -370,8 +370,8 @@ keyword:
 - content: transport
 - content: packet
 - content: network
-editorialgroup:
-- name: sigtran
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: sigtran
   stream: IETF

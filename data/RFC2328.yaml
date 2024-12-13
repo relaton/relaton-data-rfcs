@@ -92,8 +92,8 @@ keyword:
 - content: routing
 - content: Autonomous system
 - content: AS
-editorialgroup:
-- name: ospf
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ospf
   stream: IETF

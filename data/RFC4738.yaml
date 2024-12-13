@@ -199,8 +199,8 @@ keyword:
 - content: key management
 - content: group key distribution
 - content: RSA-R
-editorialgroup:
-- name: msec
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: msec
   stream: IETF

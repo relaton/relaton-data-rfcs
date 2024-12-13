@@ -145,8 +145,8 @@ series:
 keyword:
 - content: border gateway protocol
 - content: autonomous system
-editorialgroup:
-- name: l3vpn
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: l3vpn
   stream: IETF

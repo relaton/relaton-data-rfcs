@@ -265,8 +265,8 @@ series:
 keyword:
 - content: rserpool
 - content: application
-editorialgroup:
-- name: rserpool
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: rserpool
   stream: IETF

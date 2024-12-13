@@ -192,8 +192,8 @@ keyword:
 - content: rendezvous point
 - content: rp
 - content: multicast router
-editorialgroup:
-- name: pim
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: pim
   stream: IETF

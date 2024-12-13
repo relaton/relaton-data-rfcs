@@ -101,8 +101,8 @@ keyword:
 - content: IP
 - content: Internet
 - content: Protocol
-editorialgroup:
-- name: idmr
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: idmr
   stream: IETF

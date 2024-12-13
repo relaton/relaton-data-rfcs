@@ -81,8 +81,8 @@ keyword:
 - content: authentication authorization accounting
 - content: quality of service
 - content: header compression
-editorialgroup:
-- name: seamoby
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: seamoby
   stream: IETF

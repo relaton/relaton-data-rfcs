@@ -151,8 +151,8 @@ keyword:
 - content: Session Initiation Protocol
 - content: multi-party applications
 - content: call control
-editorialgroup:
-- name: sip
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: sip
   stream: IETF

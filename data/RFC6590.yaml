@@ -120,8 +120,8 @@ keyword:
 - content: MARF
 - content: feedback loop
 - content: spam reporting
-editorialgroup:
-- name: marf
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: marf
   stream: IETF

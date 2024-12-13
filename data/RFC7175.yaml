@@ -181,8 +181,8 @@ keyword:
 - content: RBridge
 - content: Echo
 - content: one-hop
-editorialgroup:
-- name: trill
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: trill
   stream: IETF

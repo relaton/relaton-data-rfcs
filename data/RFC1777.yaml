@@ -162,8 +162,8 @@ keyword:
 - content: DAP
 - content: interactive
 - content: access
-editorialgroup:
-- name: asid
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: asid
   stream: IETF

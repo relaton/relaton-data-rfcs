@@ -211,8 +211,8 @@ keyword:
 - content: ROLL
 - content: LLN
 - content: Constrained based routing,
-editorialgroup:
-- name: roll
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: roll
   stream: IETF

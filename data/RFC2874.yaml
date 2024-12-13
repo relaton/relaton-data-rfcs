@@ -128,8 +128,8 @@ keyword:
 - content: IPv6
 - content: internet protocol
 - content: domain name system
-editorialgroup:
-- name: ipngwg
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ipngwg
   stream: IETF

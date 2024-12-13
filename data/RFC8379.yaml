@@ -213,8 +213,8 @@ keyword:
 - content: MPLS
 - content: IGP
 - content: OSPF
-editorialgroup:
-- name: ospf
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ospf
   stream: IETF

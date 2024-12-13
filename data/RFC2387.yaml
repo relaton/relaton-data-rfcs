@@ -88,8 +88,8 @@ keyword:
 - content: body
 - content: parts
 - content: media-type
-editorialgroup:
-- name: mhtml
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mhtml
   stream: IETF

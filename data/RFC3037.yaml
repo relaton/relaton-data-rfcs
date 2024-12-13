@@ -122,8 +122,8 @@ keyword:
 - content: label
 - content: distribution
 - content: protocol
-editorialgroup:
-- name: mpls
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mpls
   stream: IETF

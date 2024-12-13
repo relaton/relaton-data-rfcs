@@ -130,8 +130,8 @@ keyword:
 - content: Protocol
 - content: encapsulated
 - content: packets
-editorialgroup:
-- name: pppext
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: pppext
   stream: IETF

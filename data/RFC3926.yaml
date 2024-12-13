@@ -219,8 +219,8 @@ series:
 keyword:
 - content: FLUTE
 - content: File Delivery over Unidirectional Transport
-editorialgroup:
-- name: rmt
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: rmt
   stream: IETF

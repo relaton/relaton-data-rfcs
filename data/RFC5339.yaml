@@ -119,8 +119,8 @@ series:
     format: text/plain
 keyword:
 - content: general multiprotocol label switching
-editorialgroup:
-- name: ccamp
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ccamp
   stream: IETF

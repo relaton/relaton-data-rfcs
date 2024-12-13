@@ -99,8 +99,8 @@ series:
 keyword:
 - content: email
 - content: authentication
-editorialgroup:
-- name: dcrup
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: dcrup
   stream: IETF

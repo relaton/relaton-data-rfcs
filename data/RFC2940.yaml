@@ -150,8 +150,8 @@ keyword:
 - content: Common Open Policy Service
 - content: mib
 - content: management information base
-editorialgroup:
-- name: rap
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: rap
   stream: IETF

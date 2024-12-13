@@ -153,8 +153,8 @@ keyword:
 - content: Managed
 - content: Information
 - content: Base
-editorialgroup:
-- name: mobileip
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mobileip
   stream: IETF

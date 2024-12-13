@@ -222,8 +222,8 @@ keyword:
 - content: te
 - content: ip
 - content: networks
-editorialgroup:
-- name: tewg
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: tewg
   stream: IETF

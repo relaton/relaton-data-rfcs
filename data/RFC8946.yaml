@@ -103,8 +103,8 @@ keyword:
 - content: SIP
 - content: STIR
 - content: Identity
-editorialgroup:
-- name: stir
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: stir
   stream: IETF

@@ -152,8 +152,8 @@ keyword:
 - content: browser
 - content: websocket
 - content: real-time
-editorialgroup:
-- name: rtcweb
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: rtcweb
   stream: IETF

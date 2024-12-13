@@ -151,8 +151,8 @@ keyword:
 - content: simple network management protocol
 - content: multimedia terminal adapter
 - content: PKTC-IETF-EVENT-MIB
-editorialgroup:
-- name: ipcdn
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ipcdn
   stream: IETF

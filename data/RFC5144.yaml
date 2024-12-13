@@ -117,8 +117,8 @@ series:
 keyword:
 - content: dreg
 - content: iris domain registry
-editorialgroup:
-- name: crisp
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: crisp
   stream: IETF

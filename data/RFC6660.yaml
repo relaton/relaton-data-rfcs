@@ -169,8 +169,8 @@ keyword:
 - content: Protocol
 - content: Flow Admission Control
 - content: Flow Termination
-editorialgroup:
-- name: pcn
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: pcn
   stream: IETF

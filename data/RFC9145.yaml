@@ -154,8 +154,8 @@ keyword:
 - content: Differentiated services
 - content: Traffic Engineering
 - content: Attack mitigation
-editorialgroup:
-- name: sfc
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: sfc
   stream: IETF

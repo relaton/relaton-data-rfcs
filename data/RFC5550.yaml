@@ -178,8 +178,8 @@ keyword:
 - content: Lemonade
 - content: mobile email
 - content: low-bandwidth efficient
-editorialgroup:
-- name: lemonade
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: lemonade
   stream: IETF

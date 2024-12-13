@@ -201,8 +201,8 @@ keyword:
 - content: system
 - content: transaction
 - content: signature
-editorialgroup:
-- name: dnsext
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: dnsext
   stream: IETF

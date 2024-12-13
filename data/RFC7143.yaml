@@ -204,8 +204,8 @@ keyword:
 - content: SAM
 - content: disk
 - content: T10
-editorialgroup:
-- name: storm
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: storm
   stream: IETF

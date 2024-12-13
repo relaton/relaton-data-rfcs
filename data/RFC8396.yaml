@@ -124,8 +124,8 @@ keyword:
 - content: SIP
 - content: Problem Statement
 - content: Real-Time Communication
-editorialgroup:
-- name: modern
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: modern
   stream: IETF

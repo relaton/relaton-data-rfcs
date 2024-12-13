@@ -99,8 +99,8 @@ keyword:
 - content: performance evaluation
 - content: cac
 - content: network model
-editorialgroup:
-- name: tewg
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: tewg
   stream: IETF

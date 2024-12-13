@@ -90,8 +90,8 @@ series:
 keyword:
 - content: IP
 - content: IPPM
-editorialgroup:
-- name: ippm
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ippm
   stream: IETF

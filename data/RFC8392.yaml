@@ -187,8 +187,8 @@ keyword:
 - content: COSE
 - content: OAuth
 - content: ACE
-editorialgroup:
-- name: ace
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ace
   stream: IETF

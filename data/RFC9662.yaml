@@ -173,8 +173,8 @@ keyword:
 - content: DTLS
 - content: TLS
 - content: cipher suite
-editorialgroup:
-- name: uta
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: uta
   stream: IETF

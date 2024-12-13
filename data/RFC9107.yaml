@@ -214,8 +214,8 @@ series:
     format: text/plain
 keyword:
 - content: IDR
-editorialgroup:
-- name: idr
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: idr
   stream: IETF

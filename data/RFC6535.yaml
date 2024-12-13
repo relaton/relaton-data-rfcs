@@ -156,8 +156,8 @@ keyword:
 - content: applications
 - content: IPv6
 - content: ENR
-editorialgroup:
-- name: behave
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: behave
   stream: IETF

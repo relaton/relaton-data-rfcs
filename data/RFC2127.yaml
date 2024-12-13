@@ -92,8 +92,8 @@ keyword:
 - content: Services
 - content: Digital
 - content: Network
-editorialgroup:
-- name: isdnmib
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: isdnmib
   stream: IETF

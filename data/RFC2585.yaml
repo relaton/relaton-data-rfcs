@@ -124,8 +124,8 @@ keyword:
 - content: hypertext transfer protocol
 - content: PKI
 - content: Public Key Infrastructure
-editorialgroup:
-- name: pkix
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: pkix
   stream: IETF

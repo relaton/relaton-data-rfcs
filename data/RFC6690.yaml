@@ -92,8 +92,8 @@ keyword:
 - content: Link Format
 - content: HTTP Link Header Format
 - content: Resource Discovery
-editorialgroup:
-- name: core
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: core
   stream: IETF

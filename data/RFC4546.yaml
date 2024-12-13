@@ -126,8 +126,8 @@ keyword:
 - content: scdma
 - content: quality of service
 - content: channel utilizazation
-editorialgroup:
-- name: ipcdn
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ipcdn
   stream: IETF

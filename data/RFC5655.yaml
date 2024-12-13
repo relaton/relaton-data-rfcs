@@ -211,8 +211,8 @@ keyword:
 - content: flow storage
 - content: ipfix storage
 - content: netflow storage
-editorialgroup:
-- name: ipfix
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ipfix
   stream: IETF

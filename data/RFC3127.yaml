@@ -269,8 +269,8 @@ keyword:
 - content: network
 - content: access
 - content: requirements
-editorialgroup:
-- name: aaa
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: aaa
   stream: IETF

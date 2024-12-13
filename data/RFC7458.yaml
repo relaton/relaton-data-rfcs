@@ -130,8 +130,8 @@ keyword:
 - content: Handover
 - content: Identity
 - content: APN
-editorialgroup:
-- name: netext
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: netext
   stream: IETF

@@ -127,8 +127,8 @@ keyword:
 - content: multi-protocol label switching
 - content: bandwidth constraints model
 - content: overbooking
-editorialgroup:
-- name: tewg
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: tewg
   stream: IETF

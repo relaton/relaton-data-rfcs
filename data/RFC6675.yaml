@@ -241,8 +241,8 @@ keyword:
 - content: transmission control protocol
 - content: retransmission
 - content: congestion control
-editorialgroup:
-- name: tcpm
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: tcpm
   stream: IETF

@@ -156,8 +156,8 @@ series:
 keyword:
 - content: DetNet
 - content: security
-editorialgroup:
-- name: detnet
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: detnet
   stream: IETF

@@ -131,8 +131,8 @@ keyword:
 - content: Engineering
 - content: Task
 - content: Force
-editorialgroup:
-- name: poised95
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: poised95
   stream: IETF

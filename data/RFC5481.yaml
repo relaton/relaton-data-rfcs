@@ -125,8 +125,8 @@ keyword:
 - content: ipdv
 - content: pdv
 - content: inter-packet delay variation
-editorialgroup:
-- name: ippm
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ippm
   stream: IETF

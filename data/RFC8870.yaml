@@ -211,8 +211,8 @@ keyword:
 - content: RTP
 - content: conferencing
 - content: encryption
-editorialgroup:
-- name: perc
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: perc
   stream: IETF

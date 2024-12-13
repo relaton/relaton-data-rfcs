@@ -122,8 +122,8 @@ keyword:
 - content: BFD
 - content: VCCV-BFD
 - content: PW OAM
-editorialgroup:
-- name: pwe3
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: pwe3
   stream: IETF

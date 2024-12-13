@@ -119,8 +119,8 @@ keyword:
 - content: Host Identity Payload
 - content: Registration
 - content: register
-editorialgroup:
-- name: hip
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: hip
   stream: IETF

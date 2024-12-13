@@ -151,8 +151,8 @@ series:
 keyword:
 - content: call signaling
 - content: call signalling
-editorialgroup:
-- name: xcon
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: xcon
   stream: IETF

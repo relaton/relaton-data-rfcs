@@ -122,8 +122,8 @@ keyword:
 - content: Stream Control Transmission Protocol
 - content: MIB
 - content: Management Information Base
-editorialgroup:
-- name: sigtran
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: sigtran
   stream: IETF

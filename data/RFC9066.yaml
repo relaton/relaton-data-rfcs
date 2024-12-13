@@ -158,8 +158,8 @@ keyword:
 - content: Protective Networking
 - content: Security
 - content: Scrubbing
-editorialgroup:
-- name: dots
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: dots
   stream: IETF

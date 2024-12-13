@@ -135,8 +135,8 @@ keyword:
 - content: mlpp
 - content: government emergency telecommunication service
 - content: gets
-editorialgroup:
-- name: tsvwg
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: tsvwg
   stream: IETF

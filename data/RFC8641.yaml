@@ -118,8 +118,8 @@ keyword:
 - content: YANG-Push
 - content: Streaming
 - content: telemetry
-editorialgroup:
-- name: netconf
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: netconf
   stream: IETF

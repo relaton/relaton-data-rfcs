@@ -292,8 +292,8 @@ keyword:
 - content: core
 - content: relaying
 - content: mesh
-editorialgroup:
-- name: apex
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: apex
   stream: IETF

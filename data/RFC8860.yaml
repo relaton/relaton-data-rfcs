@@ -171,8 +171,8 @@ keyword:
 - content: Real-time
 - content: Multiplexing
 - content: Bundle
-editorialgroup:
-- name: avtcore
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: avtcore
   stream: IETF

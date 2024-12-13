@@ -98,8 +98,8 @@ keyword:
 - content: IP
 - content: AAL5
 - content: over
-editorialgroup:
-- name: ipatm
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ipatm
   stream: IETF

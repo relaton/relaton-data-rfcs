@@ -88,8 +88,8 @@ keyword:
 - content: transmission control protocol
 - content: BEEP
 - content: blocks extensible exchange protocol
-editorialgroup:
-- name: beep
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: beep
   stream: IETF

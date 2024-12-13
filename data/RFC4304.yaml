@@ -98,8 +98,8 @@ keyword:
 - content: ike
 - content: internet key exchange
 - content: ikev2
-editorialgroup:
-- name: ipsec
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ipsec
   stream: IETF

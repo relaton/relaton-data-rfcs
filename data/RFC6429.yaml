@@ -162,8 +162,8 @@ keyword:
 - content: zero window probe
 - content: denial of service (DoS)
 - content: security vulnerability
-editorialgroup:
-- name: tcpm
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: tcpm
   stream: IETF

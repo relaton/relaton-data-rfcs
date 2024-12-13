@@ -252,8 +252,8 @@ keyword:
 - content: contrained network
 - content: constrained node
 - content: constrained-node network
-editorialgroup:
-- name: lpwan
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: lpwan
   stream: IETF

@@ -175,8 +175,8 @@ keyword:
 - content: active bit
 - content: new bit
 - content: circuit status avp
-editorialgroup:
-- name: l2tpext
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: l2tpext
   stream: IETF

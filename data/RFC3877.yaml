@@ -119,8 +119,8 @@ keyword:
 - content: iana-itu-alarm-tc-mib
 - content: itu-alarm-tc-mib
 - content: itu-alarm-mib
-editorialgroup:
-- name: disman
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: disman
   stream: IETF

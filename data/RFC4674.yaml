@@ -95,8 +95,8 @@ series:
 keyword:
 - content: path computation client
 - content: pcc
-editorialgroup:
-- name: pce
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: pce
   stream: IETF

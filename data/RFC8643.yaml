@@ -216,8 +216,8 @@ keyword:
 - content: encryption
 - content: best effort
 - content: osrtp
-editorialgroup:
-- name: sipbrandy
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: sipbrandy
   stream: IETF

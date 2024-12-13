@@ -301,8 +301,8 @@ keyword:
 - content: Information
 - content: Servers
 - content: Library
-editorialgroup:
-- name: iiir
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: iiir
   stream: IETF

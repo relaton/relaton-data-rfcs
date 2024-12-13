@@ -183,8 +183,8 @@ keyword:
 - content: ISIS
 - content: Inter-AS
 - content: TE
-editorialgroup:
-- name: lsr
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: lsr
   stream: IETF

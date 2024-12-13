@@ -121,8 +121,8 @@ keyword:
 - content: authorization service
 - content: ssh transport model
 - content: secure shell transport model
-editorialgroup:
-- name: isms
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: isms
   stream: IETF

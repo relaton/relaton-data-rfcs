@@ -252,8 +252,8 @@ series:
 keyword:
 - content: END-POINTS
 - content: fragmentation
-editorialgroup:
-- name: pce
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: pce
   stream: IETF

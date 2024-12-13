@@ -182,8 +182,8 @@ series:
 keyword:
 - content: group security association
 - content: gsa
-editorialgroup:
-- name: msec
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: msec
   stream: IETF

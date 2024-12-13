@@ -211,8 +211,8 @@ keyword:
 - content: Stateful PCE
 - content: GMPLS
 - content: PCE-initiated LSP
-editorialgroup:
-- name: pce
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: pce
   stream: IETF

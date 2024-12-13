@@ -216,8 +216,8 @@ keyword:
 - content: VoIP
 - content: IPTV
 - content: Packet Loss
-editorialgroup:
-- name: avtcore
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: avtcore
   stream: IETF

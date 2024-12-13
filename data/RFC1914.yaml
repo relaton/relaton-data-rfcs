@@ -149,8 +149,8 @@ keyword:
 - content: databases
 - content: directory
 - content: service
-editorialgroup:
-- name: wnils
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: wnils
   stream: IETF

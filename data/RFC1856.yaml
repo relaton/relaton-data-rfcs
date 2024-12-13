@@ -78,8 +78,8 @@ keyword:
 - content: tools
 - content: performance
 - content: utilization
-editorialgroup:
-- name: opstat
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: opstat
   stream: IETF

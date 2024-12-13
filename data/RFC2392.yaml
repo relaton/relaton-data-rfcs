@@ -92,8 +92,8 @@ keyword:
 - content: Uniform Resource Locator
 - content: MIME
 - content: Multipurpose Internet Mail Extensions
-editorialgroup:
-- name: mhtml
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mhtml
   stream: IETF

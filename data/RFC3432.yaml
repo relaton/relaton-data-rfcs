@@ -156,8 +156,8 @@ keyword:
 - content: constant bit rate
 - content: periodic sampling
 - content: poisson sampling
-editorialgroup:
-- name: ippm
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ippm
   stream: IETF

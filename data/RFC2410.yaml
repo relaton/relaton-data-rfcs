@@ -118,8 +118,8 @@ keyword:
 - content: esp
 - content: encapsulating security payload
 - content: 'NULL'
-editorialgroup:
-- name: ipsec
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ipsec
   stream: IETF

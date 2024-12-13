@@ -189,8 +189,8 @@ keyword:
 - content: mvpn
 - content: vpnv4
 - content: vpnv6
-editorialgroup:
-- name: bess
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: bess
   stream: IETF

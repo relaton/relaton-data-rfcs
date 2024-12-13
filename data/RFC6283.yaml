@@ -173,8 +173,8 @@ keyword:
 - content: renewal
 - content: algorithm
 - content: cryptography
-editorialgroup:
-- name: ltans
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ltans
   stream: IETF

@@ -213,8 +213,8 @@ keyword:
 - content: Flat mobile network
 - content: Mobile network operation and management
 - content: Control and data plane separation
-editorialgroup:
-- name: dmm
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: dmm
   stream: IETF

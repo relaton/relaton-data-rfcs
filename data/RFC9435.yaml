@@ -149,8 +149,8 @@ series:
 keyword:
 - content: DSCP
 - content: DiffServ Codepoints
-editorialgroup:
-- name: tsvwg
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: tsvwg
   stream: IETF

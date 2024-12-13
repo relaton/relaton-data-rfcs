@@ -96,8 +96,8 @@ keyword:
 - content: Object Security
 - content: COSE
 - content: Constrained Devices
-editorialgroup:
-- name: cose
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: cose
   stream: IETF

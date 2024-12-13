@@ -156,8 +156,8 @@ series:
 keyword:
 - content: IASA
 - content: IASA2
-editorialgroup:
-- name: iasa2
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: iasa2
   stream: IETF

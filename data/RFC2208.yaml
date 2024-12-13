@@ -297,8 +297,8 @@ series:
     format: text/plain
 keyword:
 - content: RSVP
-editorialgroup:
-- name: rsvp
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: rsvp
   stream: IETF

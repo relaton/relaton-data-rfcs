@@ -210,8 +210,8 @@ keyword:
 - content: subscription
 - content: sdn
 - content: nfv
-editorialgroup:
-- name: lisp
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: lisp
   stream: IETF

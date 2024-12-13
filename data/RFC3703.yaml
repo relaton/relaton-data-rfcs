@@ -185,8 +185,8 @@ keyword:
 - content: Lightweight Directory Access Protocol
 - content: Policy Core
 - content: mapping classes
-editorialgroup:
-- name: policy
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: policy
   stream: IETF

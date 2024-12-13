@@ -86,8 +86,8 @@ series:
 keyword:
 - content: SIPP
 - content: IPng
-editorialgroup:
-- name: sipp
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: sipp
   stream: IETF

@@ -194,8 +194,8 @@ keyword:
 - content: confirmation method
 - content: holder-of-key
 - content: OAuth
-editorialgroup:
-- name: oauth
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: oauth
   stream: IETF

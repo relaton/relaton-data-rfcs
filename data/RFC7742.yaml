@@ -92,8 +92,8 @@ series:
 keyword:
 - content: MTI
 - content: mandatory-to-implement
-editorialgroup:
-- name: rtcweb
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: rtcweb
   stream: IETF

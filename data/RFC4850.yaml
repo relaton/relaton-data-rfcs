@@ -115,8 +115,8 @@ keyword:
 - content: transport protocol
 - content: tcp
 - content: transmission control protocol
-editorialgroup:
-- name: ips
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ips
   stream: IETF

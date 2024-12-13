@@ -122,8 +122,8 @@ keyword:
 - content: public key
 - content: password
 - content: host-based client authentication
-editorialgroup:
-- name: secsh
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: secsh
   stream: IETF

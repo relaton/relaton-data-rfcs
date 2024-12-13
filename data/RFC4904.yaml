@@ -118,8 +118,8 @@ keyword:
 - content: Trunk group
 - content: trunkgroup
 - content: PSTN
-editorialgroup:
-- name: iptel
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: iptel
   stream: IETF

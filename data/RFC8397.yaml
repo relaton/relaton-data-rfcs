@@ -212,8 +212,8 @@ keyword:
 - content: Aggregated
 - content: Global Tree
 - content: Local Tree
-editorialgroup:
-- name: trill
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: trill
   stream: IETF

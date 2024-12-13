@@ -153,8 +153,8 @@ keyword:
 - content: temporal redundancy
 - content: time shifted
 - content: delayed duplication
-editorialgroup:
-- name: mmusic
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mmusic
   stream: IETF

@@ -160,8 +160,8 @@ keyword:
 - content: explicit route object
 - content: rro
 - content: record route object
-editorialgroup:
-- name: ccamp
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ccamp
   stream: IETF

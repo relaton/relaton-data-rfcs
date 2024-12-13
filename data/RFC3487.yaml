@@ -90,8 +90,8 @@ keyword:
 - content: end system resources
 - content: proxy resources
 - content: emergency preparedness communications
-editorialgroup:
-- name: ieprep
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ieprep
   stream: IETF

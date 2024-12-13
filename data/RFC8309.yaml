@@ -159,8 +159,8 @@ keyword:
 - content: SDN
 - content: Software Defined Network
 - content: Service Orchestrator
-editorialgroup:
-- name: opsawg
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: opsawg
   stream: IETF

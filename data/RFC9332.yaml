@@ -173,8 +173,8 @@ keyword:
 - content: ECN
 - content: Pacing
 - content: Burstiness
-editorialgroup:
-- name: tsvwg
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: tsvwg
   stream: IETF

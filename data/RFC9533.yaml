@@ -212,8 +212,8 @@ keyword:
 - content: Performance Measurement
 - content: LAG
 - content: Micro-session
-editorialgroup:
-- name: ippm
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ippm
   stream: IETF

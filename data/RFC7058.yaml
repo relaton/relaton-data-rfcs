@@ -184,8 +184,8 @@ keyword:
 - content: MediaCtrl
 - content: Media Server Control
 - content: Media Control Channel Framework
-editorialgroup:
-- name: mediactrl
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mediactrl
   stream: IETF

@@ -161,8 +161,8 @@ keyword:
 - content: sab
 - content: channel-bound btns
 - content: cbb
-editorialgroup:
-- name: btns
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: btns
   stream: IETF

@@ -159,8 +159,8 @@ keyword:
 - content: authentication
 - content: security identification
 - content: certificates
-editorialgroup:
-- name: pkix
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: pkix
   stream: IETF

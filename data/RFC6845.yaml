@@ -176,8 +176,8 @@ keyword:
 - content: P2MP
 - content: Broadcast
 - content: Interface
-editorialgroup:
-- name: ospf
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ospf
   stream: IETF

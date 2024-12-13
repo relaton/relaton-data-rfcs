@@ -132,8 +132,8 @@ keyword:
 - content: process
 - content: problem
 - content: analysis
-editorialgroup:
-- name: problem
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: problem
   stream: IETF

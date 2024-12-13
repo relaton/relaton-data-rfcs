@@ -158,8 +158,8 @@ keyword:
 - content: key exchange algorithm
 - content: SKIPJACK
 - content: symmetric
-editorialgroup:
-- name: cat
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: cat
   stream: IETF

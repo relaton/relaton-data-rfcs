@@ -109,8 +109,8 @@ keyword:
 - content: Multi-purpose Internet Mail Extensions
 - content: body parts
 - content: content-disposition
-editorialgroup:
-- name: vpim
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: vpim
   stream: IETF

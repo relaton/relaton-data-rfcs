@@ -159,8 +159,8 @@ keyword:
 - content: sha512
 - content: SHA-1
 - content: Modular Exponentiation
-editorialgroup:
-- name: curdle
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: curdle
   stream: IETF

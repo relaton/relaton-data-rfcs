@@ -184,8 +184,8 @@ keyword:
 - content: EDNS0
 - content: geolocation
 - content: privacy
-editorialgroup:
-- name: dnsop
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: dnsop
   stream: IETF

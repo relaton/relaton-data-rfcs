@@ -127,8 +127,8 @@ keyword:
 - content: integrity protection
 - content: diffie-hellman key exchange
 - content: diffie hellman
-editorialgroup:
-- name: secsh
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: secsh
   stream: IETF

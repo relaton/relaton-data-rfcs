@@ -140,8 +140,8 @@ keyword:
 - content: application program interface
 - content: gss-api
 - content: GSI
-editorialgroup:
-- name: kitten
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: kitten
   stream: IETF

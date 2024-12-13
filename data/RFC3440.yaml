@@ -122,8 +122,8 @@ keyword:
 - content: Management Information Base
 - content: ADSL
 - content: asymmetric digital subscriber line
-editorialgroup:
-- name: adslmib
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: adslmib
   stream: IETF

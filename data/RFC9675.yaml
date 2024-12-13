@@ -156,8 +156,8 @@ series:
 keyword:
 - content: DTN
 - content: Network Management
-editorialgroup:
-- name: dtn
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: dtn
   stream: IETF

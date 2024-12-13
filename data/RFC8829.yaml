@@ -166,8 +166,8 @@ keyword:
 - content: rtp
 - content: offer
 - content: answer
-editorialgroup:
-- name: rtcweb
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: rtcweb
   stream: IETF

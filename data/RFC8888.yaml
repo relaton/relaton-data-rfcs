@@ -184,8 +184,8 @@ keyword:
 - content: feedback message
 - content: RTP
 - content: RTCP
-editorialgroup:
-- name: avtcore
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: avtcore
   stream: IETF

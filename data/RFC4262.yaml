@@ -89,8 +89,8 @@ series:
     format: text/plain
 keyword:
 - content: cryptographic capabilities
-editorialgroup:
-- name: smime
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: smime
   stream: IETF

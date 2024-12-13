@@ -124,8 +124,8 @@ keyword:
 - content: FAQ
 - content: Internet
 - content: Education
-editorialgroup:
-- name: isn
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: isn
   stream: IETF

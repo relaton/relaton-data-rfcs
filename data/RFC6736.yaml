@@ -193,8 +193,8 @@ keyword:
 - content: NAT66
 - content: CGN
 - content: BNG
-editorialgroup:
-- name: dime
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: dime
   stream: IETF

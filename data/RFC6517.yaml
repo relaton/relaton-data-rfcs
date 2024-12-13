@@ -248,8 +248,8 @@ keyword:
 - content: p2mp
 - content: ldp
 - content: rsvp-te
-editorialgroup:
-- name: l3vpn
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: l3vpn
   stream: IETF

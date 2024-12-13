@@ -141,8 +141,8 @@ keyword:
 - content: OLSRv2
 - content: NHDP
 - content: TLV
-editorialgroup:
-- name: manet
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: manet
   stream: IETF

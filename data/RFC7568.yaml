@@ -192,8 +192,8 @@ keyword:
 - content: TLS
 - content: insecure
 - content: diediedie
-editorialgroup:
-- name: tls
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: tls
   stream: IETF

@@ -151,8 +151,8 @@ keyword:
 - content: dead peer detection
 - content: dpd
 - content: keepalive
-editorialgroup:
-- name: ipsec
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ipsec
   stream: IETF

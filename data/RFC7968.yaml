@@ -219,8 +219,8 @@ keyword:
 - content: VLAN
 - content: fine-grained label
 - content: multicast
-editorialgroup:
-- name: trill
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: trill
   stream: IETF

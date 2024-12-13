@@ -99,8 +99,8 @@ keyword:
 - content: digitally sign
 - content: authenticate
 - content: algorithm identifier integrity
-editorialgroup:
-- name: lamps
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: lamps
   stream: IETF

@@ -94,8 +94,8 @@ keyword:
 - content: SIMPLE
 - content: presence
 - content: availability
-editorialgroup:
-- name: stox
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: stox
   stream: IETF

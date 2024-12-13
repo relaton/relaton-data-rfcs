@@ -143,8 +143,8 @@ keyword:
 - content: protocol
 - content: KMP
 - content: key management protocol,
-editorialgroup:
-- name: karp
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: karp
   stream: IETF

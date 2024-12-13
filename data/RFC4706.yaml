@@ -181,8 +181,8 @@ keyword:
 - content: adsl2+
 - content: ADSL2-LINE-TC-MIB
 - content: ADSL2-LINE-MIB
-editorialgroup:
-- name: adslmib
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: adslmib
   stream: IETF

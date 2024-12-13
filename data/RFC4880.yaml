@@ -224,8 +224,8 @@ series:
 keyword:
 - content: public-key cryptography
 - content: symmetric cryptography
-editorialgroup:
-- name: openpgp
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: openpgp
   stream: IETF

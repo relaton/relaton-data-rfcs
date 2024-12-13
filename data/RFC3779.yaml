@@ -159,8 +159,8 @@ keyword:
 - content: public key infrastructure
 - content: right-to-use
 - content: secure allocation
-editorialgroup:
-- name: pkix
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: pkix
   stream: IETF

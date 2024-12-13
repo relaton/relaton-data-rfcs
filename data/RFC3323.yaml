@@ -78,8 +78,8 @@ keyword:
 - content: SIP
 - content: Session Initiation Protocol
 - content: privacy service
-editorialgroup:
-- name: sip
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: sip
   stream: IETF

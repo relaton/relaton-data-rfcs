@@ -124,8 +124,8 @@ keyword:
 - content: SNMP
 - content: Transport Security Model
 - content: Security Model
-editorialgroup:
-- name: isms
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: isms
   stream: IETF

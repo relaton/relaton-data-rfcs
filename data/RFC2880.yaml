@@ -118,8 +118,8 @@ keyword:
 - content: schema
 - content: media
 - content: tags
-editorialgroup:
-- name: fax
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: fax
   stream: IETF

@@ -97,8 +97,8 @@ series:
   title:
     content: IETF
     format: text/plain
-editorialgroup:
-- name: kitten
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: kitten
   stream: IETF

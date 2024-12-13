@@ -124,8 +124,8 @@ keyword:
 - content: restricted
 - content: restriction
 - content: signature
-editorialgroup:
-- name: webpush
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: webpush
   stream: IETF

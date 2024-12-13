@@ -215,8 +215,8 @@ keyword:
 - content: internet fax service
 - content: i-fax
 - content: onramp gateway
-editorialgroup:
-- name: fax
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: fax
   stream: IETF

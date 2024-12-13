@@ -146,8 +146,8 @@ series:
     format: text/plain
 keyword:
 - content: feedback-report
-editorialgroup:
-- name: marf
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: marf
   stream: IETF

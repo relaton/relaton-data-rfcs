@@ -210,8 +210,8 @@ keyword:
 - content: local area network
 - content: RSVP
 - content: resource reservation protocol
-editorialgroup:
-- name: issll
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: issll
   stream: IETF

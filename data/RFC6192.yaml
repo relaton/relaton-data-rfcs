@@ -153,8 +153,8 @@ keyword:
 - content: ACL
 - content: Router Control Plane Protection
 - content: Filter
-editorialgroup:
-- name: opsec
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: opsec
   stream: IETF

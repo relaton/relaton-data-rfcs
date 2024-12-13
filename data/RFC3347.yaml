@@ -112,8 +112,8 @@ keyword:
 - content: Transmission Control Protocol
 - content: storage
 - content: fibre channel
-editorialgroup:
-- name: ips
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ips
   stream: IETF

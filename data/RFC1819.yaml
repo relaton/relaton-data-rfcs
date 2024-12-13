@@ -115,8 +115,8 @@ series:
     format: text/plain
 keyword:
 - content: ST2
-editorialgroup:
-- name: st2
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: st2
   stream: IETF

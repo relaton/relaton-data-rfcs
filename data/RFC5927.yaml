@@ -96,8 +96,8 @@ keyword:
 - content: PMTUD
 - content: Path-MTU Discovery
 - content: ICMP Destination Unreachable
-editorialgroup:
-- name: tcpm
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: tcpm
   stream: IETF

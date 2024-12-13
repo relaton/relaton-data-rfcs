@@ -128,8 +128,8 @@ keyword:
 - content: Binding
 - content: Cryptographic
 - content: Countermeasure
-editorialgroup:
-- name: nea
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: nea
   stream: IETF

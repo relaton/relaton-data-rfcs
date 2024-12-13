@@ -105,8 +105,8 @@ series:
 keyword:
 - content: mipv6
 - content: handover latency
-editorialgroup:
-- name: mipshop
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mipshop
   stream: IETF

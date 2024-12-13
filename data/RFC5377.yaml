@@ -104,8 +104,8 @@ keyword:
 - content: contributors
 - content: ietf contributions
 - content: outbound rights
-editorialgroup:
-- name: ipr
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ipr
   stream: IETF

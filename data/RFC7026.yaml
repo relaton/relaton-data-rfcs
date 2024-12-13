@@ -137,8 +137,8 @@ keyword:
 - content: Pseudowire
 - content: PW
 - content: MPLS-TP
-editorialgroup:
-- name: mpls
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mpls
   stream: IETF

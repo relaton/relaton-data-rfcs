@@ -151,8 +151,8 @@ keyword:
 - content: T11-FC-SP-ZONING-MIB
 - content: T11-FC-SP-POLICY-MIB
 - content: T11-FC-SP-SA-MIB
-editorialgroup:
-- name: imss
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: imss
   stream: IETF

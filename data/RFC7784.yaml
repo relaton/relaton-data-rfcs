@@ -149,8 +149,8 @@ keyword:
 - content: MEP
 - content: MIP
 - content: Fault Management
-editorialgroup:
-- name: trill
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: trill
   stream: IETF

@@ -181,8 +181,8 @@ keyword:
 - content: nemo
 - content: ipv6
 - content: mobile networks
-editorialgroup:
-- name: nemo
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: nemo
   stream: IETF

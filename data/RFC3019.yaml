@@ -133,8 +133,8 @@ keyword:
 - content: Management Information Base
 - content: MLD
 - content: Multicast Listener Discovery Protocol
-editorialgroup:
-- name: ipngwg
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ipngwg
   stream: IETF

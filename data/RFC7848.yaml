@@ -96,8 +96,8 @@ keyword:
 - content: Signed Mark
 - content: Mark
 - content: SMD
-editorialgroup:
-- name: eppext
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: eppext
   stream: IETF

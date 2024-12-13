@@ -210,8 +210,8 @@ keyword:
 - content: RFC4244bis
 - content: Example
 - content: Call Flow
-editorialgroup:
-- name: sipcore
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: sipcore
   stream: IETF

@@ -90,8 +90,8 @@ keyword:
 - content: mapping
 - content: X.500
 - content: Directory Information Tree
-editorialgroup:
-- name: mixer
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mixer
   stream: IETF

@@ -122,8 +122,8 @@ keyword:
 - content: HyBi Working Group
 - content: HYBI
 - content: websocket
-editorialgroup:
-- name: hybi
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: hybi
   stream: IETF

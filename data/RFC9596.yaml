@@ -124,8 +124,8 @@ series:
     format: text/plain
 keyword:
 - content: Explicit Typing
-editorialgroup:
-- name: cose
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: cose
   stream: IETF

@@ -223,8 +223,8 @@ keyword:
 - content: elliptic curve diffie-hellman
 - content: elliptic curve digital signature algorithm
 - content: ecdsa
-editorialgroup:
-- name: tls
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: tls
   stream: IETF

@@ -122,8 +122,8 @@ keyword:
 - content: update
 - content: push
 - content: notification
-editorialgroup:
-- name: dnssd
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: dnssd
   stream: IETF

@@ -118,8 +118,8 @@ keyword:
 - content: working group
 - content: document
 - content: editing
-editorialgroup:
-- name: git
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: git
   stream: IETF

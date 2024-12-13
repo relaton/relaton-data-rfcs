@@ -151,8 +151,8 @@ keyword:
 - content: collecting process
 - content: ipfix
 - content: ip flow information export
-editorialgroup:
-- name: psamp
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: psamp
   stream: IETF

@@ -90,8 +90,8 @@ keyword:
 - content: bootstrap
 - content: boot
 - content: ipoib
-editorialgroup:
-- name: ipoib
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ipoib
   stream: IETF

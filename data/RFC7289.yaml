@@ -128,8 +128,8 @@ keyword:
 - content: NAT444
 - content: LSN
 - content: Large-Scale NAT
-editorialgroup:
-- name: opsawg
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: opsawg
   stream: IETF

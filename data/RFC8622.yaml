@@ -118,8 +118,8 @@ keyword:
 - content: Lower Effort
 - content: Per-Hop Behavior
 - content: Scavenger Service
-editorialgroup:
-- name: tsvwg
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: tsvwg
   stream: IETF

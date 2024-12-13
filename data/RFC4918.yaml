@@ -93,8 +93,8 @@ keyword:
 - content: protocol
 - content: web
 - content: content
-editorialgroup:
-- name: webdav
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: webdav
   stream: IETF

@@ -194,8 +194,8 @@ keyword:
 - content: Multipoint Marking Method
 - content: Multipoint Coloring Technique
 - content: Network Clustering
-editorialgroup:
-- name: ippm
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ippm
   stream: IETF

@@ -159,8 +159,8 @@ keyword:
 - content: internet protocol
 - content: ARP
 - content: address resolution protocol
-editorialgroup:
-- name: ipfc
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ipfc
   stream: IETF

@@ -88,8 +88,8 @@ keyword:
 - content: dynamic host configuration protocol
 - content: internet
 - content: address
-editorialgroup:
-- name: dhc
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: dhc
   stream: IETF

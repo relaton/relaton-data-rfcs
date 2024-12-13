@@ -79,8 +79,8 @@ keyword:
 - content: sip
 - content: ua
 - content: user agent
-editorialgroup:
-- name: sipping
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: sipping
   stream: IETF

@@ -107,8 +107,8 @@ series:
     format: text/plain
 keyword:
 - content: NomCom
-editorialgroup:
-- name: elegy
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: elegy
   stream: IETF

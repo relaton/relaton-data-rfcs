@@ -154,8 +154,8 @@ keyword:
 - content: title capability
 - content: connection data capability
 - content: bandwidth capability
-editorialgroup:
-- name: mmusic
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mmusic
   stream: IETF

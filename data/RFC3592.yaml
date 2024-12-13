@@ -97,8 +97,8 @@ keyword:
 - content: Synchronous Digital Hierarchy
 - content: SONET
 - content: SDH
-editorialgroup:
-- name: vgmib
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: vgmib
   stream: IETF

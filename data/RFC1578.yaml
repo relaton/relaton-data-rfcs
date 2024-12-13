@@ -99,8 +99,8 @@ series:
     format: text/plain
 keyword:
 - content: K12
-editorialgroup:
-- name: isn
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: isn
   stream: IETF

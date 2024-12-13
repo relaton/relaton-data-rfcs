@@ -147,8 +147,8 @@ keyword:
 - content: URI schemes
 - content: uniform resource identifier
 - content: enum
-editorialgroup:
-- name: enum
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: enum
   stream: IETF

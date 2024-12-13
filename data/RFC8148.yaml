@@ -180,8 +180,8 @@ keyword:
 - content: crash
 - content: vehicle-initiated
 - content: ecall
-editorialgroup:
-- name: ecrit
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ecrit
   stream: IETF

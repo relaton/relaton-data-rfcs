@@ -140,8 +140,8 @@ keyword:
 - content: Walled Garden
 - content: Coffee-shop
 - content: Hotel
-editorialgroup:
-- name: capport
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: capport
   stream: IETF

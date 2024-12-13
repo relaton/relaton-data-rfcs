@@ -119,8 +119,8 @@ keyword:
 - content: E.164
 - content: VoIP
 - content: Voice over IP
-editorialgroup:
-- name: enum
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: enum
   stream: IETF

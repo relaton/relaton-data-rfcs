@@ -149,8 +149,8 @@ keyword:
 - content: Info Package
 - content: Info-Package
 - content: Recv-Info
-editorialgroup:
-- name: sipcore
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: sipcore
   stream: IETF

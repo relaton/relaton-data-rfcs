@@ -115,8 +115,8 @@ series:
     format: text/plain
 keyword:
 - content: IMAP
-editorialgroup:
-- name: imapmove
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: imapmove
   stream: IETF

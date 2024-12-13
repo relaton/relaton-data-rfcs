@@ -210,8 +210,8 @@ series:
 keyword:
 - content: mpls
 - content: mpls-tp
-editorialgroup:
-- name: pals
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: pals
   stream: IETF

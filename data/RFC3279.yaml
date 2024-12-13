@@ -153,8 +153,8 @@ keyword:
 - content: Public Key Infrastructure
 - content: CRL
 - content: Certificate Revocation List
-editorialgroup:
-- name: pkix
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: pkix
   stream: IETF

@@ -209,8 +209,8 @@ keyword:
 - content: IPsec
 - content: ESP
 - content: Encapsulating Security Payload
-editorialgroup:
-- name: ipsec
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ipsec
   stream: IETF

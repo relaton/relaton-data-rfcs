@@ -95,8 +95,8 @@ keyword:
 - content: copyrights
 - content: intellectual
 - content: property
-editorialgroup:
-- name: poised95
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: poised95
   stream: IETF

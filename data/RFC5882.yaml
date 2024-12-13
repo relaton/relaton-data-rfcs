@@ -112,8 +112,8 @@ series:
   title:
     content: IETF
     format: text/plain
-editorialgroup:
-- name: bfd
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: bfd
   stream: IETF

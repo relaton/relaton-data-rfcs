@@ -130,8 +130,8 @@ keyword:
 - content: Client Identifier,Â Access Token Scope
 - content: Bearer Authorization Header
 - content: Bearer AccessÂ Token Type
-editorialgroup:
-- name: oauth
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: oauth
   stream: IETF

@@ -180,8 +180,8 @@ keyword:
 - content: switched
 - content: telephone
 - content: network
-editorialgroup:
-- name: spirits
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: spirits
   stream: IETF

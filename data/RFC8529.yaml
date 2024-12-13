@@ -210,8 +210,8 @@ keyword:
 - content: VRF
 - content: VSI
 - content: VPN
-editorialgroup:
-- name: rtgwg
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: rtgwg
   stream: IETF

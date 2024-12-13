@@ -124,8 +124,8 @@ keyword:
 - content: type
 - content: email
 - content: mime
-editorialgroup:
-- name: slim
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: slim
   stream: IETF

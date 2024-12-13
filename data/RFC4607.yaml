@@ -121,8 +121,8 @@ keyword:
 - content: ipv4
 - content: ssm
 - content: ipv6
-editorialgroup:
-- name: ssm
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ssm
   stream: IETF

@@ -196,8 +196,8 @@ series:
 keyword:
 - content: Multiprotocol Label Switching
 - content: lsp ping
-editorialgroup:
-- name: bfd
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: bfd
   stream: IETF

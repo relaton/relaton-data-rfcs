@@ -179,8 +179,8 @@ series:
     format: text/plain
 keyword:
 - content: P2P
-editorialgroup:
-- name: p2psip
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: p2psip
   stream: IETF

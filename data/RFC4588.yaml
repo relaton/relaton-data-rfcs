@@ -212,8 +212,8 @@ keyword:
 - content: rtcp
 - content: real-time transport control protocol
 - content: RTP/AVPF
-editorialgroup:
-- name: avt
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: avt
   stream: IETF

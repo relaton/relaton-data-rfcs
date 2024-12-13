@@ -130,8 +130,8 @@ keyword:
 - content: check
 - content: takethis
 - content: mode stream
-editorialgroup:
-- name: nntpext
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: nntpext
   stream: IETF

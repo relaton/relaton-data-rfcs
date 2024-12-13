@@ -242,8 +242,8 @@ keyword:
 - content: GMPLS
 - content: G709
 - content: OTN
-editorialgroup:
-- name: ccamp
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ccamp
   stream: IETF

@@ -97,8 +97,8 @@ keyword:
 - content: extensions
 - content: x.400
 - content: mixer
-editorialgroup:
-- name: mixer
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mixer
   stream: IETF

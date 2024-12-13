@@ -150,8 +150,8 @@ keyword:
 - content: conference event package
 - content: uri
 - content: uniform resource identifier
-editorialgroup:
-- name: sipping
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: sipping
   stream: IETF

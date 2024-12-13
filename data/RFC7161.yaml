@@ -158,8 +158,8 @@ keyword:
 - content: multicast
 - content: handover
 - content: SIAL
-editorialgroup:
-- name: multimob
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: multimob
   stream: IETF

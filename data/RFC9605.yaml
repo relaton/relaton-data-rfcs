@@ -218,8 +218,8 @@ keyword:
 - content: security
 - content: real-time media encryption
 - content: end-to-end encryption
-editorialgroup:
-- name: sframe
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: sframe
   stream: IETF

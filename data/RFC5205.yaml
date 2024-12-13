@@ -133,8 +133,8 @@ keyword:
 - content: host identity payload
 - content: dns
 - content: domain name system
-editorialgroup:
-- name: hip
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: hip
   stream: IETF

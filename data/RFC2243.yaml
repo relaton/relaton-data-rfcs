@@ -89,8 +89,8 @@ keyword:
 - content: OTP-ER
 - content: One Time Password
 - content: Extended Responses
-editorialgroup:
-- name: otp
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: otp
   stream: IETF

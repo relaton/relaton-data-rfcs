@@ -206,8 +206,8 @@ series:
 keyword:
 - content: ORF
 - content: VPN
-editorialgroup:
-- name: bess
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: bess
   stream: IETF

@@ -152,8 +152,8 @@ series:
     format: text/plain
 keyword:
 - content: internet protocol
-editorialgroup:
-- name: dhc
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: dhc
   stream: IETF

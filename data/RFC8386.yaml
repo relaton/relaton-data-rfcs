@@ -151,8 +151,8 @@ keyword:
 - content: IP broadcasts
 - content: multicast
 - content: privacy considerations
-editorialgroup:
-- name: intarea
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: intarea
   stream: IETF

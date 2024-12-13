@@ -144,8 +144,8 @@ keyword:
 - content: 34.310-95
 - content: 34.310-2004
 - content: 34.311-95
-editorialgroup:
-- name: pkix
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: pkix
   stream: IETF

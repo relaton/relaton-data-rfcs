@@ -217,8 +217,8 @@ keyword:
 - content: fibre channel devices
 - content: ifcp
 - content: intelligent storage discovery
-editorialgroup:
-- name: ips
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ips
   stream: IETF

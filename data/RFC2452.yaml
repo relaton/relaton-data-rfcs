@@ -111,8 +111,8 @@ keyword:
 - content: protocol
 - content: tcp
 - content: ipv6
-editorialgroup:
-- name: ipngwg
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ipngwg
   stream: IETF

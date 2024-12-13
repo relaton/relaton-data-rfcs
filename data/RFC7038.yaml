@@ -105,8 +105,8 @@ keyword:
 - content: MANET designated router
 - content: wireless
 - content: point-to-multipoint interface
-editorialgroup:
-- name: ospf
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ospf
   stream: IETF

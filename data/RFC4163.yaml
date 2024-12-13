@@ -80,8 +80,8 @@ keyword:
 - content: performance considerations
 - content: intellectual property rights
 - content: ipr
-editorialgroup:
-- name: rohc
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: rohc
   stream: IETF

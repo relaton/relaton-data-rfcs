@@ -94,8 +94,8 @@ keyword:
 - content: xDSL bonding
 - content: aggregation
 - content: G.998.3
-editorialgroup:
-- name: adslmib
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: adslmib
   stream: IETF

@@ -89,8 +89,8 @@ keyword:
 - content: intermediate system to intermediate system
 - content: tlv
 - content: osi
-editorialgroup:
-- name: isis
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: isis
   stream: IETF

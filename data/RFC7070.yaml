@@ -123,8 +123,8 @@ keyword:
 - content: spf
 - content: authentication
 - content: reputation
-editorialgroup:
-- name: repute
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: repute
   stream: IETF

@@ -93,8 +93,8 @@ keyword:
 - content: mail
 - content: extensions
 - content: mime
-editorialgroup:
-- name: mixer
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mixer
   stream: IETF

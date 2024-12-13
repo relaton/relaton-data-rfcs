@@ -92,8 +92,8 @@ keyword:
 - content: IP
 - content: Internet
 - content: Protocol
-editorialgroup:
-- name: tuba
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: tuba
   stream: IETF

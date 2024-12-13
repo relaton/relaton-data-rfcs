@@ -164,8 +164,8 @@ keyword:
 - content: wireless sensor network
 - content: core
 - content: OSCORE
-editorialgroup:
-- name: lpwan
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: lpwan
   stream: IETF

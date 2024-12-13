@@ -244,8 +244,8 @@ keyword:
 - content: peer swarms control
 - content: live streaming
 - content: video on demand
-editorialgroup:
-- name: ppsp
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ppsp
   stream: IETF

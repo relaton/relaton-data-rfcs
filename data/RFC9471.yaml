@@ -193,8 +193,8 @@ keyword:
 - content: Glue Record
 - content: In-Domain Name Server
 - content: Sibling Domain Name Server
-editorialgroup:
-- name: dnsop
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: dnsop
   stream: IETF

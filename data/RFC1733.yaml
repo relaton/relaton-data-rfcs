@@ -90,8 +90,8 @@ keyword:
 - content: Access
 - content: Protocol
 - content: Email
-editorialgroup:
-- name: imap
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: imap
   stream: IETF

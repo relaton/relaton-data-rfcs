@@ -88,8 +88,8 @@ keyword:
 - content: correspondent node
 - content: binding management key
 - content: binding updates
-editorialgroup:
-- name: mip6
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mip6
   stream: IETF

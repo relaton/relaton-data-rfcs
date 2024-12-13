@@ -121,8 +121,8 @@ keyword:
 - content: Message
 - content: Handling
 - content: System
-editorialgroup:
-- name: x400ops
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: x400ops
   stream: IETF

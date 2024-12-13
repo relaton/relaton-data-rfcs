@@ -151,8 +151,8 @@ keyword:
 - content: BGP
 - content: GROW
 - content: BMP
-editorialgroup:
-- name: grow
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: grow
   stream: IETF

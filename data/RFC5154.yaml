@@ -150,8 +150,8 @@ keyword:
 - content: WiMAX
 - content: Mobile WiMAX
 - content: WiBro
-editorialgroup:
-- name: 16ng
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: 16ng
   stream: IETF

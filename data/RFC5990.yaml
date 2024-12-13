@@ -180,8 +180,8 @@ series:
 keyword:
 - content: key encapsulation mechanism
 - content: generic hybrid cipher
-editorialgroup:
-- name: smime
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: smime
   stream: IETF

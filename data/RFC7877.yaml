@@ -181,8 +181,8 @@ keyword:
 - content: Peering
 - content: SED
 - content: Provisioning
-editorialgroup:
-- name: drinks
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: drinks
   stream: IETF

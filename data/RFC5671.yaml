@@ -123,8 +123,8 @@ series:
 keyword:
 - content: multiprotocol label switching
 - content: generalized mpls
-editorialgroup:
-- name: pce
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: pce
   stream: IETF

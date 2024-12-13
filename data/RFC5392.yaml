@@ -155,8 +155,8 @@ keyword:
 - content: isis-te
 - content: open shortest path first
 - content: ospf-te
-editorialgroup:
-- name: ccamp
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ccamp
   stream: IETF

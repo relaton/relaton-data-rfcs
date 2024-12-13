@@ -164,8 +164,8 @@ keyword:
 - content: authentication
 - content: security protocols
 - content: identity
-editorialgroup:
-- name: krb-wg
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: krb-wg
   stream: IETF

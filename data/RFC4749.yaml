@@ -87,8 +87,8 @@ keyword:
 - content: real-time transport protocol
 - content: itu-t
 - content: international telecommunication union
-editorialgroup:
-- name: avt
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: avt
   stream: IETF

@@ -119,8 +119,8 @@ keyword:
 - content: DES Encryption Protocol
 - content: ECP
 - content: PPP Encryption Control Protocol
-editorialgroup:
-- name: pppext
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: pppext
   stream: IETF

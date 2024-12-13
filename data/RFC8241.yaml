@@ -151,8 +151,8 @@ series:
   title:
     content: IETF
     format: text/plain
-editorialgroup:
-- name: i2rs
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: i2rs
   stream: IETF

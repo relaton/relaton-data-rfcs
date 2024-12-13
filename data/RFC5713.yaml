@@ -156,8 +156,8 @@ keyword:
 - content: ANCP security
 - content: ANCP threats
 - content: ANCP attacks
-editorialgroup:
-- name: ancp
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ancp
   stream: IETF

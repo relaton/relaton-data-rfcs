@@ -178,8 +178,8 @@ keyword:
 - content: directory
 - content: access
 - content: protocol
-editorialgroup:
-- name: ldapext
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ldapext
   stream: IETF

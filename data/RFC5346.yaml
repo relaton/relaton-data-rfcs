@@ -186,8 +186,8 @@ keyword:
 - content: NAPTR
 - content: Softswitch
 - content: Field Trial
-editorialgroup:
-- name: enum
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: enum
   stream: IETF

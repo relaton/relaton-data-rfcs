@@ -99,8 +99,8 @@ keyword:
 - content: TP-IX
 - content: IPv7
 - content: IPng
-editorialgroup:
-- name: tpix
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: tpix
   stream: IETF

@@ -134,8 +134,8 @@ keyword:
 - content: media type
 - content: URL
 - content: Uniform Resource Locator
-editorialgroup:
-- name: ipp
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ipp
   stream: IETF

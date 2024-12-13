@@ -117,8 +117,8 @@ keyword:
 - content: zlib
 - content: brotli
 - content: zstd
-editorialgroup:
-- name: tls
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: tls
   stream: IETF

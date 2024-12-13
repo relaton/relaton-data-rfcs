@@ -94,8 +94,8 @@ keyword:
 - content: REGISTER
 - content: event package name
 - content: event package parameters
-editorialgroup:
-- name: sipping
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: sipping
   stream: IETF

@@ -221,8 +221,8 @@ keyword:
 - content: Bandwidth on Demand
 - content: performance evaluation
 - content: Measurement methodologies
-editorialgroup:
-- name: ccamp
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ccamp
   stream: IETF

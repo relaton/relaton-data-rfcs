@@ -121,8 +121,8 @@ keyword:
 - content: RPKI
 - content: validation
 - content: RRDP
-editorialgroup:
-- name: sidrops
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: sidrops
   stream: IETF

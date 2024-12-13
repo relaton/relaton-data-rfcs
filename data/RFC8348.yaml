@@ -174,8 +174,8 @@ series:
     format: text/plain
 keyword:
 - content: ENTITY-MIB
-editorialgroup:
-- name: netmod
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: netmod
   stream: IETF

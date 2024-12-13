@@ -208,8 +208,8 @@ keyword:
 - content: resource
 - content: allocation
 - content: int-serv
-editorialgroup:
-- name: intserv
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: intserv
   stream: IETF

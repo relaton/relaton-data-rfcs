@@ -184,8 +184,8 @@ keyword:
 - content: management information base
 - content: T11-FC-FABRIC-LOCK-MIB
 - content: T11-FC-ZONE-SERVER-MIB
-editorialgroup:
-- name: imss
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: imss
   stream: IETF

@@ -194,8 +194,8 @@ keyword:
 - content: no-path
 - content: route
 - content: cleanup
-editorialgroup:
-- name: roll
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: roll
   stream: IETF

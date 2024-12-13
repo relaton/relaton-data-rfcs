@@ -165,8 +165,8 @@ keyword:
 - content: IPv6
 - content: TE
 - content: MPLS
-editorialgroup:
-- name: lsr
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: lsr
   stream: IETF

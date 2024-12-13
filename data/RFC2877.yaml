@@ -168,8 +168,8 @@ keyword:
 - content: client
 - content: server
 - content: printer
-editorialgroup:
-- name: tn3270e
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: tn3270e
   stream: IETF

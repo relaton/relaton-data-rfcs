@@ -88,8 +88,8 @@ keyword:
 - content: cryptographic
 - content: security
 - content: authentication
-editorialgroup:
-- name: kink
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: kink
   stream: IETF

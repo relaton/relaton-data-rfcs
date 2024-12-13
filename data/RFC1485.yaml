@@ -108,8 +108,8 @@ keyword:
 - content: X.500
 - content: directory names
 - content: representing names
-editorialgroup:
-- name: osids
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: osids
   stream: IETF

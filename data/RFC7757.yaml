@@ -136,8 +136,8 @@ keyword:
 - content: IPv6 transition
 - content: IPv6 transition technology
 - content: XLAT
-editorialgroup:
-- name: v6ops
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: v6ops
   stream: IETF

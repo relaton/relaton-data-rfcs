@@ -214,8 +214,8 @@ keyword:
 - content: mn
 - content: cars
 - content: candidate ars
-editorialgroup:
-- name: seamoby
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: seamoby
   stream: IETF

@@ -92,8 +92,8 @@ keyword:
 - content: real-time
 - content: network
 - content: measurement
-editorialgroup:
-- name: rtfm
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: rtfm
   stream: IETF

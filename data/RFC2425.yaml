@@ -158,8 +158,8 @@ keyword:
 - content: MIME
 - content: multipurpose internet mail extensions
 - content: profiles
-editorialgroup:
-- name: asid
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: asid
   stream: IETF

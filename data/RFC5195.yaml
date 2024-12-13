@@ -153,8 +153,8 @@ keyword:
 - content: import route target
 - content: l1vpn
 - content: single-end provisioning
-editorialgroup:
-- name: l1vpn
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: l1vpn
   stream: IETF

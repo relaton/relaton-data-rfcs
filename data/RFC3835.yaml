@@ -209,8 +209,8 @@ keyword:
 - content: data stream service
 - content: data consumer
 - content: data dispatcher architecture
-editorialgroup:
-- name: opes
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: opes
   stream: IETF

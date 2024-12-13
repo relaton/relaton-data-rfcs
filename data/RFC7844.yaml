@@ -157,8 +157,8 @@ keyword:
 - content: MAC Address Randomization
 - content: Privacy
 - content: Surveillance
-editorialgroup:
-- name: dhc
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: dhc
   stream: IETF

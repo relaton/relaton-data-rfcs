@@ -90,8 +90,8 @@ keyword:
 - content: Enterprise
 - content: Connecting
 - content: Routers
-editorialgroup:
-- name: pier
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: pier
   stream: IETF

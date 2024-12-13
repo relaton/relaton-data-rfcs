@@ -94,8 +94,8 @@ keyword:
 - content: NETMOD
 - content: NETCONF
 - content: RESTCONF
-editorialgroup:
-- name: netmod
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: netmod
   stream: IETF

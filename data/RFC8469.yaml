@@ -169,8 +169,8 @@ keyword:
 - content: MAC address
 - content: out of order
 - content: ordering
-editorialgroup:
-- name: pals
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: pals
   stream: IETF

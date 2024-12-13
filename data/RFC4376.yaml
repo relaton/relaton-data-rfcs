@@ -180,8 +180,8 @@ series:
 keyword:
 - content: shared resources
 - content: multiparty conferences
-editorialgroup:
-- name: xcon
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: xcon
   stream: IETF

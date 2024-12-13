@@ -158,8 +158,8 @@ keyword:
 - content: physical sensors
 - content: SNMP
 - content: Simple Network Management Protocol
-editorialgroup:
-- name: entmib
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: entmib
   stream: IETF

@@ -188,8 +188,8 @@ keyword:
 - content: Access Control
 - content: Group Management
 - content: Rendezvous
-editorialgroup:
-- name: p2psip
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: p2psip
   stream: IETF

@@ -98,8 +98,8 @@ keyword:
 - content: DKIM
 - content: ed25519
 - content: cryptography
-editorialgroup:
-- name: dcrup
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: dcrup
   stream: IETF

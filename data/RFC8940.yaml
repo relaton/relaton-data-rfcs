@@ -111,8 +111,8 @@ keyword:
 - content: Session-ID
 - content: fast reconnect
 - content: TLS
-editorialgroup:
-- name: emu
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: emu
   stream: IETF

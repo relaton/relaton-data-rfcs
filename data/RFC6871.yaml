@@ -161,8 +161,8 @@ keyword:
 - content: Session Capabilities
 - content: Latent Configurations
 - content: Media Format Capability
-editorialgroup:
-- name: mmusic
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mmusic
   stream: IETF

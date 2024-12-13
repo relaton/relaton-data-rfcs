@@ -210,8 +210,8 @@ keyword:
 - content: Mobile IPv6
 - content: " Handover optimization"
 - content: Cross-layer design
-editorialgroup:
-- name: mipshop
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mipshop
   stream: IETF

@@ -135,8 +135,8 @@ keyword:
 - content: networks
 - content: service-network interaction
 - content: network programming
-editorialgroup:
-- name: alto
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: alto
   stream: IETF

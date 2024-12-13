@@ -217,8 +217,8 @@ keyword:
 - content: BGP
 - content: Route leak
 - content: BGP Role
-editorialgroup:
-- name: idr
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: idr
   stream: IETF

@@ -116,8 +116,8 @@ keyword:
 - content: TRT
 - content: internet
 - content: protocol
-editorialgroup:
-- name: ngtrans
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ngtrans
   stream: IETF

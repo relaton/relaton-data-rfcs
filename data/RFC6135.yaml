@@ -122,8 +122,8 @@ keyword:
 - content: comedia-tls
 - content: relay
 - content: SBC
-editorialgroup:
-- name: simple
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: simple
   stream: IETF

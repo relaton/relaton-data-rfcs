@@ -98,8 +98,8 @@ keyword:
 - content: encoding
 - content: facsimile
 - content: e-mail
-editorialgroup:
-- name: fax
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: fax
   stream: IETF

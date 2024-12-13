@@ -92,8 +92,8 @@ keyword:
 - content: captions
 - content: timecode
 - content: ANC
-editorialgroup:
-- name: payload
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: payload
   stream: IETF

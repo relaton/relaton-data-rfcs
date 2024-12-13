@@ -87,8 +87,8 @@ series:
 keyword:
 - content: Protocol
 - content: Headers
-editorialgroup:
-- name: thinosi
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: thinosi
   stream: IETF

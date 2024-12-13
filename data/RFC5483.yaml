@@ -123,8 +123,8 @@ keyword:
 - content: E.164
 - content: NAPTR
 - content: dynamic delegation discovery system
-editorialgroup:
-- name: enum
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: enum
   stream: IETF

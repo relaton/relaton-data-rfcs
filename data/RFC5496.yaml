@@ -147,8 +147,8 @@ series:
 keyword:
 - content: pim
 - content: protocol independent multicast join attribute
-editorialgroup:
-- name: pim
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: pim
   stream: IETF

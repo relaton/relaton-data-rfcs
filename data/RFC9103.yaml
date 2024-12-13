@@ -244,8 +244,8 @@ keyword:
 - content: DNS
 - content: operations
 - content: privacy
-editorialgroup:
-- name: dprive
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: dprive
   stream: IETF

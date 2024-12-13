@@ -212,8 +212,8 @@ keyword:
 - content: fibre channel fabric
 - content: tcp
 - content: transport control protocol
-editorialgroup:
-- name: ips
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ips
   stream: IETF

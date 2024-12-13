@@ -208,8 +208,8 @@ series:
 keyword:
 - content: scsi
 - content: slp
-editorialgroup:
-- name: ips
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ips
   stream: IETF

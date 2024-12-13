@@ -131,8 +131,8 @@ keyword:
 - content: multicast
 - content: backbone
 - content: multimedia
-editorialgroup:
-- name: mmusic
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mmusic
   stream: IETF

@@ -99,8 +99,8 @@ series:
 keyword:
 - content: IANA
 - content: Protocol Independent Multicast
-editorialgroup:
-- name: pim
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: pim
   stream: IETF

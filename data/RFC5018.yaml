@@ -88,8 +88,8 @@ keyword:
 - content: floor control server
 - content: tls
 - content: transport layer security
-editorialgroup:
-- name: xcon
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: xcon
   stream: IETF

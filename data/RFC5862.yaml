@@ -127,8 +127,8 @@ series:
 keyword:
 - content: mpls
 - content: gmpls
-editorialgroup:
-- name: pce
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: pce
   stream: IETF

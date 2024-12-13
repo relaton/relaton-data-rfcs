@@ -145,8 +145,8 @@ series:
     format: text/plain
 keyword:
 - content: Locator/ID Separation Protocol
-editorialgroup:
-- name: lisp
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: lisp
   stream: IETF

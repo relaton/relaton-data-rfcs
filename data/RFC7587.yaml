@@ -147,8 +147,8 @@ series:
     format: text/plain
 keyword:
 - content: audio codec
-editorialgroup:
-- name: payload
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: payload
   stream: IETF

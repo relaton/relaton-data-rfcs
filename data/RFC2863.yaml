@@ -120,8 +120,8 @@ keyword:
 - content: INTERGRMIB
 - content: Interfaces Group Management Information Base
 - content: Network
-editorialgroup:
-- name: ifmib
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ifmib
   stream: IETF

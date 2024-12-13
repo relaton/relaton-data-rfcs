@@ -208,8 +208,8 @@ series:
 keyword:
 - content: SMTP STARTTLS
 - content: Mail Security
-editorialgroup:
-- name: uta
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: uta
   stream: IETF

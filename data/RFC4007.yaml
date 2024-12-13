@@ -208,8 +208,8 @@ keyword:
 - content: architectural characteristics
 - content: expected behavior
 - content: textual representation
-editorialgroup:
-- name: ipv6
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ipv6
   stream: IETF

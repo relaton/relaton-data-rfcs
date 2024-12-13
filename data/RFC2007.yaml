@@ -152,8 +152,8 @@ keyword:
 - content: TRAINMAT
 - content: IETF
 - content: TERENA
-editorialgroup:
-- name: trainmat
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: trainmat
   stream: IETF

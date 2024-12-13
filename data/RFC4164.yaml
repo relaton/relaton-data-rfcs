@@ -91,8 +91,8 @@ series:
 keyword:
 - content: context initialization
 - content: short-lived
-editorialgroup:
-- name: rohc
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: rohc
   stream: IETF

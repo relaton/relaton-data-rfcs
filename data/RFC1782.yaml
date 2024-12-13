@@ -140,8 +140,8 @@ keyword:
 - content: file
 - content: transfer
 - content: booting
-editorialgroup:
-- name: tftpexts
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: tftpexts
   stream: IETF

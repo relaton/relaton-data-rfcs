@@ -133,8 +133,8 @@ keyword:
 - content: authority
 - content: values
 - content: implementations
-editorialgroup:
-- name: IESG
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: IESG
   stream: IETF

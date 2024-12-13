@@ -198,8 +198,8 @@ keyword:
 - content: authentication
 - content: encryption
 - content: TLS
-editorialgroup:
-- name: pce
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: pce
   stream: IETF

@@ -141,8 +141,8 @@ keyword:
 - content: name
 - content: system
 - content: DNS
-editorialgroup:
-- name: dnsind
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: dnsind
   stream: IETF

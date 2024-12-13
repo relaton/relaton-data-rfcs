@@ -190,8 +190,8 @@ keyword:
 - content: Delay
 - content: Operations
 - content: Administration
-editorialgroup:
-- name: trill
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: trill
   stream: IETF

@@ -110,8 +110,8 @@ keyword:
 - content: ASN.1
 - content: string
 - content: format
-editorialgroup:
-- name: asid
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: asid
   stream: IETF

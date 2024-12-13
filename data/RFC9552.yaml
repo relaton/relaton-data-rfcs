@@ -101,8 +101,8 @@ keyword:
 - content: probing
 - content: out-of-band
 - content: in-band
-editorialgroup:
-- name: idr
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: idr
   stream: IETF

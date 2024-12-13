@@ -89,8 +89,8 @@ keyword:
 - content: SLP
 - content: Service Location Protocol
 - content: dynamic discovery
-editorialgroup:
-- name: ips
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ips
   stream: IETF

@@ -159,8 +159,8 @@ keyword:
 - content: setup.ice-d-m
 - content: rtsp-ice-d-m
 - content: SDP
-editorialgroup:
-- name: mmusic
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mmusic
   stream: IETF

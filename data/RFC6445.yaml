@@ -152,8 +152,8 @@ keyword:
 - content: MPLS-FRR-GENERAL-STD-MIB
 - content: MPLS-FRR-ONE2ONE-STD-MIB
 - content: MPLS-FRR-FACILITY-STD-MIB
-editorialgroup:
-- name: mpls
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mpls
   stream: IETF

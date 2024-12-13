@@ -95,8 +95,8 @@ series:
 keyword:
 - content: p2mp
 - content: multiprotocol label switching
-editorialgroup:
-- name: mpls
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mpls
   stream: IETF

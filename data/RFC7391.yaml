@@ -111,8 +111,8 @@ keyword:
 - content: ForCES
 - content: Protocol
 - content: Extension
-editorialgroup:
-- name: forces
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: forces
   stream: IETF

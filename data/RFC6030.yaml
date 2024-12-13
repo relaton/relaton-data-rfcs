@@ -162,8 +162,8 @@ keyword:
 - content: provisioning
 - content: PIN Policy
 - content: key usage policy
-editorialgroup:
-- name: keyprov
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: keyprov
   stream: IETF

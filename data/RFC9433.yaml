@@ -215,8 +215,8 @@ keyword:
 - content: CMUP
 - content: srv6 3gpp
 - content: GTP
-editorialgroup:
-- name: dmm
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: dmm
   stream: IETF

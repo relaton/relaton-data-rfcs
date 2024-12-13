@@ -152,8 +152,8 @@ keyword:
 - content: Local Routing
 - content: Route Optimization
 - content: Traffic Offload
-editorialgroup:
-- name: netext
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: netext
   stream: IETF

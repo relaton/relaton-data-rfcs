@@ -143,8 +143,8 @@ keyword:
 - content: VANISHED
 - content: EXPUNGE
 - content: quick resynchronization
-editorialgroup:
-- name: qresync
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: qresync
   stream: IETF

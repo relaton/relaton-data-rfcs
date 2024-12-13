@@ -151,8 +151,8 @@ keyword:
 - content: calendaring
 - content: attachment
 - content: ATTACH
-editorialgroup:
-- name: calext
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: calext
   stream: IETF

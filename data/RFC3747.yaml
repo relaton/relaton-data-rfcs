@@ -122,8 +122,8 @@ keyword:
 - content: management information base
 - content: diffserv
 - content: differentiated services
-editorialgroup:
-- name: snmpconf
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: snmpconf
   stream: IETF

@@ -119,8 +119,8 @@ keyword:
 - content: addresses
 - content: statelessly
 - content: autoconfigured
-editorialgroup:
-- name: ipngwg
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ipngwg
   stream: IETF

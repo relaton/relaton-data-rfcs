@@ -190,8 +190,8 @@ keyword:
 - content: H460.27
 - content: remote parameter
 - content: UUID
-editorialgroup:
-- name: insipid
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: insipid
   stream: IETF

@@ -105,8 +105,8 @@ series:
 keyword:
 - content: calendar
 - content: scheduling
-editorialgroup:
-- name: calsify
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: calsify
   stream: IETF

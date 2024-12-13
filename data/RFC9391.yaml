@@ -127,8 +127,8 @@ keyword:
 - content: cellular network
 - content: LTE
 - content: LTE-M
-editorialgroup:
-- name: lpwan
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: lpwan
   stream: IETF

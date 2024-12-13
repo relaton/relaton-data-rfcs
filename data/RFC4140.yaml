@@ -194,8 +194,8 @@ keyword:
 - content: neighbor discovery
 - content: mobility anchor point
 - content: map
-editorialgroup:
-- name: mipshop
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mipshop
   stream: IETF

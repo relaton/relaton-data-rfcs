@@ -196,8 +196,8 @@ keyword:
 - content: Address registration
 - content: Network Overlay
 - content: host to router interface
-editorialgroup:
-- name: 6lo
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: 6lo
   stream: IETF

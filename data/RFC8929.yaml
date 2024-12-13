@@ -177,8 +177,8 @@ keyword:
 - content: Bridging Proxy
 - content: proxy ND
 - content: proxy-ND
-editorialgroup:
-- name: 6lo
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: 6lo
   stream: IETF

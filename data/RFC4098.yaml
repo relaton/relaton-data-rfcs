@@ -211,8 +211,8 @@ keyword:
 - content: border gateway protocol
 - content: benchmarking methodology
 - content: ebgp
-editorialgroup:
-- name: bmwg
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: bmwg
   stream: IETF

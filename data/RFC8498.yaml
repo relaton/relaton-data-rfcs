@@ -112,8 +112,8 @@ keyword:
 - content: IMS
 - content: Served-User
 - content: orig-cdiv
-editorialgroup:
-- name: sipcore
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: sipcore
   stream: IETF

@@ -82,8 +82,8 @@ keyword:
 - content: applications
 - content: LLA
 - content: link-layer assisted
-editorialgroup:
-- name: rohc
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: rohc
   stream: IETF

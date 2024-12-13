@@ -219,8 +219,8 @@ keyword:
 - content: Unknown MAC Route
 - content: I-ES
 - content: I-ESI
-editorialgroup:
-- name: bess
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: bess
   stream: IETF

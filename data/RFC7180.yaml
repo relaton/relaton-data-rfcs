@@ -263,8 +263,8 @@ keyword:
 - content: MTU
 - content: DEI
 - content: multicast
-editorialgroup:
-- name: trill
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: trill
   stream: IETF

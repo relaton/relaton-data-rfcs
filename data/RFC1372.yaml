@@ -117,8 +117,8 @@ keyword:
 - content: TOPT-RFC
 - content: terminal
 - content: access
-editorialgroup:
-- name: telnet
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: telnet
   stream: IETF

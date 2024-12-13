@@ -156,8 +156,8 @@ keyword:
 - content: SIP
 - content: RTP
 - content: security
-editorialgroup:
-- name: sipbrandy
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: sipbrandy
   stream: IETF

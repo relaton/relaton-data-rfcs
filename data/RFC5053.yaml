@@ -183,8 +183,8 @@ keyword:
 - content: fec
 - content: fec encoding
 - content: raptor code
-editorialgroup:
-- name: rmt
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: rmt
   stream: IETF

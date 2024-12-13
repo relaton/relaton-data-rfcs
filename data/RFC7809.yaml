@@ -99,8 +99,8 @@ keyword:
 - content: calendaring
 - content: iCalendar
 - content: time zone
-editorialgroup:
-- name: tzdist
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: tzdist
   stream: IETF

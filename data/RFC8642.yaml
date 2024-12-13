@@ -191,8 +191,8 @@ series:
 keyword:
 - content: Operations
 - content: Inter-Provider Communication
-editorialgroup:
-- name: grow
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: grow
   stream: IETF

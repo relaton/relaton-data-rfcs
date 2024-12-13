@@ -241,8 +241,8 @@ series:
   title:
     content: IETF
     format: text/plain
-editorialgroup:
-- name: lsr
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: lsr
   stream: IETF

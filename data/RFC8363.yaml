@@ -216,8 +216,8 @@ keyword:
 - content: central frequency
 - content: frequency slot
 - content: channel spacing
-editorialgroup:
-- name: ccamp
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ccamp
   stream: IETF

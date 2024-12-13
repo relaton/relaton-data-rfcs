@@ -94,8 +94,8 @@ series:
   title:
     content: IETF
     format: text/plain
-editorialgroup:
-- name: rmonmib
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: rmonmib
   stream: IETF

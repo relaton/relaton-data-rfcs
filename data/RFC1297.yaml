@@ -90,8 +90,8 @@ keyword:
 - content: tracking
 - content: operations
 - content: NOC
-editorialgroup:
-- name: ucp
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ucp
   stream: IETF

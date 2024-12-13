@@ -166,8 +166,8 @@ keyword:
 - content: l3sm
 - content: l3vpn
 - content: service model
-editorialgroup:
-- name: l3sm
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: l3sm
   stream: IETF

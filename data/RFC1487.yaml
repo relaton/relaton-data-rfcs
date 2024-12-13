@@ -168,8 +168,8 @@ keyword:
 - content: X.500
 - content: DAP
 - content: interactive access
-editorialgroup:
-- name: osids
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: osids
   stream: IETF

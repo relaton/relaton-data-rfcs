@@ -138,8 +138,8 @@ keyword:
 - content: delayed compression
 - content: flow control
 - content: elevated
-editorialgroup:
-- name: curdle
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: curdle
   stream: IETF

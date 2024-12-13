@@ -191,8 +191,8 @@ keyword:
 - content: mib
 - content: layer
 - content: management information base
-editorialgroup:
-- name: opsawg
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: opsawg
   stream: IETF

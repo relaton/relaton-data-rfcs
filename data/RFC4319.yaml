@@ -153,8 +153,8 @@ keyword:
 - content: management information base
 - content: hdsl2-shdsl-line-mib
 - content: interfaces
-editorialgroup:
-- name: adslmib
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: adslmib
   stream: IETF

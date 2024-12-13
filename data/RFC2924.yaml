@@ -117,8 +117,8 @@ keyword:
 - content: data
 - content: transport
 - content: integrated
-editorialgroup:
-- name: aaa
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: aaa
   stream: IETF

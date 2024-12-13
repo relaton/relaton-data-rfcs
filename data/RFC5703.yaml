@@ -119,8 +119,8 @@ keyword:
 - content: Electronic Mail
 - content: Internet Mail
 - content: Message Filtering
-editorialgroup:
-- name: sieve
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: sieve
   stream: IETF

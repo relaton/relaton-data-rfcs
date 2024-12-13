@@ -97,8 +97,8 @@ keyword:
 - content: range
 - content: space
 - content: internet protocol
-editorialgroup:
-- name: ipv6
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ipv6
   stream: IETF

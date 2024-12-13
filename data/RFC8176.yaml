@@ -148,8 +148,8 @@ series:
 keyword:
 - content: Authentication Method Reference
 - content: Authentication Method,
-editorialgroup:
-- name: oauth
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: oauth
   stream: IETF

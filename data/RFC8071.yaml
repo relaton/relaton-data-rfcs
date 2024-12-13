@@ -85,8 +85,8 @@ series:
     format: text/plain
 keyword:
 - content: call-home
-editorialgroup:
-- name: netconf
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: netconf
   stream: IETF

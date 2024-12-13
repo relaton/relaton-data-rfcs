@@ -191,8 +191,8 @@ keyword:
 - content: SLP
 - content: network
 - content: services
-editorialgroup:
-- name: svrloc
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: svrloc
   stream: IETF

@@ -168,8 +168,8 @@ keyword:
 - content: Simple Network Management Protocol
 - content: SNMP
 - content: SNMP-TRANSPORT-MIB
-editorialgroup:
-- name: isms
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: isms
   stream: IETF

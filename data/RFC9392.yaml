@@ -89,8 +89,8 @@ keyword:
 - content: Congestion Control
 - content: VoIP
 - content: Video Conferencing
-editorialgroup:
-- name: rmcat
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: rmcat
   stream: IETF

@@ -132,8 +132,8 @@ series:
 keyword:
 - content: dtls
 - content: dtls protocol
-editorialgroup:
-- name: tls
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: tls
   stream: IETF

@@ -88,8 +88,8 @@ series:
 keyword:
 - content: Camellia
 - content: Kerberos
-editorialgroup:
-- name: krb-wg
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: krb-wg
   stream: IETF

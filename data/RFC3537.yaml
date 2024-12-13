@@ -124,8 +124,8 @@ keyword:
 - content: Data Encryption Standard
 - content: AES
 - content: Advanced Encryption Standard
-editorialgroup:
-- name: vgmib
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: vgmib
   stream: IETF

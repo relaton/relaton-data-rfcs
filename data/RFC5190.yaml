@@ -151,8 +151,8 @@ keyword:
 - content: mib
 - content: midcom
 - content: MIDCOM-MIB
-editorialgroup:
-- name: midcom
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: midcom
   stream: IETF

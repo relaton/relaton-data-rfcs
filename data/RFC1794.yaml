@@ -90,8 +90,8 @@ keyword:
 - content: Domain
 - content: Name
 - content: System
-editorialgroup:
-- name: dns
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: dns
   stream: IETF

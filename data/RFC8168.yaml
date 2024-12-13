@@ -155,8 +155,8 @@ keyword:
 - content: Prefix Length
 - content: Hint
 - content: Address Allocation
-editorialgroup:
-- name: dhc
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: dhc
   stream: IETF

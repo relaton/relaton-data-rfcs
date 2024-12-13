@@ -152,8 +152,8 @@ keyword:
 - content: DNS
 - content: E.164
 - content: telephone number
-editorialgroup:
-- name: iptel
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: iptel
   stream: IETF

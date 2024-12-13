@@ -208,8 +208,8 @@ keyword:
 - content: YANG
 - content: NTPv4
 - content: NTPv3
-editorialgroup:
-- name: ntp
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ntp
   stream: IETF

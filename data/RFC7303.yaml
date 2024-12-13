@@ -135,8 +135,8 @@ keyword:
 - content: text/xml
 - content: text/xml-external-parsed-entity
 - content: "+xml"
-editorialgroup:
-- name: appsawg
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: appsawg
   stream: IETF

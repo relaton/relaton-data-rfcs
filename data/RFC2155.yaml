@@ -128,8 +128,8 @@ series:
     format: text/plain
 keyword:
 - content: APPN-MIB
-editorialgroup:
-- name: snanau
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: snanau
   stream: IETF

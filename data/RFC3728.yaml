@@ -120,8 +120,8 @@ keyword:
 - content: MIB
 - content: VDSL
 - content: Very High Speed Digital Subscriber Lines
-editorialgroup:
-- name: adslmib
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: adslmib
   stream: IETF

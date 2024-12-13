@@ -92,8 +92,8 @@ series:
     format: text/plain
 keyword:
 - content: NIR
-editorialgroup:
-- name: nir
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: nir
   stream: IETF

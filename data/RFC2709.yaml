@@ -87,8 +87,8 @@ keyword:
 - content: internet protocol
 - content: network address
 - content: translator
-editorialgroup:
-- name: nat
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: nat
   stream: IETF

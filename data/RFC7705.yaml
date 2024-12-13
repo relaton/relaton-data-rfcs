@@ -133,8 +133,8 @@ keyword:
 - content: AS migration
 - content: IDR
 - content: BGP
-editorialgroup:
-- name: idr
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: idr
   stream: IETF

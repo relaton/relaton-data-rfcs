@@ -123,8 +123,8 @@ keyword:
 - content: applicability statement
 - content: as
 - content: business-to-business
-editorialgroup:
-- name: ediint
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ediint
   stream: IETF

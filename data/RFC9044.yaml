@@ -86,8 +86,8 @@ series:
 keyword:
 - content: Authentication
 - content: Message Authentication Code
-editorialgroup:
-- name: lamps
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: lamps
   stream: IETF

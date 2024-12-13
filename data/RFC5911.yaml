@@ -120,8 +120,8 @@ keyword:
 - content: S/MIME
 - content: PKIX
 - content: ASN.1 modules
-editorialgroup:
-- name: smime
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: smime
   stream: IETF

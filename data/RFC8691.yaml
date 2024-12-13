@@ -181,8 +181,8 @@ keyword:
 - content: IPv6 over 802.11p
 - content: OCB
 - content: IPv6 over 802.11-OCB
-editorialgroup:
-- name: ipwave
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ipwave
   stream: IETF

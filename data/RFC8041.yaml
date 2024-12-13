@@ -157,8 +157,8 @@ keyword:
 - content: Datacenter
 - content: Cellular/WiFi Offload
 - content: Hybrid Access Networks
-editorialgroup:
-- name: mptcp
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mptcp
   stream: IETF

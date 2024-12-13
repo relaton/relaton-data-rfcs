@@ -210,8 +210,8 @@ keyword:
 - content: anti-spoofing
 - content: BCP38
 - content: ingress filtering
-editorialgroup:
-- name: savi
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: savi
   stream: IETF

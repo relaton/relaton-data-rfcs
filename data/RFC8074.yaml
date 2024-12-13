@@ -180,8 +180,8 @@ keyword:
 - content: SAVI-DHCP
 - content: FCFS SAVI
 - content: SEND SAVI
-editorialgroup:
-- name: savi
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: savi
   stream: IETF

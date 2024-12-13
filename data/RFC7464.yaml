@@ -91,8 +91,8 @@ keyword:
 - content: online
 - content: streaming
 - content: log file
-editorialgroup:
-- name: json
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: json
   stream: IETF

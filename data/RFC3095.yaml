@@ -529,8 +529,8 @@ keyword:
 - content: real-time transport protocol
 - content: UDP
 - content: user datagram protocol
-editorialgroup:
-- name: rohc
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: rohc
   stream: IETF

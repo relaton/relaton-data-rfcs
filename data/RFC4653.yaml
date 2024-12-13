@@ -197,8 +197,8 @@ keyword:
 - content: ncr
 - content: non-congestion robustness
 - content: transmission control protocol
-editorialgroup:
-- name: tcpm
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: tcpm
   stream: IETF

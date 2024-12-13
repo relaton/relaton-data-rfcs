@@ -98,8 +98,8 @@ keyword:
 - content: ISO
 - content: Management
 - content: MIB
-editorialgroup:
-- name: snmp
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: snmp
   stream: IETF

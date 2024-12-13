@@ -122,8 +122,8 @@ keyword:
 - content: OSPF
 - content: Label advertisement
 - content: Segment Routing
-editorialgroup:
-- name: lsr
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: lsr
   stream: IETF

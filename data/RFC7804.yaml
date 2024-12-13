@@ -93,8 +93,8 @@ keyword:
 - content: GS2
 - content: GSSAPI
 - content: GSS-API
-editorialgroup:
-- name: httpauth
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: httpauth
   stream: IETF

@@ -120,8 +120,8 @@ keyword:
 - content: RRTYPE
 - content: RCODE
 - content: AFSDB
-editorialgroup:
-- name: dnsext
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: dnsext
   stream: IETF

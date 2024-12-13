@@ -220,8 +220,8 @@ keyword:
 - content: RBridge
 - content: IS-IS
 - content: ISIS
-editorialgroup:
-- name: isis
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: isis
   stream: IETF

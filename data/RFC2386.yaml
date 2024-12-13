@@ -178,8 +178,8 @@ keyword:
 - content: quality of service
 - content: interdomain
 - content: intradomain
-editorialgroup:
-- name: qosr
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: qosr
   stream: IETF

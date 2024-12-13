@@ -147,8 +147,8 @@ keyword:
 - content: Real-Time Transport Protocol
 - content: MIB
 - content: Management Information Base
-editorialgroup:
-- name: avt
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: avt
   stream: IETF

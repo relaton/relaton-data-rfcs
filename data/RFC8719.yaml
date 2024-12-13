@@ -89,8 +89,8 @@ series:
 keyword:
 - content: geographic distribution location
 - content: IASA
-editorialgroup:
-- name: mtgvenue
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mtgvenue
   stream: IETF

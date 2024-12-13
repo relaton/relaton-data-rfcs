@@ -179,8 +179,8 @@ series:
     format: text/plain
 keyword:
 - content: DRIP
-editorialgroup:
-- name: drip
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: drip
   stream: IETF

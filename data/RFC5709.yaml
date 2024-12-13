@@ -281,8 +281,8 @@ keyword:
 - content: nist
 - content: secure  hash standard
 - content: hashed message authentication code
-editorialgroup:
-- name: ospf
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ospf
   stream: IETF

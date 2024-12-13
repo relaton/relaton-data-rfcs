@@ -146,8 +146,8 @@ series:
   title:
     content: IETF
     format: text/plain
-editorialgroup:
-- name: ice
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ice
   stream: IETF

@@ -184,8 +184,8 @@ keyword:
 - content: service
 - content: server
 - content: retrieval
-editorialgroup:
-- name: wnils
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: wnils
   stream: IETF

@@ -162,8 +162,8 @@ keyword:
 - content: Uniform Resource Identifier
 - content: IPv6reference
 - content: IPv6address
-editorialgroup:
-- name: sip
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: sip
   stream: IETF

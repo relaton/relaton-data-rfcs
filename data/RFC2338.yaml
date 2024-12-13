@@ -344,8 +344,8 @@ keyword:
 - content: ip
 - content: internet
 - content: protocol
-editorialgroup:
-- name: vrrp
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: vrrp
   stream: IETF

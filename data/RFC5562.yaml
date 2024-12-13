@@ -195,8 +195,8 @@ series:
     format: text/plain
 keyword:
 - content: ecn-capable
-editorialgroup:
-- name: tcpm
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: tcpm
   stream: IETF

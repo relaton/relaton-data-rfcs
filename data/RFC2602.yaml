@@ -90,8 +90,8 @@ keyword:
 - content: asynchronous transfer mode
 - content: MARS
 - content: Multicast Address Resolution Server
-editorialgroup:
-- name: ion
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ion
   stream: IETF

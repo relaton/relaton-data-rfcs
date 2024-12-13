@@ -184,8 +184,8 @@ keyword:
 - content: Audio
 - content: System
 - content: Streams
-editorialgroup:
-- name: avt
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: avt
   stream: IETF

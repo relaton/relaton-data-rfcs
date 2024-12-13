@@ -117,8 +117,8 @@ keyword:
 - content: WUI
 - content: client
 - content: MMS
-editorialgroup:
-- name: lemonade
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: lemonade
   stream: IETF

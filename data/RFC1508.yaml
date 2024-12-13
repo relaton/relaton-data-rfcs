@@ -97,8 +97,8 @@ series:
     format: text/plain
 keyword:
 - content: CAT,GSS,API
-editorialgroup:
-- name: cat
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: cat
   stream: IETF

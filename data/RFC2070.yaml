@@ -192,8 +192,8 @@ keyword:
 - content: World
 - content: Wide
 - content: Web
-editorialgroup:
-- name: html
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: html
   stream: IETF

@@ -117,8 +117,8 @@ keyword:
 - content: domain name system
 - content: dnssec
 - content: domain name system security
-editorialgroup:
-- name: secsh
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: secsh
   stream: IETF

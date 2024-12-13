@@ -165,8 +165,8 @@ keyword:
 - content: Worst Case Latency
 - content: PDV
 - content: IPDV
-editorialgroup:
-- name: bmwg
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: bmwg
   stream: IETF

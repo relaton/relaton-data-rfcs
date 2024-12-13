@@ -154,8 +154,8 @@ keyword:
 - content: help
 - content: information
 - content: FAQ
-editorialgroup:
-- name: uswg
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: uswg
   stream: IETF

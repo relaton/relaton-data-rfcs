@@ -209,8 +209,8 @@ keyword:
 - content: l2tpv3
 - content: multiprotocol label switching label stack
 - content: label stack
-editorialgroup:
-- name: mpls
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mpls
   stream: IETF

@@ -180,8 +180,8 @@ keyword:
 - content: Tunnel
 - content: Softwire
 - content: Transition
-editorialgroup:
-- name: softwire
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: softwire
   stream: IETF

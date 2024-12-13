@@ -103,8 +103,8 @@ keyword:
 - content: Internet
 - content: Mail
 - content: Extensions
-editorialgroup:
-- name: notary
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: notary
   stream: IETF

@@ -148,8 +148,8 @@ keyword:
 - content: NETCONF
 - content: REST
 - content: HTTP
-editorialgroup:
-- name: netconf
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: netconf
   stream: IETF

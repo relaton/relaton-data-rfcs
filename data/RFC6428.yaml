@@ -161,8 +161,8 @@ keyword:
 - content: and Maintenance
 - content: bfd
 - content: bidirectional forwarding dectection
-editorialgroup:
-- name: mpls
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mpls
   stream: IETF

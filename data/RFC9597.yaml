@@ -127,8 +127,8 @@ series:
 keyword:
 - content: COSE
 - content: JOSE
-editorialgroup:
-- name: cose
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: cose
   stream: IETF

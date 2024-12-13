@@ -137,8 +137,8 @@ keyword:
 - content: Crypto Algorithms
 - content: ECDSA
 - content: Cryptography
-editorialgroup:
-- name: sidrops
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: sidrops
   stream: IETF

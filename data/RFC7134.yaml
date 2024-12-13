@@ -99,8 +99,8 @@ series:
 keyword:
 - content: Resource-Priority Namespaces
 - content: Resource-Priority Priority-values
-editorialgroup:
-- name: sipcore
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: sipcore
   stream: IETF

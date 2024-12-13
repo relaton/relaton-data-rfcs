@@ -134,8 +134,8 @@ keyword:
 - content: SHAKE in X.509
 - content: SHAKEs in PKIX
 - content: certificates with SHAKE hashes
-editorialgroup:
-- name: lamps
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: lamps
   stream: IETF

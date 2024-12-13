@@ -224,8 +224,8 @@ keyword:
 - content: Service Function Instance Route
 - content: Service Function Type
 - content: Control Plane
-editorialgroup:
-- name: bess
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: bess
   stream: IETF

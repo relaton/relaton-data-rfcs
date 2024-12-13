@@ -117,8 +117,8 @@ series:
     format: text/plain
 keyword:
 - content: NEA EAP
-editorialgroup:
-- name: nea
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: nea
   stream: IETF

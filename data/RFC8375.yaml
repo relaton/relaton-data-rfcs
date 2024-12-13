@@ -131,8 +131,8 @@ keyword:
 - content: TLD
 - content: RFC6761
 - content: ".home.arpa"
-editorialgroup:
-- name: homenet
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: homenet
   stream: IETF

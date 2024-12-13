@@ -159,8 +159,8 @@ keyword:
 - content: incentives
 - content: architecture layering
 - content: protocol
-editorialgroup:
-- name: tsvwg
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: tsvwg
   stream: IETF

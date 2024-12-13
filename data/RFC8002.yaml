@@ -133,8 +133,8 @@ series:
     format: text/plain
 keyword:
 - content: Hip Certificate Extension
-editorialgroup:
-- name: hip
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: hip
   stream: IETF

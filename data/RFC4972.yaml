@@ -248,8 +248,8 @@ keyword:
 - content: igp
 - content: is-is
 - content: ospf
-editorialgroup:
-- name: ccamp
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ccamp
   stream: IETF

@@ -122,8 +122,8 @@ keyword:
 - content: Congestion
 - content: L4S
 - content: RBridge
-editorialgroup:
-- name: trill
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: trill
   stream: IETF

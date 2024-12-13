@@ -152,8 +152,8 @@ keyword:
 - content: Roaming
 - content: Mobile
 - content: API
-editorialgroup:
-- name: capport
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: capport
   stream: IETF

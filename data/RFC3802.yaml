@@ -119,8 +119,8 @@ keyword:
 - content: multipurpose internet mail extensions
 - content: Adaptive Differential Pulse Code Modulation
 - content: audio
-editorialgroup:
-- name: vpim
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: vpim
   stream: IETF

@@ -150,8 +150,8 @@ keyword:
 - content: smartgrid
 - content: secure smartgrid
 - content: connected energy
-editorialgroup:
-- name: roll
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: roll
   stream: IETF

@@ -182,8 +182,8 @@ keyword:
 - content: policy decision
 - content: point
 - content: bdp
-editorialgroup:
-- name: rap
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: rap
   stream: IETF

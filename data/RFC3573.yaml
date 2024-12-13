@@ -98,8 +98,8 @@ keyword:
 - content: pstn
 - content: public switched telephone network. L2TP
 - content: Layer 2 Tunneling Protocol
-editorialgroup:
-- name: l2tpext
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: l2tpext
   stream: IETF

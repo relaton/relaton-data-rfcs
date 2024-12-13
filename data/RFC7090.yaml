@@ -193,8 +193,8 @@ keyword:
 - content: SIP
 - content: emergency
 - content: VoIP
-editorialgroup:
-- name: ecrit
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ecrit
   stream: IETF

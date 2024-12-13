@@ -124,8 +124,8 @@ keyword:
 - content: sparse-mode
 - content: rp
 - content: rendezvous point
-editorialgroup:
-- name: msdp
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: msdp
   stream: IETF

@@ -122,8 +122,8 @@ keyword:
 - content: SDP
 - content: Session Description Protocol
 - content: internet
-editorialgroup:
-- name: trans
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: trans
   stream: IETF

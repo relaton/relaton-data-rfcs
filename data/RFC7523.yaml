@@ -150,8 +150,8 @@ keyword:
 - content: Assertion
 - content: Token
 - content: Security Token
-editorialgroup:
-- name: oauth
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: oauth
   stream: IETF

@@ -130,8 +130,8 @@ keyword:
 - content: Reference
 - content: Enumeration
 - content: Format
-editorialgroup:
-- name: mile
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mile
   stream: IETF

@@ -88,8 +88,8 @@ keyword:
 - content: RARE
 - content: Technical
 - content: Report
-editorialgroup:
-- name: imm
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: imm
   stream: IETF

@@ -89,8 +89,8 @@ keyword:
 - content: RAS
 - content: remote access
 - content: server
-editorialgroup:
-- name: pppext
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: pppext
   stream: IETF

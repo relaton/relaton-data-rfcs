@@ -190,8 +190,8 @@ keyword:
 - content: Recursive DNS Server Address
 - content: DNS Search List
 - content: Stateless Autoconfiguration
-editorialgroup:
-- name: 6man
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: 6man
   stream: IETF

@@ -89,8 +89,8 @@ series:
 keyword:
 - content: enum
 - content: e.164
-editorialgroup:
-- name: enum
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: enum
   stream: IETF

@@ -103,8 +103,8 @@ keyword:
 - content: international telecommunication union
 - content: g.729.1
 - content: audio codec
-editorialgroup:
-- name: avt
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: avt
   stream: IETF

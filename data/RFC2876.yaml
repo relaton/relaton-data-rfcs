@@ -89,8 +89,8 @@ keyword:
 - content: cryptographic
 - content: message
 - content: syntax
-editorialgroup:
-- name: smime
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: smime
   stream: IETF

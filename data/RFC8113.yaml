@@ -144,8 +144,8 @@ keyword:
 - content: LISP Experimental Registry
 - content: LISP Extension
 - content: Extending LISP
-editorialgroup:
-- name: lisp
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: lisp
   stream: IETF

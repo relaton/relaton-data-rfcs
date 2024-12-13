@@ -147,8 +147,8 @@ keyword:
 - content: registry
 - content: domain name
 - content: domain name registration data
-editorialgroup:
-- name: regext
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: regext
   stream: IETF

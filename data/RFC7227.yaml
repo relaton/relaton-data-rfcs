@@ -224,8 +224,8 @@ keyword:
 - content: option guidelines
 - content: option guidance
 - content: option format
-editorialgroup:
-- name: dhc
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: dhc
   stream: IETF

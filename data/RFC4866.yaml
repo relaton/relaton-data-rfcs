@@ -149,8 +149,8 @@ keyword:
 - content: cga
 - content: credit-based authorization
 - content: cba
-editorialgroup:
-- name: mipshop
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mipshop
   stream: IETF

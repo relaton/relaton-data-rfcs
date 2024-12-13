@@ -118,8 +118,8 @@ keyword:
 - content: protocol
 - content: TRIP
 - content: gateway
-editorialgroup:
-- name: iptel
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: iptel
   stream: IETF

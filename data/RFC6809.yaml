@@ -157,8 +157,8 @@ keyword:
 - content: feature-capability indicator
 - content: Feature-Caps
 - content: capability
-editorialgroup:
-- name: sipcore
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: sipcore
   stream: IETF

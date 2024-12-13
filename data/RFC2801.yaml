@@ -88,8 +88,8 @@ keyword:
 - content: payment
 - content: system
 - content: merchant
-editorialgroup:
-- name: trade
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: trade
   stream: IETF

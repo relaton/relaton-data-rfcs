@@ -130,8 +130,8 @@ series:
 keyword:
 - content: NTP
 - content: extension field
-editorialgroup:
-- name: ntp
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ntp
   stream: IETF

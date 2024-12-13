@@ -122,8 +122,8 @@ keyword:
 - content: IKE
 - content: Internet Key Exchange
 - content: bit groups
-editorialgroup:
-- name: ipsec
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ipsec
   stream: IETF

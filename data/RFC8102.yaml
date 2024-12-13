@@ -215,8 +215,8 @@ keyword:
 - content: Remote-LFA
 - content: IGP
 - content: Node Protection
-editorialgroup:
-- name: rtgwg
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: rtgwg
   stream: IETF

@@ -124,8 +124,8 @@ keyword:
 - content: " Advanced Peer-to-Peer Network"
 - content: HPR
 - content: high performance routing
-editorialgroup:
-- name: snanau
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: snanau
   stream: IETF

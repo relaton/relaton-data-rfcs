@@ -123,8 +123,8 @@ keyword:
 - content: Digest
 - content: MD5
 - content: Security
-editorialgroup:
-- name: ipsec
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ipsec
   stream: IETF

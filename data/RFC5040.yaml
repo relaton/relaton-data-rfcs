@@ -209,8 +209,8 @@ keyword:
 - content: rdmap
 - content: ddp
 - content: direct data placement protocol
-editorialgroup:
-- name: rddp
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: rddp
   stream: IETF

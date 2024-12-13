@@ -258,8 +258,8 @@ keyword:
 - content: network operation
 - content: make-before-break
 - content: planned
-editorialgroup:
-- name: grow
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: grow
   stream: IETF

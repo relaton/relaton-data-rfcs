@@ -241,8 +241,8 @@ series:
 keyword:
 - content: congestion exposure
 - content: mobile communications
-editorialgroup:
-- name: conex
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: conex
   stream: IETF

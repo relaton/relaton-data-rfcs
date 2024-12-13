@@ -120,8 +120,8 @@ keyword:
 - content: management information base
 - content: APPN
 - content: advanced peer-to-peer networking
-editorialgroup:
-- name: snanau
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: snanau
   stream: IETF

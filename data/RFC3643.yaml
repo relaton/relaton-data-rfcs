@@ -240,8 +240,8 @@ keyword:
 - content: ips
 - content: ip storage
 - content: frame header
-editorialgroup:
-- name: ips
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ips
   stream: IETF

@@ -215,8 +215,8 @@ keyword:
 - content: SIP
 - content: Server-less
 - content: DHT
-editorialgroup:
-- name: p2psip
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: p2psip
   stream: IETF

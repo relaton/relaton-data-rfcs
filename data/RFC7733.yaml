@@ -184,8 +184,8 @@ keyword:
 - content: building control
 - content: home automation
 - content: IP networks
-editorialgroup:
-- name: roll
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: roll
   stream: IETF

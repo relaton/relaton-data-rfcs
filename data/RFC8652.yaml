@@ -213,8 +213,8 @@ keyword:
 - content: ietf-igmp-mld
 - content: network management
 - content: routing
-editorialgroup:
-- name: pim
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: pim
   stream: IETF

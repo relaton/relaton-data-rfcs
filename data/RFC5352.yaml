@@ -193,8 +193,8 @@ keyword:
 - content: rserpool
 - content: enrp
 - content: endpoint handlespace redundancy protocol
-editorialgroup:
-- name: rserpool
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: rserpool
   stream: IETF

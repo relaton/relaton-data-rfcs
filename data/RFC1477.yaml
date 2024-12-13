@@ -87,8 +87,8 @@ series:
 keyword:
 - content: Routing
 - content: Policy
-editorialgroup:
-- name: idpr
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: idpr
   stream: IETF

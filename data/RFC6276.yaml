@@ -212,8 +212,8 @@ keyword:
 - content: mobile router
 - content: home agent
 - content: mobile network prefix
-editorialgroup:
-- name: mext
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mext
   stream: IETF

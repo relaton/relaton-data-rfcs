@@ -150,8 +150,8 @@ series:
     format: text/plain
 keyword:
 - content: l3vpn
-editorialgroup:
-- name: tsvwg
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: tsvwg
   stream: IETF

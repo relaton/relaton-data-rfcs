@@ -99,8 +99,8 @@ keyword:
 - content: Open
 - content: Network
 - content: Computing
-editorialgroup:
-- name: oncrpc
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: oncrpc
   stream: IETF

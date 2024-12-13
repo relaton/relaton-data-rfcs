@@ -184,8 +184,8 @@ keyword:
 - content: white
 - content: pages
 - content: service
-editorialgroup:
-- name: ids
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ids
   stream: IETF

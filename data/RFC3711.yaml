@@ -210,8 +210,8 @@ keyword:
 - content: authentication
 - content: traffic
 - content: cryptographic
-editorialgroup:
-- name: avt
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: avt
   stream: IETF

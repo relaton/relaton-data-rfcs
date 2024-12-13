@@ -245,8 +245,8 @@ keyword:
 - content: 6lowpan
 - content: IPv6
 - content: Low power
-editorialgroup:
-- name: 6lo
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: 6lo
   stream: IETF

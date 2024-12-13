@@ -193,8 +193,8 @@ keyword:
 - content: address-sharing
 - content: CGN
 - content: NAT64
-editorialgroup:
-- name: softwire
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: softwire
   stream: IETF

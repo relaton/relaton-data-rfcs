@@ -104,8 +104,8 @@ series:
 keyword:
 - content: generalized multiprotocol label switching
 - content: gmpls-rsvp
-editorialgroup:
-- name: ccamp
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ccamp
   stream: IETF

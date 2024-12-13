@@ -153,8 +153,8 @@ keyword:
 - content: schedule management
 - content: distributed scheduling
 - content: time synchronized channel hopping scheduling
-editorialgroup:
-- name: 6tisch
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: 6tisch
   stream: IETF

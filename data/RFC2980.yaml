@@ -90,8 +90,8 @@ keyword:
 - content: news
 - content: transfer
 - content: protocol
-editorialgroup:
-- name: nntpext
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: nntpext
   stream: IETF

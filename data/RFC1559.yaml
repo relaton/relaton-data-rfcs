@@ -87,8 +87,8 @@ keyword:
 - content: DECNET-MIB
 - content: Management
 - content: SNMP
-editorialgroup:
-- name: decnetiv
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: decnetiv
   stream: IETF

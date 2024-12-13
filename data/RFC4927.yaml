@@ -105,8 +105,8 @@ keyword:
 - content: traffic engineered label switched path
 - content: pce
 - content: path computation element
-editorialgroup:
-- name: pce
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: pce
   stream: IETF

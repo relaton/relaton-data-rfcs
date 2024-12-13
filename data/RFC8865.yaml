@@ -134,8 +134,8 @@ keyword:
 - content: Data Channel
 - content: WebRTC
 - content: real-time text
-editorialgroup:
-- name: mmusic
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mmusic
   stream: IETF

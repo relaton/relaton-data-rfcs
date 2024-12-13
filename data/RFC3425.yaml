@@ -101,8 +101,8 @@ series:
 keyword:
 - content: dns lookups
 - content: domain name system
-editorialgroup:
-- name: dnsext
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: dnsext
   stream: IETF

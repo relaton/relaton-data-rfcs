@@ -94,8 +94,8 @@ keyword:
 - content: virtualize
 - content: postpone
 - content: move
-editorialgroup:
-- name: shmoo
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: shmoo
   stream: IETF

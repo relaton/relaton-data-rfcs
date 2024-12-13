@@ -139,8 +139,8 @@ keyword:
 - content: multipurpose internet mail extensions
 - content: edi
 - content: Electronic Data Interchange-Internet Integration
-editorialgroup:
-- name: ediint
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ediint
   stream: IETF

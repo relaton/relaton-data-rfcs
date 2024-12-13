@@ -162,8 +162,8 @@ series:
 keyword:
 - content: security
 - content: transport protocols
-editorialgroup:
-- name: ntp
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ntp
   stream: IETF

@@ -126,8 +126,8 @@ keyword:
 - content: Information
 - content: Base
 - content: SMDS
-editorialgroup:
-- name: ifmib
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ifmib
   stream: IETF

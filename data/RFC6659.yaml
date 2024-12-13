@@ -99,8 +99,8 @@ keyword:
 - content: IPTV
 - content: FEC
 - content: retransmission
-editorialgroup:
-- name: avtext
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: avtext
   stream: IETF

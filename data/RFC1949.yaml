@@ -87,8 +87,8 @@ keyword:
 - content: MBONE
 - content: security
 - content: authentication
-editorialgroup:
-- name: idmr
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: idmr
   stream: IETF

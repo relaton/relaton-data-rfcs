@@ -128,8 +128,8 @@ keyword:
 - content: binary format
 - content: data interchange format
 - content: JSON
-editorialgroup:
-- name: cbor
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: cbor
   stream: IETF

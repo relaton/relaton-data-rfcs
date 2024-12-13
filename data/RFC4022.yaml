@@ -90,8 +90,8 @@ keyword:
 - content: TCP
 - content: Simple Network Management Protocol
 - content: MIB
-editorialgroup:
-- name: ipv6
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ipv6
   stream: IETF

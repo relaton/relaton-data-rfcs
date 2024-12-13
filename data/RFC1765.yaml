@@ -85,8 +85,8 @@ series:
     format: text/plain
 keyword:
 - content: OSPF-OVFL
-editorialgroup:
-- name: ospf
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ospf
   stream: IETF

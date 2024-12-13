@@ -151,8 +151,8 @@ keyword:
 - content: Overload Control
 - content: Server
 - content: Performance
-editorialgroup:
-- name: soc
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: soc
   stream: IETF

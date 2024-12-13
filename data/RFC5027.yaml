@@ -133,8 +133,8 @@ keyword:
 - content: MIKEY
 - content: Security Descriptions
 - content: SRTP
-editorialgroup:
-- name: mmusic
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mmusic
   stream: IETF

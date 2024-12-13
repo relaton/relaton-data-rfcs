@@ -120,8 +120,8 @@ keyword:
 - content: Internet Assigned Numbers Authority
 - content: RMON
 - content: Registry of Remote Monitoring
-editorialgroup:
-- name: rmonmib
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: rmonmib
   stream: IETF

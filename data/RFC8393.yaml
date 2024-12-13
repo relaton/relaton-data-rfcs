@@ -122,8 +122,8 @@ keyword:
 - content: Service Function Chaining
 - content: Network Service Header
 - content: Metadata
-editorialgroup:
-- name: sfc
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: sfc
   stream: IETF

@@ -119,8 +119,8 @@ keyword:
 - content: bootstrap router
 - content: bsr
 - content: PIM-BSR-MIB
-editorialgroup:
-- name: pim
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: pim
   stream: IETF

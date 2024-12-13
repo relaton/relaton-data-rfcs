@@ -150,8 +150,8 @@ keyword:
 - content: remote monitoring mib
 - content: qos
 - content: RAQMON-MIB
-editorialgroup:
-- name: rmonmib
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: rmonmib
   stream: IETF

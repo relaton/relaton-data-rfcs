@@ -182,8 +182,8 @@ keyword:
 - content: information
 - content: servers
 - content: database
-editorialgroup:
-- name: find
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: find
   stream: IETF

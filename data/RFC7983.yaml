@@ -138,8 +138,8 @@ keyword:
 - content: RFC 5764
 - content: SRTP-DTLS
 - content: ZRTP
-editorialgroup:
-- name: avtcore
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: avtcore
   stream: IETF

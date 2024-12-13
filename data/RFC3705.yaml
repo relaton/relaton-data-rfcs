@@ -120,8 +120,8 @@ keyword:
 - content: MIB
 - content: Management Information Base
 - content: High Capacity Textual Conventions
-editorialgroup:
-- name: adslmib
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: adslmib
   stream: IETF

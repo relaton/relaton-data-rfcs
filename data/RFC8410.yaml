@@ -131,8 +131,8 @@ keyword:
 - content: Ed448
 - content: X25519
 - content: X448
-editorialgroup:
-- name: curdle
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: curdle
   stream: IETF

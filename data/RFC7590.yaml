@@ -137,8 +137,8 @@ keyword:
 - content: presence
 - content: encryption
 - content: authentication
-editorialgroup:
-- name: uta
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: uta
   stream: IETF

@@ -207,8 +207,8 @@ keyword:
 - content: Network Management
 - content: Routing
 - content: YANG
-editorialgroup:
-- name: rtgwg
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: rtgwg
   stream: IETF

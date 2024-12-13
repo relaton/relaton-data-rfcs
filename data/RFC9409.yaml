@@ -184,8 +184,8 @@ keyword:
 - content: automatic peering
 - content: WebFinger
 - content: capability set
-editorialgroup:
-- name: asap
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: asap
   stream: IETF

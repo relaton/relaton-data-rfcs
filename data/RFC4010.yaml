@@ -178,8 +178,8 @@ series:
 keyword:
 - content: smime
 - content: secure/multipurpose internet mail extensions
-editorialgroup:
-- name: smime
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: smime
   stream: IETF

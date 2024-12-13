@@ -132,8 +132,8 @@ keyword:
 - content: cards
 - content: vCard
 - content: JSContact
-editorialgroup:
-- name: calext
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: calext
   stream: IETF

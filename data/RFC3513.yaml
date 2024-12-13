@@ -132,8 +132,8 @@ keyword:
 - content: anycast
 - content: multicast
 - content: node
-editorialgroup:
-- name: ipv6
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ipv6
   stream: IETF

@@ -150,8 +150,8 @@ keyword:
 - content: IPv6
 - content: Reliability
 - content: IPv4 over IPv6
-editorialgroup:
-- name: softwire
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: softwire
   stream: IETF

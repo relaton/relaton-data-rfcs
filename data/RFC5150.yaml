@@ -193,8 +193,8 @@ keyword:
 - content: lsp stitching
 - content: lsp segments
 - content: s-lsp
-editorialgroup:
-- name: ccamp
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ccamp
   stream: IETF

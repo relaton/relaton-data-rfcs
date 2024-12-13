@@ -90,8 +90,8 @@ keyword:
 - content: SHA-1 Hash Algorithm
 - content: SHA-2 Hash Algorithm
 - content: SHAKE Algorithm
-editorialgroup:
-- name: cose
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: cose
   stream: IETF

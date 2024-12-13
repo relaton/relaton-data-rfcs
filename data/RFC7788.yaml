@@ -151,8 +151,8 @@ keyword:
 - content: IPv6
 - content: Homenet
 - content: DNCP
-editorialgroup:
-- name: homenet
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: homenet
   stream: IETF

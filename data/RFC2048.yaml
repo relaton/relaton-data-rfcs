@@ -173,8 +173,8 @@ keyword:
 - content: body
 - content: access
 - content: content-transfer-encodings
-editorialgroup:
-- name: 822ext
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: 822ext
   stream: IETF

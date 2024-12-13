@@ -241,8 +241,8 @@ keyword:
 - content: Node Reachability
 - content: Restarts
 - content: Failure Detection
-editorialgroup:
-- name: netlmm
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: netlmm
   stream: IETF

@@ -119,8 +119,8 @@ keyword:
 - content: HTTP
 - content: SPDY
 - content: Web
-editorialgroup:
-- name: httpbis
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: httpbis
   stream: IETF

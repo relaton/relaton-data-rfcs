@@ -179,8 +179,8 @@ series:
 keyword:
 - content: Neighbor Discovery Protocol
 - content: NDP
-editorialgroup:
-- name: send
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: send
   stream: IETF

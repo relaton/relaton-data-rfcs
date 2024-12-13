@@ -124,8 +124,8 @@ keyword:
 - content: x-forwarded-host
 - content: x-forwarded-proto
 - content: via
-editorialgroup:
-- name: appsawg
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: appsawg
   stream: IETF

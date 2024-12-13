@@ -125,8 +125,8 @@ keyword:
 - content: multiprotocol label switching
 - content: mpls-te
 - content: te lsp
-editorialgroup:
-- name: mpls
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mpls
   stream: IETF

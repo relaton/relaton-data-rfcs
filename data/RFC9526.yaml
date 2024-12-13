@@ -187,8 +187,8 @@ keyword:
 - content: outsourcing
 - content: management
 - content: hosting
-editorialgroup:
-- name: homenet
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: homenet
   stream: IETF

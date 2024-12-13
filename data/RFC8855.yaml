@@ -210,8 +210,8 @@ series:
 keyword:
 - content: floor control
 - content: conference
-editorialgroup:
-- name: bfcpbis
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: bfcpbis
   stream: IETF

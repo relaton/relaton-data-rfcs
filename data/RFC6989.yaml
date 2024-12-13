@@ -131,8 +131,8 @@ keyword:
 - content: Elliptic Curve cryptography
 - content: secret key reuse
 - content: recipient tests
-editorialgroup:
-- name: ipsecme
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ipsecme
   stream: IETF

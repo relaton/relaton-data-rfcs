@@ -123,8 +123,8 @@ keyword:
 - content: mcp
 - content: interactive voice response
 - content: conferencing media services
-editorialgroup:
-- name: mediactrl
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mediactrl
   stream: IETF

@@ -97,8 +97,8 @@ keyword:
 - content: Session Description Protocol
 - content: TIAS
 - content: Transport Independent Application Specific Maximum
-editorialgroup:
-- name: mmusic
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mmusic
   stream: IETF

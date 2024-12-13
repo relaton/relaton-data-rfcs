@@ -97,8 +97,8 @@ keyword:
 - content: Encapsulation
 - content: Transport Protocol
 - content: Congestion Control
-editorialgroup:
-- name: tsvwg
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: tsvwg
   stream: IETF

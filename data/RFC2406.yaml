@@ -142,8 +142,8 @@ keyword:
 - content: security
 - content: ipv4
 - content: ipv6
-editorialgroup:
-- name: ipsec
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ipsec
   stream: IETF

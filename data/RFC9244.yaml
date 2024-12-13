@@ -220,8 +220,8 @@ keyword:
 - content: Service delivery
 - content: Robustness
 - content: Collaborative
-editorialgroup:
-- name: dots
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: dots
   stream: IETF

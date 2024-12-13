@@ -190,8 +190,8 @@ keyword:
 - content: Ethernet Virtual Private Networks
 - content: Virtual Private LAN Services
 - content: Provider Backbone Bridging
-editorialgroup:
-- name: bess
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: bess
   stream: IETF

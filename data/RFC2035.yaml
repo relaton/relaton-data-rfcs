@@ -194,8 +194,8 @@ keyword:
 - content: Photographic
 - content: Experts
 - content: Group
-editorialgroup:
-- name: avt
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: avt
   stream: IETF

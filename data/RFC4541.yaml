@@ -150,8 +150,8 @@ series:
 keyword:
 - content: igmpv3
 - content: mldv2
-editorialgroup:
-- name: magma
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: magma
   stream: IETF

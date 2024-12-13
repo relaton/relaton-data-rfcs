@@ -247,8 +247,8 @@ keyword:
 - content: Inter-Destination Media Synchronization
 - content: RTP Control Protocol
 - content: RTCP
-editorialgroup:
-- name: avtcore
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: avtcore
   stream: IETF

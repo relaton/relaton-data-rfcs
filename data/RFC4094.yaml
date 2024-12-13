@@ -129,8 +129,8 @@ keyword:
 - content: mobility
 - content: performance
 - content: security
-editorialgroup:
-- name: nsis
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: nsis
   stream: IETF

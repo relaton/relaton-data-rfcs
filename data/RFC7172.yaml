@@ -226,8 +226,8 @@ keyword:
 - content: VLAN
 - content: Fine-Grained
 - content: Label
-editorialgroup:
-- name: trill
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: trill
   stream: IETF

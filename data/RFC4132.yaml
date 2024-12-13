@@ -156,8 +156,8 @@ series:
     format: text/plain
 keyword:
 - content: camellia encryption algorithm
-editorialgroup:
-- name: tls
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: tls
   stream: IETF

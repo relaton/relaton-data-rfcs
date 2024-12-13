@@ -179,8 +179,8 @@ keyword:
 - content: Redaction
 - content: Redacting
 - content: JSONPath
-editorialgroup:
-- name: regext
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: regext
   stream: IETF

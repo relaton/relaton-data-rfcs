@@ -123,8 +123,8 @@ series:
 keyword:
 - content: DHCPv6
 - content: Failover
-editorialgroup:
-- name: dhc
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: dhc
   stream: IETF

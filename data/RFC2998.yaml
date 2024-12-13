@@ -358,8 +358,8 @@ keyword:
 - content: QoS
 - content: Quality of Service
 - content: end-to-end
-editorialgroup:
-- name: issll
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: issll
   stream: IETF

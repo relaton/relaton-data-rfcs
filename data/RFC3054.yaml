@@ -149,8 +149,8 @@ keyword:
 - content: H.248
 - content: telephone
 - content: MG
-editorialgroup:
-- name: megaco
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: megaco
   stream: IETF

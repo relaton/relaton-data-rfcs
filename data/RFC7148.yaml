@@ -213,8 +213,8 @@ keyword:
 - content: Proxy Mobile IPv6
 - content: PMIPv6
 - content: Mobile Router
-editorialgroup:
-- name: netext
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: netext
   stream: IETF

@@ -151,8 +151,8 @@ keyword:
 - content: RSVP-TE LSP
 - content: Co-routed LSP
 - content: Reverse LSP
-editorialgroup:
-- name: pce
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: pce
   stream: IETF

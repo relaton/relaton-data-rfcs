@@ -93,8 +93,8 @@ keyword:
 - content: mib
 - content: snmp
 - content: simple network management protocol
-editorialgroup:
-- name: ipcdn
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ipcdn
   stream: IETF

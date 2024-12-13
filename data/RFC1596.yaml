@@ -90,8 +90,8 @@ keyword:
 - content: MIB
 - content: Management
 - content: SNMP
-editorialgroup:
-- name: frnetmib
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: frnetmib
   stream: IETF

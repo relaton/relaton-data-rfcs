@@ -114,8 +114,8 @@ series:
     format: text/plain
 keyword:
 - content: RIP-TRIG
-editorialgroup:
-- name: rip
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: rip
   stream: IETF

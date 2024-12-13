@@ -158,8 +158,8 @@ keyword:
 - content: reliable file delivery
 - content: broadcast
 - content: multicast
-editorialgroup:
-- name: rmt
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: rmt
   stream: IETF

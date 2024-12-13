@@ -122,8 +122,8 @@ keyword:
 - content: Dependent LU Requester
 - content: APPN
 - content: Advanced Peer-to-Peer Networking
-editorialgroup:
-- name: snanau
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: snanau
   stream: IETF

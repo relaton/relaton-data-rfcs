@@ -177,8 +177,8 @@ series:
 keyword:
 - content: DV/RTP
 - content: real-time transport protocol
-editorialgroup:
-- name: payload
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: payload
   stream: IETF

@@ -123,8 +123,8 @@ keyword:
 - content: transparent lan service
 - content: virtual private switched network
 - content: service provider
-editorialgroup:
-- name: l2vpn
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: l2vpn
   stream: IETF

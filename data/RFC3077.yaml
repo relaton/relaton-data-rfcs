@@ -211,8 +211,8 @@ keyword:
 - content: connectivity
 - content: ip
 - content: internet protocol
-editorialgroup:
-- name: udlr
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: udlr
   stream: IETF

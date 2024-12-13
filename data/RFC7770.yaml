@@ -218,8 +218,8 @@ keyword:
 - content: router information
 - content: lsa
 - content: link state advertisement
-editorialgroup:
-- name: ospf
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ospf
   stream: IETF

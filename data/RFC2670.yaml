@@ -98,8 +98,8 @@ series:
     format: text/plain
 keyword:
 - content: MIB
-editorialgroup:
-- name: ipcdn
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ipcdn
   stream: IETF

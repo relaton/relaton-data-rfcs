@@ -124,8 +124,8 @@ keyword:
 - content: simple mail transfer protocol
 - content: extended simple mail transfer protocol
 - content: multipurpose internet mail extensions
-editorialgroup:
-- name: fax
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: fax
   stream: IETF

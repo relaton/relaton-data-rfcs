@@ -100,8 +100,8 @@ keyword:
 - content: fec
 - content: sdp
 - content: media lines
-editorialgroup:
-- name: mmusic
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mmusic
   stream: IETF

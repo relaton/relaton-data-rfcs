@@ -124,8 +124,8 @@ series:
 keyword:
 - content: spanning tree protocol
 - content: ieee 802.1
-editorialgroup:
-- name: trill
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: trill
   stream: IETF

@@ -150,8 +150,8 @@ keyword:
 - content: Multipurpose Internet Mail Extensions
 - content: encryption
 - content: cryptographic signature
-editorialgroup:
-- name: vgmib
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: vgmib
   stream: IETF

@@ -126,8 +126,8 @@ keyword:
 - content: MIF
 - content: DNS
 - content: DHCP
-editorialgroup:
-- name: mif
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mif
   stream: IETF

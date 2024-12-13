@@ -119,8 +119,8 @@ keyword:
 - content: idr
 - content: border gateway protocol
 - content: capabilities
-editorialgroup:
-- name: idr
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: idr
   stream: IETF

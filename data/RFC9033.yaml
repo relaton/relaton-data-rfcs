@@ -209,8 +209,8 @@ keyword:
 - content: TSCH
 - content: communication schedule
 - content: 6P
-editorialgroup:
-- name: 6tisch
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: 6tisch
   stream: IETF

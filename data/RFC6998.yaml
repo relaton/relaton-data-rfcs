@@ -182,8 +182,8 @@ keyword:
 - content: P2P Routes
 - content: RPL
 - content: ROLL
-editorialgroup:
-- name: roll
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: roll
   stream: IETF

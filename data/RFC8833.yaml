@@ -91,8 +91,8 @@ keyword:
 - content: ALPN
 - content: Protocol
 - content: Identifier
-editorialgroup:
-- name: rtcweb
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: rtcweb
   stream: IETF

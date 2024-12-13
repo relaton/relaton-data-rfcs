@@ -89,8 +89,8 @@ keyword:
 - content: Protocol
 - content: IDMR
 - content: Inter-Domain
-editorialgroup:
-- name: idmr
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: idmr
   stream: IETF

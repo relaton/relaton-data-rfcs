@@ -92,8 +92,8 @@ keyword:
 - content: syntax
 - content: elective extensions
 - content: mechanisms
-editorialgroup:
-- name: ldapbis
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ldapbis
   stream: IETF

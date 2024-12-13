@@ -131,8 +131,8 @@ series:
 keyword:
 - content: isdn q.921-user adaptation layer
 - content: iua
-editorialgroup:
-- name: sigtran
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: sigtran
   stream: IETF

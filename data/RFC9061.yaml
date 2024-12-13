@@ -157,8 +157,8 @@ keyword:
 - content: NSF
 - content: SDN
 - content: IPsec
-editorialgroup:
-- name: i2nsf
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: i2nsf
   stream: IETF

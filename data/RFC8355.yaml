@@ -178,8 +178,8 @@ keyword:
 - content: RESILIENCY
 - content: PROTECTION
 - content: CONVERGENCE
-editorialgroup:
-- name: spring
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: spring
   stream: IETF

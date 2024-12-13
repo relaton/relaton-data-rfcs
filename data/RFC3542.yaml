@@ -187,8 +187,8 @@ keyword:
 - content: application
 - content: program
 - content: interface
-editorialgroup:
-- name: ipv6
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ipv6
   stream: IETF

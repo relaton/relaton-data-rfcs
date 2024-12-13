@@ -118,8 +118,8 @@ series:
 keyword:
 - content: Monitoring
 - content: Fault Management
-editorialgroup:
-- name: ccamp
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ccamp
   stream: IETF

@@ -217,8 +217,8 @@ series:
 keyword:
 - content: paths
 - content: algorithm stacks
-editorialgroup:
-- name: pilc
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: pilc
   stream: IETF

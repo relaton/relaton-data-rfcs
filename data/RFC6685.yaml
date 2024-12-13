@@ -108,8 +108,8 @@ series:
 keyword:
 - content: mile
 - content: xml schema
-editorialgroup:
-- name: mile
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mile
   stream: IETF

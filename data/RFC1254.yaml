@@ -121,8 +121,8 @@ keyword:
 - content: source quench
 - content: fiar queueing
 - content: random drop
-editorialgroup:
-- name: pcc
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: pcc
   stream: IETF

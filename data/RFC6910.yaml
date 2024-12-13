@@ -198,8 +198,8 @@ keyword:
 - content: Presence Information Data Format
 - content: PIDF
 - content: P-Asserted-Identity header field
-editorialgroup:
-- name: bliss
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: bliss
   stream: IETF

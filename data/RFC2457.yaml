@@ -119,8 +119,8 @@ keyword:
 - content: EBN-MIB
 - content: Extended Border Node
 - content: management information base
-editorialgroup:
-- name: snanau
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: snanau
   stream: IETF

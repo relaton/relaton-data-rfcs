@@ -123,8 +123,8 @@ keyword:
 - content: ONC
 - content: RDDP
 - content: NFSv4
-editorialgroup:
-- name: nfsv4
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: nfsv4
   stream: IETF

@@ -160,8 +160,8 @@ keyword:
 - content: TCP-CC
 - content: Transmission Control Protocol
 - content: Congestion Control
-editorialgroup:
-- name: tcpimpl
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: tcpimpl
   stream: IETF

@@ -218,8 +218,8 @@ keyword:
 - content: GMPLS Make-Before-Break
 - content: GMPLS 1+R
 - content: GMPLS 1+1+R
-editorialgroup:
-- name: teas
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: teas
   stream: IETF

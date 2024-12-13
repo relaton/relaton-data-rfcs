@@ -238,8 +238,8 @@ keyword:
 - content: Civic
 - content: Location
 - content: GEOPRIV
-editorialgroup:
-- name: geopriv
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: geopriv
   stream: IETF

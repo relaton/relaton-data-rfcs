@@ -121,8 +121,8 @@ keyword:
 - content: type
 - content: message
 - content: formats
-editorialgroup:
-- name: 822ext
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: 822ext
   stream: IETF

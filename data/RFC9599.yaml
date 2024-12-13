@@ -147,8 +147,8 @@ keyword:
 - content: Protocol
 - content: ECN
 - content: Layering
-editorialgroup:
-- name: tsvwg
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: tsvwg
   stream: IETF

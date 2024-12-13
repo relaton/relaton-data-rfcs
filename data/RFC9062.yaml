@@ -211,8 +211,8 @@ keyword:
 - content: PBB-EVPN
 - content: fault management
 - content: performance management
-editorialgroup:
-- name: bess
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: bess
   stream: IETF

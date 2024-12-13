@@ -214,8 +214,8 @@ keyword:
 - content: MAC flush message
 - content: MAC Flush TLV
 - content: MAC flushing
-editorialgroup:
-- name: l2vpn
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: l2vpn
   stream: IETF

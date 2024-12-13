@@ -220,8 +220,8 @@ keyword:
 - content: Transport
 - content: application
 - content: media type
-editorialgroup:
-- name: ipp
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ipp
   stream: IETF

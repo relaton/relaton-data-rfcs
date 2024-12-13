@@ -105,8 +105,8 @@ keyword:
 - content: pseudowire emulation edge-to-edge
 - content: tdmoip
 - content: tdm options
-editorialgroup:
-- name: pwe3
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: pwe3
   stream: IETF

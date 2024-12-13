@@ -180,8 +180,8 @@ series:
 keyword:
 - content: mib
 - content: CAPWAP-BASE-MIB
-editorialgroup:
-- name: capwap
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: capwap
   stream: IETF

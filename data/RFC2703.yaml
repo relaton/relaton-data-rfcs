@@ -89,8 +89,8 @@ keyword:
 - content: resource
 - content: media
 - content: syntax
-editorialgroup:
-- name: conneg
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: conneg
   stream: IETF

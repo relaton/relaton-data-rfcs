@@ -129,8 +129,8 @@ keyword:
 - content: IPTV
 - content: parity codes
 - content: Raptor codes
-editorialgroup:
-- name: fecframe
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: fecframe
   stream: IETF

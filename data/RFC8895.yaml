@@ -121,8 +121,8 @@ series:
     format: text/plain
 keyword:
 - content: ALTO
-editorialgroup:
-- name: alto
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: alto
   stream: IETF

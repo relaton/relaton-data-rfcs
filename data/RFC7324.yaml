@@ -101,8 +101,8 @@ keyword:
 - content: mpls-tp
 - content: psc
 - content: protection state coordination
-editorialgroup:
-- name: mpls
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mpls
   stream: IETF

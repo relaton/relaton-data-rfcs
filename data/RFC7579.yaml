@@ -212,8 +212,8 @@ keyword:
 - content: WSON
 - content: Optical Network Control
 - content: Protocol-agnostic encoding
-editorialgroup:
-- name: ccamp
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ccamp
   stream: IETF

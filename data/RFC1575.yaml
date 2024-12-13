@@ -116,8 +116,8 @@ series:
     format: text/plain
 keyword:
 - content: ISO-TS-ECHO
-editorialgroup:
-- name: noop
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: noop
   stream: IETF

@@ -208,8 +208,8 @@ keyword:
 - content: NVE
 - content: VAP
 - content: VNI
-editorialgroup:
-- name: nvo3
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: nvo3
   stream: IETF

@@ -235,8 +235,8 @@ series:
   title:
     content: IETF
     format: text/plain
-editorialgroup:
-- name: pwe3
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: pwe3
   stream: IETF

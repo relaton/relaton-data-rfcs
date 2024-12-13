@@ -92,8 +92,8 @@ keyword:
 - content: IEEE
 - content: '802'
 - content: MAC
-editorialgroup:
-- name: fddi
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: fddi
   stream: IETF

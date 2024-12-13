@@ -122,8 +122,8 @@ series:
 keyword:
 - content: RDAP
 - content: Security
-editorialgroup:
-- name: weirds
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: weirds
   stream: IETF

@@ -213,8 +213,8 @@ keyword:
 - content: fast-reroute
 - content: MRT
 - content: MRT-FRR
-editorialgroup:
-- name: mpls
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mpls
   stream: IETF

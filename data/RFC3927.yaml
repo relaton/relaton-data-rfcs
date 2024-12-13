@@ -159,8 +159,8 @@ keyword:
 - content: ip network
 - content: ip address
 - content: 169.254/16
-editorialgroup:
-- name: zeroconf
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: zeroconf
   stream: IETF

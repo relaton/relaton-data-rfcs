@@ -94,8 +94,8 @@ keyword:
 - content: escape
 - content: clause
 - content: procedures
-editorialgroup:
-- name: Poisson
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: Poisson
   stream: IETF

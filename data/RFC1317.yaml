@@ -96,8 +96,8 @@ series:
     format: text/plain
 keyword:
 - content: MIB
-editorialgroup:
-- name: charmib
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: charmib
   stream: IETF

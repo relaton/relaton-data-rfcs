@@ -120,8 +120,8 @@ keyword:
 - content: rph
 - content: PASSport
 - content: esnet
-editorialgroup:
-- name: stir
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: stir
   stream: IETF

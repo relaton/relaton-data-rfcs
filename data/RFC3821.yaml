@@ -152,8 +152,8 @@ keyword:
 - content: storage area networks
 - content: IP-based networks
 - content: unified storage area network
-editorialgroup:
-- name: ips
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ips
   stream: IETF

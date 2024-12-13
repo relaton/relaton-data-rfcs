@@ -121,8 +121,8 @@ series:
     format: text/plain
 keyword:
 - content: x.509 certificate
-editorialgroup:
-- name: pkix
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: pkix
   stream: IETF

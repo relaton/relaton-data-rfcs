@@ -182,8 +182,8 @@ keyword:
 - content: handover key management
 - content: fast re-authentication
 - content: mobility
-editorialgroup:
-- name: hokey
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: hokey
   stream: IETF

@@ -223,8 +223,8 @@ keyword:
 - content: interface
 - content: tcp
 - content: transmission control
-editorialgroup:
-- name: ipv6
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ipv6
   stream: IETF

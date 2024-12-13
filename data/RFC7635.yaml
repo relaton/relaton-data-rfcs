@@ -180,8 +180,8 @@ keyword:
 - content: TURN
 - content: WebRTC
 - content: Authentication and Authorization
-editorialgroup:
-- name: tram
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: tram
   stream: IETF

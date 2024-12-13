@@ -121,8 +121,8 @@ series:
 keyword:
 - content: NAT-PT
 - content: v6ops
-editorialgroup:
-- name: v6ops
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: v6ops
   stream: IETF

@@ -92,8 +92,8 @@ keyword:
 - content: multiprotocol label switching
 - content: cr-ldp
 - content: high availability restart
-editorialgroup:
-- name: mpls
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mpls
   stream: IETF

@@ -166,8 +166,8 @@ keyword:
 - content: RIR
 - content: IRR
 - content: MITM
-editorialgroup:
-- name: grow
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: grow
   stream: IETF

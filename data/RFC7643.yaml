@@ -186,8 +186,8 @@ keyword:
 - content: Provisioning
 - content: User
 - content: Group
-editorialgroup:
-- name: scim
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: scim
   stream: IETF

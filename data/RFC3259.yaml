@@ -156,8 +156,8 @@ keyword:
 - content: addressing
 - content: transport
 - content: syntax
-editorialgroup:
-- name: mmusic
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mmusic
   stream: IETF

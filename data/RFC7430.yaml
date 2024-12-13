@@ -206,8 +206,8 @@ keyword:
 - content: MPTCP
 - content: security
 - content: threat analysis
-editorialgroup:
-- name: mptcp
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mptcp
   stream: IETF

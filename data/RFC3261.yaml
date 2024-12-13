@@ -301,8 +301,8 @@ keyword:
 - content: multimedia
 - content: multicast
 - content: unicast
-editorialgroup:
-- name: sip
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: sip
   stream: IETF

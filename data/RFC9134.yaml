@@ -186,8 +186,8 @@ keyword:
 - content: group
 - content: real-time
 - content: stream
-editorialgroup:
-- name: avtcore
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: avtcore
   stream: IETF

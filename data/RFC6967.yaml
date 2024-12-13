@@ -181,8 +181,8 @@ series:
 keyword:
 - content: NAT
 - content: Host Identifier
-editorialgroup:
-- name: intarea
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: intarea
   stream: IETF

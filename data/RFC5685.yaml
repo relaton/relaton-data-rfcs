@@ -125,8 +125,8 @@ keyword:
 - content: anycast redirect
 - content: home agent redirect
 - content: VPN gateway direct
-editorialgroup:
-- name: ipsecme
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ipsecme
   stream: IETF

@@ -152,8 +152,8 @@ keyword:
 - content: infrastructures
 - content: scripting language
 - content: script execution environment
-editorialgroup:
-- name: snmpconf
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: snmpconf
   stream: IETF

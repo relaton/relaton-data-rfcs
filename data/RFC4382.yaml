@@ -122,8 +122,8 @@ keyword:
 - content: label switching router
 - content: lsr
 - content: mpls-l3vpn-std-mib
-editorialgroup:
-- name: l3vpn
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: l3vpn
   stream: IETF

@@ -100,8 +100,8 @@ keyword:
 - content: engineering
 - content: task
 - content: force
-editorialgroup:
-- name: Poisson
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: Poisson
   stream: IETF

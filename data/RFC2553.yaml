@@ -196,8 +196,8 @@ keyword:
 - content: interface
 - content: tcp
 - content: transmission control
-editorialgroup:
-- name: ipngwg
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ipngwg
   stream: IETF

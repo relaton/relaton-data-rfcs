@@ -161,8 +161,8 @@ keyword:
 - content: border gateway protocol
 - content: address family identifiers
 - content: afi
-editorialgroup:
-- name: idr
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: idr
   stream: IETF

@@ -159,8 +159,8 @@ keyword:
 - content: Bluetooth Low Energy
 - content: Contiki
 - content: uIP
-editorialgroup:
-- name: lwig
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: lwig
   stream: IETF

@@ -182,8 +182,8 @@ keyword:
 - content: label switched paths
 - content: routing protocol
 - content: signaling protocol
-editorialgroup:
-- name: ccamp
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ccamp
   stream: IETF

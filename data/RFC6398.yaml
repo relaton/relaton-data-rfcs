@@ -118,8 +118,8 @@ series:
   title:
     content: IETF
     format: text/plain
-editorialgroup:
-- name: intarea
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: intarea
   stream: IETF

@@ -126,8 +126,8 @@ series:
 keyword:
 - content: ccid 4
 - content: congestion control identifier 4
-editorialgroup:
-- name: dccp
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: dccp
   stream: IETF

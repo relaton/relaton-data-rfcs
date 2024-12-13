@@ -123,8 +123,8 @@ keyword:
 - content: UDPLITE-MIB
 - content: management information base
 - content: lightweight user datagram protocol
-editorialgroup:
-- name: tsvwg
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: tsvwg
   stream: IETF

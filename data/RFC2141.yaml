@@ -99,8 +99,8 @@ keyword:
 - content: Uniform
 - content: Resource
 - content: Names
-editorialgroup:
-- name: urn
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: urn
   stream: IETF

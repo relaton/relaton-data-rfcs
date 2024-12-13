@@ -223,8 +223,8 @@ keyword:
 - content: IoT-onboarding
 - content: IoT-zero-touch
 - content: network-join
-editorialgroup:
-- name: anima
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: anima
   stream: IETF

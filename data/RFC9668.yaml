@@ -218,8 +218,8 @@ keyword:
 - content: AKE
 - content: lightweight authenticated key exchange
 - content: IoT security
-editorialgroup:
-- name: core
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: core
   stream: IETF

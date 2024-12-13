@@ -119,8 +119,8 @@ keyword:
 - content: ReDiR
 - content: P2P
 - content: DHT
-editorialgroup:
-- name: p2psip
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: p2psip
   stream: IETF

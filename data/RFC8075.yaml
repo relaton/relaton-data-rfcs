@@ -213,8 +213,8 @@ keyword:
 - content: HTTP-CoAP mapping
 - content: HTTP-CoAP translation
 - content: proxy implementation
-editorialgroup:
-- name: core
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: core
   stream: IETF

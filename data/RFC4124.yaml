@@ -94,8 +94,8 @@ keyword:
 - content: extensions
 - content: rsvp
 - content: resource reservation protocol
-editorialgroup:
-- name: tewg
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: tewg
   stream: IETF

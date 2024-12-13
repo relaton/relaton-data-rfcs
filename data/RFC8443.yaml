@@ -182,8 +182,8 @@ keyword:
 - content: Authentication Service
 - content: Assertion
 - content: Verification Service
-editorialgroup:
-- name: stir
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: stir
   stream: IETF

@@ -90,8 +90,8 @@ keyword:
 - content: algorithm
 - content: datagram
 - content: format
-editorialgroup:
-- name: ippcp
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ippcp
   stream: IETF

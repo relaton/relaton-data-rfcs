@@ -85,8 +85,8 @@ series:
 keyword:
 - content: IDENT
 - content: Authentication
-editorialgroup:
-- name: ident
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ident
   stream: IETF

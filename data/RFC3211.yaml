@@ -115,8 +115,8 @@ keyword:
 - content: derivation
 - content: passwordrecipientinfo
 - content: PWRI
-editorialgroup:
-- name: smime
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: smime
   stream: IETF

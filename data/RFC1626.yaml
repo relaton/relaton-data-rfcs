@@ -105,8 +105,8 @@ keyword:
 - content: Layer
 - content: Size
 - content: Packet
-editorialgroup:
-- name: ipatm
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ipatm
   stream: IETF

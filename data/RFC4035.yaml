@@ -296,8 +296,8 @@ keyword:
 - content: origin integrity
 - content: dnssec
 - content: domain name system security extensions
-editorialgroup:
-- name: dnsext
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: dnsext
   stream: IETF

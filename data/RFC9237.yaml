@@ -94,8 +94,8 @@ keyword:
 - content: IoT
 - content: Internet of Things
 - content: Access Control
-editorialgroup:
-- name: ace
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ace
   stream: IETF

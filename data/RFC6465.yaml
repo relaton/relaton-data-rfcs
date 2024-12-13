@@ -153,8 +153,8 @@ keyword:
 - content: energy
 - content: conference
 - content: bridge
-editorialgroup:
-- name: avtext
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: avtext
   stream: IETF

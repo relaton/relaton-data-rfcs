@@ -122,8 +122,8 @@ keyword:
 - content: network
 - content: hardwire
 - content: wireless
-editorialgroup:
-- name: manet
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: manet
   stream: IETF

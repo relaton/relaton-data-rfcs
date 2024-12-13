@@ -162,8 +162,8 @@ keyword:
 - content: Interface
 - content: SPF metrics
 - content: Radio Networks
-editorialgroup:
-- name: ospf
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ospf
   stream: IETF

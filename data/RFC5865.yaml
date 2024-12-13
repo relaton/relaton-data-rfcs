@@ -171,8 +171,8 @@ series:
     format: text/plain
 keyword:
 - content: real-time traffic
-editorialgroup:
-- name: tsvwg
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: tsvwg
   stream: IETF

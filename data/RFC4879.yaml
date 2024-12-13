@@ -111,8 +111,8 @@ series:
 keyword:
 - content: ipr
 - content: copyright
-editorialgroup:
-- name: ipr
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ipr
   stream: IETF

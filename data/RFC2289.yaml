@@ -184,8 +184,8 @@ keyword:
 - content: OTP
 - content: replay
 - content: attach
-editorialgroup:
-- name: otp
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: otp
   stream: IETF

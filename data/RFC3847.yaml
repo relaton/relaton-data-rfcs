@@ -133,8 +133,8 @@ keyword:
 - content: LSP database synchronization
 - content: transient routing disruption
 - content: database synchronization
-editorialgroup:
-- name: isis
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: isis
   stream: IETF

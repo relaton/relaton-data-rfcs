@@ -139,8 +139,8 @@ series:
 keyword:
 - content: dns security
 - content: domain name system
-editorialgroup:
-- name: dnsext
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: dnsext
   stream: IETF

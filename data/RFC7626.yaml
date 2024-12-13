@@ -98,8 +98,8 @@ keyword:
 - content: Confidentiality
 - content: Pervasive Surveillance
 - content: Domain Name System
-editorialgroup:
-- name: dprive
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: dprive
   stream: IETF

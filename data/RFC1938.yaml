@@ -127,8 +127,8 @@ keyword:
 - content: OTP
 - content: authentication
 - content: S/KEY
-editorialgroup:
-- name: otp
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: otp
   stream: IETF

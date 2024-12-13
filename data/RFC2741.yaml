@@ -175,8 +175,8 @@ series:
 keyword:
 - content: SNMP
 - content: simple network management protocol
-editorialgroup:
-- name: agentx
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: agentx
   stream: IETF

@@ -130,8 +130,8 @@ keyword:
 - content: Telepresence
 - content: Protocol
 - content: Framework
-editorialgroup:
-- name: clue
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: clue
   stream: IETF

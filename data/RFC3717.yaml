@@ -153,8 +153,8 @@ keyword:
 - content: transport infrastructure
 - content: routers
 - content: high-speed
-editorialgroup:
-- name: ipo
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ipo
   stream: IETF

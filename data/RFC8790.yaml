@@ -120,8 +120,8 @@ keyword:
 - content: CoAP
 - content: IoT
 - content: data model
-editorialgroup:
-- name: core
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: core
   stream: IETF

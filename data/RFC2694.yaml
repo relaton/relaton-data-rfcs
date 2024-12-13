@@ -178,8 +178,8 @@ keyword:
 - content: system
 - content: NATs
 - content: mapping
-editorialgroup:
-- name: nat
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: nat
   stream: IETF

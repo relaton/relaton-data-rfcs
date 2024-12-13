@@ -119,8 +119,8 @@ keyword:
 - content: Authentication
 - content: Authorization
 - content: Accounting
-editorialgroup:
-- name: aaa
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: aaa
   stream: IETF

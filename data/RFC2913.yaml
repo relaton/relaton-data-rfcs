@@ -87,8 +87,8 @@ keyword:
 - content: multipurpose internet mail extensions
 - content: tag
 - content: format
-editorialgroup:
-- name: conneg
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: conneg
   stream: IETF

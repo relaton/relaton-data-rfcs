@@ -189,8 +189,8 @@ keyword:
 - content: protocol
 - content: network
 - content: nodes
-editorialgroup:
-- name: diffserv
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: diffserv
   stream: IETF

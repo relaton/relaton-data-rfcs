@@ -121,8 +121,8 @@ series:
 keyword:
 - content: handover preparation handover decision
 - content: media independent handover services
-editorialgroup:
-- name: mipshop
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mipshop
   stream: IETF

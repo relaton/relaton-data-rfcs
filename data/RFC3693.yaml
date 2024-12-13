@@ -215,8 +215,8 @@ keyword:
 - content: security privacy
 - content: lo
 - content: location object
-editorialgroup:
-- name: geopriv
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: geopriv
   stream: IETF

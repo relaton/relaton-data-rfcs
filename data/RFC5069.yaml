@@ -182,8 +182,8 @@ keyword:
 - content: ecrit
 - content: public safety answering points
 - content: pasp
-editorialgroup:
-- name: ecrit
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ecrit
   stream: IETF

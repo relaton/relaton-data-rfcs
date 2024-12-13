@@ -161,8 +161,8 @@ series:
     format: text/plain
 keyword:
 - content: Instance ID
-editorialgroup:
-- name: ospf
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ospf
   stream: IETF

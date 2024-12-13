@@ -270,8 +270,8 @@ keyword:
 - content: CR-LDP
 - content: constraint-based routed label switched paths
 - content: distribution
-editorialgroup:
-- name: mpls
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mpls
   stream: IETF

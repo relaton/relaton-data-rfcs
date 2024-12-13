@@ -120,8 +120,8 @@ keyword:
 - content: " Diffie-Hellman"
 - content: Key Exchange
 - content: Elliptic Curve Cryptography
-editorialgroup:
-- name: tls
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: tls
   stream: IETF

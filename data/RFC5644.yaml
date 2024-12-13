@@ -152,8 +152,8 @@ keyword:
 - content: group performance statistic
 - content: per hop measurement
 - content: segment performance
-editorialgroup:
-- name: ippm
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ippm
   stream: IETF

@@ -91,8 +91,8 @@ keyword:
 - content: internet protocol
 - content: routing packets
 - content: node
-editorialgroup:
-- name: nsis
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: nsis
   stream: IETF

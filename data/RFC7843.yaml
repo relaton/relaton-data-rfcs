@@ -222,8 +222,8 @@ keyword:
 - content: option
 - content: third party
 - content: ID
-editorialgroup:
-- name: pcp
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: pcp
   stream: IETF

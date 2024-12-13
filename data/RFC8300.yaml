@@ -151,8 +151,8 @@ keyword:
 - content: SFC
 - content: NSH
 - content: Network Service Function
-editorialgroup:
-- name: sfc
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: sfc
   stream: IETF

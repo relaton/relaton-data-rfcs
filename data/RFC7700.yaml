@@ -103,8 +103,8 @@ keyword:
 - content: MSRP
 - content: XCON
 - content: chatrooms
-editorialgroup:
-- name: precis
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: precis
   stream: IETF

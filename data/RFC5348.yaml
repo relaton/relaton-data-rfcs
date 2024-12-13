@@ -191,8 +191,8 @@ series:
 keyword:
 - content: tcp-friendly rate control
 - content: congestion control
-editorialgroup:
-- name: dccp
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: dccp
   stream: IETF

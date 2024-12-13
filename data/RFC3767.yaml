@@ -92,8 +92,8 @@ keyword:
 - content: blocks extensible exchange protocol
 - content: xml
 - content: extensible mark up language
-editorialgroup:
-- name: sacred
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: sacred
   stream: IETF

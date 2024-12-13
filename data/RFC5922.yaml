@@ -164,8 +164,8 @@ keyword:
 - content: Mutual Authentication
 - content: X.509
 - content: TLS
-editorialgroup:
-- name: sip
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: sip
   stream: IETF

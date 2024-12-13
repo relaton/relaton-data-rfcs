@@ -129,8 +129,8 @@ keyword:
 - content: DNAv4
 - content: link detection
 - content: mobility
-editorialgroup:
-- name: dna
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: dna
   stream: IETF

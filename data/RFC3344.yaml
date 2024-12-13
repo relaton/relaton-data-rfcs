@@ -88,8 +88,8 @@ series:
 keyword:
 - content: MOBILEIPSUPIP
 - content: Internet Protocol Mobility Support for IPv4
-editorialgroup:
-- name: mobileip
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mobileip
   stream: IETF

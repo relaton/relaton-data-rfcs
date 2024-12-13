@@ -182,8 +182,8 @@ keyword:
 - content: media type
 - content: LPD
 - content: line printer daemon
-editorialgroup:
-- name: ipp
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ipp
   stream: IETF

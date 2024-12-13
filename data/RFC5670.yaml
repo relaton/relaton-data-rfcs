@@ -95,8 +95,8 @@ keyword:
 - content: threshold marking
 - content: pcn-threshold-rate
 - content: pcn-excess-rate
-editorialgroup:
-- name: pcn
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: pcn
   stream: IETF

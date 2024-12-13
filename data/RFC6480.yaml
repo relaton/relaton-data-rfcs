@@ -126,8 +126,8 @@ keyword:
 - content: RPKI
 - content: BGP
 - content: ROA
-editorialgroup:
-- name: sidr
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: sidr
   stream: IETF

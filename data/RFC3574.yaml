@@ -94,8 +94,8 @@ keyword:
 - content: ipv6
 - content: ipv4
 - content: internet
-editorialgroup:
-- name: v6ops
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: v6ops
   stream: IETF

@@ -237,8 +237,8 @@ keyword:
 - content: IP
 - content: tunnel
 - content: encapsulation
-editorialgroup:
-- name: pppext
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: pppext
   stream: IETF

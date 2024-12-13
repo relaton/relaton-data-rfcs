@@ -89,8 +89,8 @@ keyword:
 - content: itu-t
 - content: itu telecommunication standardization sector
 - content: transfer
-editorialgroup:
-- name: avt
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: avt
   stream: IETF

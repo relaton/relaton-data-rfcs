@@ -99,8 +99,8 @@ keyword:
 - content: ipv6 mib
 - content: icmp mib
 - content: icmpv6 mib
-editorialgroup:
-- name: ipv6
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ipv6
   stream: IETF

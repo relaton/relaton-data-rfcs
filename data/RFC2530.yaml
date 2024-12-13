@@ -87,8 +87,8 @@ keyword:
 - content: MDN
 - content: message disposition notification
 - content: delivery status notification
-editorialgroup:
-- name: fax
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: fax
   stream: IETF

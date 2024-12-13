@@ -85,8 +85,8 @@ series:
 keyword:
 - content: routing
 - content: IPv4
-editorialgroup:
-- name: rreq
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: rreq
   stream: IETF

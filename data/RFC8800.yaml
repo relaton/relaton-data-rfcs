@@ -182,8 +182,8 @@ keyword:
 - content: Disjoint
 - content: disjointness
 - content: association
-editorialgroup:
-- name: pce
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: pce
   stream: IETF

@@ -97,8 +97,8 @@ keyword:
 - content: Objective Function
 - content: DAG for Directed Acyclic Graph
 - content: RPL
-editorialgroup:
-- name: roll
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: roll
   stream: IETF

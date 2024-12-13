@@ -148,8 +148,8 @@ keyword:
 - content: Data
 - content: Structure
 - content: Schemo
-editorialgroup:
-- name: osids
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: osids
   stream: IETF

@@ -159,8 +159,8 @@ series:
     format: text/plain
 keyword:
 - content: production networks
-editorialgroup:
-- name: cdi
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: cdi
   stream: IETF

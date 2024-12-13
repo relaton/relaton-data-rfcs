@@ -120,8 +120,8 @@ keyword:
 - content: attacks
 - content: vulnerabilities
 - content: atomic fragments
-editorialgroup:
-- name: 6man
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: 6man
   stream: IETF

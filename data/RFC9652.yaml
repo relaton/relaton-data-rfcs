@@ -85,8 +85,8 @@ series:
     format: text/plain
 keyword:
 - content: link relation
-editorialgroup:
-- name: httpapi
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: httpapi
   stream: IETF

@@ -130,8 +130,8 @@ keyword:
 - content: IDN
 - content: Internationalized Domain Name
 - content: applications
-editorialgroup:
-- name: idn
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: idn
   stream: IETF

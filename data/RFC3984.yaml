@@ -227,8 +227,8 @@ series:
 keyword:
 - content: ITU-T Recommendation H.264
 - content: ISO/IEC International Standard 14496-10
-editorialgroup:
-- name: avt
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: avt
   stream: IETF

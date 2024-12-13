@@ -121,8 +121,8 @@ keyword:
 - content: service
 - content: providers
 - content: operations
-editorialgroup:
-- name: roamops
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: roamops
   stream: IETF

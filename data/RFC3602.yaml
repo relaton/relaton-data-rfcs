@@ -150,8 +150,8 @@ keyword:
 - content: encapsulating
 - content: security
 - content: payload
-editorialgroup:
-- name: ipsec
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ipsec
   stream: IETF

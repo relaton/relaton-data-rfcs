@@ -212,8 +212,8 @@ keyword:
 - content: OCSP
 - content: CRL
 - content: revocation
-editorialgroup:
-- name: acme
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: acme
   stream: IETF

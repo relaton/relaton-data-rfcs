@@ -201,8 +201,8 @@ keyword:
 - content: transport profile
 - content: extensible authentication protocol
 - content: radius
-editorialgroup:
-- name: aaa
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: aaa
   stream: IETF

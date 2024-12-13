@@ -105,8 +105,8 @@ keyword:
 - content: PMIPv6
 - content: FMI
 - content: FMA
-editorialgroup:
-- name: netext
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: netext
   stream: IETF

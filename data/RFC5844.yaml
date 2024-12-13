@@ -121,8 +121,8 @@ keyword:
 - content: Mobility
 - content: IPv4 Support
 - content: IPv4 Support for PMIPv6
-editorialgroup:
-- name: netlmm
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: netlmm
   stream: IETF

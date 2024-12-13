@@ -98,8 +98,8 @@ keyword:
 - content: RSVP-TE
 - content: Resource ReserVation Protocol
 - content: Traffic Engineering
-editorialgroup:
-- name: ccamp
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ccamp
   stream: IETF

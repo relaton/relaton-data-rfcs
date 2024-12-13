@@ -188,8 +188,8 @@ keyword:
 - content: Pull
 - content: RBridge
 - content: ARP
-editorialgroup:
-- name: trill
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: trill
   stream: IETF

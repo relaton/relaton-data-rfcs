@@ -118,8 +118,8 @@ keyword:
 - content: multipurpose internet mail extensions
 - content: time
 - content: media
-editorialgroup:
-- name: vpim
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: vpim
   stream: IETF

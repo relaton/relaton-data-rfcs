@@ -130,8 +130,8 @@ keyword:
 - content: MAP-E
 - content: DS-Lite
 - content: Lightweight 4 over 6
-editorialgroup:
-- name: softwire
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: softwire
   stream: IETF

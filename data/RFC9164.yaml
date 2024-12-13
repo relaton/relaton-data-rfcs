@@ -118,8 +118,8 @@ keyword:
 - content: data interchange format
 - content: interface address
 - content: zone identifier
-editorialgroup:
-- name: cbor
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: cbor
   stream: IETF

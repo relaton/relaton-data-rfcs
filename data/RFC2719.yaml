@@ -329,8 +329,8 @@ keyword:
 - content: gateway
 - content: media
 - content: circuit
-editorialgroup:
-- name: sigtran
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: sigtran
   stream: IETF

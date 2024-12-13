@@ -151,8 +151,8 @@ keyword:
 - content: Flow metering
 - content: Flow measurement
 - content: IPFIX mediator
-editorialgroup:
-- name: ipfix
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ipfix
   stream: IETF

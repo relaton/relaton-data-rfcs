@@ -87,8 +87,8 @@ series:
 keyword:
 - content: Internet Protocol
 - content: IPng
-editorialgroup:
-- name: pip
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: pip
   stream: IETF

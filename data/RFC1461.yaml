@@ -86,8 +86,8 @@ series:
     format: text/plain
 keyword:
 - content: X25-MIB
-editorialgroup:
-- name: x25mib
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: x25mib
   stream: IETF

@@ -103,8 +103,8 @@ keyword:
 - content: exporting process
 - content: collecting process
 - content: template records
-editorialgroup:
-- name: ipfix
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ipfix
   stream: IETF

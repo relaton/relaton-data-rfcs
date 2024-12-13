@@ -112,8 +112,8 @@ keyword:
 - content: Message Authentication Code
 - content: MAC
 - content: Unencoded Payload
-editorialgroup:
-- name: jose
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: jose
   stream: IETF

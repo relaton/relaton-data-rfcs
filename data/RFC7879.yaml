@@ -209,8 +209,8 @@ keyword:
 - content: B2BUA
 - content: Secure Real-time Transport
 - content: Datagram Transport Layer Security
-editorialgroup:
-- name: straw
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: straw
   stream: IETF

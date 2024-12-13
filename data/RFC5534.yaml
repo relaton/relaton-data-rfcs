@@ -119,8 +119,8 @@ keyword:
 - content: Shim6
 - content: reachability protocol
 - content: REAP
-editorialgroup:
-- name: shim6
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: shim6
   stream: IETF

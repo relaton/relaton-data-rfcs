@@ -185,8 +185,8 @@ keyword:
 - content: STARTTLS
 - content: DANE
 - content: TLSA
-editorialgroup:
-- name: uta
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: uta
   stream: IETF

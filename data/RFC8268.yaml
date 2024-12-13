@@ -119,8 +119,8 @@ keyword:
 - content: 4096-bit
 - content: 6144-bit
 - content: 8192-bit
-editorialgroup:
-- name: curdle
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: curdle
   stream: IETF

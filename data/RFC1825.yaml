@@ -98,8 +98,8 @@ keyword:
 - content: IPv6
 - content: IP-layer
 - content: ipsec
-editorialgroup:
-- name: ipsec
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ipsec
   stream: IETF

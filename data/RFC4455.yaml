@@ -209,8 +209,8 @@ keyword:
 - content: mib
 - content: management information base
 - content: scsi-mib
-editorialgroup:
-- name: ips
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ips
   stream: IETF

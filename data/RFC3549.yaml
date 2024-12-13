@@ -182,8 +182,8 @@ series:
     format: text/plain
 keyword:
 - content: internet protocol messaging system
-editorialgroup:
-- name: forces
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: forces
   stream: IETF

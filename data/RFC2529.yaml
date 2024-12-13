@@ -124,8 +124,8 @@ keyword:
 - content: addresses
 - content: internet protocol
 - content: ip
-editorialgroup:
-- name: ipngwg
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ipngwg
   stream: IETF

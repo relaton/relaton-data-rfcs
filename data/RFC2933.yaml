@@ -160,8 +160,8 @@ keyword:
 - content: Internet Group Management Protocol
 - content: MIB
 - content: management information base
-editorialgroup:
-- name: idmr
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: idmr
   stream: IETF

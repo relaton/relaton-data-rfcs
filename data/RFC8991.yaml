@@ -182,8 +182,8 @@ keyword:
 - content: Autonomic Networking
 - content: Autonomous Operation
 - content: Self-Management
-editorialgroup:
-- name: anima
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: anima
   stream: IETF

@@ -161,8 +161,8 @@ keyword:
 - content: Constrained RESTful Environments
 - content: pcim
 - content: Policy Core Information Model
-editorialgroup:
-- name: ipsp
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ipsp
   stream: IETF

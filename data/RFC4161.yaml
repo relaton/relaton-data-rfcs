@@ -220,8 +220,8 @@ keyword:
 - content: i-fax
 - content: offramp gateway
 - content: onramp gateway
-editorialgroup:
-- name: fax
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: fax
   stream: IETF

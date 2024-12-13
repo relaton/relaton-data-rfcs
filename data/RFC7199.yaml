@@ -181,8 +181,8 @@ keyword:
 - content: geolocation
 - content: privacy
 - content: policy
-editorialgroup:
-- name: geopriv
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: geopriv
   stream: IETF

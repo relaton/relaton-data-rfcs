@@ -103,8 +103,8 @@ keyword:
 - content: resource
 - content: records
 - content: rrs
-editorialgroup:
-- name: dnssec
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: dnssec
   stream: IETF

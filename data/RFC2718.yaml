@@ -189,8 +189,8 @@ keyword:
 - content: locator
 - content: syntax
 - content: semantics
-editorialgroup:
-- name: urlreg
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: urlreg
   stream: IETF

@@ -185,8 +185,8 @@ keyword:
 - content: AAK
 - content: EAP
 - content: Early-authentication
-editorialgroup:
-- name: hokey
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: hokey
   stream: IETF

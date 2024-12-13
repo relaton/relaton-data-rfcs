@@ -187,8 +187,8 @@ keyword:
 - content: flow identification
 - content: lip synchronization
 - content: ls
-editorialgroup:
-- name: mmusic
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mmusic
   stream: IETF

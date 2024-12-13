@@ -230,8 +230,8 @@ keyword:
 - content: defect indication
 - content: pseudowire
 - content: OAM
-editorialgroup:
-- name: pwe3
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: pwe3
   stream: IETF

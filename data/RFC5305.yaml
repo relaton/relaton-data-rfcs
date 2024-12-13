@@ -122,8 +122,8 @@ keyword:
 - content: router
 - content: lsp  data units
 - content: link state protocol data units
-editorialgroup:
-- name: isis
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: isis
   stream: IETF

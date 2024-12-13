@@ -179,8 +179,8 @@ series:
 keyword:
 - content: ike
 - content: internet key exchange
-editorialgroup:
-- name: kink
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: kink
   stream: IETF

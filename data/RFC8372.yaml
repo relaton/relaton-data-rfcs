@@ -208,8 +208,8 @@ keyword:
 - content: OAM
 - content: performance monitoring
 - content: flow identification
-editorialgroup:
-- name: mpls
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mpls
   stream: IETF

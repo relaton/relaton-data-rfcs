@@ -120,8 +120,8 @@ keyword:
 - content: Reconfigure-Request
 - content: Reconfigure-Reply
 - content: Link Address Option
-editorialgroup:
-- name: dhc
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: dhc
   stream: IETF

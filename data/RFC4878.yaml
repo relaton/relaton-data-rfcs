@@ -94,8 +94,8 @@ keyword:
 - content: ethernet in the first mile
 - content: snmp
 - content: DOT3-OAM-MIB
-editorialgroup:
-- name: hubmib
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: hubmib
   stream: IETF

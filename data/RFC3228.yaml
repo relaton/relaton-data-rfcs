@@ -93,8 +93,8 @@ keyword:
 - content: assigned
 - content: numbers
 - content: authority
-editorialgroup:
-- name: magma
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: magma
   stream: IETF

@@ -147,8 +147,8 @@ series:
 keyword:
 - content: end-to-end
 - content: connectivity
-editorialgroup:
-- name: ipatm
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ipatm
   stream: IETF

@@ -147,8 +147,8 @@ series:
 keyword:
 - content: syslog message
 - content: syslog security
-editorialgroup:
-- name: syslog
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: syslog
   stream: IETF

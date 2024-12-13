@@ -221,8 +221,8 @@ keyword:
 - content: application
 - content: media type
 - content: job
-editorialgroup:
-- name: ipp
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ipp
   stream: IETF

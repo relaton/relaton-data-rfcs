@@ -212,8 +212,8 @@ keyword:
 - content: Quality of Service
 - content: integrated differentiated
 - content: object oriented
-editorialgroup:
-- name: policy
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: policy
   stream: IETF

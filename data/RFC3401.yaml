@@ -102,8 +102,8 @@ keyword:
 - content: NAPTR
 - content: domain name system
 - content: RR
-editorialgroup:
-- name: urn
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: urn
   stream: IETF

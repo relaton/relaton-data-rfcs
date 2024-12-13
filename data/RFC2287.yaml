@@ -119,8 +119,8 @@ keyword:
 - content: System-Level Managed Objects for Applications
 - content: mib
 - content: management information base
-editorialgroup:
-- name: applmib
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: applmib
   stream: IETF

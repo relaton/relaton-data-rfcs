@@ -113,8 +113,8 @@ keyword:
 - content: tls transport model
 - content: tlstm
 - content: SNMP-TLS-TM-MIB
-editorialgroup:
-- name: isms
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: isms
   stream: IETF

@@ -91,8 +91,8 @@ keyword:
 - content: metrics
 - content: measurements
 - content: polling periods
-editorialgroup:
-- name: opstat
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: opstat
   stream: IETF

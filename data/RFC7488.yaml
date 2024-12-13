@@ -219,8 +219,8 @@ keyword:
 - content: Port Mapping
 - content: Shared Address
 - content: Multiple PCP Servers
-editorialgroup:
-- name: pcp
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: pcp
   stream: IETF

@@ -146,8 +146,8 @@ keyword:
 - content: PPP
 - content: point-to-point protocol
 - content: multiplexing
-editorialgroup:
-- name: pppext
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: pppext
   stream: IETF

@@ -140,8 +140,8 @@ keyword:
 - content: Point-to-Point Protocol
 - content: IPCP
 - content: Internet Protocol Control Protocol
-editorialgroup:
-- name: pppext
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: pppext
   stream: IETF

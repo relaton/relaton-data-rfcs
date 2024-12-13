@@ -193,8 +193,8 @@ keyword:
 - content: media-type
 - content: media
 - content: type
-editorialgroup:
-- name: ipp
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ipp
   stream: IETF

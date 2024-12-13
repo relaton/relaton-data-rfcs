@@ -100,8 +100,8 @@ keyword:
 - content: Authentication
 - content: Security
 - content: Layer
-editorialgroup:
-- name: acap
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: acap
   stream: IETF

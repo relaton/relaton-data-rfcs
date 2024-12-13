@@ -98,8 +98,8 @@ series:
     format: text/plain
 keyword:
 - content: Concise Data Definition Language
-editorialgroup:
-- name: cbor
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: cbor
   stream: IETF

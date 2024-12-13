@@ -152,8 +152,8 @@ keyword:
 - content: tcp
 - content: transport control protocol
 - content: boot server
-editorialgroup:
-- name: ips
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ips
   stream: IETF

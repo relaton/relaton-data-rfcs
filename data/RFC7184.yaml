@@ -156,8 +156,8 @@ keyword:
 - content: Routing
 - content: MANET
 - content: Optimized Link STate Routing Protocol version 2
-editorialgroup:
-- name: manet
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: manet
   stream: IETF

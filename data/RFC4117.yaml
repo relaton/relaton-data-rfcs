@@ -181,8 +181,8 @@ keyword:
 - content: hard of hearing
 - content: speech-impaired
 - content: hearing-impaired
-editorialgroup:
-- name: sipping
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: sipping
   stream: IETF

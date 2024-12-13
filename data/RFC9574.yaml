@@ -218,8 +218,8 @@ keyword:
 - content: Pruned Flood List
 - content: PFL
 - content: Pruned Flooding List
-editorialgroup:
-- name: bess
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: bess
   stream: IETF

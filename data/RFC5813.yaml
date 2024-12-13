@@ -89,8 +89,8 @@ keyword:
 - content: network element
 - content: ne
 - content: forces-mib
-editorialgroup:
-- name: forces
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: forces
   stream: IETF

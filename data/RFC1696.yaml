@@ -176,8 +176,8 @@ series:
     format: text/plain
 keyword:
 - content: MODEM-MIB
-editorialgroup:
-- name: modemmgt
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: modemmgt
   stream: IETF

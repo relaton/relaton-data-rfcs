@@ -148,8 +148,8 @@ keyword:
 - content: privacy
 - content: protection
 - content: guideline
-editorialgroup:
-- name: spwg
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: spwg
   stream: IETF

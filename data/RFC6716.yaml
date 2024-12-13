@@ -152,8 +152,8 @@ keyword:
 - content: music
 - content: lossy compression
 - content: VOIP
-editorialgroup:
-- name: codec
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: codec
   stream: IETF

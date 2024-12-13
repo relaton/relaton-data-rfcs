@@ -256,8 +256,8 @@ series:
     format: text/plain
 keyword:
 - content: domain name system
-editorialgroup:
-- name: enum
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: enum
   stream: IETF

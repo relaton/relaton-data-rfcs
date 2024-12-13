@@ -148,8 +148,8 @@ keyword:
 - content: PCP Server discovery
 - content: Port Mapping
 - content: Shared Address
-editorialgroup:
-- name: pcp
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: pcp
   stream: IETF

@@ -94,8 +94,8 @@ keyword:
 - content: LITERAL+
 - content: LITERAL-
 - content: APPENDLIMIT
-editorialgroup:
-- name: imapapnd
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: imapapnd
   stream: IETF

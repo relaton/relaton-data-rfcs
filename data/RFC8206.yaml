@@ -129,8 +129,8 @@ keyword:
 - content: SIDR
 - content: BGPsec
 - content: AS_PATH
-editorialgroup:
-- name: sidr
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: sidr
   stream: IETF

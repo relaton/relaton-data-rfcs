@@ -128,8 +128,8 @@ keyword:
 - content: 9-1-1
 - content: 1-1-2
 - content: ecrit
-editorialgroup:
-- name: ecrit
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ecrit
   stream: IETF

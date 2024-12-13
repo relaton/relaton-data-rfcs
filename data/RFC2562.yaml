@@ -120,8 +120,8 @@ keyword:
 - content: management information base
 - content: structure
 - content: telnet
-editorialgroup:
-- name: tn3270e
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: tn3270e
   stream: IETF

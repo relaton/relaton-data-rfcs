@@ -100,8 +100,8 @@ keyword:
 - content: dname
 - content: RR
 - content: resource records
-editorialgroup:
-- name: dnsind
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: dnsind
   stream: IETF

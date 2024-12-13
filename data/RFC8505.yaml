@@ -191,8 +191,8 @@ series:
     format: text/plain
 keyword:
 - content: Wi-Fi
-editorialgroup:
-- name: 6lo
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: 6lo
   stream: IETF

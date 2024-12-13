@@ -148,8 +148,8 @@ keyword:
 - content: Torture test
 - content: IPv6
 - content: SIP
-editorialgroup:
-- name: sipping
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: sipping
   stream: IETF

@@ -88,8 +88,8 @@ keyword:
 - content: JSON
 - content: Geospatial
 - content: JavaScript Object Notation
-editorialgroup:
-- name: geojson
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: geojson
   stream: IETF

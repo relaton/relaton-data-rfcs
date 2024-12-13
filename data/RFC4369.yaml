@@ -193,8 +193,8 @@ keyword:
 - content: simple network management protocol
 - content: ifcp gateway
 - content: ifcp-mgmt-mib
-editorialgroup:
-- name: ips
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ips
   stream: IETF

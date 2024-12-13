@@ -110,8 +110,8 @@ keyword:
 - content: internet protocol
 - content: ipdv
 - content: IP Packet Delay Variation
-editorialgroup:
-- name: ippm
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ippm
   stream: IETF

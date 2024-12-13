@@ -94,8 +94,8 @@ keyword:
 - content: delivery
 - content: mechanism
 - content: encapsulation
-editorialgroup:
-- name: edi
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: edi
   stream: IETF

@@ -92,8 +92,8 @@ keyword:
 - content: security
 - content: gateway
 - content: traffic
-editorialgroup:
-- name: mboned
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mboned
   stream: IETF

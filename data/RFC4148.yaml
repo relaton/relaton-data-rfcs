@@ -106,8 +106,8 @@ keyword:
 - content: internet protocol
 - content: object identities
 - content: iana-ippm-metrics-registry-mib
-editorialgroup:
-- name: ippm
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ippm
   stream: IETF

@@ -86,8 +86,8 @@ series:
 keyword:
 - content: Uniform Resource Identifier
 - content: URI
-editorialgroup:
-- name: appsawg
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: appsawg
   stream: IETF

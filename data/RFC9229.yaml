@@ -91,8 +91,8 @@ keyword:
 - content: double-stack
 - content: dual-stack
 - content: glorious IPv6-only future
-editorialgroup:
-- name: babel
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: babel
   stream: IETF

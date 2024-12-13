@@ -93,8 +93,8 @@ keyword:
 - content: VBR
 - content: Authentication
 - content: Reputation
-editorialgroup:
-- name: dmarc
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: dmarc
   stream: IETF

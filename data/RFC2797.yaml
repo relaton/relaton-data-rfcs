@@ -190,8 +190,8 @@ keyword:
 - content: protocol
 - content: cryptology
 - content: syntax
-editorialgroup:
-- name: pkix
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: pkix
   stream: IETF

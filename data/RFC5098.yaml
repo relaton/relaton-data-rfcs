@@ -152,8 +152,8 @@ keyword:
 - content: simple network management protocol
 - content: packetcable-compliant
 - content: ipcablecom-compliant
-editorialgroup:
-- name: ipcdn
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ipcdn
   stream: IETF

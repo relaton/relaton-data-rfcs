@@ -220,8 +220,8 @@ keyword:
 - content: x.509
 - content: asn.1
 - content: subjectPubicKeyInfo
-editorialgroup:
-- name: pkix
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: pkix
   stream: IETF

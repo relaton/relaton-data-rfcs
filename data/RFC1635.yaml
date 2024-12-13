@@ -153,8 +153,8 @@ keyword:
 - content: File
 - content: Transfer
 - content: Protocol
-editorialgroup:
-- name: iafa
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: iafa
   stream: IETF

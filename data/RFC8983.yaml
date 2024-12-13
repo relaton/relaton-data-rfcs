@@ -106,8 +106,8 @@ keyword:
 - content: TS.24302
 - content: PDP context
 - content: PDP type
-editorialgroup:
-- name: ipsecme
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ipsecme
   stream: IETF

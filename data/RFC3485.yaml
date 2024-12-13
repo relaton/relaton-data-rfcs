@@ -223,8 +223,8 @@ keyword:
 - content: SigComp
 - content: Static Dictionary for Signaling Compression
 - content: algorithm
-editorialgroup:
-- name: sipping
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: sipping
   stream: IETF

@@ -153,8 +153,8 @@ series:
     format: text/plain
 keyword:
 - content: Internet Key Exchange Protocol version 2
-editorialgroup:
-- name: dime
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: dime
   stream: IETF

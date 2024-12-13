@@ -128,8 +128,8 @@ keyword:
 - content: tcpng
 - content: transport
 - content: transport-ng
-editorialgroup:
-- name: quic
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: quic
   stream: IETF

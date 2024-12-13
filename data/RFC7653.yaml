@@ -164,8 +164,8 @@ keyword:
 - content: IPv6
 - content: ACTIVELEASEQUERY
 - content: DHCPv6
-editorialgroup:
-- name: dhc
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: dhc
   stream: IETF

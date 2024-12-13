@@ -224,8 +224,8 @@ keyword:
 - content: SR-MPLS
 - content: SRv6
 - content: Traffic Engineering
-editorialgroup:
-- name: spring
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: spring
   stream: IETF

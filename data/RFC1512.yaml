@@ -130,8 +130,8 @@ keyword:
 - content: FDDI-MIB
 - content: MIB
 - content: SNMP
-editorialgroup:
-- name: fddimib
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: fddimib
   stream: IETF

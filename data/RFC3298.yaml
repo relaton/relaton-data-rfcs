@@ -189,8 +189,8 @@ series:
     format: text/plain
 keyword:
 - content: support
-editorialgroup:
-- name: spirits
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: spirits
   stream: IETF

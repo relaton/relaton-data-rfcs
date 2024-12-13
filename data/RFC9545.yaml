@@ -215,8 +215,8 @@ keyword:
 - content: End-to-End Path Protection
 - content: SR Path Segment
 - content: Path Segment
-editorialgroup:
-- name: spring
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: spring
   stream: IETF

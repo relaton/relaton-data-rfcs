@@ -118,8 +118,8 @@ keyword:
 - content: IMAP4
 - content: LIST
 - content: MYRIGHTS
-editorialgroup:
-- name: extra
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: extra
   stream: IETF

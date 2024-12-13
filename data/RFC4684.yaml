@@ -282,8 +282,8 @@ keyword:
 - content: mp-bgp
 - content: bgp speakers
 - content: route target
-editorialgroup:
-- name: l3vpn
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: l3vpn
   stream: IETF

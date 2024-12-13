@@ -214,8 +214,8 @@ keyword:
 - content: IRR
 - content: Routing Policy Specification Language
 - content: RPSL
-editorialgroup:
-- name: grow
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: grow
   stream: IETF

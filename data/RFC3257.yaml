@@ -94,8 +94,8 @@ keyword:
 - content: transport
 - content: nat
 - content: multihoming
-editorialgroup:
-- name: sigtran
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: sigtran
   stream: IETF

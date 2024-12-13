@@ -94,8 +94,8 @@ keyword:
 - content: gmpls
 - content: generalized multiprotocol label switching
 - content: l1vpn bm
-editorialgroup:
-- name: l1vpn
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: l1vpn
   stream: IETF

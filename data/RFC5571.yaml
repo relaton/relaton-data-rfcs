@@ -244,8 +244,8 @@ keyword:
 - content: 6over4
 - content: L2TP softwires
 - content: L2TPv2 softwires
-editorialgroup:
-- name: softwire
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: softwire
   stream: IETF

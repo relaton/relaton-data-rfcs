@@ -150,8 +150,8 @@ keyword:
 - content: lightweight
 - content: directory
 - content: access
-editorialgroup:
-- name: svrloc
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: svrloc
   stream: IETF

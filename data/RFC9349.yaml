@@ -119,8 +119,8 @@ keyword:
 - content: MIB
 - content: IPsec
 - content: IP-TRAFFIC-FLOW-SECURITY-MIB
-editorialgroup:
-- name: ipsecme
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ipsecme
   stream: IETF

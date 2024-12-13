@@ -90,8 +90,8 @@ keyword:
 - content: resource
 - content: transit domain
 - content: stub domain
-editorialgroup:
-- name: ieprep
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ieprep
   stream: IETF

@@ -122,8 +122,8 @@ keyword:
 - content: pre-position
 - content: invalidate
 - content: purge
-editorialgroup:
-- name: cdni
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: cdni
   stream: IETF

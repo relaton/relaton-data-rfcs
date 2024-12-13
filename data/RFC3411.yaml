@@ -156,8 +156,8 @@ keyword:
 - content: ARCH-SNMP
 - content: Architecture
 - content: simple network management protocol
-editorialgroup:
-- name: snmpv3
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: snmpv3
   stream: IETF

@@ -125,8 +125,8 @@ keyword:
 - content: FMIP
 - content: handoff
 - content: 3GPP2
-editorialgroup:
-- name: mipshop
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mipshop
   stream: IETF

@@ -183,8 +183,8 @@ keyword:
 - content: trust anchor
 - content: TAM
 - content: confidential computing
-editorialgroup:
-- name: teep
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: teep
   stream: IETF

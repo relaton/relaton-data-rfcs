@@ -220,8 +220,8 @@ keyword:
 - content: Lightweight 4over6
 - content: MAP-E
 - content: MAP-T
-editorialgroup:
-- name: v6ops
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: v6ops
   stream: IETF

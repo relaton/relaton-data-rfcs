@@ -138,8 +138,8 @@ keyword:
 - content: APEX
 - content: Application Exchange
 - content: endpoint
-editorialgroup:
-- name: apex
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: apex
   stream: IETF

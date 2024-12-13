@@ -107,8 +107,8 @@ keyword:
 - content: access router
 - content: mobile node
 - content: mn
-editorialgroup:
-- name: mipshop
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mipshop
   stream: IETF

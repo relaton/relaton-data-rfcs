@@ -152,8 +152,8 @@ keyword:
 - content: L1VPN BGP-TE
 - content: BGP-TE-VPN
 - content: VPN BGP Traffic Engineering Attribute
-editorialgroup:
-- name: softwire
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: softwire
   stream: IETF

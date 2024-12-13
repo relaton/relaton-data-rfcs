@@ -163,8 +163,8 @@ keyword:
 - content: Network Time Protocol
 - content: PTP
 - content: Precision Time Protocol
-editorialgroup:
-- name: cbor
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: cbor
   stream: IETF

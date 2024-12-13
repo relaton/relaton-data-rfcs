@@ -100,8 +100,8 @@ keyword:
 - content: SCVP
 - content: Server-based Certificate Validation Protocol
 - content: PKI artifact preservation
-editorialgroup:
-- name: ltans
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ltans
   stream: IETF

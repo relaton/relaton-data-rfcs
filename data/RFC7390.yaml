@@ -125,8 +125,8 @@ keyword:
 - content: IP multicast
 - content: RESTful
 - content: Internet of Things (IoT)
-editorialgroup:
-- name: core
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: core
   stream: IETF

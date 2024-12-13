@@ -100,8 +100,8 @@ keyword:
 - content: Route-Over
 - content: mesh
 - content: IoT
-editorialgroup:
-- name: 6lo
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: 6lo
   stream: IETF

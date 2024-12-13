@@ -131,8 +131,8 @@ keyword:
 - content: source address selection
 - content: HIT prefix
 - content: locator handling
-editorialgroup:
-- name: hip
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: hip
   stream: IETF

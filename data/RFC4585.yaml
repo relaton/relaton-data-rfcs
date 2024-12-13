@@ -216,8 +216,8 @@ keyword:
 - content: media stream
 - content: feedback based error
 - content: audio visual profile
-editorialgroup:
-- name: avt
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: avt
   stream: IETF

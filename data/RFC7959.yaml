@@ -149,8 +149,8 @@ keyword:
 - content: Smart Object
 - content: Embedded Internet
 - content: Constrained Node
-editorialgroup:
-- name: core
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: core
   stream: IETF

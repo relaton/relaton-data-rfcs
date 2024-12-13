@@ -177,8 +177,8 @@ keyword:
 - content: RTFM
 - content: real-time traffic flow measurement
 - content: network
-editorialgroup:
-- name: rtfm
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: rtfm
   stream: IETF

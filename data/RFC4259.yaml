@@ -223,8 +223,8 @@ keyword:
 - content: digital video broadcast
 - content: atsc
 - content: advanced television systems committee
-editorialgroup:
-- name: ipdvb
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ipdvb
   stream: IETF

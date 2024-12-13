@@ -119,8 +119,8 @@ keyword:
 - content: IGP
 - content: loop-avoidance
 - content: mesh network
-editorialgroup:
-- name: babel
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: babel
   stream: IETF

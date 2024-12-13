@@ -100,8 +100,8 @@ keyword:
 - content: information sharing
 - content: automated information sharing
 - content: cyber indicators
-editorialgroup:
-- name: mile
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mile
   stream: IETF

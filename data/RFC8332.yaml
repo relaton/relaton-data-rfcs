@@ -112,8 +112,8 @@ keyword:
 - content: server-sig-algs
 - content: signature
 - content: authentication
-editorialgroup:
-- name: curdle
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: curdle
   stream: IETF

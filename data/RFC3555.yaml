@@ -142,8 +142,8 @@ keyword:
 - content: real time transport protocol
 - content: MIME
 - content: multipurpose internet mail extensions
-editorialgroup:
-- name: avt
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: avt
   stream: IETF

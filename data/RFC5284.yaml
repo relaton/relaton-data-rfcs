@@ -121,8 +121,8 @@ keyword:
 - content: resource reservation protocol
 - content: user_error_spec
 - content: error_spec
-editorialgroup:
-- name: tsvwg
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: tsvwg
   stream: IETF

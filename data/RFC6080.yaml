@@ -125,8 +125,8 @@ keyword:
 - content: Framework
 - content: User Agent
 - content: profile
-editorialgroup:
-- name: sipping
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: sipping
   stream: IETF

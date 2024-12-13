@@ -122,8 +122,8 @@ keyword:
 - content: SUBSCRIBE
 - content: NOTIFY
 - content: state
-editorialgroup:
-- name: sipcore
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: sipcore
   stream: IETF

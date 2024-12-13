@@ -158,8 +158,8 @@ keyword:
 - content: host server
 - content: intra-domain
 - content: inter-domain
-editorialgroup:
-- name: malloc
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: malloc
   stream: IETF

@@ -117,8 +117,8 @@ series:
     format: text/plain
 keyword:
 - content: 802.4-MIP
-editorialgroup:
-- name: snmp
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: snmp
   stream: IETF

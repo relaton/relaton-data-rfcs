@@ -149,8 +149,8 @@ series:
 keyword:
 - content: port-to-port
 - content: vlan
-editorialgroup:
-- name: l2tpext
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: l2tpext
   stream: IETF

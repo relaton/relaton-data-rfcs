@@ -116,8 +116,8 @@ series:
     format: text/plain
 keyword:
 - content: lcaf
-editorialgroup:
-- name: lisp
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: lisp
   stream: IETF

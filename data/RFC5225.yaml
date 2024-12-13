@@ -128,8 +128,8 @@ keyword:
 - content: '3095'
 - content: '3843'
 - content: '4019'
-editorialgroup:
-- name: rohc
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: rohc
   stream: IETF

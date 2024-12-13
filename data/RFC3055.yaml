@@ -117,8 +117,8 @@ keyword:
 - content: Management Information Base
 - content: PINT
 - content: PSTN/Internet Interworking Services Architecture
-editorialgroup:
-- name: pint
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: pint
   stream: IETF

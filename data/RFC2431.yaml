@@ -90,8 +90,8 @@ keyword:
 - content: International Telecommunication Union
 - content: multicast
 - content: unicast
-editorialgroup:
-- name: avt
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: avt
   stream: IETF

@@ -148,8 +148,8 @@ keyword:
 - content: dynamic
 - content: protocol
 - content: mapping
-editorialgroup:
-- name: lsma
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: lsma
   stream: IETF

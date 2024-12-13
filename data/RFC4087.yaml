@@ -92,8 +92,8 @@ keyword:
 - content: management information base
 - content: internet protocol
 - content: tunnel-mib
-editorialgroup:
-- name: ipv6
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ipv6
   stream: IETF

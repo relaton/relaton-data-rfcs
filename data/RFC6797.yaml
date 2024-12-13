@@ -159,8 +159,8 @@ keyword:
 - content: security policy
 - content: secure transport
 - content: IDNA-Canonicalization
-editorialgroup:
-- name: websec
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: websec
   stream: IETF

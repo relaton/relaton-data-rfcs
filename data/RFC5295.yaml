@@ -187,8 +187,8 @@ keyword:
 - content: DSUSRK
 - content: Domain-Specific Key Derivation
 - content: Usage-Specific Key Derivation
-editorialgroup:
-- name: hokey
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: hokey
   stream: IETF

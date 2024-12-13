@@ -214,8 +214,8 @@ keyword:
 - content: ddp
 - content: direct data placement protocol
 - content: transmission
-editorialgroup:
-- name: rddp
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: rddp
   stream: IETF

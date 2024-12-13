@@ -152,8 +152,8 @@ keyword:
 - content: SNMP
 - content: Secure Shell
 - content: SSH
-editorialgroup:
-- name: isms
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: isms
   stream: IETF

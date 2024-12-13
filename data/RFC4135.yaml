@@ -123,8 +123,8 @@ keyword:
 - content: dna
 - content: detecting attachment links
 - content: change detection
-editorialgroup:
-- name: dna
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: dna
   stream: IETF

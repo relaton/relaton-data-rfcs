@@ -157,8 +157,8 @@ keyword:
 - content: GCM
 - content: CCM
 - content: ChaCha20
-editorialgroup:
-- name: ipsecme
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ipsecme
   stream: IETF

@@ -181,8 +181,8 @@ keyword:
 - content: ipv6 neighbor discovery
 - content: map
 - content: mobility anchor point
-editorialgroup:
-- name: mipshop
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mipshop
   stream: IETF

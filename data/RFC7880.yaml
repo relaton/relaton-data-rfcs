@@ -222,8 +222,8 @@ keyword:
 - content: negotiation free
 - content: segment routing
 - content: IP
-editorialgroup:
-- name: bfd
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: bfd
   stream: IETF

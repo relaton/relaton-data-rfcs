@@ -172,8 +172,8 @@ keyword:
 - content: ATM
 - content: asynchronous transfer mode
 - content: adaptation layer
-editorialgroup:
-- name: l2tpext
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: l2tpext
   stream: IETF

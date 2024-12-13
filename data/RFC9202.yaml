@@ -215,8 +215,8 @@ keyword:
 - content: IOT
 - content: OAuth
 - content: Access Token
-editorialgroup:
-- name: ace
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ace
   stream: IETF

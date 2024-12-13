@@ -130,8 +130,8 @@ keyword:
 - content: Management
 - content: Information
 - content: Base
-editorialgroup:
-- name: madman
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: madman
   stream: IETF

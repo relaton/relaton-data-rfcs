@@ -240,8 +240,8 @@ series:
     format: text/plain
 keyword:
 - content: SIPs
-editorialgroup:
-- name: tram
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: tram
   stream: IETF

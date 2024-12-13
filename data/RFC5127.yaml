@@ -153,8 +153,8 @@ series:
 keyword:
 - content: Treatment Aggregate
 - content: forwarding treatment
-editorialgroup:
-- name: tsvwg
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: tsvwg
   stream: IETF

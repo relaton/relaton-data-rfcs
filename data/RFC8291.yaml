@@ -89,8 +89,8 @@ keyword:
 - content: notification
 - content: http
 - content: encryption
-editorialgroup:
-- name: webpush
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: webpush
   stream: IETF

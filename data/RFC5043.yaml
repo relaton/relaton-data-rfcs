@@ -117,8 +117,8 @@ series:
 keyword:
 - content: lower layer protocol
 - content: llp
-editorialgroup:
-- name: rddp
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: rddp
   stream: IETF

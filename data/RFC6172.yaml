@@ -132,8 +132,8 @@ series:
     format: text/plain
 keyword:
 - content: FCIP
-editorialgroup:
-- name: storm
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: storm
   stream: IETF

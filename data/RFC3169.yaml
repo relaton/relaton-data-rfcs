@@ -120,8 +120,8 @@ keyword:
 - content: authentication
 - content: authorization
 - content: accounting
-editorialgroup:
-- name: nasreq
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: nasreq
   stream: IETF

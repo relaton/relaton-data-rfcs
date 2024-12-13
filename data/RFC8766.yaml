@@ -86,8 +86,8 @@ series:
 keyword:
 - content: Multicast DNS
 - content: DNS-Based Service Discovery
-editorialgroup:
-- name: dnssd
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: dnssd
   stream: IETF

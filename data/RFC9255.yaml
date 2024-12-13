@@ -115,8 +115,8 @@ series:
     format: text/plain
 keyword:
 - content: Resource Public Key Infrastructure
-editorialgroup:
-- name: sidrops
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: sidrops
   stream: IETF

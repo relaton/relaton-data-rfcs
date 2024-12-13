@@ -95,8 +95,8 @@ keyword:
 - content: load-sharing
 - content: failover
 - content: hot-standby
-editorialgroup:
-- name: ipsecme
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ipsecme
   stream: IETF

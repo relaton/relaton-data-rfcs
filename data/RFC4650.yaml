@@ -95,8 +95,8 @@ keyword:
 - content: Diffie-Hellman
 - content: key agreement
 - content: HMAC
-editorialgroup:
-- name: msec
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: msec
   stream: IETF

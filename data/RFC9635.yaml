@@ -119,8 +119,8 @@ keyword:
 - content: authentication
 - content: delegation
 - content: security
-editorialgroup:
-- name: gnap
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: gnap
   stream: IETF

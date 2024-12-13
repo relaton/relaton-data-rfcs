@@ -272,8 +272,8 @@ keyword:
 - content: Network Topology
 - content: IS-IS
 - content: OSPF
-editorialgroup:
-- name: rtgwg
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: rtgwg
   stream: IETF

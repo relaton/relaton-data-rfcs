@@ -98,8 +98,8 @@ keyword:
 - content: RMON-MIB
 - content: MIB
 - content: RMON
-editorialgroup:
-- name: rmonmib
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: rmonmib
   stream: IETF

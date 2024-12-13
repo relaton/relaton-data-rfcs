@@ -147,8 +147,8 @@ keyword:
 - content: Bunyip Information Systems
 - content: Inc.
 - content: MCNC Center for Communications
-editorialgroup:
-- name: wnils
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: wnils
   stream: IETF

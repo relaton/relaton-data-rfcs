@@ -186,8 +186,8 @@ keyword:
 - content: Service Model
 - content: L2VPN SM
 - content: L2VPN Service Model
-editorialgroup:
-- name: l2sm
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: l2sm
   stream: IETF

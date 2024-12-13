@@ -194,8 +194,8 @@ keyword:
 - content: names
 - content: namespaces
 - content: syntax
-editorialgroup:
-- name: urn
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: urn
   stream: IETF

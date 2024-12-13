@@ -88,8 +88,8 @@ keyword:
 - content: VPIM
 - content: Voice Profile for Internet Mail
 - content: formats
-editorialgroup:
-- name: vpim
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: vpim
   stream: IETF

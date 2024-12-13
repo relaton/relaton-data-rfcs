@@ -180,8 +180,8 @@ keyword:
 - content: identifiers
 - content: address
 - content: registries
-editorialgroup:
-- name: ipngwg
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ipngwg
   stream: IETF

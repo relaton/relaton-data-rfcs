@@ -88,8 +88,8 @@ keyword:
 - content: memorandum of understanding
 - content: internet
 - content: corporation for assigned names and numbers
-editorialgroup:
-- name: Poisson
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: Poisson
   stream: IETF

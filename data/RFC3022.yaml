@@ -120,8 +120,8 @@ keyword:
 - content: protocol
 - content: ports
 - content: private
-editorialgroup:
-- name: nat
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: nat
   stream: IETF

@@ -118,8 +118,8 @@ keyword:
 - content: fec
 - content: loss-tolerant congestion control
 - content: next generation
-editorialgroup:
-- name: quic
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: quic
   stream: IETF

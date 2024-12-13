@@ -155,8 +155,8 @@ series:
 keyword:
 - content: Attestation
 - content: TPM
-editorialgroup:
-- name: rats
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: rats
   stream: IETF

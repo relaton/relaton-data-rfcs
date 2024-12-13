@@ -155,8 +155,8 @@ keyword:
 - content: media gateway protocol
 - content: st
 - content: signalling gateway
-editorialgroup:
-- name: sigtran
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: sigtran
   stream: IETF

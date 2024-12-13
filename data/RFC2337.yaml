@@ -152,8 +152,8 @@ keyword:
 - content: asynchronous transfer mode
 - content: PIM
 - content: Protocol Independent Multicast
-editorialgroup:
-- name: ion
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ion
   stream: IETF

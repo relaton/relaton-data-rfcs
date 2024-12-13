@@ -121,8 +121,8 @@ keyword:
 - content: dos
 - content: ddos
 - content: bitcoin
-editorialgroup:
-- name: ipsecme
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ipsecme
   stream: IETF

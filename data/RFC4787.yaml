@@ -125,8 +125,8 @@ keyword:
 - content: nat
 - content: sip
 - content: udp
-editorialgroup:
-- name: behave
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: behave
   stream: IETF

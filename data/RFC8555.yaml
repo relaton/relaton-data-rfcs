@@ -184,8 +184,8 @@ keyword:
 - content: HTTPS
 - content: PKI
 - content: X.509
-editorialgroup:
-- name: acme
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: acme
   stream: IETF

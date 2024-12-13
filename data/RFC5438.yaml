@@ -123,8 +123,8 @@ keyword:
 - content: instant messaging
 - content: cpim
 - content: common presence and instant messaging
-editorialgroup:
-- name: simple
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: simple
   stream: IETF

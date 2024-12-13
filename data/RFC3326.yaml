@@ -155,8 +155,8 @@ keyword:
 - content: Session Initiation Protocol
 - content: heterogeneous error response forking problem
 - content: herfp
-editorialgroup:
-- name: sip
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: sip
   stream: IETF

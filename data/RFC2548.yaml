@@ -90,8 +90,8 @@ keyword:
 - content: user
 - content: service
 - content: dial-in
-editorialgroup:
-- name: radius
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: radius
   stream: IETF

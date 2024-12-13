@@ -237,8 +237,8 @@ keyword:
 - content: Additional Call Data
 - content: Emergency Services
 - content: Call Information
-editorialgroup:
-- name: ecrit
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ecrit
   stream: IETF

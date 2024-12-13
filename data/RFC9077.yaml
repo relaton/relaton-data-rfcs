@@ -130,8 +130,8 @@ keyword:
 - content: DNSSEC
 - content: negative cache
 - content: Denial of Existence
-editorialgroup:
-- name: dnsop
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: dnsop
   stream: IETF

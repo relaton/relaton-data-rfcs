@@ -89,8 +89,8 @@ series:
 keyword:
 - content: digital signature
 - content: message content
-editorialgroup:
-- name: lamps
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: lamps
   stream: IETF

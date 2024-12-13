@@ -210,8 +210,8 @@ keyword:
 - content: Internet
 - content: Server
 - content: Provider
-editorialgroup:
-- name: roamops
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: roamops
   stream: IETF

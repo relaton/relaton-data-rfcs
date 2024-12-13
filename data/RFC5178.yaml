@@ -125,8 +125,8 @@ keyword:
 - content: domain-based-name
 - content: gss-domain-based-services
 - content: GSS_C_NT_DOMAINBASED_SERVICE
-editorialgroup:
-- name: kitten
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: kitten
   stream: IETF

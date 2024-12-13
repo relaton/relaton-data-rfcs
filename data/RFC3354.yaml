@@ -84,8 +84,8 @@ keyword:
 - content: messaging
 - content: commerce
 - content: sale
-editorialgroup:
-- name: trade
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: trade
   stream: IETF

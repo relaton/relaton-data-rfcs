@@ -190,8 +190,8 @@ series:
     format: text/plain
 keyword:
 - content: ipfix information model
-editorialgroup:
-- name: ipfix
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ipfix
   stream: IETF

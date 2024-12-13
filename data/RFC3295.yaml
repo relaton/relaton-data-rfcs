@@ -151,8 +151,8 @@ keyword:
 - content: controller
 - content: gsmp-mib
 - content: General Switch Management Protocol
-editorialgroup:
-- name: gsmp
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: gsmp
   stream: IETF

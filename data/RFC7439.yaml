@@ -128,8 +128,8 @@ keyword:
 - content: RSVP
 - content: L3VPN
 - content: L2VPN
-editorialgroup:
-- name: mpls
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mpls
   stream: IETF

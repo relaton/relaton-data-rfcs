@@ -152,8 +152,8 @@ keyword:
 - content: Stream Control Transmission Protocol
 - content: TLS
 - content: Transport Layer Security
-editorialgroup:
-- name: tsvwg
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: tsvwg
   stream: IETF

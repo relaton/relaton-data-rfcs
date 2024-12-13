@@ -209,8 +209,8 @@ series:
     format: text/plain
 keyword:
 - content: CBOR
-editorialgroup:
-- name: core
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: core
   stream: IETF

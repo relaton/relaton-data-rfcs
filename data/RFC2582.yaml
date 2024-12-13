@@ -128,8 +128,8 @@ keyword:
 - content: Transmission
 - content: Control
 - content: Protocol
-editorialgroup:
-- name: tcpimpl
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: tcpimpl
   stream: IETF

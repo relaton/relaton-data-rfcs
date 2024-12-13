@@ -974,8 +974,8 @@ keyword:
 - content: deprecate
 - content: TLSv1.0
 - content: TLSv1.1
-editorialgroup:
-- name: tls
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: tls
   stream: IETF

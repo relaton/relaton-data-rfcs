@@ -130,8 +130,8 @@ series:
     format: text/plain
 keyword:
 - content: Lang-Tag
-editorialgroup:
-- name: ltru
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ltru
   stream: IETF

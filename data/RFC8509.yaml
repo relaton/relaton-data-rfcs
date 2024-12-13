@@ -158,8 +158,8 @@ keyword:
 - content: root-key-sentinel-not-ta-
 - content: root key
 - content: security
-editorialgroup:
-- name: dnsop
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: dnsop
   stream: IETF

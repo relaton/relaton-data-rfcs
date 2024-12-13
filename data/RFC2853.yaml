@@ -127,8 +127,8 @@ series:
 keyword:
 - content: GSS-API
 - content: Generic Security Service Application Program Interface
-editorialgroup:
-- name: cat
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: cat
   stream: IETF

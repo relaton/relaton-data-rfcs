@@ -94,8 +94,8 @@ keyword:
 - content: internet voice messaging
 - content: voice profile for internet mail
 - content: vpim
-editorialgroup:
-- name: vpim
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: vpim
   stream: IETF

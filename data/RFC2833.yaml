@@ -138,8 +138,8 @@ keyword:
 - content: real-time application protocol
 - content: DTMF
 - content: dual-tone multifrequency
-editorialgroup:
-- name: avt
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: avt
   stream: IETF

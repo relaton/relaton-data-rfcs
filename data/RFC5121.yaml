@@ -216,8 +216,8 @@ series:
 keyword:
 - content: Neighbor Discovery
 - content: Per-MS Perfix
-editorialgroup:
-- name: 16ng
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: 16ng
   stream: IETF

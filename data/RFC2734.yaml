@@ -96,8 +96,8 @@ keyword:
 - content: multicast
 - content: IEEE
 - content: Institute of Electrical and Electronics Engineers
-editorialgroup:
-- name: ip1394
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ip1394
   stream: IETF

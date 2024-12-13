@@ -163,8 +163,8 @@ keyword:
 - content: transmission control message
 - content: digest
 - content: algorithm
-editorialgroup:
-- name: tcpm
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: tcpm
   stream: IETF

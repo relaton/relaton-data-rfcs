@@ -90,8 +90,8 @@ keyword:
 - content: dynamic host configuration protocol
 - content: high performance
 - content: serial bus
-editorialgroup:
-- name: ip1394
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ip1394
   stream: IETF

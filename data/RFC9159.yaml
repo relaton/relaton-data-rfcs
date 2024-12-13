@@ -192,8 +192,8 @@ keyword:
 - content: Low power
 - content: IoT
 - content: Internet of Things
-editorialgroup:
-- name: 6lo
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: 6lo
   stream: IETF

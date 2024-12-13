@@ -131,8 +131,8 @@ keyword:
 - content: contacts
 - content: vCard
 - content: jCard
-editorialgroup:
-- name: calext
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: calext
   stream: IETF

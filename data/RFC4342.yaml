@@ -151,8 +151,8 @@ keyword:
 - content: ecn
 - content: explicit congestion notification
 - content: ccid3
-editorialgroup:
-- name: dccp
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: dccp
   stream: IETF

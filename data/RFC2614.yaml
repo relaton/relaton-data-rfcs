@@ -117,8 +117,8 @@ keyword:
 - content: application
 - content: program
 - content: interface
-editorialgroup:
-- name: svrloc
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: svrloc
   stream: IETF

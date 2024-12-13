@@ -121,8 +121,8 @@ series:
 keyword:
 - content: publish-subscribe
 - content: authorization information format
-editorialgroup:
-- name: ace
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ace
   stream: IETF

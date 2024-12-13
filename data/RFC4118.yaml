@@ -149,8 +149,8 @@ series:
 keyword:
 - content: IEEE 802.11
 - content: wireless lan
-editorialgroup:
-- name: capwap
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: capwap
   stream: IETF

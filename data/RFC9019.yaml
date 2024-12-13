@@ -186,8 +186,8 @@ keyword:
 - content: constrained
 - content: Secure
 - content: Boot
-editorialgroup:
-- name: suit
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: suit
   stream: IETF

@@ -132,8 +132,8 @@ keyword:
 - content: Application-Based Network Operation
 - content: TE
 - content: Traffic Engineering
-editorialgroup:
-- name: pce
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: pce
   stream: IETF

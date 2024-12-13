@@ -146,8 +146,8 @@ keyword:
 - content: Sieve
 - content: SIP
 - content: notification
-editorialgroup:
-- name: sieve
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: sieve
   stream: IETF

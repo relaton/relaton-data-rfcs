@@ -149,8 +149,8 @@ series:
 keyword:
 - content: ecdh
 - content: elliptic curve diffie-hellman
-editorialgroup:
-- name: krb-wg
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: krb-wg
   stream: IETF

@@ -236,8 +236,8 @@ series:
 keyword:
 - content: HTTP
 - content: authentication
-editorialgroup:
-- name: httpauth
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: httpauth
   stream: IETF

@@ -206,8 +206,8 @@ series:
 keyword:
 - content: nvo3
 - content: network virtualization over layer 3
-editorialgroup:
-- name: nvo3
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: nvo3
   stream: IETF

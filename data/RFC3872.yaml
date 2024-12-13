@@ -149,8 +149,8 @@ keyword:
 - content: management information base
 - content: TRIP
 - content: Telephony Routing over IP
-editorialgroup:
-- name: iptel
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: iptel
   stream: IETF

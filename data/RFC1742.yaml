@@ -115,8 +115,8 @@ series:
     format: text/plain
 keyword:
 - content: AT-MIB
-editorialgroup:
-- name: appleip
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: appleip
   stream: IETF

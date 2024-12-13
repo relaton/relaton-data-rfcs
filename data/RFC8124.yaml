@@ -117,8 +117,8 @@ series:
 keyword:
 - content: Secure WebSocket
 - content: Uniform Resource Identifier
-editorialgroup:
-- name: bfcpbis
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: bfcpbis
   stream: IETF

@@ -142,8 +142,8 @@ keyword:
 - content: Asynchronous Transfer Mode Adaptation Layer 2
 - content: aal2
 - content: encapsulation
-editorialgroup:
-- name: pppext
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: pppext
   stream: IETF

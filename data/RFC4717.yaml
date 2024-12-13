@@ -240,8 +240,8 @@ keyword:
 - content: pw
 - content: pseudowire
 - content: multiprotocol label switching
-editorialgroup:
-- name: pwe3
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: pwe3
   stream: IETF

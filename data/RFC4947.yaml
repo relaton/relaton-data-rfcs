@@ -127,8 +127,8 @@ keyword:
 - content: unidirectional link protocol
 - content: UniDirectional Link Routing
 - content: address resolution protocol
-editorialgroup:
-- name: ipdvb
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ipdvb
   stream: IETF

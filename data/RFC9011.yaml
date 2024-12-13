@@ -141,8 +141,8 @@ keyword:
 - content: constrained node
 - content: constrained-node network
 - content: SCHC
-editorialgroup:
-- name: lpwan
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: lpwan
   stream: IETF

@@ -135,8 +135,8 @@ keyword:
 - content: mesh network
 - content: MANET Designated Router
 - content: MDR
-editorialgroup:
-- name: ospf
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ospf
   stream: IETF

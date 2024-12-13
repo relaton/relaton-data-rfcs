@@ -215,8 +215,8 @@ series:
 keyword:
 - content: NVO3
 - content: VDP
-editorialgroup:
-- name: nvo3
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: nvo3
   stream: IETF

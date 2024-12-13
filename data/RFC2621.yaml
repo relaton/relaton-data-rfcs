@@ -132,8 +132,8 @@ keyword:
 - content: access,dialin
 - content: user
 - content: service
-editorialgroup:
-- name: radius
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: radius
   stream: IETF

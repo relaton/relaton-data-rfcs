@@ -114,8 +114,8 @@ keyword:
 - content: conference
 - content: bridge
 - content: SIP
-editorialgroup:
-- name: avtcore
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: avtcore
   stream: IETF

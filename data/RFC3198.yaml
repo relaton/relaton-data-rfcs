@@ -362,8 +362,8 @@ keyword:
 - content: internet
 - content: standard
 - content: documents
-editorialgroup:
-- name: policy
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: policy
   stream: IETF

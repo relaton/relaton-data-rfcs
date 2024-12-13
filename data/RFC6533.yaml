@@ -192,8 +192,8 @@ series:
     format: text/plain
 keyword:
 - content: dsn
-editorialgroup:
-- name: eai
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: eai
   stream: IETF

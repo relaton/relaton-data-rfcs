@@ -128,8 +128,8 @@ keyword:
 - content: Telepresence
 - content: Data Model
 - content: Framework
-editorialgroup:
-- name: clue
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: clue
   stream: IETF

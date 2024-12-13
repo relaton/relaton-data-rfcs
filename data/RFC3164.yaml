@@ -99,8 +99,8 @@ keyword:
 - content: distribution
 - content: transmission
 - content: messages
-editorialgroup:
-- name: syslog
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: syslog
   stream: IETF

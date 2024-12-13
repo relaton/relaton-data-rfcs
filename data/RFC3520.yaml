@@ -173,8 +173,8 @@ keyword:
 - content: session authorization policy
 - content: admission control
 - content: resource reservation
-editorialgroup:
-- name: rap
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: rap
   stream: IETF

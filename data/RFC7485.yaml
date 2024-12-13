@@ -212,8 +212,8 @@ keyword:
 - content: weirds
 - content: response object
 - content: inventory
-editorialgroup:
-- name: weirds
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: weirds
   stream: IETF

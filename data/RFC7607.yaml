@@ -189,8 +189,8 @@ keyword:
 - content: AS 0
 - content: AS_PATH
 - content: AS-PATH
-editorialgroup:
-- name: idr
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: idr
   stream: IETF

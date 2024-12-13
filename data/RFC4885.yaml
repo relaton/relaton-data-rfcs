@@ -101,8 +101,8 @@ series:
     format: text/plain
 keyword:
 - content: nemo
-editorialgroup:
-- name: nemo
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: nemo
   stream: IETF

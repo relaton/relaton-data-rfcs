@@ -188,8 +188,8 @@ series:
     format: text/plain
 keyword:
 - content: CMOT
-editorialgroup:
-- name: oim
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: oim
   stream: IETF

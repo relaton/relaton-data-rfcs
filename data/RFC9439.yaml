@@ -249,8 +249,8 @@ series:
 keyword:
 - content: JavaScript Object Notation
 - content: Application-Layer Traffic Optimization
-editorialgroup:
-- name: alto
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: alto
   stream: IETF

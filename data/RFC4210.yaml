@@ -186,8 +186,8 @@ keyword:
 - content: certificate management
 - content: ca
 - content: certification authority
-editorialgroup:
-- name: pkix
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: pkix
   stream: IETF

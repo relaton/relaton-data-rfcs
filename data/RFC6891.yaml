@@ -157,8 +157,8 @@ keyword:
 - content: domain name system
 - content: resource records
 - content: opt
-editorialgroup:
-- name: dnsext
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: dnsext
   stream: IETF

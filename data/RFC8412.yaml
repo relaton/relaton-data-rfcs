@@ -210,8 +210,8 @@ keyword:
 - content: PA-TNC
 - content: NEA
 - content: Software inventory
-editorialgroup:
-- name: sacm
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: sacm
   stream: IETF

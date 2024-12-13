@@ -120,8 +120,8 @@ keyword:
 - content: Less-than-Best-Effort
 - content: Congestion Control
 - content: LEDBAT
-editorialgroup:
-- name: ledbat
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ledbat
   stream: IETF

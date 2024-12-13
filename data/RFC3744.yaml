@@ -182,8 +182,8 @@ keyword:
 - content: WebDAV
 - content: Web Distributed Authoring and Versioning
 - content: Access Control
-editorialgroup:
-- name: webdav
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: webdav
   stream: IETF

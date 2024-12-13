@@ -178,8 +178,8 @@ keyword:
 - content: Per Hop Behavior
 - content: differentiated services codepoint
 - content: DSCP
-editorialgroup:
-- name: diffserv
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: diffserv
   stream: IETF

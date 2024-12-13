@@ -90,8 +90,8 @@ keyword:
 - content: im
 - content: instant messaging
 - content: jabber
-editorialgroup:
-- name: xmpp
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: xmpp
   stream: IETF

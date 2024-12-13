@@ -238,8 +238,8 @@ keyword:
 - content: Multicast Address-Set Claim Protocol
 - content: inter-domain
 - content: router
-editorialgroup:
-- name: malloc
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: malloc
   stream: IETF

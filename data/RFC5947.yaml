@@ -122,8 +122,8 @@ keyword:
 - content: Trunking
 - content: pbx
 - content: private branch exchange
-editorialgroup:
-- name: martini
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: martini
   stream: IETF

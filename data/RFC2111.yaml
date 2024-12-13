@@ -102,8 +102,8 @@ keyword:
 - content: Language
 - content: URL
 - content: MIME
-editorialgroup:
-- name: mhtml
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mhtml
   stream: IETF

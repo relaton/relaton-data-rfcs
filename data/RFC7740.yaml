@@ -152,8 +152,8 @@ keyword:
 - content: Ingress Replication
 - content: Bidirectional C-flow
 - content: p-tunnel
-editorialgroup:
-- name: bess
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: bess
   stream: IETF

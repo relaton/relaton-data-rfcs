@@ -124,8 +124,8 @@ series:
 keyword:
 - content: WLAN
 - content: security
-editorialgroup:
-- name: capwap
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: capwap
   stream: IETF

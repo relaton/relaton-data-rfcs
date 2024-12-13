@@ -158,8 +158,8 @@ keyword:
 - content: service location protocol
 - content: URL
 - content: universal resource locator
-editorialgroup:
-- name: vgmib
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: vgmib
   stream: IETF

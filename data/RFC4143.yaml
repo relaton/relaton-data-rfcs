@@ -122,8 +122,8 @@ keyword:
 - content: facsimile using internet mail
 - content: dns
 - content: domain name system
-editorialgroup:
-- name: fax
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: fax
   stream: IETF

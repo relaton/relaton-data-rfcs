@@ -98,8 +98,8 @@ keyword:
 - content: incident coordination
 - content: incident handling
 - content: incident communication
-editorialgroup:
-- name: mile
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mile
   stream: IETF

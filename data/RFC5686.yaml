@@ -122,8 +122,8 @@ keyword:
 - content: UEMCLIP
 - content: PCMU
 - content: Speech Coding
-editorialgroup:
-- name: avt
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: avt
   stream: IETF

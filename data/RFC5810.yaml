@@ -305,8 +305,8 @@ keyword:
 - content: ne
 - content: tml
 - content: transport mapping layer
-editorialgroup:
-- name: forces
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: forces
   stream: IETF

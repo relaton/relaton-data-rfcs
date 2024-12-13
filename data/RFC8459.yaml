@@ -186,8 +186,8 @@ keyword:
 - content: service offering
 - content: differentiated services
 - content: large scale network
-editorialgroup:
-- name: sfc
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: sfc
   stream: IETF

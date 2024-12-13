@@ -90,8 +90,8 @@ keyword:
 - content: SMIv2
 - content: Textual Convention
 - content: FLOAT-TC-MIB
-editorialgroup:
-- name: opsawg
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: opsawg
   stream: IETF

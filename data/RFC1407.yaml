@@ -130,8 +130,8 @@ keyword:
 - content: MIB
 - content: Management
 - content: SNMP
-editorialgroup:
-- name: trunkmib
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: trunkmib
   stream: IETF

@@ -90,8 +90,8 @@ series:
 keyword:
 - content: mile
 - content: incident handling
-editorialgroup:
-- name: mile
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mile
   stream: IETF

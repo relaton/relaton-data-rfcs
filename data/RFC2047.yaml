@@ -88,8 +88,8 @@ keyword:
 - content: MIME-MSG
 - content: media
 - content: type
-editorialgroup:
-- name: 822ext
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: 822ext
   stream: IETF

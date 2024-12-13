@@ -87,8 +87,8 @@ keyword:
 - content: routers
 - content: switches
 - content: measurement
-editorialgroup:
-- name: bmwg
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: bmwg
   stream: IETF

@@ -152,8 +152,8 @@ keyword:
 - content: inter-administrative
 - content: BGP
 - content: border gateway protocol
-editorialgroup:
-- name: iptel
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: iptel
   stream: IETF

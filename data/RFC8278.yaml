@@ -151,8 +151,8 @@ keyword:
 - content: Proxy Mobile IPv6 (PMIPv6)
 - content: multihoming
 - content: Multiple WAN accesses
-editorialgroup:
-- name: dmm
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: dmm
   stream: IETF

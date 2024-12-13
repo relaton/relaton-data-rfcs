@@ -147,8 +147,8 @@ series:
 keyword:
 - content: SAP
 - content: Session Announcement Protocol
-editorialgroup:
-- name: mmusic
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mmusic
   stream: IETF

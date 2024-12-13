@@ -122,8 +122,8 @@ keyword:
 - content: blocks
 - content: extensible
 - content: exchange
-editorialgroup:
-- name: syslog
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: syslog
   stream: IETF

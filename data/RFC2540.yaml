@@ -92,8 +92,8 @@ keyword:
 - content: digital
 - content: signatures
 - content: authentication
-editorialgroup:
-- name: dnssec
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: dnssec
   stream: IETF

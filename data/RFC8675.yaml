@@ -160,8 +160,8 @@ keyword:
 - content: tunnel provisioning
 - content: tunnel activation
 - content: tunnel automation
-editorialgroup:
-- name: softwire
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: softwire
   stream: IETF

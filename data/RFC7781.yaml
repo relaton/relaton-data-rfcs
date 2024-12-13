@@ -214,8 +214,8 @@ keyword:
 - content: virtual RBridge
 - content: aggregation
 - content: flip-flopping
-editorialgroup:
-- name: trill
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: trill
   stream: IETF

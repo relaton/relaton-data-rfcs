@@ -92,8 +92,8 @@ keyword:
 - content: Host Identity Payload
 - content: DNS
 - content: Domain Name System
-editorialgroup:
-- name: hip
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: hip
   stream: IETF

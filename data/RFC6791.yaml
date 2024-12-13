@@ -221,8 +221,8 @@ keyword:
 - content: IPv4-translatable IPv6 addresses
 - content: ICMPv6
 - content: traceroute
-editorialgroup:
-- name: v6ops
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: v6ops
   stream: IETF

@@ -119,8 +119,8 @@ keyword:
 - content: domain namespace
 - content: dynamic nsec
 - content: dnssec
-editorialgroup:
-- name: dnsext
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: dnsext
   stream: IETF

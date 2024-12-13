@@ -127,8 +127,8 @@ keyword:
 - content: Synchronous Digital Hierarchy
 - content: CR-LDP
 - content: Constraint-based Routed Label Distribution Protocol
-editorialgroup:
-- name: ccamp
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ccamp
   stream: IETF

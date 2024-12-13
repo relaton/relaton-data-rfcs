@@ -117,8 +117,8 @@ series:
 keyword:
 - content: http
 - content: client certificate
-editorialgroup:
-- name: httpbis
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: httpbis
   stream: IETF

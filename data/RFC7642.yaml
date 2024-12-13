@@ -207,8 +207,8 @@ series:
 keyword:
 - content: SIM user scenarios
 - content: SCIM use cases
-editorialgroup:
-- name: scim
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: scim
   stream: IETF

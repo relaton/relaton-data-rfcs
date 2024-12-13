@@ -123,8 +123,8 @@ keyword:
 - content: aqm
 - content: sctp
 - content: tcp
-editorialgroup:
-- name: aqm
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: aqm
   stream: IETF

@@ -177,8 +177,8 @@ keyword:
 - content: APP-MIB
 - content: application
 - content: management information base
-editorialgroup:
-- name: applmib
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: applmib
   stream: IETF

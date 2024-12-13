@@ -207,8 +207,8 @@ keyword:
 - content: Data Center Interconnect
 - content: Data Center Network
 - content: Virtual Machine (VM) migration
-editorialgroup:
-- name: bess
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: bess
   stream: IETF

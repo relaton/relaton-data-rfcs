@@ -126,8 +126,8 @@ series:
 keyword:
 - content: PPP-BCP
 - content: Point to Point
-editorialgroup:
-- name: pppext
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: pppext
   stream: IETF

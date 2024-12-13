@@ -182,8 +182,8 @@ series:
 keyword:
 - content: Traffic Engineering
 - content: " Path Computation"
-editorialgroup:
-- name: teas
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: teas
   stream: IETF

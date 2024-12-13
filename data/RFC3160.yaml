@@ -100,8 +100,8 @@ keyword:
 - content: Task
 - content: Force
 - content: Meeting
-editorialgroup:
-- name: uswg
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: uswg
   stream: IETF

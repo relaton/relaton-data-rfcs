@@ -119,8 +119,8 @@ keyword:
 - content: protocol
 - content: file
 - content: transfer
-editorialgroup:
-- name: tcpimpl
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: tcpimpl
   stream: IETF

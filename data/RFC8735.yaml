@@ -215,8 +215,8 @@ series:
 keyword:
 - content: CCDR
 - content: Traffic Engineering
-editorialgroup:
-- name: teas
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: teas
   stream: IETF

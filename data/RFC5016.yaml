@@ -89,8 +89,8 @@ series:
     format: text/plain
 keyword:
 - content: cryptographic
-editorialgroup:
-- name: dkim
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: dkim
   stream: IETF

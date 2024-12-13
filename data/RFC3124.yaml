@@ -121,8 +121,8 @@ keyword:
 - content: network
 - content: stream
 - content: end-system module
-editorialgroup:
-- name: ecm
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ecm
   stream: IETF

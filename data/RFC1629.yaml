@@ -178,8 +178,8 @@ keyword:
 - content: OSI-NSAP
 - content: CLNP
 - content: Address
-editorialgroup:
-- name: osinsap
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: osinsap
   stream: IETF

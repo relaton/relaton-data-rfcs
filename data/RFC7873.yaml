@@ -122,8 +122,8 @@ keyword:
 - content: forgery
 - content: cache poisoning
 - content: off-path
-editorialgroup:
-- name: dnsop
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: dnsop
   stream: IETF

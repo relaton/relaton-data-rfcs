@@ -92,8 +92,8 @@ series:
 keyword:
 - content: DEFLATE
 - content: LZ77
-editorialgroup:
-- name: hybi
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: hybi
   stream: IETF

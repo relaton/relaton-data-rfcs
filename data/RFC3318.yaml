@@ -184,8 +184,8 @@ series:
   title:
     content: IETF
     format: text/plain
-editorialgroup:
-- name: rap
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: rap
   stream: IETF

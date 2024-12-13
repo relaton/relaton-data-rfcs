@@ -152,8 +152,8 @@ series:
 keyword:
 - content: computer security
 - content: smart objects
-editorialgroup:
-- name: suit
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: suit
   stream: IETF

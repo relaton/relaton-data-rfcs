@@ -85,8 +85,8 @@ keyword:
 - content: TEL-SPX
 - content: Security
 - content: option
-editorialgroup:
-- name: telnet
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: telnet
   stream: IETF

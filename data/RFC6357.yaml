@@ -181,8 +181,8 @@ keyword:
 - content: Session Initiation Protocol
 - content: Overload Control
 - content: Congestion Collapse
-editorialgroup:
-- name: soc
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: soc
   stream: IETF

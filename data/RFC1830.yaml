@@ -103,8 +103,8 @@ keyword:
 - content: Multipurpose
 - content: Mail
 - content: Extensions
-editorialgroup:
-- name: mailext
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mailext
   stream: IETF

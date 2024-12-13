@@ -92,8 +92,8 @@ keyword:
 - content: mechanism
 - content: inquiry
 - content: extension
-editorialgroup:
-- name: kitten
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: kitten
   stream: IETF

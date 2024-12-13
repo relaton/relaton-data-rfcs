@@ -123,8 +123,8 @@ keyword:
 - content: configuration
 - content: routing
 - content: IP networks
-editorialgroup:
-- name: autoconf
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: autoconf
   stream: IETF

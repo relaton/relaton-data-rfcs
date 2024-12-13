@@ -155,8 +155,8 @@ keyword:
 - content: non-compound
 - content: non compound
 - content: compound
-editorialgroup:
-- name: avt
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: avt
   stream: IETF

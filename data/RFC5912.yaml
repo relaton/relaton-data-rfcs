@@ -121,8 +121,8 @@ keyword:
 - content: S/MIME
 - content: PKIX
 - content: ASN.1 modules
-editorialgroup:
-- name: pkix
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: pkix
   stream: IETF

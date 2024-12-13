@@ -215,8 +215,8 @@ keyword:
 - content: initiator
 - content: scsi
 - content: device name
-editorialgroup:
-- name: ips
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ips
   stream: IETF

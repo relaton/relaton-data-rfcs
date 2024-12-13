@@ -118,8 +118,8 @@ series:
 keyword:
 - content: multicast data stream
 - content: broadcast data stream
-editorialgroup:
-- name: msec
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: msec
   stream: IETF

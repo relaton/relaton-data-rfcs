@@ -169,8 +169,8 @@ series:
 keyword:
 - content: ipv6 type 0 routing header
 - content: traffic amplification
-editorialgroup:
-- name: ipv6
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ipv6
   stream: IETF

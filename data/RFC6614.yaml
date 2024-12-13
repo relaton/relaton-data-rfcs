@@ -179,8 +179,8 @@ keyword:
 - content: Security
 - content: Reliability
 - content: Remote Authentication Dial-In User Server
-editorialgroup:
-- name: radext
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: radext
   stream: IETF

@@ -89,8 +89,8 @@ keyword:
 - content: blocks extensible exchange protocol
 - content: firewall
 - content: application layer
-editorialgroup:
-- name: idwg
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: idwg
   stream: IETF

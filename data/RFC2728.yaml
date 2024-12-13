@@ -148,8 +148,8 @@ keyword:
 - content: internet protocol
 - content: IPVBI
 - content: IP Over the Vertical Blanking Interval of Television Signal
-editorialgroup:
-- name: ipvbi
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ipvbi
   stream: IETF

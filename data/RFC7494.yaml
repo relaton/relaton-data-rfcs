@@ -247,8 +247,8 @@ keyword:
 - content: MAC Profile
 - content: Encryption
 - content: IEEE 802.11
-editorialgroup:
-- name: opsawg
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: opsawg
   stream: IETF

@@ -233,8 +233,8 @@ keyword:
 - content: PIM
 - content: MLD
 - content: Group Communication
-editorialgroup:
-- name: multimob
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: multimob
   stream: IETF

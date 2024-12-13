@@ -178,8 +178,8 @@ keyword:
 - content: management information base
 - content: t11-tc-mib
 - content: t11-fc-fabric-addr-mgr-mib
-editorialgroup:
-- name: imss
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: imss
   stream: IETF

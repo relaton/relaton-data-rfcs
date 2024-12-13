@@ -213,8 +213,8 @@ keyword:
 - content: mih
 - content: mobility services
 - content: mos
-editorialgroup:
-- name: mipshop
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mipshop
   stream: IETF

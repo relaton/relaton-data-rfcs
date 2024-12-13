@@ -170,8 +170,8 @@ keyword:
 - content: lightweight directory access protocol
 - content: IPKI
 - content: Internet X.509 Public Key Infrastructure
-editorialgroup:
-- name: pkix
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: pkix
   stream: IETF

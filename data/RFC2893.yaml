@@ -126,8 +126,8 @@ series:
 keyword:
 - content: TRANS-IPV6
 - content: IPv4
-editorialgroup:
-- name: ngtrans
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ngtrans
   stream: IETF

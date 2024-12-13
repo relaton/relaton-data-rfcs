@@ -104,8 +104,8 @@ keyword:
 - content: end-to-end
 - content: network
 - content: conference
-editorialgroup:
-- name: avt
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: avt
   stream: IETF

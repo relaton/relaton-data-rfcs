@@ -189,8 +189,8 @@ keyword:
 - content: protocol
 - content: datagram
 - content: lossless
-editorialgroup:
-- name: ippcp
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ippcp
   stream: IETF

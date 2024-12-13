@@ -213,8 +213,8 @@ keyword:
 - content: AKA
 - content: AKA'
 - content: 3GPP
-editorialgroup:
-- name: emu
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: emu
   stream: IETF

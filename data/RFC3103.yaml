@@ -185,8 +185,8 @@ keyword:
 - content: gateway
 - content: NAT
 - content: requirements
-editorialgroup:
-- name: nat
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: nat
   stream: IETF

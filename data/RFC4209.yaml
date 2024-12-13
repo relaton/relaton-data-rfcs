@@ -123,8 +123,8 @@ keyword:
 - content: peer nodes
 - content: ols
 - content: optical link interface requirements
-editorialgroup:
-- name: ccamp
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ccamp
   stream: IETF

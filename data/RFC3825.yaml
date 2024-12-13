@@ -163,8 +163,8 @@ keyword:
 - content: geographic location
 - content: LCI
 - content: Location Configuration Information
-editorialgroup:
-- name: geopriv
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: geopriv
   stream: IETF

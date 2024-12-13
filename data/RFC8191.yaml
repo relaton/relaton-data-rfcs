@@ -153,8 +153,8 @@ keyword:
 - content: HNP
 - content: HNP renumbering
 - content: LMA handover
-editorialgroup:
-- name: dmm
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: dmm
   stream: IETF

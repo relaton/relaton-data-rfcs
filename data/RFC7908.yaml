@@ -217,8 +217,8 @@ keyword:
 - content: Route Leak Detection
 - content: Route Leak Mitigation
 - content: BGP Security
-editorialgroup:
-- name: grow
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: grow
   stream: IETF

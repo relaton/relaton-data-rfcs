@@ -238,8 +238,8 @@ keyword:
 - content: qos
 - content: quality of service
 - content: signaling
-editorialgroup:
-- name: rap
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: rap
   stream: IETF

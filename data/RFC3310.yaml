@@ -139,8 +139,8 @@ keyword:
 - content: one-time password generation mechanism
 - content: umts
 - content: universal mobile telecommunications system
-editorialgroup:
-- name: sip
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: sip
   stream: IETF

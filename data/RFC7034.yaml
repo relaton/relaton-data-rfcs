@@ -119,8 +119,8 @@ keyword:
 - content: frame-options
 - content: HTTP header
 - content: websec
-editorialgroup:
-- name: websec
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: websec
   stream: IETF

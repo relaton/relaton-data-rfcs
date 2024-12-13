@@ -202,8 +202,8 @@ keyword:
 - content: signaling gateway
 - content: media gateway controller
 - content: mgc
-editorialgroup:
-- name: sigtran
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: sigtran
   stream: IETF

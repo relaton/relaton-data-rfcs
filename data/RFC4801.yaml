@@ -120,8 +120,8 @@ keyword:
 - content: management information base
 - content: mib
 - content: GMPLS-TC-STD-MIB
-editorialgroup:
-- name: ccamp
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ccamp
   stream: IETF

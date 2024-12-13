@@ -125,8 +125,8 @@ keyword:
 - content: transmission control protocol
 - content: loss recovery
 - content: timestamps
-editorialgroup:
-- name: tsvwg
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: tsvwg
   stream: IETF

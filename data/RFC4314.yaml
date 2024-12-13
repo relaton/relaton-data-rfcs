@@ -90,8 +90,8 @@ keyword:
 - content: Control
 - content: List
 - content: internet message access protocol
-editorialgroup:
-- name: imapext
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: imapext
   stream: IETF

@@ -128,8 +128,8 @@ keyword:
 - content: point-to-point
 - content: datagrams
 - content: network
-editorialgroup:
-- name: pppext
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: pppext
   stream: IETF

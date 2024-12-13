@@ -218,8 +218,8 @@ keyword:
 - content: Multiple Care-of Addresses
 - content: PMIPv6 Revocation
 - content: Bulk PMIPv6 Revocation
-editorialgroup:
-- name: mext
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mext
   stream: IETF

@@ -130,8 +130,8 @@ keyword:
 - content: command-response
 - content: signal
 - content: signaling
-editorialgroup:
-- name: regext
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: regext
   stream: IETF

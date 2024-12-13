@@ -94,8 +94,8 @@ keyword:
 - content: wireless
 - content: mesh network
 - content: IGP
-editorialgroup:
-- name: babel
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: babel
   stream: IETF

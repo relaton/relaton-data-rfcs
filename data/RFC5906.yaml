@@ -129,8 +129,8 @@ keyword:
 - content: ntp
 - content: ntpv4
 - content: public key cryptography
-editorialgroup:
-- name: ntp
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ntp
   stream: IETF

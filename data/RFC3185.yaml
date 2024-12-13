@@ -121,8 +121,8 @@ keyword:
 - content: syntax
 - content: data
 - content: packets
-editorialgroup:
-- name: smime
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: smime
   stream: IETF

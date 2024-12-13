@@ -97,8 +97,8 @@ keyword:
 - content: human language
 - content: SIP
 - content: SLIM
-editorialgroup:
-- name: slim
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: slim
   stream: IETF

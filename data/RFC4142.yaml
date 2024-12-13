@@ -124,8 +124,8 @@ keyword:
 - content: facsimile
 - content: full mode
 - content: internet mail
-editorialgroup:
-- name: fax
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: fax
   stream: IETF

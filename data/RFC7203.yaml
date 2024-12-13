@@ -159,8 +159,8 @@ keyword:
 - content: vulnerability
 - content: CERT
 - content: CSIRT
-editorialgroup:
-- name: mile
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mile
   stream: IETF

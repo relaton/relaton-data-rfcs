@@ -151,8 +151,8 @@ keyword:
 - content: DNS
 - content: authentication
 - content: encryption
-editorialgroup:
-- name: dnssec
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: dnssec
   stream: IETF

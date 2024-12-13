@@ -240,8 +240,8 @@ keyword:
 - content: IP
 - content: internet protocol
 - content: architecture
-editorialgroup:
-- name: diffserv
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: diffserv
   stream: IETF

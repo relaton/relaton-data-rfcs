@@ -207,8 +207,8 @@ keyword:
 - content: IANAPowerStateSet-MIB
 - content: ENERGY-OBJECT-MIB
 - content: POWER-ATTRIBUTES-MIB
-editorialgroup:
-- name: eman
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: eman
   stream: IETF

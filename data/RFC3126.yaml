@@ -162,8 +162,8 @@ keyword:
 - content: application
 - content: smart cards
 - content: data
-editorialgroup:
-- name: smime
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: smime
   stream: IETF

@@ -163,8 +163,8 @@ keyword:
 - content: IM
 - content: Instant Messaging
 - content: Presence
-editorialgroup:
-- name: stox
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: stox
   stream: IETF

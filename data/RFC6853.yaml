@@ -181,8 +181,8 @@ keyword:
 - content: DHCPv6
 - content: Redundancy
 - content: Deployment Considerations
-editorialgroup:
-- name: dhc
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: dhc
   stream: IETF

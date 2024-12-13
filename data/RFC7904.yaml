@@ -248,8 +248,8 @@ keyword:
 - content: distributed session management
 - content: overlay network
 - content: SIP registrar
-editorialgroup:
-- name: p2psip
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: p2psip
   stream: IETF

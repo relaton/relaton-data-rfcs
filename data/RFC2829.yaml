@@ -199,8 +199,8 @@ keyword:
 - content: access
 - content: protocol
 - content: security
-editorialgroup:
-- name: ldapext
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ldapext
   stream: IETF

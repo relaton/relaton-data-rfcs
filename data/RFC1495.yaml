@@ -228,8 +228,8 @@ series:
     format: text/plain
 keyword:
 - content: Mail
-editorialgroup:
-- name: mimemhs
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mimemhs
   stream: IETF

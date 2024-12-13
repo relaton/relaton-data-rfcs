@@ -162,8 +162,8 @@ keyword:
 - content: EAP
 - content: RADIUS
 - content: SAML
-editorialgroup:
-- name: abfab
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: abfab
   stream: IETF

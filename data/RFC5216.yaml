@@ -153,8 +153,8 @@ keyword:
 - content: link control compression
 - content: extensible
 - content: transport level security
-editorialgroup:
-- name: emu
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: emu
   stream: IETF

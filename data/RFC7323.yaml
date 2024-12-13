@@ -186,8 +186,8 @@ keyword:
 - content: Window Scale
 - content: PAWS
 - content: TCP options
-editorialgroup:
-- name: tcpm
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: tcpm
   stream: IETF

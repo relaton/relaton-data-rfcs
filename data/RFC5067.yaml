@@ -118,8 +118,8 @@ series:
 keyword:
 - content: e.164 number mapping
 - content: carrier
-editorialgroup:
-- name: enum
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: enum
   stream: IETF

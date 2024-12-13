@@ -117,8 +117,8 @@ series:
 keyword:
 - content: ITU-T
 - content: g.719 full-band codec
-editorialgroup:
-- name: avt
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: avt
   stream: IETF

@@ -99,8 +99,8 @@ keyword:
 - content: Markup
 - content: Language
 - content: SGML
-editorialgroup:
-- name: html
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: html
   stream: IETF

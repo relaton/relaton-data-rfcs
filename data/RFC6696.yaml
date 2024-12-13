@@ -212,8 +212,8 @@ keyword:
 - content: EAP keying
 - content: EMSK
 - content: inter-authenticator roaming
-editorialgroup:
-- name: hokey
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: hokey
   stream: IETF

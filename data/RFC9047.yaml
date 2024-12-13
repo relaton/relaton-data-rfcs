@@ -182,8 +182,8 @@ keyword:
 - content: proxy-ND
 - content: proxy-ARP/ND
 - content: ARP/ND extended community
-editorialgroup:
-- name: bess
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: bess
   stream: IETF

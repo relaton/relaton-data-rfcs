@@ -145,8 +145,8 @@ series:
 keyword:
 - content: XML
 - content: extensible markup language
-editorialgroup:
-- name: xmldsig
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: xmldsig
   stream: IETF

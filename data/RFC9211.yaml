@@ -88,8 +88,8 @@ keyword:
 - content: cache
 - content: debugging
 - content: x-cache
-editorialgroup:
-- name: httpbis
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: httpbis
   stream: IETF

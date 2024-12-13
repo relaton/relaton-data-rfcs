@@ -185,8 +185,8 @@ keyword:
 - content: NTP
 - content: SNTP
 - content: Synchronization
-editorialgroup:
-- name: ntp
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ntp
   stream: IETF

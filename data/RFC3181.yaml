@@ -88,8 +88,8 @@ keyword:
 - content: resource reservation protocol
 - content: cops
 - content: common open policy service
-editorialgroup:
-- name: rap
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: rap
   stream: IETF

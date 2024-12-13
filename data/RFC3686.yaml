@@ -92,8 +92,8 @@ keyword:
 - content: Encapsulating Security Payload
 - content: authentication vector
 - content: cipher block
-editorialgroup:
-- name: ipsec
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ipsec
   stream: IETF

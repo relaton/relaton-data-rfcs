@@ -154,8 +154,8 @@ series:
     format: text/plain
 keyword:
 - content: Real Time Control Protocol
-editorialgroup:
-- name: avtcore
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: avtcore
   stream: IETF

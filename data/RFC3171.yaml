@@ -192,8 +192,8 @@ keyword:
 - content: authority
 - content: protocol
 - content: parameters
-editorialgroup:
-- name: mboned
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mboned
   stream: IETF

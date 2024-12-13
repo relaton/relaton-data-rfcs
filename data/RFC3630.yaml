@@ -159,8 +159,8 @@ keyword:
 - content: ink
 - content: state
 - content: advertisement
-editorialgroup:
-- name: ospf
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ospf
   stream: IETF

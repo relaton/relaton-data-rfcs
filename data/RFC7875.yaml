@@ -94,8 +94,8 @@ keyword:
 - content: G.722
 - content: AMR
 - content: AMR-WB
-editorialgroup:
-- name: rtcweb
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: rtcweb
   stream: IETF

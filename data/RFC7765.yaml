@@ -182,8 +182,8 @@ keyword:
 - content: tcp
 - content: retransmission timer
 - content: rtor
-editorialgroup:
-- name: tcpm
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: tcpm
   stream: IETF

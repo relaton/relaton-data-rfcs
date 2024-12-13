@@ -92,8 +92,8 @@ keyword:
 - content: IKE_INTERMEDIATE
 - content: Quantum Computer resistant key exchange method
 - content: Post-quantum
-editorialgroup:
-- name: ipsecme
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ipsecme
   stream: IETF

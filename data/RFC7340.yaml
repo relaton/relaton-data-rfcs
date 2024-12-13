@@ -161,8 +161,8 @@ keyword:
 - content: RTCWeb
 - content: Problem Statement
 - content: Real-Time Communication
-editorialgroup:
-- name: stir
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: stir
   stream: IETF

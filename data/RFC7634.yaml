@@ -91,8 +91,8 @@ keyword:
 - content: ChaCha
 - content: ChaCha20
 - content: Salsa
-editorialgroup:
-- name: ipsecme
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ipsecme
   stream: IETF

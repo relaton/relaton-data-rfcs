@@ -163,8 +163,8 @@ series:
 keyword:
 - content: route discovery
 - content: route maintenance
-editorialgroup:
-- name: manet
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: manet
   stream: IETF

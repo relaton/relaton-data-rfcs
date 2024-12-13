@@ -184,8 +184,8 @@ keyword:
 - content: delay-based
 - content: scavenger
 - content: P2P
-editorialgroup:
-- name: ledbat
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ledbat
   stream: IETF

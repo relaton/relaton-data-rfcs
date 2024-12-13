@@ -160,8 +160,8 @@ series:
 keyword:
 - content: JGSS
 - content: GSS-API
-editorialgroup:
-- name: kitten
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: kitten
   stream: IETF

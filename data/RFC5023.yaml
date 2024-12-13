@@ -118,8 +118,8 @@ keyword:
 - content: atompub
 - content: http transfer
 - content: atom syndication format
-editorialgroup:
-- name: atompub
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: atompub
   stream: IETF

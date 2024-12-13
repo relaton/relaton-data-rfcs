@@ -254,8 +254,8 @@ series:
 keyword:
 - content: end-to-end protection
 - content: linear protection
-editorialgroup:
-- name: pals
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: pals
   stream: IETF

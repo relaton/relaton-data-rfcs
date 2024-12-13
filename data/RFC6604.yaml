@@ -125,8 +125,8 @@ keyword:
 - content: Domain Name
 - content: response code
 - content: canonical name
-editorialgroup:
-- name: dnsext
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: dnsext
   stream: IETF

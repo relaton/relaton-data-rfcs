@@ -96,8 +96,8 @@ keyword:
 - content: IPsec
 - content: connection latching
 - content: channel
-editorialgroup:
-- name: btns
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: btns
   stream: IETF

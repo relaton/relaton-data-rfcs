@@ -192,8 +192,8 @@ keyword:
 - content: u-lln
 - content: roll
 - content: routing over low-power and loss
-editorialgroup:
-- name: roll
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: roll
   stream: IETF

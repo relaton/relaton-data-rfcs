@@ -308,8 +308,8 @@ series:
   title:
     content: IETF
     format: text/plain
-editorialgroup:
-- name: rats
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: rats
   stream: IETF

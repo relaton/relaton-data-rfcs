@@ -208,8 +208,8 @@ keyword:
 - content: IPv4 over IPv6
 - content: MAP
 - content: Lightweight 4over6
-editorialgroup:
-- name: dhc
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: dhc
   stream: IETF

@@ -208,8 +208,8 @@ series:
 keyword:
 - content: security policy
 - content: security capability
-editorialgroup:
-- name: i2nsf
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: i2nsf
   stream: IETF

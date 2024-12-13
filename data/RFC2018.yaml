@@ -178,8 +178,8 @@ keyword:
 - content: Control
 - content: Protocol
 - content: SACK
-editorialgroup:
-- name: tcplw
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: tcplw
   stream: IETF

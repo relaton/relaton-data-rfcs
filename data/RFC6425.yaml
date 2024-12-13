@@ -254,8 +254,8 @@ series:
     format: text/plain
 keyword:
 - content: p2mp
-editorialgroup:
-- name: mpls
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mpls
   stream: IETF

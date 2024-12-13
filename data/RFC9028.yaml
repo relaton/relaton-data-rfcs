@@ -150,8 +150,8 @@ keyword:
 - content: HIP
 - content: NAT
 - content: NAT traversal
-editorialgroup:
-- name: hip
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: hip
   stream: IETF

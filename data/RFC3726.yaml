@@ -97,8 +97,8 @@ keyword:
 - content: resource reservation protocol
 - content: middleboxes
 - content: nsis
-editorialgroup:
-- name: nsis
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: nsis
   stream: IETF

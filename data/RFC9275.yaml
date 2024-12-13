@@ -215,8 +215,8 @@ keyword:
 - content: network visibility
 - content: abstract network element
 - content: shared bottleneck
-editorialgroup:
-- name: alto
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: alto
   stream: IETF

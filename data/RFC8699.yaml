@@ -150,8 +150,8 @@ series:
     format: text/plain
 keyword:
 - content: tcp
-editorialgroup:
-- name: rmcat
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: rmcat
   stream: IETF

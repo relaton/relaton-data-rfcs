@@ -186,8 +186,8 @@ keyword:
 - content: key initialization
 - content: credentials
 - content: online provisioning
-editorialgroup:
-- name: keyprov
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: keyprov
   stream: IETF

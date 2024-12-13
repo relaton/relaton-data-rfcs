@@ -179,8 +179,8 @@ keyword:
 - content: security
 - content: SCTP
 - content: Stream Control Transmission Protocol
-editorialgroup:
-- name: ipsec
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ipsec
   stream: IETF

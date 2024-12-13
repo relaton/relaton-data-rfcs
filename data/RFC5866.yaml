@@ -242,8 +242,8 @@ keyword:
 - content: Policy
 - content: VoIP
 - content: SIP
-editorialgroup:
-- name: dime
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: dime
   stream: IETF

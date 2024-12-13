@@ -148,8 +148,8 @@ keyword:
 - content: management information base
 - content: WWW
 - content: world wide web
-editorialgroup:
-- name: applmib
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: applmib
   stream: IETF

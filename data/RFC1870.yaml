@@ -151,8 +151,8 @@ series:
 keyword:
 - content: SMTP-SIZE
 - content: Simple Mail Transfer Protocol
-editorialgroup:
-- name: smtpext
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: smtpext
   stream: IETF

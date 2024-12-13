@@ -132,8 +132,8 @@ keyword:
 - content: Information
 - content: Base
 - content: '802.3'
-editorialgroup:
-- name: hubmib
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: hubmib
   stream: IETF

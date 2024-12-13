@@ -149,8 +149,8 @@ keyword:
 - content: mode
 - content: digital
 - content: signature
-editorialgroup:
-- name: smime
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: smime
   stream: IETF

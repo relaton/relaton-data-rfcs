@@ -198,8 +198,8 @@ keyword:
 - content: geo blocking
 - content: footprint
 - content: cache control
-editorialgroup:
-- name: cdni
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: cdni
   stream: IETF

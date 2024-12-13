@@ -189,8 +189,8 @@ keyword:
 - content: X.509
 - content: keyUsage
 - content: Elliptic Curve Cryptography
-editorialgroup:
-- name: lamps
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: lamps
   stream: IETF

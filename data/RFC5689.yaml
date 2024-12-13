@@ -107,8 +107,8 @@ series:
 keyword:
 - content: webdav
 - content: HTTP
-editorialgroup:
-- name: vcarddav
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: vcarddav
   stream: IETF

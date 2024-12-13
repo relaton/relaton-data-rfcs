@@ -188,8 +188,8 @@ series:
 keyword:
 - content: IKE
 - content: IPsec
-editorialgroup:
-- name: ipsecme
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ipsecme
   stream: IETF

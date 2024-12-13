@@ -151,8 +151,8 @@ series:
 keyword:
 - content: BFD
 - content: P2MP
-editorialgroup:
-- name: bess
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: bess
   stream: IETF

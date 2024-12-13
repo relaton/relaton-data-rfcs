@@ -118,8 +118,8 @@ series:
 keyword:
 - content: type-length-value
 - content: Bidirectional Forwarding Detection
-editorialgroup:
-- name: isis
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: isis
   stream: IETF

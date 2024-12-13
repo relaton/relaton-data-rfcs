@@ -157,8 +157,8 @@ series:
     format: text/plain
 keyword:
 - content: SIPCLF
-editorialgroup:
-- name: sipclf
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: sipclf
   stream: IETF

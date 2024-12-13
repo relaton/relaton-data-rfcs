@@ -143,8 +143,8 @@ series:
 keyword:
 - content: send
 - content: secure neighbor discovery
-editorialgroup:
-- name: csi
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: csi
   stream: IETF

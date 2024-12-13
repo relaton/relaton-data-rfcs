@@ -90,8 +90,8 @@ keyword:
 - content: Addresses-of-Record
 - content: electronic number
 - content: ENUM
-editorialgroup:
-- name: enum
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: enum
   stream: IETF

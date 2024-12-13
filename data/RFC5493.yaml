@@ -185,8 +185,8 @@ keyword:
 - content: spc
 - content: soft permanent connection
 - content: data plane traffic
-editorialgroup:
-- name: ccamp
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ccamp
   stream: IETF

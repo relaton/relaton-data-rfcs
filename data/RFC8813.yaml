@@ -128,8 +128,8 @@ keyword:
 - content: PKIX
 - content: X.509
 - content: ECC
-editorialgroup:
-- name: lamps
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: lamps
   stream: IETF

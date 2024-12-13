@@ -217,8 +217,8 @@ keyword:
 - content: enhanced services
 - content: voicemail
 - content: automatic call distribution
-editorialgroup:
-- name: sipcore
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: sipcore
   stream: IETF

@@ -213,8 +213,8 @@ keyword:
 - content: encryption
 - content: security
 - content: authentication
-editorialgroup:
-- name: pkix
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: pkix
   stream: IETF

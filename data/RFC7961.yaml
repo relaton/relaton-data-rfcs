@@ -125,8 +125,8 @@ keyword:
 - content: reachability
 - content: AFN
 - content: template
-editorialgroup:
-- name: trill
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: trill
   stream: IETF

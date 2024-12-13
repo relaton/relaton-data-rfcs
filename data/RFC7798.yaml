@@ -231,8 +231,8 @@ keyword:
 - content: Fragmentation Unit
 - content: Payload Content Information Packet
 - content: Use of HEVC with Feedback Messages.
-editorialgroup:
-- name: payload
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: payload
   stream: IETF

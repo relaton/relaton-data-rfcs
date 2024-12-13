@@ -175,8 +175,8 @@ keyword:
 - content: EAI
 - content: DSN
 - content: SMTP
-editorialgroup:
-- name: eai
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: eai
   stream: IETF

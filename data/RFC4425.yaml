@@ -90,8 +90,8 @@ keyword:
 - content: wmv
 - content: wmv9
 - content: vc-9
-editorialgroup:
-- name: avt
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: avt
   stream: IETF

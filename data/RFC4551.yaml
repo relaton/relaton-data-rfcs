@@ -144,8 +144,8 @@ series:
     format: text/plain
 keyword:
 - content: internet mail access protocol
-editorialgroup:
-- name: imapext
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: imapext
   stream: IETF

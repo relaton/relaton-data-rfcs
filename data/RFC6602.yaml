@@ -214,8 +214,8 @@ keyword:
 - content: PMIPv6
 - content: bulk registrations
 - content: MN group ID
-editorialgroup:
-- name: netext
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: netext
   stream: IETF

@@ -147,8 +147,8 @@ series:
     format: text/plain
 keyword:
 - content: ieee 802.15.4
-editorialgroup:
-- name: 6lowpan
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: 6lowpan
   stream: IETF

@@ -123,8 +123,8 @@ keyword:
 - content: cmts
 - content: cable modem termination system
 - content: docs-ietf-qos-mib
-editorialgroup:
-- name: ipcdn
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ipcdn
   stream: IETF

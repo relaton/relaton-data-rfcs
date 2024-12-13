@@ -84,8 +84,8 @@ series:
     format: text/plain
 keyword:
 - content: Hypertext Transfer Protocol
-editorialgroup:
-- name: httpbis
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: httpbis
   stream: IETF

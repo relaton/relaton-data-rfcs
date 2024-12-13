@@ -146,8 +146,8 @@ series:
 keyword:
 - content: real-time
 - content: transport protocol
-editorialgroup:
-- name: avt
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: avt
   stream: IETF

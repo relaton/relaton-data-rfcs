@@ -90,8 +90,8 @@ keyword:
 - content: interior
 - content: gateway
 - content: protocol
-editorialgroup:
-- name: IESG
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: IESG
   stream: IETF

@@ -92,8 +92,8 @@ keyword:
 - content: Handling
 - content: System
 - content: X.400
-editorialgroup:
-- name: mhsds
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mhsds
   stream: IETF

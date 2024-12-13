@@ -122,8 +122,8 @@ keyword:
 - content: Routing Convergence
 - content: Network  Topology
 - content: loop-free-convergence
-editorialgroup:
-- name: rtgwg
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: rtgwg
   stream: IETF

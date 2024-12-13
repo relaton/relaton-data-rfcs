@@ -90,8 +90,8 @@ keyword:
 - content: DS3-E3-MIB
 - content: management information base
 - content: Interface Type
-editorialgroup:
-- name: vgmib
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: vgmib
   stream: IETF

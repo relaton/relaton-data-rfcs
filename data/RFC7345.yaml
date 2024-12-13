@@ -152,8 +152,8 @@ keyword:
 - content: UDPTL
 - content: fax
 - content: transport
-editorialgroup:
-- name: mmusic
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mmusic
   stream: IETF

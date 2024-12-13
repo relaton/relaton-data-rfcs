@@ -156,8 +156,8 @@ keyword:
 - content: network access authorization
 - content: Extensible Authentication Protocol
 - content: key exchange
-editorialgroup:
-- name: emu
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: emu
   stream: IETF

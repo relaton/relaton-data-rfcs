@@ -148,8 +148,8 @@ series:
     format: text/plain
 keyword:
 - content: extensible tunneling protocol
-editorialgroup:
-- name: l2tpext
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: l2tpext
   stream: IETF

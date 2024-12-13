@@ -123,8 +123,8 @@ series:
 keyword:
 - content: remote login
 - content: ssh algorithm
-editorialgroup:
-- name: secsh
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: secsh
   stream: IETF

@@ -146,8 +146,8 @@ series:
 keyword:
 - content: Sieve
 - content: CONVERT
-editorialgroup:
-- name: sieve
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: sieve
   stream: IETF

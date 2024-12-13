@@ -162,8 +162,8 @@ keyword:
 - content: PCE
 - content: FlowSpec
 - content: Flow Spec
-editorialgroup:
-- name: pce
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: pce
   stream: IETF

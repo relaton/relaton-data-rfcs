@@ -89,8 +89,8 @@ series:
     format: text/plain
 keyword:
 - content: prefix allocation
-editorialgroup:
-- name: 6man
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: 6man
   stream: IETF

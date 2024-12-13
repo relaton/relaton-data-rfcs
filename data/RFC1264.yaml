@@ -103,8 +103,8 @@ series:
   title:
     content: IETF
     format: text/plain
-editorialgroup:
-- name: IESG
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: IESG
   stream: IETF

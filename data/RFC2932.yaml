@@ -161,8 +161,8 @@ keyword:
 - content: MIB
 - content: management information base
 - content: multicast
-editorialgroup:
-- name: idmr
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: idmr
   stream: IETF

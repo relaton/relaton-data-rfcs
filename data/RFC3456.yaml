@@ -184,8 +184,8 @@ keyword:
 - content: Dynamic Host Configuration Protocol
 - content: security
 - content: internet protocol
-editorialgroup:
-- name: ipsra
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ipsra
   stream: IETF

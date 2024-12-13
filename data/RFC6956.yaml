@@ -211,8 +211,8 @@ keyword:
 - content: ForCES
 - content: LFB
 - content: Library
-editorialgroup:
-- name: forces
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: forces
   stream: IETF

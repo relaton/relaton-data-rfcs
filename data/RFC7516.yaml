@@ -129,8 +129,8 @@ keyword:
 - content: JWK
 - content: JSON Web Algorithms
 - content: JWA
-editorialgroup:
-- name: jose
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: jose
   stream: IETF

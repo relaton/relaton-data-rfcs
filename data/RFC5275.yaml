@@ -94,8 +94,8 @@ keyword:
 - content: symmetric cryptographic algorithms
 - content: certificate management over cms
 - content: cmc
-editorialgroup:
-- name: smime
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: smime
   stream: IETF

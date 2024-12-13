@@ -89,8 +89,8 @@ keyword:
 - content: MIB
 - content: management information base
 - content: data
-editorialgroup:
-- name: vgmib
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: vgmib
   stream: IETF

@@ -117,8 +117,8 @@ keyword:
 - content: DNS
 - content: HTTP
 - content: DoH
-editorialgroup:
-- name: doh
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: doh
   stream: IETF

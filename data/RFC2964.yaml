@@ -124,8 +124,8 @@ keyword:
 - content: hypertext
 - content: transfer
 - content: protocol
-editorialgroup:
-- name: IESG
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: IESG
   stream: IETF

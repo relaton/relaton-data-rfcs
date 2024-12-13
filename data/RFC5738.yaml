@@ -138,8 +138,8 @@ series:
 keyword:
 - content: internet message access protocol
 - content: imap4rev1
-editorialgroup:
-- name: eai
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: eai
   stream: IETF

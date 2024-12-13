@@ -185,8 +185,8 @@ keyword:
 - content: Control and User Plane Split
 - content: Control and User Plane Separation
 - content: LMA User-Plane Address Mobility Option
-editorialgroup:
-- name: netext
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: netext
   stream: IETF

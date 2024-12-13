@@ -125,8 +125,8 @@ keyword:
 - content: DMARC
 - content: email authentication
 - content: TLD
-editorialgroup:
-- name: dmarc
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: dmarc
   stream: IETF

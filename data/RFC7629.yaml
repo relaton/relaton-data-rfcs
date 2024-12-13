@@ -184,8 +184,8 @@ keyword:
 - content: Hybrid Access
 - content: Flow Mobility
 - content: MIPv4-NEMO
-editorialgroup:
-- name: mip4
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mip4
   stream: IETF

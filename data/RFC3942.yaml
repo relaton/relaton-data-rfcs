@@ -100,8 +100,8 @@ keyword:
 - content: DHCP-BOOTP
 - content: Bootstrap
 - content: Dynamic Host Configuration Protocol
-editorialgroup:
-- name: dhc
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: dhc
   stream: IETF

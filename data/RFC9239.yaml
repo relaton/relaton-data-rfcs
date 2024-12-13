@@ -183,8 +183,8 @@ keyword:
 - content: modules
 - content: TC39
 - content: ESM
-editorialgroup:
-- name: dispatch
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: dispatch
   stream: IETF

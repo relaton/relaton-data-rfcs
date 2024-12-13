@@ -194,8 +194,8 @@ keyword:
 - content: Internal port
 - content: External port
 - content: Port mapping
-editorialgroup:
-- name: radext
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: radext
   stream: IETF

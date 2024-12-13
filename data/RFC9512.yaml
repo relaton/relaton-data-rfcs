@@ -145,8 +145,8 @@ series:
     format: text/plain
 keyword:
 - content: data interchange format
-editorialgroup:
-- name: httpapi
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: httpapi
   stream: IETF

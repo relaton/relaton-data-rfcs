@@ -147,8 +147,8 @@ series:
     format: text/plain
 keyword:
 - content: rekey
-editorialgroup:
-- name: secsh
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: secsh
   stream: IETF

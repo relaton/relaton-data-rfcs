@@ -185,8 +185,8 @@ keyword:
 - content: Multi-domain
 - content: Inter-domain
 - content: Traffic Engineering
-editorialgroup:
-- name: pce
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: pce
   stream: IETF

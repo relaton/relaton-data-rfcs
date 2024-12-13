@@ -102,8 +102,8 @@ keyword:
 - content: IPv4
 - content: IPv6
 - content: JSON
-editorialgroup:
-- name: weirds
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: weirds
   stream: IETF

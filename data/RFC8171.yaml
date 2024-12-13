@@ -181,8 +181,8 @@ keyword:
 - content: Pull
 - content: ESADI
 - content: ES-IS
-editorialgroup:
-- name: trill
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: trill
   stream: IETF

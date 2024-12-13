@@ -186,8 +186,8 @@ keyword:
 - content: CoAP
 - content: asymmetric
 - content: cryptography
-editorialgroup:
-- name: lwig
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: lwig
   stream: IETF

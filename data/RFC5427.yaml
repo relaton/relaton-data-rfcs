@@ -89,8 +89,8 @@ keyword:
 - content: syslog severity
 - content: MIB
 - content: textual-convention
-editorialgroup:
-- name: syslog
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: syslog
   stream: IETF

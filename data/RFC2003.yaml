@@ -86,8 +86,8 @@ keyword:
 - content: IPENCAPIP
 - content: Internet
 - content: Protocol
-editorialgroup:
-- name: mobileip
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mobileip
   stream: IETF

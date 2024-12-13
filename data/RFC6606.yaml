@@ -199,8 +199,8 @@ keyword:
 - content: powerline
 - content: ISA100.11a
 - content: RFC 4944
-editorialgroup:
-- name: 6lowpan
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: 6lowpan
   stream: IETF

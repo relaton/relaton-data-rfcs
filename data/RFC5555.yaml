@@ -91,8 +91,8 @@ keyword:
 - content: nemo
 - content: mipv6
 - content: ipv4
-editorialgroup:
-- name: mext
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mext
   stream: IETF

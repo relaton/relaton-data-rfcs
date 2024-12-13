@@ -121,8 +121,8 @@ keyword:
 - content: IKEv2
 - content: SPD
 - content: SAD
-editorialgroup:
-- name: ipsecme
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ipsecme
   stream: IETF

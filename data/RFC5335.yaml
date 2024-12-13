@@ -125,8 +125,8 @@ series:
 keyword:
 - content: unicode
 - content: utf-8
-editorialgroup:
-- name: eai
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: eai
   stream: IETF

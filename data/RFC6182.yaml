@@ -213,8 +213,8 @@ series:
     format: text/plain
 keyword:
 - content: multipath tcp architecture
-editorialgroup:
-- name: mptcp
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mptcp
   stream: IETF

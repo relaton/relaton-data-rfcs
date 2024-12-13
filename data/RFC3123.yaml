@@ -92,8 +92,8 @@ keyword:
 - content: resource record
 - content: APL
 - content: address prefix lists
-editorialgroup:
-- name: dnsext
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: dnsext
   stream: IETF

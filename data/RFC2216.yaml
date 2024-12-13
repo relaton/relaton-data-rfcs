@@ -123,8 +123,8 @@ keyword:
 - content: of
 - content: Service
 - content: Control
-editorialgroup:
-- name: intserv
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: intserv
   stream: IETF

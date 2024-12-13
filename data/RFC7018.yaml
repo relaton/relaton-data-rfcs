@@ -122,8 +122,8 @@ keyword:
 - content: Overlay
 - content: SDN
 - content: IKE
-editorialgroup:
-- name: ipsecme
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ipsecme
   stream: IETF

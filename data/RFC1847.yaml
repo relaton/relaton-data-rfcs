@@ -184,8 +184,8 @@ keyword:
 - content: mail
 - content: multipurpose
 - content: extensions
-editorialgroup:
-- name: pem
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: pem
   stream: IETF

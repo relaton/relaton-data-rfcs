@@ -131,8 +131,8 @@ keyword:
 - content: PPP-EAP
 - content: point-to-point
 - content: authentication
-editorialgroup:
-- name: pppext
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: pppext
   stream: IETF

@@ -153,8 +153,8 @@ series:
 keyword:
 - content: OSD
 - content: storage device
-editorialgroup:
-- name: nfsv4
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: nfsv4
   stream: IETF

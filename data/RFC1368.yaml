@@ -129,8 +129,8 @@ keyword:
 - content: MIB
 - content: hub
 - content: management
-editorialgroup:
-- name: hubmib
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: hubmib
   stream: IETF

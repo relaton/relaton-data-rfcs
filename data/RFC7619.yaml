@@ -136,8 +136,8 @@ keyword:
 - content: Peer Authorization Database
 - content: PAD
 - content: opportunistic encryption
-editorialgroup:
-- name: ipsecme
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ipsecme
   stream: IETF

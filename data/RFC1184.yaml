@@ -90,8 +90,8 @@ series:
     format: text/plain
 keyword:
 - content: TOPT-LINE
-editorialgroup:
-- name: telnet
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: telnet
   stream: IETF

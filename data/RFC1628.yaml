@@ -89,8 +89,8 @@ keyword:
 - content: Power
 - content: Supply
 - content: MIB
-editorialgroup:
-- name: upsmib
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: upsmib
   stream: IETF

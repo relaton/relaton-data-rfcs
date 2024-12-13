@@ -121,8 +121,8 @@ series:
 keyword:
 - content: Lightweight Directory Access Protocol
 - content: syntax
-editorialgroup:
-- name: ldapbis
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ldapbis
   stream: IETF

@@ -203,8 +203,8 @@ series:
     format: text/plain
 keyword:
 - content: real-time credit-control
-editorialgroup:
-- name: aaa
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: aaa
   stream: IETF

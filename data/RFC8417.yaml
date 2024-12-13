@@ -187,8 +187,8 @@ keyword:
 - content: JSON
 - content: JSON Web Token
 - content: JWT
-editorialgroup:
-- name: secevent
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: secevent
   stream: IETF

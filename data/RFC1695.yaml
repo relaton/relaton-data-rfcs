@@ -129,8 +129,8 @@ keyword:
 - content: ATM-MIB
 - content: MIB
 - content: Management,Information,Base,Asychronous,Transmission,Mode
-editorialgroup:
-- name: atommib
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: atommib
   stream: IETF

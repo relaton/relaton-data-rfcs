@@ -87,8 +87,8 @@ series:
     format: text/plain
 keyword:
 - content: IMAP attributes
-editorialgroup:
-- name: extra
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: extra
   stream: IETF

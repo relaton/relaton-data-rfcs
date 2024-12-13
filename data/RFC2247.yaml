@@ -208,8 +208,8 @@ keyword:
 - content: lightweight directory access protocol
 - content: DNS
 - content: domain name system
-editorialgroup:
-- name: asid
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: asid
   stream: IETF

@@ -190,8 +190,8 @@ keyword:
 - content: Network
 - content: Access
 - content: Server
-editorialgroup:
-- name: nasreq
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: nasreq
   stream: IETF

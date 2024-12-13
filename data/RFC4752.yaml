@@ -92,8 +92,8 @@ keyword:
 - content: encryption
 - content: protocol
 - content: specific
-editorialgroup:
-- name: sasl
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: sasl
   stream: IETF

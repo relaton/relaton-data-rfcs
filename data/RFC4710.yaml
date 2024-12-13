@@ -155,8 +155,8 @@ keyword:
 - content: quality of service
 - content: snmp
 - content: simple network management protocol
-editorialgroup:
-- name: rmonmib
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: rmonmib
   stream: IETF

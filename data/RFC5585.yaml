@@ -162,8 +162,8 @@ keyword:
 - content: Electroni Mail
 - content: Internet Mail
 - content: Message Verification
-editorialgroup:
-- name: dkim
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: dkim
   stream: IETF

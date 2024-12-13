@@ -100,8 +100,8 @@ keyword:
 - content: OTP-SASL
 - content: One-Time Password
 - content: simple authentication security layer
-editorialgroup:
-- name: otp
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: otp
   stream: IETF

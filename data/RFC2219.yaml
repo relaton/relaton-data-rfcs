@@ -132,8 +132,8 @@ keyword:
 - content: name
 - content: system
 - content: symbolic
-editorialgroup:
-- name: ids
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ids
   stream: IETF

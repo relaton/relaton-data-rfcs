@@ -118,8 +118,8 @@ keyword:
 - content: database
 - content: CIP
 - content: Common Indexing Protocol
-editorialgroup:
-- name: find
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: find
   stream: IETF

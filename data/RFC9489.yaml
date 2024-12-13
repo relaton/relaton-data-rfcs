@@ -209,8 +209,8 @@ keyword:
 - content: EVPN
 - content: LSP Ping
 - content: MPLS OAM
-editorialgroup:
-- name: bess
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: bess
   stream: IETF

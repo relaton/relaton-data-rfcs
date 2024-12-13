@@ -117,8 +117,8 @@ series:
 keyword:
 - content: mib
 - content: management information base
-editorialgroup:
-- name: disman
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: disman
   stream: IETF

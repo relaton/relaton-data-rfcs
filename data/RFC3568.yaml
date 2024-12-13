@@ -182,8 +182,8 @@ keyword:
 - content: metrics
 - content: routing
 - content: redirection
-editorialgroup:
-- name: cdi
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: cdi
   stream: IETF

@@ -175,8 +175,8 @@ series:
 keyword:
 - content: Mobile IPv6
 - content: Binary Traffic Selectors
-editorialgroup:
-- name: mext
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mext
   stream: IETF

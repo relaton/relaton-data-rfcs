@@ -90,8 +90,8 @@ keyword:
 - content: text
 - content: transfer
 - content: protocol
-editorialgroup:
-- name: http
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: http
   stream: IETF

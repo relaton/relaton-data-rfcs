@@ -96,8 +96,8 @@ series:
 keyword:
 - content: rue
 - content: relay user equipment
-editorialgroup:
-- name: rum
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: rum
   stream: IETF

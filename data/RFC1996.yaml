@@ -99,8 +99,8 @@ keyword:
 - content: Domain
 - content: Name
 - content: System
-editorialgroup:
-- name: dnsind
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: dnsind
   stream: IETF

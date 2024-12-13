@@ -149,8 +149,8 @@ series:
 keyword:
 - content: nemo
 - content: mobile routers
-editorialgroup:
-- name: nemo
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: nemo
   stream: IETF

@@ -149,8 +149,8 @@ keyword:
 - content: Battery Status
 - content: Battery MIB
 - content: Management Information Base
-editorialgroup:
-- name: eman
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: eman
   stream: IETF

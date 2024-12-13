@@ -92,8 +92,8 @@ series:
 keyword:
 - content: opportunistic security
 - content: encrypted email
-editorialgroup:
-- name: dane
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: dane
   stream: IETF

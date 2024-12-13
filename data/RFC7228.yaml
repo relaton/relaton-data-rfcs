@@ -159,8 +159,8 @@ keyword:
 - content: Always-on
 - content: Low-power
 - content: Energy efficient
-editorialgroup:
-- name: lwig
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: lwig
   stream: IETF

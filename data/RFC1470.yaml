@@ -121,8 +121,8 @@ series:
     format: text/plain
 keyword:
 - content: NOCTOOLS
-editorialgroup:
-- name: noctool2
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: noctool2
   stream: IETF

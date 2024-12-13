@@ -215,8 +215,8 @@ series:
 keyword:
 - content: management information base
 - content: T11-fc-name-server-mib
-editorialgroup:
-- name: imss
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: imss
   stream: IETF

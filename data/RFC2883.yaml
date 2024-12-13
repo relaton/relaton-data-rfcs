@@ -180,8 +180,8 @@ keyword:
 - content: packets
 - content: sender
 - content: receiver
-editorialgroup:
-- name: tsvwg
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: tsvwg
   stream: IETF

@@ -180,8 +180,8 @@ keyword:
 - content: audio
 - content: CELLP
 - content: Xiph.Org
-editorialgroup:
-- name: avt
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: avt
   stream: IETF

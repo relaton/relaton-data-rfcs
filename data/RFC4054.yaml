@@ -130,8 +130,8 @@ keyword:
 - content: pmd
 - content: optical control plane
 - content: gmpls
-editorialgroup:
-- name: ipo
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ipo
   stream: IETF

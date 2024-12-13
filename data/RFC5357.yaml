@@ -212,8 +212,8 @@ series:
 keyword:
 - content: two-way measaurement
 - content: round-trip measurement
-editorialgroup:
-- name: ippm
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ippm
   stream: IETF

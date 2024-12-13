@@ -93,8 +93,8 @@ keyword:
 - content: attacks
 - content: risks
 - content: insider threat
-editorialgroup:
-- name: idr
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: idr
   stream: IETF

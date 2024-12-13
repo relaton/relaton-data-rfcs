@@ -120,8 +120,8 @@ keyword:
 - content: iMIP
 - content: i TIP
 - content: CalDAV
-editorialgroup:
-- name: enum
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: enum
   stream: IETF

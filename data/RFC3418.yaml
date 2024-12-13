@@ -93,8 +93,8 @@ keyword:
 - content: SNMPv2-MIB
 - content: Simple Network Management Protocol Version 2
 - content: Management Information Base
-editorialgroup:
-- name: snmpv3
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: snmpv3
   stream: IETF

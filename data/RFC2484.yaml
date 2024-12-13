@@ -122,8 +122,8 @@ keyword:
 - content: LCP
 - content: Link Control Protocol
 - content: authentication
-editorialgroup:
-- name: pppext
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: pppext
   stream: IETF

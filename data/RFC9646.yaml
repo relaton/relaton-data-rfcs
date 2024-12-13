@@ -168,8 +168,8 @@ keyword:
 - content: p10cr
 - content: cmc
 - content: cmp
-editorialgroup:
-- name: netconf
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: netconf
   stream: IETF

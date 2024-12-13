@@ -149,8 +149,8 @@ keyword:
 - content: Border Gateway Protocol
 - content: IDRP
 - content: Internet-Domain Routing Protocol
-editorialgroup:
-- name: idr
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: idr
   stream: IETF

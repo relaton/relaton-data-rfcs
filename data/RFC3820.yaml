@@ -215,8 +215,8 @@ keyword:
 - content: restricted delegation
 - content: single-signon
 - content: delegation of rights
-editorialgroup:
-- name: pkix
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: pkix
   stream: IETF

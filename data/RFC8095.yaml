@@ -167,8 +167,8 @@ keyword:
 - content: Datagram TLS (DTLS)
 - content: Hypertext Transport Protocol (HTTP)
 - content: TAPS
-editorialgroup:
-- name: taps
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: taps
   stream: IETF

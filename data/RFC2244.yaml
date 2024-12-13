@@ -124,8 +124,8 @@ keyword:
 - content: Application Configuration Access Protocol
 - content: URL
 - content: Uniform Resource Locator
-editorialgroup:
-- name: acap
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: acap
   stream: IETF

@@ -129,8 +129,8 @@ keyword:
 - content: MIB
 - content: management information base
 - content: security
-editorialgroup:
-- name: radius
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: radius
   stream: IETF

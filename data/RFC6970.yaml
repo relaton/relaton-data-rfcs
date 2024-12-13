@@ -153,8 +153,8 @@ keyword:
 - content: mapping
 - content: NAT control
 - content: interworking
-editorialgroup:
-- name: pcp
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: pcp
   stream: IETF

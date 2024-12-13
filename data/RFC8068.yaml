@@ -149,8 +149,8 @@ series:
     format: text/plain
 keyword:
 - content: sipreq
-editorialgroup:
-- name: siprec
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: siprec
   stream: IETF

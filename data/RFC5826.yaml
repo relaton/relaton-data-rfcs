@@ -153,8 +153,8 @@ series:
 keyword:
 - content: roll
 - content: routing over low power and lossy
-editorialgroup:
-- name: roll
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: roll
   stream: IETF

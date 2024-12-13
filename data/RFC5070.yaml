@@ -165,8 +165,8 @@ keyword:
 - content: security data sharing
 - content: computer network defense service provider
 - content: cndsp
-editorialgroup:
-- name: inch
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: inch
   stream: IETF

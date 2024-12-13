@@ -148,8 +148,8 @@ keyword:
 - content: authentication
 - content: replay
 - content: replay protection
-editorialgroup:
-- name: babel
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: babel
   stream: IETF

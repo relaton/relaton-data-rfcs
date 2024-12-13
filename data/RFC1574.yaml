@@ -120,8 +120,8 @@ keyword:
 - content: Traceroute
 - content: Routing Table
 - content: CLNP
-editorialgroup:
-- name: noop
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: noop
   stream: IETF

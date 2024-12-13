@@ -102,8 +102,8 @@ keyword:
 - content: DHCP
 - content: Dynamic Host Configuration Protocol
 - content: IPv6
-editorialgroup:
-- name: dhc
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: dhc
   stream: IETF

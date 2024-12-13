@@ -176,8 +176,8 @@ keyword:
 - content: Routing
 - content: Location
 - content: HELD
-editorialgroup:
-- name: ecrit
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ecrit
   stream: IETF

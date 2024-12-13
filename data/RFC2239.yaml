@@ -219,8 +219,8 @@ series:
     format: text/plain
 keyword:
 - content: MAUS-MIB
-editorialgroup:
-- name: hubmib
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: hubmib
   stream: IETF

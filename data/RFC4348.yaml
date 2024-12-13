@@ -94,8 +94,8 @@ series:
 keyword:
 - content: speech codec
 - content: variable-rate multicode wideband speech codec
-editorialgroup:
-- name: avt
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: avt
   stream: IETF

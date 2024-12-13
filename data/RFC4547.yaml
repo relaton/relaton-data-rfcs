@@ -127,8 +127,8 @@ keyword:
 - content: mib
 - content: smiv2
 - content: DOCS-IETF-CABLE-DEVICE-NOTIFICATION-MIB
-editorialgroup:
-- name: ipcdn
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ipcdn
   stream: IETF

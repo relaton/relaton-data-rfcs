@@ -132,8 +132,8 @@ series:
 keyword:
 - content: SSH
 - content: DH
-editorialgroup:
-- name: curdle
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: curdle
   stream: IETF

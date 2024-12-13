@@ -167,8 +167,8 @@ keyword:
 - content: access
 - content: control
 - content: snmpv3
-editorialgroup:
-- name: snmpv3
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: snmpv3
   stream: IETF

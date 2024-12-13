@@ -122,8 +122,8 @@ keyword:
 - content: IOT
 - content: data model
 - content: media type
-editorialgroup:
-- name: core
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: core
   stream: IETF

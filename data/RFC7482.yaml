@@ -128,8 +128,8 @@ series:
     format: text/plain
 keyword:
 - content: WHOIS
-editorialgroup:
-- name: weirds
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: weirds
   stream: IETF

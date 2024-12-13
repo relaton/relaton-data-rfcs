@@ -203,8 +203,8 @@ series:
     format: text/plain
 keyword:
 - content: operation redundancy failover
-editorialgroup:
-- name: bmwg
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: bmwg
   stream: IETF

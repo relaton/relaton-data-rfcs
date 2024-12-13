@@ -92,8 +92,8 @@ keyword:
 - content: specification
 - content: multiple
 - content: implementations
-editorialgroup:
-- name: stdguide
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: stdguide
   stream: IETF

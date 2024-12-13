@@ -121,8 +121,8 @@ series:
 keyword:
 - content: email
 - content: internationalization
-editorialgroup:
-- name: dmarc
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: dmarc
   stream: IETF

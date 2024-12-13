@@ -156,8 +156,8 @@ keyword:
 - content: lightweight authenticated key exchange
 - content: constrained node networks
 - content: IoT security
-editorialgroup:
-- name: lake
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: lake
   stream: IETF

@@ -225,8 +225,8 @@ keyword:
 - content: realtime transport protocol
 - content: esp
 - content: encapsulation security payload
-editorialgroup:
-- name: rohc
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: rohc
   stream: IETF

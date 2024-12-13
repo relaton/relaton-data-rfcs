@@ -214,8 +214,8 @@ keyword:
 - content: RTSP
 - content: RTSP/2.0
 - content: real-time streaming protocol
-editorialgroup:
-- name: mmusic
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mmusic
   stream: IETF

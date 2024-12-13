@@ -147,8 +147,8 @@ keyword:
 - content: text transport
 - content: text interworking
 - content: combination gateway
-editorialgroup:
-- name: sipping
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: sipping
   stream: IETF

@@ -152,8 +152,8 @@ keyword:
 - content: ip prefix distribution
 - content: lsp
 - content: link state protocol
-editorialgroup:
-- name: isis
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: isis
   stream: IETF

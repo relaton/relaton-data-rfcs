@@ -151,8 +151,8 @@ keyword:
 - content: SIMPLE
 - content: IM
 - content: Instant Message
-editorialgroup:
-- name: stox
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: stox
   stream: IETF

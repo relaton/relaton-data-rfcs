@@ -200,8 +200,8 @@ keyword:
 - content: SACK
 - content: transmission control protocol
 - content: loss recovery
-editorialgroup:
-- name: tcpm
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: tcpm
   stream: IETF

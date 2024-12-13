@@ -192,8 +192,8 @@ keyword:
 - content: BMP
 - content: local-rib
 - content: loc-rib
-editorialgroup:
-- name: grow
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: grow
   stream: IETF

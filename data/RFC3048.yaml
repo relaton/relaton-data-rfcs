@@ -238,8 +238,8 @@ keyword:
 - content: RMT
 - content: protocol
 - content: core
-editorialgroup:
-- name: rmt
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: rmt
   stream: IETF

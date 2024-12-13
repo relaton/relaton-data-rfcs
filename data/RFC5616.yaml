@@ -98,8 +98,8 @@ keyword:
 - content: attachments
 - content: video
 - content: audio
-editorialgroup:
-- name: lemonade
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: lemonade
   stream: IETF

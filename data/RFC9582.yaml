@@ -209,8 +209,8 @@ keyword:
 - content: RPKI
 - content: Routing Security
 - content: BGP
-editorialgroup:
-- name: sidrops
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: sidrops
   stream: IETF

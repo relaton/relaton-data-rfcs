@@ -168,8 +168,8 @@ keyword:
 - content: IPv6
 - content: LSP Ping
 - content: MPLS OAM
-editorialgroup:
-- name: mpls
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mpls
   stream: IETF

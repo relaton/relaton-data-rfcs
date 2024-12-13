@@ -156,8 +156,8 @@ keyword:
 - content: service
 - content: providers
 - content: isps
-editorialgroup:
-- name: run
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: run
   stream: IETF

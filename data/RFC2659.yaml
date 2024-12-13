@@ -117,8 +117,8 @@ keyword:
 - content: HTML
 - content: hyper-text markup language
 - content: cryptology
-editorialgroup:
-- name: wts
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: wts
   stream: IETF

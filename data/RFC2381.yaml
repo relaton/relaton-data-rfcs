@@ -119,8 +119,8 @@ keyword:
 - content: mapping
 - content: traffic
 - content: parameters
-editorialgroup:
-- name: issll
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: issll
   stream: IETF

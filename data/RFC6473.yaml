@@ -84,8 +84,8 @@ series:
     format: text/plain
 keyword:
 - content: vCard
-editorialgroup:
-- name: vcarddav
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: vcarddav
   stream: IETF

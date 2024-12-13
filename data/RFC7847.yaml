@@ -126,8 +126,8 @@ keyword:
 - content: Logical-interface
 - content: virtual-interface
 - content: Logical interface
-editorialgroup:
-- name: netext
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: netext
   stream: IETF

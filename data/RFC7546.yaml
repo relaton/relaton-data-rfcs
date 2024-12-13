@@ -89,8 +89,8 @@ keyword:
 - content: GSS-API
 - content: security
 - content: authentication
-editorialgroup:
-- name: kitten
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: kitten
   stream: IETF

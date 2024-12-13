@@ -92,8 +92,8 @@ keyword:
 - content: rpc
 - content: onc
 - content: open network computing
-editorialgroup:
-- name: nfsv4
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: nfsv4
   stream: IETF

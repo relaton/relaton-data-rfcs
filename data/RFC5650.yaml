@@ -153,8 +153,8 @@ keyword:
 - content: asymmetric digital subscriber line
 - content: VDSL2-LINE-TC-MIB
 - content: VDSL2-LINE-MIB
-editorialgroup:
-- name: adslmib
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: adslmib
   stream: IETF

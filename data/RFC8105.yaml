@@ -220,8 +220,8 @@ keyword:
 - content: ETSI
 - content: IoT
 - content: and Internet of Things
-editorialgroup:
-- name: 6lo
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: 6lo
   stream: IETF

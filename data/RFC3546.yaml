@@ -233,8 +233,8 @@ keyword:
 - content: transport layer security
 - content: authentication
 - content: privacy
-editorialgroup:
-- name: tls
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: tls
   stream: IETF

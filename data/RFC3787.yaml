@@ -90,8 +90,8 @@ series:
     format: text/plain
 keyword:
 - content: routing traffic
-editorialgroup:
-- name: isis
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: isis
   stream: IETF

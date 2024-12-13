@@ -167,8 +167,8 @@ series:
 keyword:
 - content: pib
 - content: differentiated services architecture
-editorialgroup:
-- name: diffserv
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: diffserv
   stream: IETF

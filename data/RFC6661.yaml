@@ -214,8 +214,8 @@ keyword:
 - content: controlled load
 - content: CL
 - content: boundary node behavior
-editorialgroup:
-- name: pcn
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: pcn
   stream: IETF

@@ -156,8 +156,8 @@ series:
 keyword:
 - content: mpls-tp
 - content: network management framework
-editorialgroup:
-- name: mpls
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mpls
   stream: IETF

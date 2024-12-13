@@ -121,8 +121,8 @@ keyword:
 - content: Internet
 - content: Mail
 - content: Extensions
-editorialgroup:
-- name: mimesgml
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mimesgml
   stream: IETF

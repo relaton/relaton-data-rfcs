@@ -152,8 +152,8 @@ keyword:
 - content: permanent virtual connections
 - content: MIB
 - content: management information base
-editorialgroup:
-- name: frnetmib
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: frnetmib
   stream: IETF

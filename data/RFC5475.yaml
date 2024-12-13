@@ -210,8 +210,8 @@ series:
 keyword:
 - content: psamp
 - content: metering process
-editorialgroup:
-- name: psamp
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: psamp
   stream: IETF

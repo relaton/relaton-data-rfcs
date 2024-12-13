@@ -89,8 +89,8 @@ keyword:
 - content: link
 - content: internet
 - content: protocl
-editorialgroup:
-- name: seamoby
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: seamoby
   stream: IETF

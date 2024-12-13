@@ -245,8 +245,8 @@ series:
 keyword:
 - content: EVPN Control Plane with VxLAN Encapsulation
 - content: EVPN Control Plane with NvGRE Encapsulation
-editorialgroup:
-- name: bess
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: bess
   stream: IETF

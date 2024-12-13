@@ -170,8 +170,8 @@ series:
 keyword:
 - content: internet small computer systems interface
 - content: scsi transport protocol
-editorialgroup:
-- name: ips
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ips
   stream: IETF

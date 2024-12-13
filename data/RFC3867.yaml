@@ -155,8 +155,8 @@ series:
 keyword:
 - content: modules
 - content: data format exchange
-editorialgroup:
-- name: trade
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: trade
   stream: IETF

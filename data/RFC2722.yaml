@@ -149,8 +149,8 @@ keyword:
 - content: network
 - content: meters
 - content: data
-editorialgroup:
-- name: rtfm
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: rtfm
   stream: IETF

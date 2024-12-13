@@ -154,8 +154,8 @@ keyword:
 - content: meetings
 - content: remote participation fee
 - content: remote
-editorialgroup:
-- name: shmoo
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: shmoo
   stream: IETF

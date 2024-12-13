@@ -237,8 +237,8 @@ keyword:
 - content: SOCKSV5
 - content: firewalls
 - content: authentication
-editorialgroup:
-- name: aft
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: aft
   stream: IETF

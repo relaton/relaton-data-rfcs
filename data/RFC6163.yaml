@@ -153,8 +153,8 @@ keyword:
 - content: Generalized Multi-Protocol Label Switching
 - content: Routing and Wavelength Assignment
 - content: RWA
-editorialgroup:
-- name: ccamp
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ccamp
   stream: IETF

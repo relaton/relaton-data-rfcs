@@ -119,8 +119,8 @@ keyword:
 - content: DNS
 - content: Oblivious HTTP
 - content: SVCB
-editorialgroup:
-- name: ohai
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ohai
   stream: IETF

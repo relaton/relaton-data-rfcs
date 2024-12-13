@@ -120,8 +120,8 @@ keyword:
 - content: open shortest path first
 - content: l1vpn
 - content: layer 1 virtual private network
-editorialgroup:
-- name: l1vpn
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: l1vpn
   stream: IETF

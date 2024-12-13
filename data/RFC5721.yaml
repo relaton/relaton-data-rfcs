@@ -132,8 +132,8 @@ keyword:
 - content: email
 - content: internationalization
 - content: charset
-editorialgroup:
-- name: eai
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: eai
   stream: IETF

@@ -213,8 +213,8 @@ keyword:
 - content: aqm
 - content: fq_codel
 - content: fq-codel
-editorialgroup:
-- name: aqm
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: aqm
   stream: IETF

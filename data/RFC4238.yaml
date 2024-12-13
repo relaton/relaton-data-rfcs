@@ -94,8 +94,8 @@ keyword:
 - content: telephone number addressing
 - content: voice profile and internet mail
 - content: vpim directory
-editorialgroup:
-- name: vpim
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: vpim
   stream: IETF

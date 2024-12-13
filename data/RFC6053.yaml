@@ -183,8 +183,8 @@ keyword:
 - content: Stream Control Transmission Protocol-based Transport Mapping Layer
 - content: SCTP TML
 - content: forces Model
-editorialgroup:
-- name: forces
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: forces
   stream: IETF

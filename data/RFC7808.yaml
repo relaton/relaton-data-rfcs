@@ -117,8 +117,8 @@ keyword:
 - content: time zone
 - content: calendaring
 - content: scheduling
-editorialgroup:
-- name: tzdist
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: tzdist
   stream: IETF

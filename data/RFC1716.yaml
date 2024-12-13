@@ -130,8 +130,8 @@ keyword:
 - content: Gateway
 - content: Internet
 - content: Protocol
-editorialgroup:
-- name: rreq
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: rreq
   stream: IETF

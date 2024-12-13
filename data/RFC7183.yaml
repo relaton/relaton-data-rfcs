@@ -177,8 +177,8 @@ keyword:
 - content: Security
 - content: Integrity protection
 - content: ICV
-editorialgroup:
-- name: manet
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: manet
   stream: IETF

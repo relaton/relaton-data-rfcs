@@ -180,8 +180,8 @@ keyword:
 - content: router information
 - content: ri
 - content: ospf dynamic hostname
-editorialgroup:
-- name: ospf
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ospf
   stream: IETF

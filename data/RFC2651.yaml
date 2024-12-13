@@ -119,8 +119,8 @@ keyword:
 - content: routing
 - content: database
 - content: servers
-editorialgroup:
-- name: find
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: find
   stream: IETF

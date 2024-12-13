@@ -93,8 +93,8 @@ keyword:
 - content: internet protocol security
 - content: vpn
 - content: virtual private networks
-editorialgroup:
-- name: mobike
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mobike
   stream: IETF

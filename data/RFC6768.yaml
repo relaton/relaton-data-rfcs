@@ -98,8 +98,8 @@ keyword:
 - content: G.998.1
 - content: IMA
 - content: IMA+
-editorialgroup:
-- name: adslmib
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: adslmib
   stream: IETF

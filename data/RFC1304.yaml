@@ -129,8 +129,8 @@ keyword:
 - content: MIB
 - content: Network Management
 - content: SMDS
-editorialgroup:
-- name: snmp
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: snmp
   stream: IETF

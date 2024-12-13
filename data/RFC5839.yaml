@@ -125,8 +125,8 @@ keyword:
 - content: SIP events
 - content: subnot-etags
 - content: optimization
-editorialgroup:
-- name: sipcore
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: sipcore
   stream: IETF

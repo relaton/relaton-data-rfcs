@@ -129,8 +129,8 @@ keyword:
 - content: Application-Layer Traffic Optimization (ALTO)
 - content: ALTO cross-domain server discovery
 - content: ALTO third-party server discovery
-editorialgroup:
-- name: alto
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: alto
   stream: IETF

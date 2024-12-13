@@ -185,8 +185,8 @@ keyword:
 - content: architectural framework
 - content: signaling protocols
 - content: signaling application
-editorialgroup:
-- name: nsis
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: nsis
   stream: IETF

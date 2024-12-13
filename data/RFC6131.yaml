@@ -117,8 +117,8 @@ keyword:
 - content: email
 - content: filters
 - content: auto-replies
-editorialgroup:
-- name: sieve
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: sieve
   stream: IETF

@@ -153,8 +153,8 @@ keyword:
 - content: security
 - content: integrity
 - content: routing
-editorialgroup:
-- name: manet
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: manet
   stream: IETF

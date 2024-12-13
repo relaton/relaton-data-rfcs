@@ -179,8 +179,8 @@ series:
     format: text/plain
 keyword:
 - content: IEEE data plane
-editorialgroup:
-- name: ccamp
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ccamp
   stream: IETF

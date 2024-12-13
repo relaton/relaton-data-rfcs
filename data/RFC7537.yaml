@@ -242,8 +242,8 @@ keyword:
 - content: MPLS OAM
 - content: lsp ping
 - content: LSP-Ping
-editorialgroup:
-- name: mpls
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mpls
   stream: IETF

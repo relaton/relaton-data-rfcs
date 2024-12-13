@@ -118,8 +118,8 @@ keyword:
 - content: Email I18n
 - content: Internationalization
 - content: SMTPUTF8
-editorialgroup:
-- name: eai
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: eai
   stream: IETF

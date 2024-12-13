@@ -180,8 +180,8 @@ keyword:
 - content: Multimedia
 - content: Test cases
 - content: Congestion Control
-editorialgroup:
-- name: rmcat
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: rmcat
   stream: IETF

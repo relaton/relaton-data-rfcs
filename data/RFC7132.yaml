@@ -125,8 +125,8 @@ keyword:
 - content: BGPSEC
 - content: RPKI
 - content: SIDR
-editorialgroup:
-- name: sidr
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: sidr
   stream: IETF

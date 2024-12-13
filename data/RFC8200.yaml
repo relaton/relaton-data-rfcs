@@ -124,8 +124,8 @@ keyword:
 - content: generation
 - content: ipng
 - content: flow label
-editorialgroup:
-- name: 6man
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: 6man
   stream: IETF

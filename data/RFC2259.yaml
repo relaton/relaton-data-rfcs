@@ -120,8 +120,8 @@ keyword:
 - content: Repositories
 - content: Client
 - content: Server
-editorialgroup:
-- name: ids
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ids
   stream: IETF

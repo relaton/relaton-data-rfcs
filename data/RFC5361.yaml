@@ -88,8 +88,8 @@ keyword:
 - content: xml
 - content: extensible markup language
 - content: premission document
-editorialgroup:
-- name: sipping
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: sipping
   stream: IETF

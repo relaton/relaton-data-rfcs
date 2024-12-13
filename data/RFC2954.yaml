@@ -118,8 +118,8 @@ keyword:
 - content: FR-MIB
 - content: Frame Relay Service
 - content: management information base
-editorialgroup:
-- name: frnetmib
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: frnetmib
   stream: IETF

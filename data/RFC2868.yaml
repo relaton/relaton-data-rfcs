@@ -251,8 +251,8 @@ keyword:
 - content: Network
 - content: Access
 - content: Server
-editorialgroup:
-- name: radius
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: radius
   stream: IETF

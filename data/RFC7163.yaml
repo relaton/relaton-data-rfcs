@@ -133,8 +133,8 @@ keyword:
 - content: country
 - content: '5031'
 - content: sos
-editorialgroup:
-- name: ecrit
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ecrit
   stream: IETF

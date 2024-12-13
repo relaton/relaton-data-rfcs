@@ -129,8 +129,8 @@ keyword:
 - content: system
 - content: routers
 - content: TLV
-editorialgroup:
-- name: isis
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: isis
   stream: IETF

@@ -259,8 +259,8 @@ keyword:
 - content: class of service
 - content: cos
 - content: tc field
-editorialgroup:
-- name: mpls
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mpls
   stream: IETF

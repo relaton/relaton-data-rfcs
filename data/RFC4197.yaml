@@ -98,8 +98,8 @@ keyword:
 - content: synchronous digital hierarchy
 - content: pwe3
 - content: pseudo wire emulation
-editorialgroup:
-- name: pwe3
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: pwe3
   stream: IETF

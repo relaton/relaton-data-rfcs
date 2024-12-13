@@ -116,8 +116,8 @@ series:
     format: text/plain
 keyword:
 - content: CIDR
-editorialgroup:
-- name: bgpdepl
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: bgpdepl
   stream: IETF

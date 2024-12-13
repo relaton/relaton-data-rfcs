@@ -126,8 +126,8 @@ keyword:
 - content: internationalization
 - content: i18n
 - content: Stringprep
-editorialgroup:
-- name: precis
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: precis
   stream: IETF

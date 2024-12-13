@@ -86,8 +86,8 @@ series:
 keyword:
 - content: SNMP-IPX
 - content: Management
-editorialgroup:
-- name: mpsnmp
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mpsnmp
   stream: IETF

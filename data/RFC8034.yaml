@@ -128,8 +128,8 @@ keyword:
 - content: latency
 - content: access network
 - content: bufferbloat
-editorialgroup:
-- name: aqm
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: aqm
   stream: IETF

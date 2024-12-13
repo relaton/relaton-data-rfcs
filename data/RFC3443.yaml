@@ -138,8 +138,8 @@ keyword:
 - content: pipe model
 - content: MPLS
 - content: Multi-Protocol Label Switching
-editorialgroup:
-- name: mpls
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mpls
   stream: IETF

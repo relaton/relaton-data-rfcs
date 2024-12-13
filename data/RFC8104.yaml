@@ -187,8 +187,8 @@ keyword:
 - content: protection
 - content: local repair
 - content: fast reroute
-editorialgroup:
-- name: pals
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: pals
   stream: IETF

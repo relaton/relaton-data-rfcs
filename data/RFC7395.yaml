@@ -146,8 +146,8 @@ series:
 keyword:
 - content: WebSocket
 - content: XMPP
-editorialgroup:
-- name: xmpp
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: xmpp
   stream: IETF

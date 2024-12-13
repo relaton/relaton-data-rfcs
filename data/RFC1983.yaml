@@ -92,8 +92,8 @@ keyword:
 - content: basic
 - content: terms
 - content: acronyms
-editorialgroup:
-- name: userglos
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: userglos
   stream: IETF

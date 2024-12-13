@@ -210,8 +210,8 @@ keyword:
 - content: frame encapsulation
 - content: virtual-circuit creation and deletion
 - content: status change notification
-editorialgroup:
-- name: l2tpext
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: l2tpext
   stream: IETF

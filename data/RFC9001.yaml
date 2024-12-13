@@ -116,8 +116,8 @@ keyword:
 - content: crypto
 - content: opportunistic encryption
 - content: plaintext quic
-editorialgroup:
-- name: quic
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: quic
   stream: IETF

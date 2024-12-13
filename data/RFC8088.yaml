@@ -99,8 +99,8 @@ keyword:
 - content: RTP
 - content: Payload format
 - content: Process
-editorialgroup:
-- name: payload
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: payload
   stream: IETF

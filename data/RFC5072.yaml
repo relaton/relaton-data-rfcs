@@ -156,8 +156,8 @@ keyword:
 - content: protocol
 - content: point-to-point
 - content: ipv6
-editorialgroup:
-- name: ipv6
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ipv6
   stream: IETF

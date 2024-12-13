@@ -94,8 +94,8 @@ keyword:
 - content: idn
 - content: ascii
 - content: characters
-editorialgroup:
-- name: idnabis
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: idnabis
   stream: IETF

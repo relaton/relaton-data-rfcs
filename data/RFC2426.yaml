@@ -131,8 +131,8 @@ keyword:
 - content: electronic
 - content: business
 - content: card
-editorialgroup:
-- name: asid
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: asid
   stream: IETF

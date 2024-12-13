@@ -95,8 +95,8 @@ keyword:
 - content: igp
 - content: conformance
 - content: ip traffic
-editorialgroup:
-- name: isis
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: isis
   stream: IETF

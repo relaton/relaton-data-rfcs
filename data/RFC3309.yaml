@@ -159,8 +159,8 @@ keyword:
 - content: adler-32
 - content: checksum
 - content: error detection
-editorialgroup:
-- name: tsvwg
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: tsvwg
   stream: IETF

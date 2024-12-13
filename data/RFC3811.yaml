@@ -122,8 +122,8 @@ keyword:
 - content: Multiprotocol Label Switching
 - content: MPLS
 - content: management information base
-editorialgroup:
-- name: mpls
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mpls
   stream: IETF

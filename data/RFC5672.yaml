@@ -119,8 +119,8 @@ keyword:
 - content: SDID
 - content: AUID
 - content: Agent or User Identifier
-editorialgroup:
-- name: dkim
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: dkim
   stream: IETF

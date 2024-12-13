@@ -118,8 +118,8 @@ series:
 keyword:
 - content: maximum transmission unit
 - content: pmtud
-editorialgroup:
-- name: pmtud
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: pmtud
   stream: IETF

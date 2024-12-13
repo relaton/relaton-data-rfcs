@@ -309,8 +309,8 @@ keyword:
 - content: security
 - content: encryption
 - content: hypertext transfer protocol
-editorialgroup:
-- name: http
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: http
   stream: IETF

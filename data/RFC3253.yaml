@@ -212,8 +212,8 @@ keyword:
 - content: management
 - content: WebDAV
 - content: Web Distributed Authoring and Versioning
-editorialgroup:
-- name: deltav
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: deltav
   stream: IETF

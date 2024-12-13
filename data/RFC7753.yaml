@@ -246,8 +246,8 @@ keyword:
 - content: MAP-E
 - content: port set mapping
 - content: port bulk
-editorialgroup:
-- name: pcp
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: pcp
   stream: IETF

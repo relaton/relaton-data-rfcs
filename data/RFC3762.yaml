@@ -89,8 +89,8 @@ keyword:
 - content: Telephone Number Mapping
 - content: multimedia
 - content: packet based network
-editorialgroup:
-- name: enum
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: enum
   stream: IETF

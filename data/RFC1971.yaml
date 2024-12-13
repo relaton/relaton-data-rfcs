@@ -132,8 +132,8 @@ keyword:
 - content: Address
 - content: Detection
 - content: procedure
-editorialgroup:
-- name: addrconf
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: addrconf
   stream: IETF

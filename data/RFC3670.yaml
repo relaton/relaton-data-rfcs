@@ -219,8 +219,8 @@ keyword:
 - content: host
 - content: network devices
 - content: traffic
-editorialgroup:
-- name: policy
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: policy
   stream: IETF

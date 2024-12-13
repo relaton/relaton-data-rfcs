@@ -93,8 +93,8 @@ keyword:
 - content: token metadata
 - content: token status
 - content: token status check
-editorialgroup:
-- name: oauth
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: oauth
   stream: IETF

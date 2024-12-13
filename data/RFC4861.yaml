@@ -179,8 +179,8 @@ keyword:
 - content: internet protocol
 - content: link-layer
 - content: link-layer address
-editorialgroup:
-- name: ipv6
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ipv6
   stream: IETF

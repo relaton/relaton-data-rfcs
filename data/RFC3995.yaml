@@ -148,8 +148,8 @@ keyword:
 - content: subscription events
 - content: subscription objects
 - content: asynchronous even notification
-editorialgroup:
-- name: ipp
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ipp
   stream: IETF

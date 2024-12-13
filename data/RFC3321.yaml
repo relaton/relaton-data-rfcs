@@ -237,8 +237,8 @@ keyword:
 - content: universal decompressor virtual machine
 - content: SigComp
 - content: Signaling Compression
-editorialgroup:
-- name: rohc
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: rohc
   stream: IETF

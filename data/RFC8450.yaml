@@ -92,8 +92,8 @@ keyword:
 - content: vc-2
 - content: VC2
 - content: dirac
-editorialgroup:
-- name: payload
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: payload
   stream: IETF

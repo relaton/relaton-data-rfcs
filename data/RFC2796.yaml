@@ -166,8 +166,8 @@ series:
 keyword:
 - content: BGP
 - content: border gateway protocol
-editorialgroup:
-- name: idr
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: idr
   stream: IETF

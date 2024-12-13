@@ -121,8 +121,8 @@ keyword:
 - content: encapsulating security payload
 - content: AH
 - content: authentication header
-editorialgroup:
-- name: ipsec
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ipsec
   stream: IETF

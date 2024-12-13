@@ -159,8 +159,8 @@ keyword:
 - content: te
 - content: lsp
 - content: label switched path
-editorialgroup:
-- name: ccamp
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ccamp
   stream: IETF

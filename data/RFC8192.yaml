@@ -235,8 +235,8 @@ series:
     format: text/plain
 keyword:
 - content: I2NSF
-editorialgroup:
-- name: i2nsf
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: i2nsf
   stream: IETF

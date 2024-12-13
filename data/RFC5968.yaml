@@ -120,8 +120,8 @@ series:
     format: text/plain
 keyword:
 - content: real-time transport protocol
-editorialgroup:
-- name: avt
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: avt
   stream: IETF

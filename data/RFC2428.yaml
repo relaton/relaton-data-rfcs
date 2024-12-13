@@ -150,8 +150,8 @@ keyword:
 - content: NATs
 - content: network address translators
 - content: extensions
-editorialgroup:
-- name: ftpext
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ftpext
   stream: IETF

@@ -158,8 +158,8 @@ series:
     format: text/plain
 keyword:
 - content: traffic engineering
-editorialgroup:
-- name: pce
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: pce
   stream: IETF

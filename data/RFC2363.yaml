@@ -208,8 +208,8 @@ keyword:
 - content: Frame User Interface
 - content: ATM
 - content: asynchronous transfer mode
-editorialgroup:
-- name: pppext
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: pppext
   stream: IETF

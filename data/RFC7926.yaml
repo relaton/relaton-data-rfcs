@@ -259,8 +259,8 @@ keyword:
 - content: Aggregation
 - content: Virtual node
 - content: Virtual link
-editorialgroup:
-- name: teas
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: teas
   stream: IETF

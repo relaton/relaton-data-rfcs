@@ -120,8 +120,8 @@ keyword:
 - content: ingress filtering
 - content: packet filtering
 - content: Neighbor Discovery
-editorialgroup:
-- name: savi
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: savi
   stream: IETF

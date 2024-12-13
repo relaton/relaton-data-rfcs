@@ -215,8 +215,8 @@ keyword:
 - content: millimeter waves
 - content: YANG Model
 - content: interface management
-editorialgroup:
-- name: ccamp
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ccamp
   stream: IETF

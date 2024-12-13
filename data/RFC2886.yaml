@@ -99,8 +99,8 @@ keyword:
 - content: media
 - content: gateway
 - content: control
-editorialgroup:
-- name: megaco
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: megaco
   stream: IETF

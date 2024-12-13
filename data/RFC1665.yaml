@@ -165,8 +165,8 @@ keyword:
 - content: Architecture
 - content: Addressable
 - content: Units
-editorialgroup:
-- name: snanau
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: snanau
   stream: IETF

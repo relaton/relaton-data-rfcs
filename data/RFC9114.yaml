@@ -92,8 +92,8 @@ keyword:
 - content: HPACK
 - content: QPACK
 - content: Web
-editorialgroup:
-- name: quic
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: quic
   stream: IETF

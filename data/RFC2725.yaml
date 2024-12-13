@@ -182,8 +182,8 @@ keyword:
 - content: database
 - content: registry
 - content: authentication
-editorialgroup:
-- name: rps
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: rps
   stream: IETF

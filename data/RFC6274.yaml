@@ -92,8 +92,8 @@ keyword:
 - content: resiliency
 - content: hardening
 - content: information leakage
-editorialgroup:
-- name: opsec
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: opsec
   stream: IETF

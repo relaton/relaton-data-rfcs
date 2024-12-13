@@ -199,8 +199,8 @@ keyword:
 - content: lightweight
 - content: applications
 - content: firewalls
-editorialgroup:
-- name: midcom
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: midcom
   stream: IETF

@@ -178,8 +178,8 @@ series:
     format: text/plain
 keyword:
 - content: SLP
-editorialgroup:
-- name: vgmib
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: vgmib
   stream: IETF

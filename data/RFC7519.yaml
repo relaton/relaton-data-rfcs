@@ -164,8 +164,8 @@ keyword:
 - content: JWK
 - content: JSON Web Algorithms
 - content: JWA
-editorialgroup:
-- name: oauth
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: oauth
   stream: IETF

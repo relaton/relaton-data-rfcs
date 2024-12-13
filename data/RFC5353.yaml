@@ -212,8 +212,8 @@ keyword:
 - content: asap
 - content: aggregate server access protocol
 - content: fault-tolerant registry
-editorialgroup:
-- name: rserpool
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: rserpool
   stream: IETF

@@ -188,8 +188,8 @@ keyword:
 - content: ICMP Error
 - content: Ping
 - content: Traceroute
-editorialgroup:
-- name: behave
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: behave
   stream: IETF

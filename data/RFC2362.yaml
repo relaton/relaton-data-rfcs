@@ -383,8 +383,8 @@ keyword:
 - content: type
 - content: timers
 - content: flags
-editorialgroup:
-- name: idmr
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: idmr
   stream: IETF

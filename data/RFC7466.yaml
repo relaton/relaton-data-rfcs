@@ -156,8 +156,8 @@ keyword:
 - content: NHDP
 - content: OLSRv2
 - content: link quality
-editorialgroup:
-- name: manet
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: manet
   stream: IETF

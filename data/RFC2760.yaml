@@ -420,8 +420,8 @@ keyword:
 - content: bandwidth
 - content: network
 - content: links
-editorialgroup:
-- name: tcpsat
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: tcpsat
   stream: IETF

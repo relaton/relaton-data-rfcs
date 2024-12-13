@@ -122,8 +122,8 @@ keyword:
 - content: address
 - content: ip
 - content: internet
-editorialgroup:
-- name: idr
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: idr
   stream: IETF

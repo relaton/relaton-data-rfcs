@@ -149,8 +149,8 @@ keyword:
 - content: network
 - content: management
 - content: authentication
-editorialgroup:
-- name: snmpsec
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: snmpsec
   stream: IETF

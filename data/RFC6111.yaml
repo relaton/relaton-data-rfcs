@@ -96,8 +96,8 @@ series:
 keyword:
 - content: principal names
 - content: realm names
-editorialgroup:
-- name: krb-wg
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: krb-wg
   stream: IETF

@@ -215,8 +215,8 @@ keyword:
 - content: Local Mobility Anchor (LMA)
 - content: Proxy Mobile IPv6 (PMIPv6)
 - content: Service Set Identifier (SSID)
-editorialgroup:
-- name: dhc
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: dhc
   stream: IETF

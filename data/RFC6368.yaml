@@ -212,8 +212,8 @@ keyword:
 - content: as-override
 - content: attribute set
 - content: attr_set
-editorialgroup:
-- name: l3vpn
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: l3vpn
   stream: IETF

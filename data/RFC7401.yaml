@@ -188,8 +188,8 @@ keyword:
 - content: IP-layer state
 - content: integrity protection
 - content: optional encryption
-editorialgroup:
-- name: hip
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: hip
   stream: IETF

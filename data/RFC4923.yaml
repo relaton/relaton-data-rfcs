@@ -122,8 +122,8 @@ keyword:
 - content: vpn
 - content: nested vpn
 - content: integrated services
-editorialgroup:
-- name: tsvwg
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: tsvwg
   stream: IETF

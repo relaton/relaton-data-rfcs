@@ -119,8 +119,8 @@ keyword:
 - content: private keys
 - content: PSE
 - content: personal security environment
-editorialgroup:
-- name: sacred
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: sacred
   stream: IETF

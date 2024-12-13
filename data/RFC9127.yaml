@@ -211,8 +211,8 @@ keyword:
 - content: IS-IS
 - content: TCP-AO
 - content: MD5
-editorialgroup:
-- name: bfd
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: bfd
   stream: IETF

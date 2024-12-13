@@ -142,8 +142,8 @@ keyword:
 - content: internet protocol
 - content: compact
 - content: schemes
-editorialgroup:
-- name: rmt
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: rmt
   stream: IETF

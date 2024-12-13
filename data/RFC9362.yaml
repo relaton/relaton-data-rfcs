@@ -133,8 +133,8 @@ keyword:
 - content: Large amounts of data
 - content: Less packet interchange
 - content: Fast recovery
-editorialgroup:
-- name: dots
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: dots
   stream: IETF

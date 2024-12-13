@@ -94,8 +94,8 @@ keyword:
 - content: Flow monitoring
 - content: IPFIX
 - content: Netflow
-editorialgroup:
-- name: bmwg
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: bmwg
   stream: IETF

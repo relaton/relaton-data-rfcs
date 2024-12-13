@@ -220,8 +220,8 @@ keyword:
 - content: TVBD
 - content: white space device
 - content: WSD
-editorialgroup:
-- name: paws
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: paws
   stream: IETF

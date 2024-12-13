@@ -184,8 +184,8 @@ keyword:
 - content: NSIS
 - content: Path-coupled signaling
 - content: Middlebox
-editorialgroup:
-- name: nsis
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: nsis
   stream: IETF

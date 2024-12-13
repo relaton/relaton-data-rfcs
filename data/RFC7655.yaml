@@ -211,8 +211,8 @@ keyword:
 - content: G.711ZIP
 - content: Lossless G.711 Compression
 - content: G.711 Data Compression Algorithm
-editorialgroup:
-- name: payload
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: payload
   stream: IETF

@@ -118,8 +118,8 @@ keyword:
 - content: Email
 - content: Greylisting
 - content: Spam
-editorialgroup:
-- name: appsawg
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: appsawg
   stream: IETF

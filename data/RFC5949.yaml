@@ -221,8 +221,8 @@ keyword:
 - content: PMIPv6
 - content: predictive
 - content: reactive
-editorialgroup:
-- name: mipshop
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mipshop
   stream: IETF

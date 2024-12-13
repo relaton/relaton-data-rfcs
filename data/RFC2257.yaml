@@ -165,8 +165,8 @@ keyword:
 - content: MIB
 - content: Information
 - content: Base
-editorialgroup:
-- name: agentx
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: agentx
   stream: IETF

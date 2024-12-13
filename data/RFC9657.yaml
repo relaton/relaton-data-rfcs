@@ -210,8 +210,8 @@ keyword:
 - content: Mobility
 - content: Green computing
 - content: Resource management
-editorialgroup:
-- name: tvr
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: tvr
   stream: IETF

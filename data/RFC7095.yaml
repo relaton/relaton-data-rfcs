@@ -93,8 +93,8 @@ keyword:
 - content: contacts
 - content: CardDAV
 - content: PIM
-editorialgroup:
-- name: jcardcal
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: jcardcal
   stream: IETF

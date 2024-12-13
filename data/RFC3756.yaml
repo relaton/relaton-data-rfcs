@@ -151,8 +151,8 @@ series:
 keyword:
 - content: authentication
 - content: security key management
-editorialgroup:
-- name: send
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: send
   stream: IETF

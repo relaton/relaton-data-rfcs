@@ -184,8 +184,8 @@ keyword:
 - content: TCP
 - content: Loss Recovery
 - content: Reordering
-editorialgroup:
-- name: tcpm
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: tcpm
   stream: IETF

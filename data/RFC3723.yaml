@@ -212,8 +212,8 @@ keyword:
 - content: threat models
 - content: performance
 - content: security
-editorialgroup:
-- name: ips
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ips
   stream: IETF

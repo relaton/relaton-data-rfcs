@@ -123,8 +123,8 @@ keyword:
 - content: MELP600
 - content: SCIP-210
 - content: SCIP210
-editorialgroup:
-- name: payload
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: payload
   stream: IETF

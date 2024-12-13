@@ -210,8 +210,8 @@ keyword:
 - content: AAA
 - content: RADIUS
 - content: IPv6
-editorialgroup:
-- name: radext
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: radext
   stream: IETF

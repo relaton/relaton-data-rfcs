@@ -122,8 +122,8 @@ keyword:
 - content: markup
 - content: language
 - content: security
-editorialgroup:
-- name: trade
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: trade
   stream: IETF

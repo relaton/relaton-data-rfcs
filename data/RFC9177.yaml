@@ -133,8 +133,8 @@ keyword:
 - content: Less packet interchange
 - content: Fast recovery
 - content: DOTS
-editorialgroup:
-- name: core
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: core
   stream: IETF

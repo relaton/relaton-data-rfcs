@@ -226,8 +226,8 @@ keyword:
 - content: MPEG-I Part 3
 - content: RTP Payload
 - content: Video
-editorialgroup:
-- name: avtcore
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: avtcore
   stream: IETF

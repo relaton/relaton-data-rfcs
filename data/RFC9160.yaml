@@ -96,8 +96,8 @@ keyword:
 - content: BGP Prefix-SID
 - content: PCE
 - content: PCEP SR
-editorialgroup:
-- name: opsawg
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: opsawg
   stream: IETF

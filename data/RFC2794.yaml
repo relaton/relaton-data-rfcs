@@ -131,8 +131,8 @@ keyword:
 - content: internet protocol
 - content: NAI
 - content: Network Access Identifier
-editorialgroup:
-- name: mobileip
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mobileip
   stream: IETF

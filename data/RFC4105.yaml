@@ -161,8 +161,8 @@ keyword:
 - content: multiprotocol label switching
 - content: mpls-te
 - content: mpls te
-editorialgroup:
-- name: tewg
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: tewg
   stream: IETF

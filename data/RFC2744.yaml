@@ -88,8 +88,8 @@ keyword:
 - content: Generic Security Service Application Program Interface
 - content: cryptology
 - content: authentication
-editorialgroup:
-- name: cat
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: cat
   stream: IETF

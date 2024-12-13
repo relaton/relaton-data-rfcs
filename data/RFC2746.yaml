@@ -177,8 +177,8 @@ keyword:
 - content: resource reservation protocol
 - content: IP
 - content: internet protocol
-editorialgroup:
-- name: vgmib
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: vgmib
   stream: IETF

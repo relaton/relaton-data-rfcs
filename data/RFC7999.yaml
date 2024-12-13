@@ -210,8 +210,8 @@ keyword:
 - content: well known
 - content: RTBH
 - content: Remotely Triggered Blackholing
-editorialgroup:
-- name: grow
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: grow
   stream: IETF

@@ -246,8 +246,8 @@ keyword:
 - content: Multi-Protocol Label Switching
 - content: CE
 - content: Carrier Ethernet
-editorialgroup:
-- name: l2vpn
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: l2vpn
   stream: IETF

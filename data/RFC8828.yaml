@@ -121,8 +121,8 @@ keyword:
 - content: proxy
 - content: peer
 - content: mode
-editorialgroup:
-- name: rtcweb
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: rtcweb
   stream: IETF

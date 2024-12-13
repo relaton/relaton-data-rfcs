@@ -133,8 +133,8 @@ keyword:
 - content: speaker authentication
 - content: speaker verification
 - content: speaker identification
-editorialgroup:
-- name: speechsc
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: speechsc
   stream: IETF

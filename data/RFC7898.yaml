@@ -182,8 +182,8 @@ keyword:
 - content: RSVP-TE
 - content: domain
 - content: subobjects
-editorialgroup:
-- name: teas
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: teas
   stream: IETF

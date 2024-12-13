@@ -107,8 +107,8 @@ keyword:
 - content: snmpv3
 - content: snmpengineid
 - content: localengineid
-editorialgroup:
-- name: opsawg
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: opsawg
   stream: IETF

@@ -119,8 +119,8 @@ keyword:
 - content: Mail
 - content: internationalization
 - content: mailing lists
-editorialgroup:
-- name: eai
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: eai
   stream: IETF

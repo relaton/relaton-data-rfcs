@@ -178,8 +178,8 @@ keyword:
 - content: load
 - content: guaranteed
 - content: services
-editorialgroup:
-- name: issll
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: issll
   stream: IETF

@@ -88,8 +88,8 @@ keyword:
 - content: digital signature algorithm
 - content: signatures
 - content: cryptology
-editorialgroup:
-- name: dnssec
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: dnssec
   stream: IETF

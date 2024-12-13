@@ -133,8 +133,8 @@ keyword:
 - content: I.255
 - content: flash
 - content: flash-override
-editorialgroup:
-- name: sip
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: sip
   stream: IETF

@@ -161,8 +161,8 @@ keyword:
 - content: BGP-ASC
 - content: Autonomous System Confederations
 - content: border gateway protocol
-editorialgroup:
-- name: idr
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: idr
   stream: IETF

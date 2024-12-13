@@ -182,8 +182,8 @@ keyword:
 - content: public switched telephone network
 - content: SIP
 - content: Session Initiation Protocol
-editorialgroup:
-- name: sipping
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: sipping
   stream: IETF

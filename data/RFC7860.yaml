@@ -120,8 +120,8 @@ keyword:
 - content: USM
 - content: HMAC
 - content: SHA-2
-editorialgroup:
-- name: opsawg
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: opsawg
   stream: IETF

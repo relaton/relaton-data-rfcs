@@ -229,8 +229,8 @@ keyword:
 - content: BFD
 - content: p2p
 - content: point-to-point
-editorialgroup:
-- name: trill
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: trill
   stream: IETF

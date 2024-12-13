@@ -169,8 +169,8 @@ keyword:
 - content: IPv6
 - content: Security
 - content: Operational Security
-editorialgroup:
-- name: opsec
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: opsec
   stream: IETF

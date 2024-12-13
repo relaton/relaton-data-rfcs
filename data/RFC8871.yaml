@@ -150,8 +150,8 @@ keyword:
 - content: PERC
 - content: Private Media Framework
 - content: conferencing
-editorialgroup:
-- name: perc
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: perc
   stream: IETF

@@ -97,8 +97,8 @@ series:
 keyword:
 - content: MIB
 - content: Management Information Base
-editorialgroup:
-- name: hubmib
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: hubmib
   stream: IETF

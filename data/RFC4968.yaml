@@ -88,8 +88,8 @@ series:
     format: text/plain
 keyword:
 - content: wimax
-editorialgroup:
-- name: 16ng
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: 16ng
   stream: IETF

@@ -133,8 +133,8 @@ keyword:
 - content: wireless multipoint relays
 - content: mpr
 - content: mprs
-editorialgroup:
-- name: manet
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: manet
   stream: IETF

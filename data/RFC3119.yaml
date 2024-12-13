@@ -100,8 +100,8 @@ keyword:
 - content: real-time protocol
 - content: MPEG
 - content: moving picture experts group
-editorialgroup:
-- name: avt
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: avt
   stream: IETF

@@ -162,8 +162,8 @@ keyword:
 - content: extensible network access authentication
 - content: key hierarchy
 - content: methods
-editorialgroup:
-- name: eap
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: eap
   stream: IETF

@@ -121,8 +121,8 @@ keyword:
 - content: certificates
 - content: public keys
 - content: PKI
-editorialgroup:
-- name: dane
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: dane
   stream: IETF

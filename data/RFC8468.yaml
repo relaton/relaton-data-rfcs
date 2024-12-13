@@ -229,8 +229,8 @@ keyword:
 - content: Type-P
 - content: Minimal Packet
 - content: IPv6 Transition
-editorialgroup:
-- name: ippm
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ippm
   stream: IETF

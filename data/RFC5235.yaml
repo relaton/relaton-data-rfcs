@@ -90,8 +90,8 @@ keyword:
 - content: spamtestplus
 - content: virustest
 - content: scores
-editorialgroup:
-- name: sieve
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: sieve
   stream: IETF

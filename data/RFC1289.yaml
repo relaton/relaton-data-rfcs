@@ -99,8 +99,8 @@ keyword:
 - content: protocol
 - content: standard
 - content: standards
-editorialgroup:
-- name: decnetiv
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: decnetiv
   stream: IETF

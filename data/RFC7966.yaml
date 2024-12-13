@@ -176,8 +176,8 @@ series:
 keyword:
 - content: Diameter
 - content: End-to-End Security
-editorialgroup:
-- name: dime
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: dime
   stream: IETF

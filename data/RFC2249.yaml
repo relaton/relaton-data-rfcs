@@ -132,8 +132,8 @@ keyword:
 - content: Message
 - content: Transfer
 - content: Agents
-editorialgroup:
-- name: madman
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: madman
   stream: IETF

@@ -159,8 +159,8 @@ keyword:
 - content: lsp
 - content: label switch path
 - content: " point-to-point mpls-te lsps"
-editorialgroup:
-- name: mpls
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mpls
   stream: IETF

@@ -149,8 +149,8 @@ series:
 keyword:
 - content: ingress filtering
 - content: BCP38
-editorialgroup:
-- name: savi
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: savi
   stream: IETF

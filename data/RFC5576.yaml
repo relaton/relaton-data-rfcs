@@ -158,8 +158,8 @@ keyword:
 - content: flow identification
 - content: fec
 - content: forward error correction
-editorialgroup:
-- name: mmusic
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mmusic
   stream: IETF

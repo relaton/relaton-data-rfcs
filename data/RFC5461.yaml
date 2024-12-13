@@ -90,8 +90,8 @@ series:
 keyword:
 - content: icmp
 - content: Internet Control Message Protocol
-editorialgroup:
-- name: tcpm
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: tcpm
   stream: IETF

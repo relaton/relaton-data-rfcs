@@ -140,8 +140,8 @@ keyword:
 - content: sending algorithm
 - content: sending MIDI
 - content: telepresence
-editorialgroup:
-- name: avt
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: avt
   stream: IETF

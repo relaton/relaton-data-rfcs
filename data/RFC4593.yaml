@@ -151,8 +151,8 @@ keyword:
 - content: threat capability
 - content: threat action
 - content: threat consequences
-editorialgroup:
-- name: rpsec
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: rpsec
   stream: IETF

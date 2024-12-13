@@ -147,8 +147,8 @@ series:
 keyword:
 - content: HARPOON
 - content: Mail
-editorialgroup:
-- name: mimemhs
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mimemhs
   stream: IETF

@@ -129,8 +129,8 @@ keyword:
 - content: filter
 - content: firewall
 - content: icmpv6
-editorialgroup:
-- name: v6ops
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: v6ops
   stream: IETF

@@ -144,8 +144,8 @@ keyword:
 - content: 6LoWPAN
 - content: RPL
 - content: Wi-SUN
-editorialgroup:
-- name: 6lo
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: 6lo
   stream: IETF

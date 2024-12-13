@@ -158,8 +158,8 @@ keyword:
 - content: reject
 - content: BGP
 - content: EBGP
-editorialgroup:
-- name: grow
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: grow
   stream: IETF

@@ -159,8 +159,8 @@ keyword:
 - content: Multi-Cost Data Format
 - content: Testable Cost Types
 - content: or-constraints
-editorialgroup:
-- name: alto
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: alto
   stream: IETF

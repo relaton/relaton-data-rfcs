@@ -115,8 +115,8 @@ series:
 keyword:
 - content: xml-basd web content
 - content: metadata
-editorialgroup:
-- name: atompub
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: atompub
   stream: IETF

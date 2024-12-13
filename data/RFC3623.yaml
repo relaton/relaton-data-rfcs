@@ -154,8 +154,8 @@ keyword:
 - content: OSPF
 - content: open shortest path first
 - content: non-stop forwarding
-editorialgroup:
-- name: ospf
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ospf
   stream: IETF

@@ -86,8 +86,8 @@ series:
     format: text/plain
 keyword:
 - content: authenticated encryption algorithm
-editorialgroup:
-- name: smime
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: smime
   stream: IETF

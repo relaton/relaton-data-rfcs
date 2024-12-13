@@ -88,8 +88,8 @@ keyword:
 - content: smpte
 - content: society of motion picture and television engineers
 - content: media stream
-editorialgroup:
-- name: avt
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: avt
   stream: IETF

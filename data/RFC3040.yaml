@@ -149,8 +149,8 @@ keyword:
 - content: www
 - content: world
 - content: wide
-editorialgroup:
-- name: wrec
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: wrec
   stream: IETF

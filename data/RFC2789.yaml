@@ -119,8 +119,8 @@ keyword:
 - content: management information base
 - content: mail
 - content: monitoring
-editorialgroup:
-- name: madman
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: madman
   stream: IETF

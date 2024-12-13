@@ -210,8 +210,8 @@ series:
 keyword:
 - content: open shortest path first
 - content: intra-domain routing
-editorialgroup:
-- name: ospf
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ospf
   stream: IETF

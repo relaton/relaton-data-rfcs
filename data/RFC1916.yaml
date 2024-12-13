@@ -179,8 +179,8 @@ series:
 keyword:
 - content: tools
 - content: applications
-editorialgroup:
-- name: pier
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: pier
   stream: IETF

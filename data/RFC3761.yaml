@@ -147,8 +147,8 @@ keyword:
 - content: Dynamic Delegation Discovery System
 - content: DNS
 - content: domain name system
-editorialgroup:
-- name: enum
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: enum
   stream: IETF

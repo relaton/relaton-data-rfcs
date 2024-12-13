@@ -132,8 +132,8 @@ series:
 keyword:
 - content: structured syntax suffix
 - content: media type
-editorialgroup:
-- name: appsawg
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: appsawg
   stream: IETF

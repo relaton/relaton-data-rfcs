@@ -197,8 +197,8 @@ keyword:
 - content: audio
 - content: video
 - content: RTCP
-editorialgroup:
-- name: avt
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: avt
   stream: IETF

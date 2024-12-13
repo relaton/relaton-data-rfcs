@@ -90,8 +90,8 @@ keyword:
 - content: Message Tracking Query Protocol
 - content: MTQP
 - content: ESMTP
-editorialgroup:
-- name: msgtrk
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: msgtrk
   stream: IETF

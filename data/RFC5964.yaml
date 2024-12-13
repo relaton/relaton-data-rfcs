@@ -121,8 +121,8 @@ keyword:
 - content: service boundary
 - content: location
 - content: LoST
-editorialgroup:
-- name: ecrit
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ecrit
   stream: IETF

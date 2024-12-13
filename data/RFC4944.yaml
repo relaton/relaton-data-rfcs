@@ -179,8 +179,8 @@ keyword:
 - content: internet protocol version 6
 - content: link-local address
 - content: stateless autoconfiguration
-editorialgroup:
-- name: 6lowpan
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: 6lowpan
   stream: IETF

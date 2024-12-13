@@ -123,8 +123,8 @@ keyword:
 - content: IP
 - content: internet
 - content: protocol
-editorialgroup:
-- name: diffserv
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: diffserv
   stream: IETF

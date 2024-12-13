@@ -108,8 +108,8 @@ keyword:
 - content: simple
 - content: mail
 - content: transfer
-editorialgroup:
-- name: mailext
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: mailext
   stream: IETF

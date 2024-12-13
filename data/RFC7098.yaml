@@ -145,8 +145,8 @@ series:
     format: text/plain
 keyword:
 - content: ECMP
-editorialgroup:
-- name: intarea
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: intarea
   stream: IETF

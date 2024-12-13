@@ -185,8 +185,8 @@ keyword:
 - content: CAP
 - content: Common Alerting Protocol
 - content: Non-Interactive Emergency calls
-editorialgroup:
-- name: ecrit
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ecrit
   stream: IETF

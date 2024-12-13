@@ -210,8 +210,8 @@ keyword:
 - content: Terminology
 - content: RTP
 - content: Grouping
-editorialgroup:
-- name: avtext
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: avtext
   stream: IETF

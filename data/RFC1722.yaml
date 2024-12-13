@@ -90,8 +90,8 @@ series:
 keyword:
 - content: RIP2-APP
 - content: RIP-2
-editorialgroup:
-- name: ripv2
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: ripv2
   stream: IETF

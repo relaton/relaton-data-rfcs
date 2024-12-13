@@ -121,8 +121,8 @@ series:
   title:
     content: IETF
     format: text/plain
-editorialgroup:
-- name: snmp
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: snmp
   stream: IETF

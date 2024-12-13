@@ -147,8 +147,8 @@ keyword:
 - content: common indexing protocol
 - content: message
 - content: formats
-editorialgroup:
-- name: find
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: find
   stream: IETF

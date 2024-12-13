@@ -128,8 +128,8 @@ keyword:
 - content: authentication
 - content: mikey
 - content: multimedia internet keying protocol
-editorialgroup:
-- name: msec
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: msec
   stream: IETF
