@@ -1,24 +1,25 @@
 ---
 schema-version: v1.2.9
-id: RFC9657
+id: RFC9703
 title:
-- content: Time-Variant Routing (TVR) Use Cases
+- content: Label Switched Path (LSP) Ping/Traceroute for Segment Routing (SR) Egress
+    Peer Engineering (EPE) Segment Identifiers (SIDs) with MPLS Data Plane
   format: text/plain
   type: main
 link:
-- content: https://www.rfc-editor.org/info/rfc9657
+- content: https://www.rfc-editor.org/info/rfc9703
   type: src
 type: standard
 docid:
-- id: RFC 9657
+- id: RFC 9703
   type: IETF
   primary: true
-- id: 10.17487/RFC9657
+- id: 10.17487/RFC9703
   type: DOI
-docnumber: RFC9657
+docnumber: RFC9703
 date:
 - type: published
-  value: 2024-10
+  value: 2024-12
 contributor:
 - person:
     name:
@@ -29,21 +30,21 @@ contributor:
           - en
           script:
           - Latn
-          initial: E
+          initial: S
         formatted_initials:
-          content: E.
+          content: S.
           language:
           - en
           script:
           - Latn
       surname:
-        content: Birrane, III
+        content: Hegde
         language:
         - en
         script:
         - Latn
       completename:
-        content: E. Birrane, III
+        content: S. Hegde
         language:
         - en
         script:
@@ -59,21 +60,21 @@ contributor:
           - en
           script:
           - Latn
-          initial: N
+          initial: M
         formatted_initials:
-          content: N.
+          content: M.
           language:
           - en
           script:
           - Latn
       surname:
-        content: Kuhn
+        content: Srivastava
         language:
         - en
         script:
         - Latn
       completename:
-        content: N. Kuhn
+        content: M. Srivastava
         language:
         - en
         script:
@@ -89,21 +90,21 @@ contributor:
           - en
           script:
           - Latn
-          initial: Y
+          initial: K
         formatted_initials:
-          content: Y.
+          content: K.
           language:
           - en
           script:
           - Latn
       surname:
-        content: Qu
+        content: Arora
         language:
         - en
         script:
         - Latn
       completename:
-        content: Y. Qu
+        content: K. Arora
         language:
         - en
         script:
@@ -119,21 +120,21 @@ contributor:
           - en
           script:
           - Latn
-          initial: R
+          initial: S
         formatted_initials:
-          content: R.
+          content: S.
           language:
           - en
           script:
           - Latn
       surname:
-        content: Taylor
+        content: Ninan
         language:
         - en
         script:
         - Latn
       completename:
-        content: R. Taylor
+        content: S. Ninan
         language:
         - en
         script:
@@ -149,21 +150,21 @@ contributor:
           - en
           script:
           - Latn
-          initial: L
+          initial: X
         formatted_initials:
-          content: L.
+          content: X.
           language:
           - en
           script:
           - Latn
       surname:
-        content: Zhang
+        content: Xu
         language:
         - en
         script:
         - Latn
       completename:
-        content: L. Zhang
+        content: X. Xu
         language:
         - en
         script:
@@ -180,16 +181,22 @@ contributor:
     - content: RFC Series
   role:
   - type: authorizer
-revdate: 2024-10
+revdate: 2024-12
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "<p>This document introduces use cases where Time-Variant Routing (TVR)
-    computations (i.e., routing computations that take into consideration time-based
-    or scheduled changes to a network) could improve routing protocol convergence
-    and/or network performance.</p>"
+- content: "<p>Egress Peer Engineering (EPE) is an application of Segment Routing
+    (SR) that solves the problem of egress peer selection. The SR-based BGP-EPE solution
+    allows a centralized controller, e.g., a Software-Defined Network (SDN) controller,
+    to program any egress peer. The EPE solution requires the node or the SDN controller
+    to program 1) the PeerNode Segment Identifier (SID) describing a session between
+    two nodes, 2) the PeerAdj SID describing the link or links that are used by the
+    sessions between peer nodes, and 3) the PeerSet SID describing any connected interface
+    to any peer in the related group. This document provides new sub-TLVs for EPE-SIDs
+    that are used in the Target FEC Stack TLV (Type 1) in MPLS Ping and Traceroute
+    procedures.</p>"
   language:
   - en
   script:
@@ -199,19 +206,21 @@ series:
 - title:
     content: RFC
     format: text/plain
-  number: '9657'
+  number: '9703'
 - type: stream
   title:
     content: IETF
     format: text/plain
 keyword:
-- content: Time-variant
-- content: Routing
-- content: Mobility
-- content: Green computing
-- content: Resource management
+- content: OAM
+- content: EPE
+- content: BGP-LS
+- content: BGP
+- content: SPRING
+- content: SDN
+- content: SID
 ext:
   schema-version: v1.0.1
   editorialgroup:
-  - name: tvr
+  - name: mpls
   stream: IETF
