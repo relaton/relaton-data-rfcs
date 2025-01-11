@@ -18981,9 +18981,17 @@
   :file: data/RFC9689.yaml
 - :id: RFC 9691
   :file: data/RFC9691.yaml
+- :id: RFC 9693
+  :file: data/RFC9693.yaml
 - :id: RFC 9697
   :file: data/RFC9697.yaml
 - :id: RFC 9699
   :file: data/RFC9699.yaml
+- :id: RFC 9702
+  :file: data/RFC9702.yaml
 - :id: RFC 9703
   :file: data/RFC9703.yaml
+- :id: RFC 9708
+  :file: data/RFC9708.yaml
+- :id: RFC 9709
+  :file: data/RFC9709.yaml
