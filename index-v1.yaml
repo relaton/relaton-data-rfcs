@@ -18991,7 +18991,13 @@
   :file: data/RFC9702.yaml
 - :id: RFC 9703
   :file: data/RFC9703.yaml
+- :id: RFC 9706
+  :file: data/RFC9706.yaml
 - :id: RFC 9708
   :file: data/RFC9708.yaml
 - :id: RFC 9709
   :file: data/RFC9709.yaml
+- :id: RFC 9713
+  :file: data/RFC9713.yaml
+- :id: RFC 9720
+  :file: data/RFC9720.yaml

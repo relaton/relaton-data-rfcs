@@ -1,24 +1,25 @@
 ---
 schema-version: v1.2.9
-id: RFC8947
+id: RFC9706
 title:
-- content: Link-Layer Address Assignment Mechanism for DHCPv6
+- content: 'TreeDN: Tree-Based Content Delivery Network (CDN) for Live Streaming to
+    Mass Audiences'
   format: text/plain
   type: main
 link:
-- content: https://www.rfc-editor.org/info/rfc8947
+- content: https://www.rfc-editor.org/info/rfc9706
   type: src
 type: standard
 docid:
-- id: RFC 8947
+- id: RFC 9706
   type: IETF
   primary: true
-- id: 10.17487/RFC8947
+- id: 10.17487/RFC9706
   type: DOI
-docnumber: RFC8947
+docnumber: RFC9706
 date:
 - type: published
-  value: 2020-12
+  value: 2025-01
 contributor:
 - person:
     name:
@@ -29,21 +30,21 @@ contributor:
           - en
           script:
           - Latn
-          initial: B
+          initial: L
         formatted_initials:
-          content: B.
+          content: L.
           language:
           - en
           script:
           - Latn
       surname:
-        content: Volz
+        content: Giuliano
         language:
         - en
         script:
         - Latn
       completename:
-        content: B. Volz
+        content: L. Giuliano
         language:
         - en
         script:
@@ -59,21 +60,21 @@ contributor:
           - en
           script:
           - Latn
-          initial: T
+          initial: C
         formatted_initials:
-          content: T.
+          content: C.
           language:
           - en
           script:
           - Latn
       surname:
-        content: Mrugalski
+        content: Lenart
         language:
         - en
         script:
         - Latn
       completename:
-        content: T. Mrugalski
+        content: C. Lenart
         language:
         - en
         script:
@@ -89,21 +90,21 @@ contributor:
           - en
           script:
           - Latn
-          initial: CJ
+          initial: R
         formatted_initials:
-          content: CJ.
+          content: R.
           language:
           - en
           script:
           - Latn
       surname:
-        content: Bernardos
+        content: Adam
         language:
         - en
         script:
         - Latn
       completename:
-        content: CJ. Bernardos
+        content: R. Adam
         language:
         - en
         script:
@@ -120,20 +121,25 @@ contributor:
     - content: RFC Series
   role:
   - type: authorizer
-revdate: 2020-12
+revdate: 2025-01
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "<p>In certain environments, e.g., large-scale virtualization deployments,
-    new devices are created in an automated manner. Such devices may have their link-layer
-    addresses assigned in an automated fashion. With sufficient scale, the likelihood
-    of a collision using random assignment without duplication detection is not acceptable.
-    Therefore, an allocation mechanism is required. This document proposes an extension
-    to DHCPv6 that allows a scalable approach to link-layer address assignments where
-    preassigned link-layer address assignments (such as by a manufacturer) are not
-    possible or are unnecessary.</p>"
+- content: "<p>As Internet audience sizes for high-interest live events reach unprecedented
+    levels and bitrates climb to support formats and applications such as 4K, 8K,
+    and Augmented Reality (AR), live streaming can place a unique type of stress upon
+    network resources. TreeDN is a tree-based Content Delivery Network (CDN) architecture
+    designed to address the distinctive scaling challenges of live streaming to mass
+    audiences. TreeDN enables operators to offer Replication-as-a-Service (RaaS) at
+    a fraction of the cost of traditional, unicast-based CDNs -- in some cases, at
+    no additional cost to the infrastructure. In addition to efficiently utilizing
+    network resources to deliver existing multi-destination traffic, this architecture
+    also enables new types of content and use cases that previously were not possible
+    or economically viable using traditional CDN approaches. Finally, TreeDN is a
+    decentralized architecture and a democratizing technology that makes content distribution
+    more accessible to more people by dramatically reducing the costs of replication.</p>"
   language:
   - en
   script:
@@ -143,13 +149,20 @@ series:
 - title:
     content: RFC
     format: text/plain
-  number: '8947'
+  number: '9706'
 - type: stream
   title:
     content: IETF
     format: text/plain
+keyword:
+- content: multicast
+- content: SSM
+- content: AMT
+- content: LISP
+- content: CDN
+- content: PIM-SSM
 ext:
   schema-version: v1.0.1
   editorialgroup:
-  - name: dhc
+  - name: mops
   stream: IETF
