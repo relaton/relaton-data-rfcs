@@ -1,24 +1,25 @@
 ---
 schema-version: v1.2.9
-id: RFC6855
+id: RFC9724
 title:
-- content: IMAP Support for UTF-8
+- content: State of Affairs for Randomized and Changing Media Access Control (MAC)
+    Addresses
   format: text/plain
   type: main
 link:
-- content: https://www.rfc-editor.org/info/rfc6855
+- content: https://www.rfc-editor.org/info/rfc9724
   type: src
 type: standard
 docid:
-- id: RFC 6855
+- id: RFC 9724
   type: IETF
   primary: true
-- id: 10.17487/RFC6855
+- id: 10.17487/RFC9724
   type: DOI
-docnumber: RFC6855
+docnumber: RFC9724
 date:
 - type: published
-  value: 2013-03
+  value: 2025-03
 contributor:
 - person:
     name:
@@ -29,21 +30,51 @@ contributor:
           - en
           script:
           - Latn
-          initial: P
+          initial: JC
         formatted_initials:
-          content: P.
+          content: JC.
           language:
           - en
           script:
           - Latn
       surname:
-        content: Resnick
+        content: Zúñiga
         language:
         - en
         script:
         - Latn
       completename:
-        content: P. Resnick
+        content: JC. Zúñiga
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content:
+          language:
+          - en
+          script:
+          - Latn
+          initial: CJ
+        formatted_initials:
+          content: CJ.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Bernardos
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: CJ. Bernardos
         language:
         - en
         script:
@@ -59,57 +90,27 @@ contributor:
           - en
           script:
           - Latn
-          initial: C
+          initial: A
         formatted_initials:
-          content: C.
+          content: A.
           language:
           - en
           script:
           - Latn
       surname:
-        content: Newman
+        content: Andersdotter
         language:
         - en
         script:
         - Latn
       completename:
-        content: C. Newman
+        content: A. Andersdotter
         language:
         - en
         script:
         - Latn
   role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          script:
-          - Latn
-          initial: S
-        formatted_initials:
-          content: S.
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Shen
-        language:
-        - en
-        script:
-        - Latn
-      completename:
-        content: S. Shen
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
+  - type: author
 - organization:
     name:
     - content: RFC Publisher
@@ -120,45 +121,44 @@ contributor:
     - content: RFC Series
   role:
   - type: authorizer
-revdate: 2013-03
+revdate: 2025-03
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "<p>This specification extends the Internet Message Access Protocol (IMAP)
-    to support UTF-8 encoded international characters in user names, mail addresses,
-    and message headers. This specification replaces RFC 5738.</p>"
+- content: "<p>Internet users are becoming more aware that their activity over the
+    Internet leaves a vast digital footprint, that communications might not always
+    be properly secured, and that their location and actions can be tracked. One of
+    the main factors that eases tracking of Internet users is the wide use of long-lasting,
+    and sometimes persistent, identifiers at various protocol layers. This document
+    focuses on Media Access Control (MAC) addresses.</p><p>There have been several
+    initiatives within the IETF and the IEEE 802 standards committees to address some
+    of the privacy issues involved. This document provides an overview of these activities
+    to help coordinate standardization activities in these bodies.</p>"
   language:
   - en
   script:
   - Latn
   format: text/html
-relation:
-- type: obsoletedBy
-  bibitem:
-    id: RFC9755
-    docid:
-    - id: RFC9755
-      type: IETF
-      primary: true
-    formattedref:
-      content: RFC9755
-      format: text/plain
 series:
 - title:
     content: RFC
     format: text/plain
-  number: '6855'
+  number: '9724'
 - type: stream
   title:
     content: IETF
     format: text/plain
 keyword:
-- content: IMAP
-- content: IDNA
+- content: privacy
+- content: tracking
+- content: slap
+- content: rcm
+- content: 802.11bh
+- content: 802.11bi
 ext:
   schema-version: v1.0.1
   editorialgroup:
-  - name: eai
+  - name: madinas
   stream: IETF

@@ -1,85 +1,25 @@
 ---
 schema-version: v1.2.9
-id: RFC6855
+id: RFC9745
 title:
-- content: IMAP Support for UTF-8
+- content: The Deprecation HTTP Response Header Field
   format: text/plain
   type: main
 link:
-- content: https://www.rfc-editor.org/info/rfc6855
+- content: https://www.rfc-editor.org/info/rfc9745
   type: src
 type: standard
 docid:
-- id: RFC 6855
+- id: RFC 9745
   type: IETF
   primary: true
-- id: 10.17487/RFC6855
+- id: 10.17487/RFC9745
   type: DOI
-docnumber: RFC6855
+docnumber: RFC9745
 date:
 - type: published
-  value: 2013-03
+  value: 2025-03
 contributor:
-- person:
-    name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          script:
-          - Latn
-          initial: P
-        formatted_initials:
-          content: P.
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Resnick
-        language:
-        - en
-        script:
-        - Latn
-      completename:
-        content: P. Resnick
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          script:
-          - Latn
-          initial: C
-        formatted_initials:
-          content: C.
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Newman
-        language:
-        - en
-        script:
-        - Latn
-      completename:
-        content: C. Newman
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
 - person:
     name:
       given:
@@ -97,19 +37,49 @@ contributor:
           script:
           - Latn
       surname:
-        content: Shen
+        content: Dalal
         language:
         - en
         script:
         - Latn
       completename:
-        content: S. Shen
+        content: S. Dalal
         language:
         - en
         script:
         - Latn
   role:
-  - type: editor
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content:
+          language:
+          - en
+          script:
+          - Latn
+          initial: E
+        formatted_initials:
+          content: E.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Wilde
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: E. Wilde
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
 - organization:
     name:
     - content: RFC Publisher
@@ -120,45 +90,36 @@ contributor:
     - content: RFC Series
   role:
   - type: authorizer
-revdate: 2013-03
+revdate: 2025-03
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "<p>This specification extends the Internet Message Access Protocol (IMAP)
-    to support UTF-8 encoded international characters in user names, mail addresses,
-    and message headers. This specification replaces RFC 5738.</p>"
+- content: "<p>The Deprecation HTTP response header field is used to signal to consumers
+    of a resource (identified by a URI) that the resource will be or has been deprecated.
+    Additionally, the deprecation link relation can be used to link to a resource
+    that provides further information about planned or existing deprecation. It may
+    also provide ways in which client application developers can best manage deprecation.</p>"
   language:
   - en
   script:
   - Latn
   format: text/html
-relation:
-- type: obsoletedBy
-  bibitem:
-    id: RFC9755
-    docid:
-    - id: RFC9755
-      type: IETF
-      primary: true
-    formattedref:
-      content: RFC9755
-      format: text/plain
 series:
 - title:
     content: RFC
     format: text/plain
-  number: '6855'
+  number: '9745'
 - type: stream
   title:
     content: IETF
     format: text/plain
 keyword:
-- content: IMAP
-- content: IDNA
+- content: HTTP
+- content: deprecation
 ext:
   schema-version: v1.0.1
   editorialgroup:
-  - name: eai
+  - name: httpapi
   stream: IETF
