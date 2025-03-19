@@ -19077,9 +19077,13 @@
   :file: data/RFC9748.yaml
 - :id: RFC 9749
   :file: data/RFC9749.yaml
+- :id: RFC 9751
+  :file: data/RFC9751.yaml
 - :id: RFC 9755
   :file: data/RFC9755.yaml
 - :id: RFC 9756
   :file: data/RFC9756.yaml
 - :id: RFC 9757
   :file: data/RFC9757.yaml
+- :id: RFC 9775
+  :file: data/RFC9775.yaml
