@@ -91,5 +91,5 @@ keyword:
 ext:
   schema-version: v1.0.1
   editorialgroup:
-  - name: vgmib
+  - name: svrloc
   stream: IETF
