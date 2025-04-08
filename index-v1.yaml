@@ -19103,6 +19103,8 @@
   :file: data/RFC9749.yaml
 - :id: RFC 9751
   :file: data/RFC9751.yaml
+- :id: RFC 9752
+  :file: data/RFC9752.yaml
 - :id: RFC 9754
   :file: data/RFC9754.yaml
 - :id: RFC 9755
