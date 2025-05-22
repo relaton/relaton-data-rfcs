@@ -148,6 +148,10 @@ series:
   title:
     content: IETF
     format: text/plain
+keyword:
+- content: IPFIX
+- content: PSAMP
+- content: YANG
 ext:
   schema-version: v1.0.1
   editorialgroup:
