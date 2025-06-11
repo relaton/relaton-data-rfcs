@@ -30,14 +30,8 @@ contributor:
           script:
           - Latn
           initial: B
-        - content:
-          language:
-          - en
-          script:
-          - Latn
-          initial: E
         formatted_initials:
-          content: B. E.
+          content: B.
           language:
           - en
           script:
@@ -49,7 +43,7 @@ contributor:
         script:
         - Latn
       completename:
-        content: B. E. Carpenter
+        content: B. Carpenter
         language:
         - en
         script:
