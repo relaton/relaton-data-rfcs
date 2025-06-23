@@ -97,5 +97,5 @@ keyword:
 ext:
   schema-version: v1.0.1
   editorialgroup:
-  - name: Poisson
+  - name: poisson
   stream: IETF
