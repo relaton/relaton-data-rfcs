@@ -19233,6 +19233,10 @@
   :file: data/RFC9807.yaml
 - :id: RFC 9809
   :file: data/RFC9809.yaml
+- :id: RFC 9810
+  :file: data/RFC9810.yaml
+- :id: RFC 9811
+  :file: data/RFC9811.yaml
 - :id: RFC 9813
   :file: data/RFC9813.yaml
 - :id: RFC 9814
