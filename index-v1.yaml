@@ -19259,6 +19259,8 @@
   :file: data/RFC9819.yaml
 - :id: RFC 9825
   :file: data/RFC9825.yaml
+- :id: RFC 9828
+  :file: data/RFC9828.yaml
 - :id: RFC 9829
   :file: data/RFC9829.yaml
 - :id: RFC 9837
