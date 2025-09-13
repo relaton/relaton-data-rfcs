@@ -19257,15 +19257,27 @@
   :file: data/RFC9818.yaml
 - :id: RFC 9819
   :file: data/RFC9819.yaml
+- :id: RFC 9820
+  :file: data/RFC9820.yaml
 - :id: RFC 9825
   :file: data/RFC9825.yaml
+- :id: RFC 9826
+  :file: data/RFC9826.yaml
 - :id: RFC 9828
   :file: data/RFC9828.yaml
 - :id: RFC 9829
   :file: data/RFC9829.yaml
+- :id: RFC 9830
+  :file: data/RFC9830.yaml
+- :id: RFC 9831
+  :file: data/RFC9831.yaml
+- :id: RFC 9832
+  :file: data/RFC9832.yaml
 - :id: RFC 9837
   :file: data/RFC9837.yaml
 - :id: RFC 9839
   :file: data/RFC9839.yaml
+- :id: RFC 9843
+  :file: data/RFC9843.yaml
 - :id: RFC 9844
   :file: data/RFC9844.yaml
