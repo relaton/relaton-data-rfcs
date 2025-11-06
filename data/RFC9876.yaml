@@ -1,85 +1,26 @@
 ---
 schema-version: v1.2.9
-id: RFC6407
+id: RFC9876
 title:
-- content: The Group Domain of Interpretation
+- content: Updates to the IANA Registration Procedures for Constrained Application
+    Protocol (CoAP) Content-Formats
   format: text/plain
   type: main
 link:
-- content: https://www.rfc-editor.org/info/rfc6407
+- content: https://www.rfc-editor.org/info/rfc9876
   type: src
 type: standard
 docid:
-- id: RFC 6407
+- id: RFC 9876
   type: IETF
   primary: true
-- id: 10.17487/RFC6407
+- id: 10.17487/RFC9876
   type: DOI
-docnumber: RFC6407
+docnumber: RFC9876
 date:
 - type: published
-  value: 2011-10
+  value: 2025-11
 contributor:
-- person:
-    name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          script:
-          - Latn
-          initial: B
-        formatted_initials:
-          content: B.
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Weis
-        language:
-        - en
-        script:
-        - Latn
-      completename:
-        content: B. Weis
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: author
-- person:
-    name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          script:
-          - Latn
-          initial: S
-        formatted_initials:
-          content: S.
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Rowles
-        language:
-        - en
-        script:
-        - Latn
-      completename:
-        content: S. Rowles
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: author
 - person:
     name:
       given:
@@ -97,13 +38,43 @@ contributor:
           script:
           - Latn
       surname:
-        content: Hardjono
+        content: Fossati
         language:
         - en
         script:
         - Latn
       completename:
-        content: T. Hardjono
+        content: T. Fossati
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content:
+          language:
+          - en
+          script:
+          - Latn
+          initial: E
+        formatted_initials:
+          content: E.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Dijk
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: E. Dijk
         language:
         - en
         script:
@@ -120,44 +91,50 @@ contributor:
     - content: RFC Series
   role:
   - type: authorizer
-revdate: 2011-10
+revdate: 2025-11
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "<p>This document describes the Group Domain of Interpretation (GDOI) protocol
-    specified in RFC 3547. The GDOI provides group key management to support secure
-    group communications according to the architecture specified in RFC 4046. The
-    GDOI manages group security associations, which are used by IPsec and potentially
-    other data security protocols. This document replaces RFC 3547. [STANDARDS-TRACK]</p>"
+- content: <p>This document updates RFC 7252 by modifying the registration procedures
+    for the "CoAP Content-Formats" IANA registry, within the "Constrained RESTful
+    Environments (CoRE) Parameters" registry group. This document also introduces
+    a new column, "Media Type", to the registry. Furthermore, this document reserves
+    Content-Format identifiers 64998 and 64999 for use in documentation.</p>
   language:
   - en
   script:
   - Latn
   format: text/html
 relation:
-- type: obsoletedBy
+- type: updates
   bibitem:
-    id: RFC9838
+    id: RFC7252
     docid:
-    - id: RFC9838
+    - id: RFC7252
       type: IETF
       primary: true
     formattedref:
-      content: RFC9838
+      content: RFC7252
       format: text/plain
 series:
 - title:
     content: RFC
     format: text/plain
-  number: '6407'
+  number: '9876'
 - type: stream
   title:
     content: IETF
     format: text/plain
+keyword:
+- content: IANA
+- content: registration
+- content: update
+- content: CoAP
+- content: Content-Format
 ext:
   schema-version: v1.0.1
   editorialgroup:
-  - name: msec
+  - name: core
   stream: IETF
