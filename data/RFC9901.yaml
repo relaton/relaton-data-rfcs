@@ -1,25 +1,24 @@
 ---
 schema-version: v1.2.9
-id: RFC7976
+id: RFC9901
 title:
-- content: Updates to Private Header (P-Header) Extension Usage in Session Initiation
-    Protocol (SIP) Requests and Responses
+- content: Selective Disclosure for JSON Web Tokens
   format: text/plain
   type: main
 link:
-- content: https://www.rfc-editor.org/info/rfc7976
+- content: https://www.rfc-editor.org/info/rfc9901
   type: src
 type: standard
 docid:
-- id: RFC 7976
+- id: RFC 9901
   type: IETF
   primary: true
-- id: 10.17487/RFC7976
+- id: 10.17487/RFC9901
   type: DOI
-docnumber: RFC7976
+docnumber: RFC9901
 date:
 - type: published
-  value: 2016-09
+  value: 2025-11
 contributor:
 - person:
     name:
@@ -30,21 +29,21 @@ contributor:
           - en
           script:
           - Latn
-          initial: C
+          initial: D
         formatted_initials:
-          content: C.
+          content: D.
           language:
           - en
           script:
           - Latn
       surname:
-        content: Holmberg
+        content: Fett
         language:
         - en
         script:
         - Latn
       completename:
-        content: C. Holmberg
+        content: D. Fett
         language:
         - en
         script:
@@ -60,21 +59,21 @@ contributor:
           - en
           script:
           - Latn
-          initial: N
+          initial: K
         formatted_initials:
-          content: N.
+          content: K.
           language:
           - en
           script:
           - Latn
       surname:
-        content: Biondic
+        content: Yasuda
         language:
         - en
         script:
         - Latn
       completename:
-        content: N. Biondic
+        content: K. Yasuda
         language:
         - en
         script:
@@ -90,21 +89,21 @@ contributor:
           - en
           script:
           - Latn
-          initial: G
+          initial: B
         formatted_initials:
-          content: G.
+          content: B.
           language:
           - en
           script:
           - Latn
       surname:
-        content: Salgueiro
+        content: Campbell
         language:
         - en
         script:
         - Latn
       completename:
-        content: G. Salgueiro
+        content: B. Campbell
         language:
         - en
         script:
@@ -121,58 +120,37 @@ contributor:
     - content: RFC Series
   role:
   - type: authorizer
-revdate: 2016-09
+revdate: 2025-11
 language:
 - en
 script:
 - Latn
 abstract:
-- content: <p>The Third Generation Partnership Project (3GPP) has identified cases
-    where different SIP private header extensions referred to as "P-" header fields,
-    and defined in RFC 7315, need to be included in SIP requests and responses currently
-    not allowed according to RFC 7315. This document updates RFC 7315, in order to
-    allow inclusion of the affected "P-" header fields in such requests and responses.</p><p>This
-    document also makes updates for RFC 7315 in order to fix misalignments that occurred
-    when RFC 3455 was updated and obsoleted by RFC 7315.</p>
+- content: |-
+    <p>This specification defines a mechanism for the selective disclosure
+    of individual elements of a JSON data structure used as the payload
+    of a JSON Web Signature (JWS). The primary use case is the selective
+    disclosure of JSON Web Token (JWT) claims.</p>
   language:
   - en
   script:
   - Latn
   format: text/html
-relation:
-- type: obsoletedBy
-  bibitem:
-    id: RFC9878
-    docid:
-    - id: RFC9878
-      type: IETF
-      primary: true
-    formattedref:
-      content: RFC9878
-      format: text/plain
-- type: updates
-  bibitem:
-    id: RFC7315
-    docid:
-    - id: RFC7315
-      type: IETF
-      primary: true
-    formattedref:
-      content: RFC7315
-      format: text/plain
 series:
 - title:
     content: RFC
     format: text/plain
-  number: '7976'
+  number: '9901'
 - type: stream
   title:
     content: IETF
     format: text/plain
 keyword:
-- content: P-
-- content: 3GPP
-- content: IMS
+- content: security
+- content: oauth2
+- content: SD-JWT
 ext:
   schema-version: v1.0.1
+  editorialgroup:
+  - name: oauth
   stream: IETF
