@@ -19377,6 +19377,8 @@
   :file: data/RFC9891.yaml
 - :id: RFC 9898
   :file: data/RFC9898.yaml
+- :id: RFC 9899
+  :file: data/RFC9899.yaml
 - :id: RFC 9900
   :file: data/RFC9900.yaml
 - :id: RFC 9901
@@ -19391,5 +19393,9 @@
   :file: data/RFC9905.yaml
 - :id: RFC 9906
   :file: data/RFC9906.yaml
+- :id: RFC 9909
+  :file: data/RFC9909.yaml
+- :id: RFC 9911
+  :file: data/RFC9911.yaml
 - :id: RFC 9937
   :file: data/RFC9937.yaml
