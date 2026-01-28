@@ -19407,5 +19407,7 @@
   :file: data/RFC9910.yaml
 - :id: RFC 9911
   :file: data/RFC9911.yaml
+- :id: RFC 9917
+  :file: data/RFC9917.yaml
 - :id: RFC 9937
   :file: data/RFC9937.yaml
