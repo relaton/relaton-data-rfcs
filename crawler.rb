@@ -1,9 +1,9 @@
 # frozen_string_literal: true
 
 require 'fileutils'
-require 'relaton_ietf'
+require 'relaton/ietf/data_fetcher'
 
 FileUtils.rm_rf("data")
 FileUtils.rm Dir.glob("index*")
 
-RelatonIetf::DataFetcher.fetch("ietf-rfc-entries")
+Relaton::Ietf::DataFetcher.fetch("ietf-rfc-entries")

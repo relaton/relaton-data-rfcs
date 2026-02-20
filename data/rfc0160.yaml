@@ -1,0 +1,81 @@
+---
+id: RFC160
+type: standard
+schema_version: v1.4.1
+title:
+- content: RFC brief list
+  type: main
+source:
+- type: src
+  content: https://www.rfc-editor.org/info/rfc160
+docidentifier:
+- content: RFC 160
+  type: IETF
+  primary: true
+- content: 10.17487/RFC0160
+  type: DOI
+docnumber: RFC0160
+date:
+- type: published
+  at: 1971-05
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - language: en
+      content: Network Information Center. Stanford Research Institute
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: en
+      content: RFC Publisher
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: en
+      content: RFC Series
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: UNKNOWN
+relation:
+- type: updates
+  bibitem:
+    formattedref: NIC6716
+    docidentifier:
+    - content: NIC6716
+      type: IETF
+      primary: true
+- type: obsoletedBy
+  bibitem:
+    formattedref: RFC0200
+    docidentifier:
+    - content: RFC0200
+      type: IETF
+      primary: true
+- type: obsoletedBy
+  bibitem:
+    formattedref: RFC0999
+    docidentifier:
+    - content: RFC0999
+      type: IETF
+      primary: true
+series:
+- title:
+  - content: RFC
+  number: '160'
+- type: stream
+  title:
+  - content: Legacy
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: rfc
+  flavor: ietf
+  stream: Legacy

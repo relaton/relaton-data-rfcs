@@ -1,0 +1,136 @@
+---
+id: RFC7400
+type: standard
+schema_version: v1.4.1
+title:
+- content: '6LoWPAN-GHC: Generic Header Compression for IPv6 over Low-Power Wireless
+    Personal Area Networks (6LoWPANs)'
+  type: main
+source:
+- type: src
+  content: https://www.rfc-editor.org/info/rfc7400
+docidentifier:
+- content: RFC 7400
+  type: IETF
+  primary: true
+- content: 10.17487/RFC7400
+  type: DOI
+docnumber: RFC7400
+date:
+- type: published
+  at: 2014-11
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: C
+      formatted_initials:
+        language: en
+        script: Latn
+        content: C.
+      surname:
+        language: en
+        script: Latn
+        content: Bormann
+      completename:
+        language: en
+        script: Latn
+        content: C. Bormann
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: en
+      content: RFC Publisher
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: en
+      content: RFC Series
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - language: en
+      content: Internet Engineering Task Force
+    subdivision:
+    - name:
+      - content: IPv6 over Networks of Resource-constrained Nodes
+      identifier:
+      - content: 6lo
+      type: workgroup
+    abbreviation:
+      language: en
+      content: IETF
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: <p>RFC 6282 defines header compression in 6LoWPAN packets (where "6LoWPAN"
+    refers to "IPv6 over Low-Power Wireless Personal Area Network").  The present
+    document specifies a simple addition that enables the compression of generic headers
+    and header-like payloads, without a need to define a new header compression scheme
+    for each such new header or header-like payload.</p>
+status:
+  stage:
+    content: PROPOSED STANDARD
+series:
+- title:
+  - content: RFC
+  number: '7400'
+- type: stream
+  title:
+  - content: IETF
+keyword:
+- taxon:
+  - content: IoT
+- taxon:
+  - content: Internet of Things
+- taxon:
+  - content: Embedded Internet
+- taxon:
+  - content: Sensor Network
+- taxon:
+  - content: WSN
+- taxon:
+  - content: Constrained node
+- taxon:
+  - content: Constrained network
+- taxon:
+  - content: Constrained-node network
+- taxon:
+  - content: LLN
+- taxon:
+  - content: LoWPAN
+- taxon:
+  - content: packet encoding
+- taxon:
+  - content: capability indication
+- taxon:
+  - content: 6CIO
+- taxon:
+  - content: LZ77
+- taxon:
+  - content: RFC 6282
+- taxon:
+  - content: RFC 4944
+- taxon:
+  - content: adaptation layer
+- taxon:
+  - content: IEEE 802.15.4
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: rfc
+  flavor: ietf
+  stream: IETF

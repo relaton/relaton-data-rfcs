@@ -1,0 +1,67 @@
+---
+id: RFC329
+type: standard
+schema_version: v1.4.1
+title:
+- content: ARPA Network Mailing Lists
+  type: main
+source:
+- type: src
+  content: https://www.rfc-editor.org/info/rfc329
+docidentifier:
+- content: RFC 329
+  type: IETF
+  primary: true
+- content: 10.17487/RFC0329
+  type: DOI
+docnumber: RFC0329
+date:
+- type: published
+  at: 1972-05
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - language: en
+      content: Network Information Center. Stanford Research Institute
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: en
+      content: RFC Publisher
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: en
+      content: RFC Series
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: UNKNOWN
+relation:
+- type: obsoletedBy
+  bibitem:
+    formattedref: RFC0363
+    docidentifier:
+    - content: RFC0363
+      type: IETF
+      primary: true
+series:
+- title:
+  - content: RFC
+  number: '329'
+- type: stream
+  title:
+  - content: Legacy
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: rfc
+  flavor: ietf
+  stream: Legacy

@@ -1,0 +1,108 @@
+---
+id: RFC973
+type: standard
+schema_version: v1.4.1
+title:
+- content: Domain system changes and observations
+  type: main
+source:
+- type: src
+  content: https://www.rfc-editor.org/info/rfc973
+docidentifier:
+- content: RFC 973
+  type: IETF
+  primary: true
+- content: 10.17487/RFC0973
+  type: DOI
+docnumber: RFC0973
+date:
+- type: published
+  at: 1986-01
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: P
+      formatted_initials:
+        language: en
+        script: Latn
+        content: P.
+      surname:
+        language: en
+        script: Latn
+        content: Mockapetris
+      completename:
+        language: en
+        script: Latn
+        content: P. Mockapetris
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: en
+      content: RFC Publisher
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: en
+      content: RFC Series
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This RFC documents updates to Domain Name System specifications RFC-882
+    and RFC-883, suggests some operational guidelines, and discusses some experiences
+    and problem areas in the present system.</p>"
+status:
+  stage:
+    content: UNKNOWN
+relation:
+- type: updates
+  bibitem:
+    formattedref: RFC0882
+    docidentifier:
+    - content: RFC0882
+      type: IETF
+      primary: true
+- type: updates
+  bibitem:
+    formattedref: RFC0883
+    docidentifier:
+    - content: RFC0883
+      type: IETF
+      primary: true
+- type: obsoletedBy
+  bibitem:
+    formattedref: RFC1034
+    docidentifier:
+    - content: RFC1034
+      type: IETF
+      primary: true
+- type: obsoletedBy
+  bibitem:
+    formattedref: RFC1035
+    docidentifier:
+    - content: RFC1035
+      type: IETF
+      primary: true
+series:
+- title:
+  - content: RFC
+  number: '973'
+- type: stream
+  title:
+  - content: Legacy
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: rfc
+  flavor: ietf
+  stream: Legacy

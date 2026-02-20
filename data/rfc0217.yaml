@@ -1,0 +1,98 @@
+---
+id: RFC217
+type: standard
+schema_version: v1.4.1
+title:
+- content: Specifications changes for OLS, RJE/RJOR, and SMFS
+  type: main
+source:
+- type: src
+  content: https://www.rfc-editor.org/info/rfc217
+docidentifier:
+- content: RFC 217
+  type: IETF
+  primary: true
+- content: 10.17487/RFC0217
+  type: DOI
+docnumber: RFC0217
+date:
+- type: published
+  at: 1971-09
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: J
+      - language: en
+        script: Latn
+        initial: E
+      formatted_initials:
+        language: en
+        script: Latn
+        content: J.E.
+      surname:
+        language: en
+        script: Latn
+        content: White
+      completename:
+        language: en
+        script: Latn
+        content: J.E. White
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: en
+      content: RFC Publisher
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: en
+      content: RFC Series
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: UNKNOWN
+relation:
+- type: updates
+  bibitem:
+    formattedref: RFC0074
+    docidentifier:
+    - content: RFC0074
+      type: IETF
+      primary: true
+- type: updates
+  bibitem:
+    formattedref: RFC0105
+    docidentifier:
+    - content: RFC0105
+      type: IETF
+      primary: true
+- type: updates
+  bibitem:
+    formattedref: RFC0122
+    docidentifier:
+    - content: RFC0122
+      type: IETF
+      primary: true
+series:
+- title:
+  - content: RFC
+  number: '217'
+- type: stream
+  title:
+  - content: Legacy
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: rfc
+  flavor: ietf
+  stream: Legacy

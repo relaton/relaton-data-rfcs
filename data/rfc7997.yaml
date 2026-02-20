@@ -1,0 +1,107 @@
+---
+id: RFC7997
+type: standard
+schema_version: v1.4.1
+title:
+- content: The Use of Non-ASCII Characters in RFCs
+  type: main
+source:
+- type: src
+  content: https://www.rfc-editor.org/info/rfc7997
+docidentifier:
+- content: RFC 7997
+  type: IETF
+  primary: true
+- content: 10.17487/RFC7997
+  type: DOI
+docnumber: RFC7997
+date:
+- type: published
+  at: 2016-12
+contributor:
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: H
+      formatted_initials:
+        language: en
+        script: Latn
+        content: H.
+      surname:
+        language: en
+        script: Latn
+        content: Flanagan
+      completename:
+        language: en
+        script: Latn
+        content: H. Flanagan
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: en
+      content: RFC Publisher
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - language: en
+      content: RFC Series
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: "<p>In order to support the internationalization of protocols and a more
+    diverse Internet community, the RFC Series must evolve to allow for the use of
+    non-ASCII characters in RFCs. While English remains the required language of the
+    Series, the encoding of future RFCs will be in UTF-8, allowing for a broader range
+    of characters than typically used in the English language. This document describes
+    the RFC Editor requirements and gives guidance regarding the use of non-ASCII
+    characters in RFCs.</p><p>This document updates RFC 7322. Please view this document
+    in PDF form to see the full text.</p>"
+status:
+  stage:
+    content: INFORMATIONAL
+relation:
+- type: updates
+  bibitem:
+    formattedref: RFC7322
+    docidentifier:
+    - content: RFC7322
+      type: IETF
+      primary: true
+series:
+- title:
+  - content: RFC
+  number: '7997'
+- type: stream
+  title:
+  - content: IAB
+keyword:
+- taxon:
+  - content: RFC Series
+- taxon:
+  - content: UTF-8
+- taxon:
+  - content: ASCII
+- taxon:
+  - content: format
+- taxon:
+  - content: non-ASCII
+- taxon:
+  - content: v3
+- taxon:
+  - content: xml2rfcv3
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: rfc
+  flavor: ietf
+  stream: IAB
