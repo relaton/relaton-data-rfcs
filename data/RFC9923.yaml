@@ -1,24 +1,24 @@
 ---
 schema-version: v1.2.9
-id: RFC7170
+id: RFC9923
 title:
-- content: Tunnel Extensible Authentication Protocol (TEAP) Version 1
+- content: The FNV Non-Cryptographic Hash Algorithm
   format: text/plain
   type: main
 link:
-- content: https://www.rfc-editor.org/info/rfc7170
+- content: https://www.rfc-editor.org/info/rfc9923
   type: src
 type: standard
 docid:
-- id: RFC 7170
+- id: RFC 9923
   type: IETF
   primary: true
-- id: 10.17487/RFC7170
+- id: 10.17487/RFC9923
   type: DOI
-docnumber: RFC7170
+docnumber: RFC9923
 date:
 - type: published
-  value: 2014-05
+  value: 2026-02
 contributor:
 - person:
     name:
@@ -29,21 +29,21 @@ contributor:
           - en
           script:
           - Latn
-          initial: H
+          initial: L
         formatted_initials:
-          content: H.
+          content: L.
           language:
           - en
           script:
           - Latn
       surname:
-        content: Zhou
+        content: Noll
         language:
         - en
         script:
         - Latn
       completename:
-        content: H. Zhou
+        content: L. Noll
         language:
         - en
         script:
@@ -59,21 +59,21 @@ contributor:
           - en
           script:
           - Latn
-          initial: N
+          initial: K
         formatted_initials:
-          content: N.
+          content: K.
           language:
           - en
           script:
           - Latn
       surname:
-        content: Cam-Winget
+        content: Vo
         language:
         - en
         script:
         - Latn
       completename:
-        content: N. Cam-Winget
+        content: K. Vo
         language:
         - en
         script:
@@ -89,21 +89,21 @@ contributor:
           - en
           script:
           - Latn
-          initial: J
+          initial: D
         formatted_initials:
-          content: J.
+          content: D.
           language:
           - en
           script:
           - Latn
       surname:
-        content: Salowey
+        content: Eastlake 3rd
         language:
         - en
         script:
         - Latn
       completename:
-        content: J. Salowey
+        content: D. Eastlake 3rd
         language:
         - en
         script:
@@ -119,21 +119,21 @@ contributor:
           - en
           script:
           - Latn
-          initial: S
+          initial: T
         formatted_initials:
-          content: S.
+          content: T.
           language:
           - en
           script:
           - Latn
       surname:
-        content: Hanna
+        content: Hansen
         language:
         - en
         script:
         - Latn
       completename:
-        content: S. Hanna
+        content: T. Hansen
         language:
         - en
         script:
@@ -150,47 +150,31 @@ contributor:
     - content: RFC Series
   role:
   - type: authorizer
-revdate: 2014-05
+revdate: 2026-02
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "<p>This document defines the Tunnel Extensible Authentication Protocol
-    (TEAP) version 1. TEAP is a tunnel-based EAP method that enables secure communication
-    between a peer and a server by using the Transport Layer Security (TLS) protocol
-    to establish a mutually authenticated tunnel. Within the tunnel, TLV objects are
-    used to convey authentication-related data between the EAP peer and the EAP server.</p>"
+- content: "<p>FNV (Fowler/Noll/Vo) is a fast, non-cryptographic hash algorithm with
+    good dispersion that has been widely used and is referenced in a number of standards
+    documents. The purpose of this document is to make information on FNV and open-source
+    code performing all specified sizes of FNV conveniently available to the Internet
+    community.</p>"
   language:
   - en
   script:
   - Latn
   format: text/html
-relation:
-- type: obsoletedBy
-  bibitem:
-    id: RFC9930
-    docid:
-    - id: RFC9930
-      type: IETF
-      primary: true
-    formattedref:
-      content: RFC9930
-      format: text/plain
 series:
 - title:
     content: RFC
     format: text/plain
-  number: '7170'
+  number: '9923'
 - type: stream
   title:
-    content: IETF
+    content: INDEPENDENT
     format: text/plain
-keyword:
-- content: EAP
-- content: Tunnel
 ext:
   schema-version: v1.0.1
-  editorialgroup:
-  - name: emu
-  stream: IETF
+  stream: INDEPENDENT
