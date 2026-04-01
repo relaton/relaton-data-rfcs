@@ -1,25 +1,24 @@
 ---
 schema-version: v1.2.9
-id: RFC9105
+id: RFC9928
 title:
-- content: A YANG Data Model for Terminal Access Controller Access-Control System
-    Plus (TACACS+)
+- content: DHCPv4 over DHCPv6 with Relay Agent Support
   format: text/plain
   type: main
 link:
-- content: https://www.rfc-editor.org/info/rfc9105
+- content: https://www.rfc-editor.org/info/rfc9928
   type: src
 type: standard
 docid:
-- id: RFC 9105
+- id: RFC 9928
   type: IETF
   primary: true
-- id: 10.17487/RFC9105
+- id: 10.17487/RFC9928
   type: DOI
-docnumber: RFC9105
+docnumber: RFC9928
 date:
 - type: published
-  value: 2021-08
+  value: 2026-03
 contributor:
 - person:
     name:
@@ -30,27 +29,27 @@ contributor:
           - en
           script:
           - Latn
-          initial: B
+          initial: C
         formatted_initials:
-          content: B.
+          content: C.
           language:
           - en
           script:
           - Latn
       surname:
-        content: Wu
+        content: Porfiri
         language:
         - en
         script:
         - Latn
       completename:
-        content: B. Wu
+        content: C. Porfiri
         language:
         - en
         script:
         - Latn
   role:
-  - type: editor
+  - type: author
 - person:
     name:
       given:
@@ -60,21 +59,51 @@ contributor:
           - en
           script:
           - Latn
-          initial: G
+          initial: S
         formatted_initials:
-          content: G.
+          content: S.
           language:
           - en
           script:
           - Latn
       surname:
-        content: Zheng
+        content: Krishnan
         language:
         - en
         script:
         - Latn
       completename:
-        content: G. Zheng
+        content: S. Krishnan
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content:
+          language:
+          - en
+          script:
+          - Latn
+          initial: J
+        formatted_initials:
+          content: J.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Arkko
+        language:
+        - en
+        script:
+        - Latn
+      completename:
+        content: J. Arkko
         language:
         - en
         script:
@@ -98,19 +127,19 @@ contributor:
           script:
           - Latn
       surname:
-        content: Wang
+        content: Kühlewind
         language:
         - en
         script:
         - Latn
       completename:
-        content: M. Wang
+        content: M. Kühlewind
         language:
         - en
         script:
         - Latn
   role:
-  - type: editor
+  - type: author
 - organization:
     name:
     - content: RFC Publisher
@@ -121,47 +150,36 @@ contributor:
     - content: RFC Series
   role:
   - type: authorizer
-revdate: 2021-08
+revdate: 2026-03
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "<p>This document defines a Terminal Access Controller Access-Control System
-    Plus (TACACS+) client YANG module that augments the System Management data model,
-    defined in RFC 7317, to allow devices to make use of TACACS+ servers for centralized
-    Authentication, Authorization, and Accounting (AAA). Though being a standard module,
-    this module does not endorse the security mechanisms of the TACACS+ protocol (RFC
-    8907), and TACACS+ be used within a secure deployment.</p><p>The YANG module in
-    this document conforms to the Network Management Datastore Architecture (NMDA)
-    defined in RFC 8342.</p>"
+- content: "<p>This document describes a mechanism for networks with legacy IPv4-only
+    clients to use services provided by DHCPv4 over DHCPv6 in a Relay Agent. RFC 7341
+    specifies the use of DHCPv4 over DHCPv6 in the client only. This document specifies
+    an approach based on RFC 7341 that allows a Relay Agent to implement the DHCPv4-over-DHCPv6
+    encapsulation and decapsulation of DHCPv4 messages in DHCPv6 messages on behalf
+    of a DHCPv4 client.</p>"
   language:
   - en
   script:
   - Latn
   format: text/html
-relation:
-- type: obsoletedBy
-  bibitem:
-    id: RFC9950
-    docid:
-    - id: RFC9950
-      type: IETF
-      primary: true
-    formattedref:
-      content: RFC9950
-      format: text/plain
 series:
 - title:
     content: RFC
     format: text/plain
-  number: '9105'
+  number: '9928'
 - type: stream
   title:
     content: IETF
     format: text/plain
+keyword:
+- content: dhcp
 ext:
   schema-version: v1.0.1
   editorialgroup:
-  - name: opsawg
+  - name: dhc
   stream: IETF
