@@ -1,7 +1,7 @@
 ---
 id: RFC2687
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: PPP in a Real-time Oriented HDLC-like Framing
   type: main

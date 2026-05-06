@@ -1,7 +1,7 @@
 ---
 id: RFC9626
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Video Frame Marking RTP Header Extension
   type: main

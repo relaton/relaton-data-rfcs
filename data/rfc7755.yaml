@@ -1,7 +1,7 @@
 ---
 id: RFC7755
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'SIIT-DC: Stateless IP/ICMP Translation for IPv6 Data Center Environments'
   type: main

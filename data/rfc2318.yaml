@@ -1,7 +1,7 @@
 ---
 id: RFC2318
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: The text/css Media Type
   type: main

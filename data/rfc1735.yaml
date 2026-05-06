@@ -1,7 +1,7 @@
 ---
 id: RFC1735
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: NBMA Address Resolution Protocol (NARP)
   type: main

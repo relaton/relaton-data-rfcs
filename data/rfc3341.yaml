@@ -1,7 +1,7 @@
 ---
 id: RFC3341
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: The Application Exchange (APEX) Access Service
   type: main

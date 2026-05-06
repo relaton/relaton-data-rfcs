@@ -1,7 +1,7 @@
 ---
 id: RFC418
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Server File Transfer Under TSS/360 At NASA-Ames Research Center
   type: main

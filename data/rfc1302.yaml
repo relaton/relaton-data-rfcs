@@ -1,7 +1,7 @@
 ---
 id: RFC1302
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Building a Network Information Services Infrastructure
   type: main

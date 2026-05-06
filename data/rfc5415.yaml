@@ -1,7 +1,7 @@
 ---
 id: RFC5415
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Control And Provisioning of Wireless Access Points (CAPWAP) Protocol Specification
   type: main

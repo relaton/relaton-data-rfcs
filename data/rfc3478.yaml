@@ -1,7 +1,7 @@
 ---
 id: RFC3478
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Graceful Restart Mechanism for Label Distribution Protocol
   type: main

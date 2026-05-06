@@ -1,7 +1,7 @@
 ---
 id: RFC6130
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Mobile Ad Hoc Network (MANET) Neighborhood Discovery Protocol (NHDP)
   type: main

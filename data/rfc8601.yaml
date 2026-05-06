@@ -1,7 +1,7 @@
 ---
 id: RFC8601
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Message Header Field for Indicating Message Authentication Status
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC2835
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: IP and ARP over HIPPI-6400 (GSN)
   type: main

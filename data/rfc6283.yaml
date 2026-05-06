@@ -1,7 +1,7 @@
 ---
 id: RFC6283
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Extensible Markup Language Evidence Record Syntax (XMLERS)
   type: main

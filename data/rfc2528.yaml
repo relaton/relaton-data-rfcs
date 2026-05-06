@@ -1,7 +1,7 @@
 ---
 id: RFC2528
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Internet X.509 Public Key Infrastructure Representation of Key Exchange
     Algorithm (KEA) Keys in Internet X.509 Public Key Infrastructure Certificates

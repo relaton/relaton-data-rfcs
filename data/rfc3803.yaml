@@ -1,7 +1,7 @@
 ---
 id: RFC3803
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Content Duration MIME Header Definition
   type: main

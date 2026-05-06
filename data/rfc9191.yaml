@@ -1,7 +1,7 @@
 ---
 id: RFC9191
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Handling Large Certificates and Long Certificate Chains in TLS-Based EAP
     Methods

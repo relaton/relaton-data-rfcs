@@ -1,7 +1,7 @@
 ---
 id: RFC513
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Comments on the new Telnet specifications
   type: main

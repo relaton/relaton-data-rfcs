@@ -1,7 +1,7 @@
 ---
 id: RFC2311
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: S/MIME Version 2 Message Specification
   type: main

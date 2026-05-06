@@ -1,7 +1,7 @@
 ---
 id: RFC9153
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Drone Remote Identification Protocol (DRIP) Requirements and Terminology
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC1189
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Common Management Information Services and Protocols for the Internet (CMOT
     and CMIP)

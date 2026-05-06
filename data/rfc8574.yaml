@@ -1,7 +1,7 @@
 ---
 id: RFC8574
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'cite-as: A Link Relation to Convey a Preferred URI for Referencing'
   type: main

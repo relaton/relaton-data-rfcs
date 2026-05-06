@@ -1,7 +1,7 @@
 ---
 id: RFC1047
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Duplicate messages and SMTP
   type: main

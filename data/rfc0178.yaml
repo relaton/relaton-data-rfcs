@@ -1,7 +1,7 @@
 ---
 id: RFC178
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Network graphic attention handling
   type: main

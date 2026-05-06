@@ -1,7 +1,7 @@
 ---
 id: RFC4236
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: HTTP Adaptation with Open Pluggable Edge Services (OPES)
   type: main

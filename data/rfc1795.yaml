@@ -1,7 +1,7 @@
 ---
 id: RFC1795
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'Data Link Switching: Switch-to-Switch Protocol AIW DLSw RIG: DLSw Closed
     Pages, DLSw Standard Version 1'

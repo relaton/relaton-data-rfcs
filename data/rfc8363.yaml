@@ -1,7 +1,7 @@
 ---
 id: RFC8363
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: GMPLS OSPF-TE Extensions in Support of Flexi-Grid Dense Wavelength Division
     Multiplexing (DWDM) Networks

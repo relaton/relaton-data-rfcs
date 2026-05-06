@@ -1,7 +1,7 @@
 ---
 id: RFC6033
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Algorithms for Cryptographic Message Syntax (CMS) Encrypted Key Package
     Content Type

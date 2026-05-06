@@ -1,7 +1,7 @@
 ---
 id: RFC6202
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Known Issues and Best Practices for the Use of Long Polling and Streaming
     in Bidirectional HTTP

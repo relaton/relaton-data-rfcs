@@ -1,7 +1,7 @@
 ---
 id: RFC4452
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: The "info" URI Scheme for Information Assets with Identifiers in Public
     Namespaces

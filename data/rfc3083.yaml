@@ -1,7 +1,7 @@
 ---
 id: RFC3083
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Baseline Privacy Interface Management Information Base for DOCSIS Compliant
     Cable Modems and Cable Modem Termination Systems

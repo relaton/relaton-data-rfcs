@@ -1,7 +1,7 @@
 ---
 id: RFC239
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Host mnemonics proposed in RFC 226 (NIC 7625)
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC5986
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Discovering the Local Location Information Server (LIS)
   type: main

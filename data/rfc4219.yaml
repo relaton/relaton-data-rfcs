@@ -1,7 +1,7 @@
 ---
 id: RFC4219
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Things Multihoming in IPv6 (MULTI6) Developers Should Think About
   type: main

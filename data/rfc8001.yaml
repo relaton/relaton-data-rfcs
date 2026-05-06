@@ -1,7 +1,7 @@
 ---
 id: RFC8001
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: RSVP-TE Extensions for Collecting Shared Risk Link Group (SRLG) Information
   type: main

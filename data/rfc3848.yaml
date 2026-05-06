@@ -1,7 +1,7 @@
 ---
 id: RFC3848
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: ESMTP and LMTP Transmission Types Registration
   type: main

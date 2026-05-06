@@ -1,7 +1,7 @@
 ---
 id: RFC9683
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Remote Integrity Verification of Network Devices Containing Trusted Platform
     Modules

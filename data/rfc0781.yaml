@@ -1,7 +1,7 @@
 ---
 id: RFC781
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Specification of the Internet Protocol (IP) timestamp option
   type: main

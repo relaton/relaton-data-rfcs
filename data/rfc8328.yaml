@@ -1,7 +1,7 @@
 ---
 id: RFC8328
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Policy-Based Management Framework for the Simplified Use of Policy Abstractions
     (SUPA)

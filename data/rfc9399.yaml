@@ -1,7 +1,7 @@
 ---
 id: RFC9399
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'Internet X.509 Public Key Infrastructure: Logotypes in X.509 Certificates'
   type: main

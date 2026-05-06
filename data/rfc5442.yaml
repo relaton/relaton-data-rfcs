@@ -1,7 +1,7 @@
 ---
 id: RFC5442
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: LEMONADE Architecture - Supporting Open Mobile Alliance (OMA) Mobile Email
     (MEM) Using Internet Mail

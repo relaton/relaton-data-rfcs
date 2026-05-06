@@ -1,7 +1,7 @@
 ---
 id: RFC965
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Format for a graphical communication protocol
   type: main

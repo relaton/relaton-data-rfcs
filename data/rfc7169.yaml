@@ -1,7 +1,7 @@
 ---
 id: RFC7169
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: The NSA (No Secrecy Afforded) Certificate Extension
   type: main

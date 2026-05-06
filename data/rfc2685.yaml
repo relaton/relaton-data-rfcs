@@ -1,7 +1,7 @@
 ---
 id: RFC2685
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Virtual Private Networks Identifier
   type: main

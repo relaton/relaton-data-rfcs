@@ -1,7 +1,7 @@
 ---
 id: RFC2589
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'Lightweight Directory Access Protocol (v3): Extensions for Dynamic Directory
     Services'

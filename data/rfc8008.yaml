@@ -1,7 +1,7 @@
 ---
 id: RFC8008
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'Content Delivery Network Interconnection (CDNI) Request Routing: Footprint
     and Capabilities Semantics'

@@ -1,7 +1,7 @@
 ---
 id: RFC6012
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Datagram Transport Layer Security (DTLS) Transport Mapping for Syslog
   type: main

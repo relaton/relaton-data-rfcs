@@ -1,7 +1,7 @@
 ---
 id: RFC4555
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: IKEv2 Mobility and Multihoming Protocol (MOBIKE)
   type: main

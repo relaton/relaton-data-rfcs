@@ -1,7 +1,7 @@
 ---
 id: RFC8227
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: MPLS-TP Shared-Ring Protection (MSRP) Mechanism for Ring Topology
   type: main

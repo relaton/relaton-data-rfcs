@@ -1,7 +1,7 @@
 ---
 id: RFC5668
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 4-Octet AS Specific BGP Extended Community
   type: main

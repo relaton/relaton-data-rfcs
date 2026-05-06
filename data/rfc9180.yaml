@@ -1,7 +1,7 @@
 ---
 id: RFC9180
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Hybrid Public Key Encryption
   type: main

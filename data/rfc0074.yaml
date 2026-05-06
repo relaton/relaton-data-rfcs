@@ -1,7 +1,7 @@
 ---
 id: RFC74
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Specifications for Network Use of the UCSB On-Line System
   type: main

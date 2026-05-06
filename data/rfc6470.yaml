@@ -1,7 +1,7 @@
 ---
 id: RFC6470
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Network Configuration Protocol (NETCONF) Base Notifications
   type: main

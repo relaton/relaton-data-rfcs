@@ -1,7 +1,7 @@
 ---
 id: RFC7768
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Port Management to Reduce Logging in Large-Scale NATs
   type: main

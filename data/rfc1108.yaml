@@ -1,7 +1,7 @@
 ---
 id: RFC1108
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: U.S. Department of Defense Security Options for the Internet Protocol
   type: main

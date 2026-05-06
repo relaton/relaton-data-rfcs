@@ -1,7 +1,7 @@
 ---
 id: RFC4457
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: The Session Initiation Protocol (SIP) P-User-Database Private-Header (P-Header)
   type: main

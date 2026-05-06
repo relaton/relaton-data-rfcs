@@ -1,7 +1,7 @@
 ---
 id: RFC3652
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Handle System Protocol (ver 2.1) Specification
   type: main

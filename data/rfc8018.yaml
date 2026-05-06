@@ -1,7 +1,7 @@
 ---
 id: RFC8018
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'PKCS #5: Password-Based Cryptography Specification Version 2.1'
   type: main

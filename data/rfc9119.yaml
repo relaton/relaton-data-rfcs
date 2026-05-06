@@ -1,7 +1,7 @@
 ---
 id: RFC9119
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Multicast Considerations over IEEE 802 Wireless Media
   type: main

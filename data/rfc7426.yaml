@@ -1,7 +1,7 @@
 ---
 id: RFC7426
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'Software-Defined Networking (SDN): Layers and Architecture Terminology'
   type: main

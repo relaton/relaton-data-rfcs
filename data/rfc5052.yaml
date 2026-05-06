@@ -1,7 +1,7 @@
 ---
 id: RFC5052
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Forward Error Correction (FEC) Building Block
   type: main

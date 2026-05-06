@@ -1,7 +1,7 @@
 ---
 id: RFC6927
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Variants in Second-Level Names Registered in Top-Level Domains
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC2924
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Accounting Attributes and Record Formats
   type: main

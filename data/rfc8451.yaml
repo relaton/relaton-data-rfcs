@@ -1,7 +1,7 @@
 ---
 id: RFC8451
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Considerations for Selecting RTP Control Protocol (RTCP) Extended Report
     (XR) Metrics for the WebRTC Statistics API

@@ -1,7 +1,7 @@
 ---
 id: RFC7505
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: A "Null MX" No Service Resource Record for Domains That Accept No Mail
   type: main

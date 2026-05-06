@@ -1,7 +1,7 @@
 ---
 id: RFC7975
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Request Routing Redirection Interface for Content Delivery Network (CDN)
     Interconnection

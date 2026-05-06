@@ -1,7 +1,7 @@
 ---
 id: RFC4136
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: OSPF Refresh and Flooding Reduction in Stable Topologies
   type: main

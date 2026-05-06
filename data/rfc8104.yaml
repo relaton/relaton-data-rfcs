@@ -1,7 +1,7 @@
 ---
 id: RFC8104
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Pseudowire (PW) Endpoint Fast Failure Protection
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC6896
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'SCS: KoanLogic''s Secure Cookie Sessions for HTTP'
   type: main

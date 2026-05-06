@@ -1,7 +1,7 @@
 ---
 id: RFC3538
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Secure Electronic Transaction (SET) Supplement for the v1.0 Internet Open
     Trading Protocol (IOTP)

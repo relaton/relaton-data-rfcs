@@ -1,7 +1,7 @@
 ---
 id: RFC5345
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Simple Network Management Protocol (SNMP) Traffic Measurements and Trace
     Exchange Formats

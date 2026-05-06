@@ -1,7 +1,7 @@
 ---
 id: RFC963
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Some problems with the specification of the Military Standard Internet
     Protocol

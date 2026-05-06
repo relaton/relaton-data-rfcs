@@ -1,7 +1,7 @@
 ---
 id: RFC7102
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Terms Used in Routing for Low-Power and Lossy Networks
   type: main

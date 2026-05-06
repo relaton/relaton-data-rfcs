@@ -1,7 +1,7 @@
 ---
 id: RFC594
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Speedup of Host-IMP interface
   type: main

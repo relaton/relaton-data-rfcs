@@ -1,7 +1,7 @@
 ---
 id: RFC5827
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Early Retransmit for TCP and Stream Control Transmission Protocol (SCTP)
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC2695
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Authentication Mechanisms for ONC RPC
   type: main

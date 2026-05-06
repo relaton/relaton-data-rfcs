@@ -1,7 +1,7 @@
 ---
 id: RFC1345
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Character Mnemonics and Character Sets
   type: main

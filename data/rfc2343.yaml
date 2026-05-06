@@ -1,7 +1,7 @@
 ---
 id: RFC2343
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: RTP Payload Format for Bundled MPEG
   type: main

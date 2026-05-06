@@ -1,7 +1,7 @@
 ---
 id: RFC9866
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'Root Node Failure Detector (RNFD): Fast Detection of Border Router Crashes
     in the Routing Protocol for Low-Power and Lossy Networks (RPL)'

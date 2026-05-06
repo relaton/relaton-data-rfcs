@@ -1,7 +1,7 @@
 ---
 id: RFC4363
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Definitions of Managed Objects for Bridges with Traffic Classes, Multicast
     Filtering, and Virtual LAN Extensions

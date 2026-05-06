@@ -1,7 +1,7 @@
 ---
 id: RFC2260
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Scalable Support for Multi-homed Multi-provider Connectivity
   type: main

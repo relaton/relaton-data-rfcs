@@ -1,7 +1,7 @@
 ---
 id: RFC6504
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Centralized Conferencing Manipulation Protocol (CCMP) Call Flow Examples
   type: main

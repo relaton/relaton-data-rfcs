@@ -1,7 +1,7 @@
 ---
 id: RFC2321
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: RITA -- The Reliable Internetwork Troubleshooting Agent
   type: main

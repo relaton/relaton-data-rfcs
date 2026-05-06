@@ -1,7 +1,7 @@
 ---
 id: RFC8682
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: TinyMT32 Pseudorandom Number Generator (PRNG)
   type: main

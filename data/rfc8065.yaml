@@ -1,7 +1,7 @@
 ---
 id: RFC8065
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Privacy Considerations for IPv6 Adaptation-Layer Mechanisms
   type: main

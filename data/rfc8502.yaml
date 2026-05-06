@@ -1,7 +1,7 @@
 ---
 id: RFC8502
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: L2L3 VPN Multicast MIB
   type: main

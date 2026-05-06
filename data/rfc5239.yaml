@@ -1,7 +1,7 @@
 ---
 id: RFC5239
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: A Framework for Centralized Conferencing
   type: main

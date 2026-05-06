@@ -1,7 +1,7 @@
 ---
 id: RFC6760
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Requirements for a Protocol to Replace the AppleTalk Name Binding Protocol
     (NBP)

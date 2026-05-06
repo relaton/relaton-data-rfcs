@@ -1,7 +1,7 @@
 ---
 id: RFC8511
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: TCP Alternative Backoff with ECN (ABE)
   type: main

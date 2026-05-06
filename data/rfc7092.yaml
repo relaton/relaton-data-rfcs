@@ -1,7 +1,7 @@
 ---
 id: RFC7092
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: A Taxonomy of Session Initiation Protocol (SIP) Back-to-Back User Agents
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC6461
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Data for Reachability of Inter-/Intra-NetworK SIP (DRINKS) Use Cases and
     Protocol Requirements

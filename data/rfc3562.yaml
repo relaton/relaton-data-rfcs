@@ -1,7 +1,7 @@
 ---
 id: RFC3562
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Key Management Considerations for the TCP MD5 Signature Option
   type: main

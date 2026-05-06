@@ -1,7 +1,7 @@
 ---
 id: RFC6355
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Definition of the UUID-Based DHCPv6 Unique Identifier (DUID-UUID)
   type: main

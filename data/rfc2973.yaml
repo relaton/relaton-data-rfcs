@@ -1,7 +1,7 @@
 ---
 id: RFC2973
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: IS-IS Mesh Groups
   type: main

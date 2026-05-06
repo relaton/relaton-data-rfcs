@@ -1,7 +1,7 @@
 ---
 id: RFC9326
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: In Situ Operations, Administration, and Maintenance (IOAM) Direct Exporting
   type: main

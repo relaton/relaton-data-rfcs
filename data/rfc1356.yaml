@@ -1,7 +1,7 @@
 ---
 id: RFC1356
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Multiprotocol Interconnect on X.25 and ISDN in the Packet Mode
   type: main

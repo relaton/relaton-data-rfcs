@@ -1,7 +1,7 @@
 ---
 id: RFC8882
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: DNS-Based Service Discovery (DNS-SD) Privacy and Security Requirements
   type: main

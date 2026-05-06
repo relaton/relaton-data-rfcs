@@ -1,7 +1,7 @@
 ---
 id: RFC9655
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Egress Validation in Label Switched Path Ping and Traceroute Mechanisms
   type: main

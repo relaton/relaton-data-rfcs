@@ -1,7 +1,7 @@
 ---
 id: RFC3475
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Documentation of IANA assignments for Constraint-Based LSP setup using
     LDP (CR-LDP) Extensions for Automatic Switched Optical Network (ASON)

@@ -1,7 +1,7 @@
 ---
 id: RFC2682
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Performance Issues in VC-Merge Capable ATM LSRs
   type: main

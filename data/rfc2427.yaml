@@ -1,7 +1,7 @@
 ---
 id: RFC2427
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Multiprotocol Interconnect over Frame Relay
   type: main

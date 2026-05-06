@@ -1,7 +1,7 @@
 ---
 id: RFC7521
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Assertion Framework for OAuth 2.0 Client Authentication and Authorization
     Grants

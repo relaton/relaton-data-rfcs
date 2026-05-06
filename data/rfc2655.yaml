@@ -1,7 +1,7 @@
 ---
 id: RFC2655
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: CIP Index Object Format for SOIF Objects
   type: main

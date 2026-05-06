@@ -1,7 +1,7 @@
 ---
 id: RFC1433
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Directed ARP
   type: main

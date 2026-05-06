@@ -1,7 +1,7 @@
 ---
 id: RFC7894
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Alternative Challenge Password Attributes for Enrollment over Secure Transport
   type: main

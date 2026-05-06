@@ -1,7 +1,7 @@
 ---
 id: RFC2008
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Implications of Various Address Allocation Policies for Internet Routing
   type: main

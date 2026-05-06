@@ -1,7 +1,7 @@
 ---
 id: RFC9204
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'QPACK: Field Compression for HTTP/3'
   type: main

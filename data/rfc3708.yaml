@@ -1,7 +1,7 @@
 ---
 id: RFC3708
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Using TCP Duplicate Selective Acknowledgement (DSACKs) and Stream Control
     Transmission Protocol (SCTP) Duplicate Transmission Sequence Numbers (TSNs) to

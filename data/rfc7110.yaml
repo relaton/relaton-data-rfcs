@@ -1,7 +1,7 @@
 ---
 id: RFC7110
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Return Path Specified Label Switched Path (LSP) Ping
   type: main

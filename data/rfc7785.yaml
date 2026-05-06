@@ -1,7 +1,7 @@
 ---
 id: RFC7785
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Recommendations for Prefix Binding in the Context of Softwire Dual-Stack
     Lite

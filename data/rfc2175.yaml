@@ -1,7 +1,7 @@
 ---
 id: RFC2175
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: MAPOS 16 - Multiple Access Protocol over SONET/SDH with 16 Bit Addressing
   type: main

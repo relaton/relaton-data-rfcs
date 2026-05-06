@@ -1,7 +1,7 @@
 ---
 id: RFC3634
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Key Distribution Center (KDC) Server Address Sub-option for the Dynamic
     Host Configuration Protocol (DHCP) CableLabs Client Configuration (CCC) Option

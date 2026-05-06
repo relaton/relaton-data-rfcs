@@ -1,7 +1,7 @@
 ---
 id: RFC9590
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: IMAP Extension for Returning Mailbox METADATA in Extended LIS
   type: main

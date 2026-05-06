@@ -1,7 +1,7 @@
 ---
 id: RFC3919
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Remote Network Monitoring (RMON) Protocol Identifiers for IPv6 and Multi
     Protocol Label Switching (MPLS)

@@ -1,7 +1,7 @@
 ---
 id: RFC5874
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: An Extensible Markup Language (XML) Document Format for Indicating a Change
     in XML Configuration Access Protocol (XCAP) Resources

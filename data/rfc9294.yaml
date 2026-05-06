@@ -1,7 +1,7 @@
 ---
 id: RFC9294
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Application-Specific Link Attributes Advertisement Using the Border Gateway
     Protocol - Link State (BGP-LS)

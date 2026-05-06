@@ -1,7 +1,7 @@
 ---
 id: RFC6697
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Handover Keying (HOKEY) Architecture Design
   type: main

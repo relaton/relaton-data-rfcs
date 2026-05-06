@@ -1,7 +1,7 @@
 ---
 id: RFC5660
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'IPsec Channels: Connection Latching'
   type: main

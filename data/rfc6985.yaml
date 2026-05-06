@@ -1,7 +1,7 @@
 ---
 id: RFC6985
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'IMIX Genome: Specification of Variable Packet Sizes for Additional Testing'
   type: main

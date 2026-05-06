@@ -1,7 +1,7 @@
 ---
 id: RFC6453
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: A URN Namespace for the Open Grid Forum (OGF)
   type: main

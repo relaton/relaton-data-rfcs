@@ -1,7 +1,7 @@
 ---
 id: RFC3637
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Definitions of Managed Objects for the Ethernet WAN Interface Sublayer
   type: main

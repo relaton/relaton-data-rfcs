@@ -1,7 +1,7 @@
 ---
 id: RFC4760
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Multiprotocol Extensions for BGP-4
   type: main

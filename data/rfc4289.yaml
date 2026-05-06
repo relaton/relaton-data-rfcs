@@ -1,7 +1,7 @@
 ---
 id: RFC4289
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'Multipurpose Internet Mail Extensions (MIME) Part Four: Registration Procedures'
   type: main

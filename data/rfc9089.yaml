@@ -1,7 +1,7 @@
 ---
 id: RFC9089
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Signaling Entropy Label Capability and Entropy Readable Label Depth Using
     OSPF

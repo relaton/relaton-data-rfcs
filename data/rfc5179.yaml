@@ -1,7 +1,7 @@
 ---
 id: RFC5179
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Generic Security Service Application Program Interface (GSS-API) Domain-Based
     Service Names Mapping for the Kerberos V GSS Mechanism

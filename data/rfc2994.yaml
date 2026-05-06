@@ -1,7 +1,7 @@
 ---
 id: RFC2994
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: A Description of the MISTY1 Encryption Algorithm
   type: main

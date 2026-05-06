@@ -1,7 +1,7 @@
 ---
 id: RFC138
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Status report on proposed Data Reconfiguration Service
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC6188
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: The Use of AES-192 and AES-256 in Secure RTP
   type: main

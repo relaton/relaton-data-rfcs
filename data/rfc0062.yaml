@@ -1,7 +1,7 @@
 ---
 id: RFC62
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Systems for Interprocess Communication in a Resource Sharing Computer Network
   type: main

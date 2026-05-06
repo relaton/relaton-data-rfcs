@@ -1,7 +1,7 @@
 ---
 id: RFC9625
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: EVPN Optimized Inter-Subnet Multicast (OISM) Forwarding
   type: main

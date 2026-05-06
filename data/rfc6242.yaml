@@ -1,7 +1,7 @@
 ---
 id: RFC6242
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Using the NETCONF Protocol over Secure Shell (SSH)
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC1535
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: A Security Problem and Proposed Correction With Widely Deployed DNS Software
   type: main

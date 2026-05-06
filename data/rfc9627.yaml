@@ -1,7 +1,7 @@
 ---
 id: RFC9627
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: The Layer Refresh Request (LRR) RTCP Feedback Message
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC5287
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Control Protocol Extensions for the Setup of Time-Division Multiplexing
     (TDM) Pseudowires in MPLS Networks

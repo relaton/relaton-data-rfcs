@@ -1,7 +1,7 @@
 ---
 id: RFC4733
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: RTP Payload for DTMF Digits, Telephony Tones, and Telephony Signals
   type: main

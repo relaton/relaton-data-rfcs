@@ -1,7 +1,7 @@
 ---
 id: RFC5153
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: IP Flow Information Export (IPFIX) Implementation Guidelines
   type: main

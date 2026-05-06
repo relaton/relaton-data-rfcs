@@ -1,7 +1,7 @@
 ---
 id: RFC4444
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Management Information Base for Intermediate System to Intermediate System
     (IS-IS)

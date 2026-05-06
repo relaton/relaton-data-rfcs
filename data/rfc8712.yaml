@@ -1,7 +1,7 @@
 ---
 id: RFC8712
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: The IETF-ISOC Relationship
   type: main

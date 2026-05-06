@@ -1,7 +1,7 @@
 ---
 id: RFC2524
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Neda's Efficient Mail Submission and Delivery (EMSD) Protocol Specification
     Version 1.3

@@ -1,7 +1,7 @@
 ---
 id: RFC5217
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Memorandum for Multi-Domain Public Key Infrastructure Interoperability
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC1961
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: GSS-API Authentication Method for SOCKS Version 5
   type: main

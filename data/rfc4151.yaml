@@ -1,7 +1,7 @@
 ---
 id: RFC4151
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: The 'tag' URI Scheme
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC3432
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Network performance measurement with periodic streams
   type: main

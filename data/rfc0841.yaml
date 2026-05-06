@@ -1,7 +1,7 @@
 ---
 id: RFC841
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Specification for message format for Computer Based Message Systems
   type: main

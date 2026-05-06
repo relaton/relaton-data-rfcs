@@ -1,7 +1,7 @@
 ---
 id: RFC8739
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Support for Short-Term, Automatically Renewed (STAR) Certificates in the
     Automated Certificate Management Environment (ACME)

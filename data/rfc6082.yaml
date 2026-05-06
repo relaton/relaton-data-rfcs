@@ -1,7 +1,7 @@
 ---
 id: RFC6082
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'Deprecating Unicode Language Tag Characters: RFC 2482 is Historic'
   type: main

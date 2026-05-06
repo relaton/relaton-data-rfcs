@@ -1,7 +1,7 @@
 ---
 id: RFC3339
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'Date and Time on the Internet: Timestamps'
   type: main

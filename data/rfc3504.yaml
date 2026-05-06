@@ -1,7 +1,7 @@
 ---
 id: RFC3504
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Internet Open Trading Protocol (IOTP) Version 1, Errata
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC3671
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Collective Attributes in the Lightweight Directory Access Protocol (LDAP)
   type: main

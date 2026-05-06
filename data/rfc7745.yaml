@@ -1,7 +1,7 @@
 ---
 id: RFC7745
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: XML Schemas for Reverse DNS Management
   type: main

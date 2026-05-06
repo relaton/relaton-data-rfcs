@@ -1,7 +1,7 @@
 ---
 id: RFC7417
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Extensions to Generic Aggregate RSVP for IPv4 and IPv6 Reservations over
     Pre-Congestion Notification (PCN) Domains

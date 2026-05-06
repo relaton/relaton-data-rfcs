@@ -1,7 +1,7 @@
 ---
 id: RFC8285
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: A General Mechanism for RTP Header Extensions
   type: main

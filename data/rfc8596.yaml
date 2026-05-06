@@ -1,7 +1,7 @@
 ---
 id: RFC8596
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: MPLS Transport Encapsulation for the Service Function Chaining (SFC) Network
     Service Header (NSH)

@@ -1,7 +1,7 @@
 ---
 id: RFC8341
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Network Configuration Access Control Model
   type: main

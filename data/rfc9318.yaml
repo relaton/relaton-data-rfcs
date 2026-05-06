@@ -1,7 +1,7 @@
 ---
 id: RFC9318
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'IAB Workshop Report: Measuring Network Quality for End-Users'
   type: main

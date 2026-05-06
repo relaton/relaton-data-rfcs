@@ -1,7 +1,7 @@
 ---
 id: RFC5609
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: State Machines for the Protocol for Carrying Authentication for Network
     Access (PANA)

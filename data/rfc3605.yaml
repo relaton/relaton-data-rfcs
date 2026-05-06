@@ -1,7 +1,7 @@
 ---
 id: RFC3605
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Real Time Control Protocol (RTCP) attribute in Session Description Protocol
     (SDP)

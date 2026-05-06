@@ -1,7 +1,7 @@
 ---
 id: RFC1330
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Recommendations for the Phase I Deployment of OSI Directory Services (X.500)
     and OSI Message Handling Services (X.400) within the ESNET Community

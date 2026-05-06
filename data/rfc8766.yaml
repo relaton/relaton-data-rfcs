@@ -1,7 +1,7 @@
 ---
 id: RFC8766
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Discovery Proxy for Multicast DNS-Based Service Discovery
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC9667
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Dynamic Flooding on Dense Graphs
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC199
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Suggestions for a Network Data-Tablet Graphics Protocol
   type: main

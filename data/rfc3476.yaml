@@ -1,7 +1,7 @@
 ---
 id: RFC3476
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Documentation of IANA Assignments for Label Distribution Protocol (LDP),
     Resource ReSerVation Protocol (RSVP), and Resource ReSerVation Protocol-Traffic

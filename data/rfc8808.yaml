@@ -1,7 +1,7 @@
 ---
 id: RFC8808
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: A YANG Data Model for Factory Default Settings
   type: main

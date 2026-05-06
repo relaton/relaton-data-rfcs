@@ -1,7 +1,7 @@
 ---
 id: RFC6711
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: An IANA Registry for Level of Assurance (LoA) Profiles
   type: main

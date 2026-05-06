@@ -1,7 +1,7 @@
 ---
 id: RFC7811
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: An Algorithm for Computing IP/LDP Fast Reroute Using Maximally Redundant
     Trees (MRT-FRR)

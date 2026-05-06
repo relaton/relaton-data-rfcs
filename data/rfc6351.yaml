@@ -1,7 +1,7 @@
 ---
 id: RFC6351
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'xCard: vCard XML Representation'
   type: main

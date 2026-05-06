@@ -1,7 +1,7 @@
 ---
 id: RFC4737
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Packet Reordering Metrics
   type: main

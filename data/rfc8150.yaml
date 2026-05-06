@@ -1,7 +1,7 @@
 ---
 id: RFC8150
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: MPLS Transport Profile Linear Protection MIB
   type: main

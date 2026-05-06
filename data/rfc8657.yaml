@@ -1,7 +1,7 @@
 ---
 id: RFC8657
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Certification Authority Authorization (CAA) Record Extensions for Account
     URI and Automatic Certificate Management Environment (ACME) Method Binding

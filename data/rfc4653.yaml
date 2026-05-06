@@ -1,7 +1,7 @@
 ---
 id: RFC4653
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Improving the Robustness of TCP to Non-Congestion Events
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC8324
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'DNS Privacy, Authorization, Special Uses, Encoding, Characters, Matching,
     and Root Structure: Time for Another Look?'

@@ -1,7 +1,7 @@
 ---
 id: RFC8154
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Parallel NFS (pNFS) Small Computer System Interface (SCSI) Layout
   type: main

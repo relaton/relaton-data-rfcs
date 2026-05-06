@@ -1,7 +1,7 @@
 ---
 id: RFC9342
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Clustered Alternate-Marking Method
   type: main

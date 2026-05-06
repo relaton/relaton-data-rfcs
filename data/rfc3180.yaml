@@ -1,7 +1,7 @@
 ---
 id: RFC3180
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: GLOP Addressing in 233/8
   type: main

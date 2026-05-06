@@ -1,7 +1,7 @@
 ---
 id: RFC9745
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: The Deprecation HTTP Response Header Field
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC2741
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Agent Extensibility (AgentX) Protocol Version 1
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC3218
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Preventing the Million Message Attack on Cryptographic Message Syntax
   type: main

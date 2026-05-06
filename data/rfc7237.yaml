@@ -1,7 +1,7 @@
 ---
 id: RFC7237
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Initial Hypertext Transfer Protocol (HTTP) Method Registrations
   type: main

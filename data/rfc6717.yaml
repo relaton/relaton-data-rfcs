@@ -1,7 +1,7 @@
 ---
 id: RFC6717
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: kx509 Kerberized Certificate Issuance Protocol in Use in 2012
   type: main

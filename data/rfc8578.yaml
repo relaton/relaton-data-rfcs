@@ -1,7 +1,7 @@
 ---
 id: RFC8578
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Deterministic Networking Use Cases
   type: main

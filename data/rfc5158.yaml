@@ -1,7 +1,7 @@
 ---
 id: RFC5158
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 6to4 Reverse DNS Delegation Specification
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC6330
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: RaptorQ Forward Error Correction Scheme for Object Delivery
   type: main

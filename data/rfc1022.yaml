@@ -1,7 +1,7 @@
 ---
 id: RFC1022
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: High-level Entity Management Protocol (HEMP)
   type: main

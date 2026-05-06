@@ -1,7 +1,7 @@
 ---
 id: RFC4595
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Use of IKEv2 in the Fibre Channel Security Association Management Protocol
   type: main

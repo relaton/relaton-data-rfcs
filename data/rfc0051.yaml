@@ -1,7 +1,7 @@
 ---
 id: RFC51
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Proposal for a Network Interchange Language
   type: main

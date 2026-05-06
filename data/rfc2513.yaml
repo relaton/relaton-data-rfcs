@@ -1,7 +1,7 @@
 ---
 id: RFC2513
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Managed Objects for Controlling the Collection and Storage of Accounting
     Information for Connection-Oriented Networks

@@ -1,7 +1,7 @@
 ---
 id: RFC7569
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Registry Specification for Mandatory Access Control (MAC) Security Label
     Formats

@@ -1,7 +1,7 @@
 ---
 id: RFC6430
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'Email Feedback Report Type Value: not-spam'
   type: main

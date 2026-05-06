@@ -1,7 +1,7 @@
 ---
 id: RFC9857
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Advertisement of Segment Routing Policies Using BGP - Link State
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC1843
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: HZ - A Data Format for Exchanging Files of Arbitrarily Mixed Chinese and
     ASCII characters

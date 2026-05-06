@@ -1,7 +1,7 @@
 ---
 id: RFC5311
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Simplified Extension of Link State PDU (LSP) Space for IS-IS
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC8079
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Guidelines for End-to-End Support of the RTP Control Protocol (RTCP) in
     Back-to-Back User Agents (B2BUAs)

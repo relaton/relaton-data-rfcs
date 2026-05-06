@@ -1,7 +1,7 @@
 ---
 id: RFC5125
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Reclassification of RFC 3525 to Historic
   type: main

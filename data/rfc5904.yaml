@@ -1,7 +1,7 @@
 ---
 id: RFC5904
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: RADIUS Attributes for IEEE 802.16 Privacy Key Management Version 1 (PKMv1)
     Protocol Support

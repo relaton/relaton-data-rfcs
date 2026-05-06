@@ -1,7 +1,7 @@
 ---
 id: RFC8719
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: High-Level Guidance for the Meeting Policy of the IETF
   type: main

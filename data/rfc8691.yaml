@@ -1,7 +1,7 @@
 ---
 id: RFC8691
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Basic Support for IPv6 Networks Operating Outside the Context of a Basic
     Service Set over IEEE Std 802.11

@@ -1,7 +1,7 @@
 ---
 id: RFC4846
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Independent Submissions to the RFC Editor
   type: main

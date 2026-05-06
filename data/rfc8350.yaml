@@ -1,7 +1,7 @@
 ---
 id: RFC8350
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Alternate Tunnel Encapsulation for Data Frames in Control and Provisioning
     of Wireless Access Points (CAPWAP)

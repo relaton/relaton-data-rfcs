@@ -1,7 +1,7 @@
 ---
 id: RFC1751
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: A Convention for Human-Readable 128-bit Keys
   type: main

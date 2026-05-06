@@ -1,7 +1,7 @@
 ---
 id: RFC2697
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: A Single Rate Three Color Marker
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC5017
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: MIB Textual Conventions for Uniform Resource Identifiers (URIs)
   type: main

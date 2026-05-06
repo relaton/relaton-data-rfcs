@@ -1,7 +1,7 @@
 ---
 id: RFC6749
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: The OAuth 2.0 Authorization Framework
   type: main

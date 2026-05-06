@@ -1,7 +1,7 @@
 ---
 id: RFC5597
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Network Address Translation (NAT) Behavioral Requirements for the Datagram
     Congestion Control Protocol

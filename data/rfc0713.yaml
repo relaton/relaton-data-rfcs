@@ -1,7 +1,7 @@
 ---
 id: RFC713
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: MSDTP-Message Services Data Transmission Protocol
   type: main

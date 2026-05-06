@@ -1,7 +1,7 @@
 ---
 id: RFC4057
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: IPv6 Enterprise Network Scenarios
   type: main

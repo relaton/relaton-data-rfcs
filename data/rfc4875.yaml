@@ -1,7 +1,7 @@
 ---
 id: RFC4875
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Extensions to Resource Reservation Protocol - Traffic Engineering (RSVP-TE)
     for Point-to-Multipoint TE Label Switched Paths (LSPs)

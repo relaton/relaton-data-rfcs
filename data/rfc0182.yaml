@@ -1,7 +1,7 @@
 ---
 id: RFC182
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Compilation of list of relevant site reports
   type: main

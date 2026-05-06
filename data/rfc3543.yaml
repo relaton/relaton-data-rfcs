@@ -1,7 +1,7 @@
 ---
 id: RFC3543
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Registration Revocation in Mobile IPv4
   type: main

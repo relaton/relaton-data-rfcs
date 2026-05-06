@@ -1,7 +1,7 @@
 ---
 id: RFC8260
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Stream Schedulers and User Message Interleaving for the Stream Control
     Transmission Protocol

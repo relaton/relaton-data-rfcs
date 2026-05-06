@@ -1,7 +1,7 @@
 ---
 id: RFC9784
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Virtual Ethernet Segments for EVPN and Provider Backbone Bridge EVPN
   type: main

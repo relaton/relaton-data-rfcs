@@ -1,7 +1,7 @@
 ---
 id: RFC1224
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Techniques for managing asynchronously generated alerts
   type: main

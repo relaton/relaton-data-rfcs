@@ -1,7 +1,7 @@
 ---
 id: RFC1722
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: RIP Version 2 Protocol Applicability Statement
   type: main

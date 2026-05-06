@@ -1,7 +1,7 @@
 ---
 id: RFC3245
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'The History and Context of Telephone Number Mapping (ENUM) Operational
     Decisions: Informational Documents Contributed to ITU-T Study Group 2 (SG2)'

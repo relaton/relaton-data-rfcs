@@ -1,7 +1,7 @@
 ---
 id: RFC2491
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: IPv6 over Non-Broadcast Multiple Access (NBMA) networks
   type: main

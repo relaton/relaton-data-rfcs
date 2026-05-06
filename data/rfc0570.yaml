@@ -1,7 +1,7 @@
 ---
 id: RFC570
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Experimental input mapping between NVT ASCII and UCSB On Line System
   type: main

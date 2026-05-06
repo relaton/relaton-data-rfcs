@@ -1,7 +1,7 @@
 ---
 id: RFC2085
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: HMAC-MD5 IP Authentication with Replay Prevention
   type: main

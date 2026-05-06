@@ -1,7 +1,7 @@
 ---
 id: RFC6562
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Guidelines for the Use of Variable Bit Rate Audio with Secure RTP
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC4762
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Virtual Private LAN Service (VPLS) Using Label Distribution Protocol (LDP)
     Signaling

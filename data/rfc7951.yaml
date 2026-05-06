@@ -1,7 +1,7 @@
 ---
 id: RFC7951
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: JSON Encoding of Data Modeled with YANG
   type: main

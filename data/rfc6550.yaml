@@ -1,7 +1,7 @@
 ---
 id: RFC6550
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'RPL: IPv6 Routing Protocol for Low-Power and Lossy Networks'
   type: main

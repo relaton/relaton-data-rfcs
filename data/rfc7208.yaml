@@ -1,7 +1,7 @@
 ---
 id: RFC7208
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Sender Policy Framework (SPF) for Authorizing Use of Domains in Email,
     Version 1

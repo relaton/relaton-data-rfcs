@@ -1,7 +1,7 @@
 ---
 id: RFC3042
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Enhancing TCP's Loss Recovery Using Limited Transmit
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC7972
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Entertainment Identifier Registry (EIDR) URN Namespace Definition
   type: main

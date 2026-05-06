@@ -1,7 +1,7 @@
 ---
 id: RFC6746
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: IPv4 Options for the Identifier-Locator Network Protocol (ILNP)
   type: main

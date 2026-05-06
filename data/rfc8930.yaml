@@ -1,7 +1,7 @@
 ---
 id: RFC8930
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: On Forwarding 6LoWPAN Fragments over a Multi-Hop IPv6 Network
   type: main

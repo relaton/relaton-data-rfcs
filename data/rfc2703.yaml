@@ -1,7 +1,7 @@
 ---
 id: RFC2703
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Protocol-independent Content Negotiation Framework
   type: main

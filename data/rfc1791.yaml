@@ -1,7 +1,7 @@
 ---
 id: RFC1791
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: TCP And UDP Over IPX Networks With Fixed Path MTU
   type: main

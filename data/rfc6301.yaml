@@ -1,7 +1,7 @@
 ---
 id: RFC6301
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: A Survey of Mobility Support in the Internet
   type: main

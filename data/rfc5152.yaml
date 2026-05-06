@@ -1,7 +1,7 @@
 ---
 id: RFC5152
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: A Per-Domain Path Computation Method for Establishing Inter-Domain Traffic
     Engineering (TE) Label Switched Paths (LSPs)

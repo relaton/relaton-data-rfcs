@@ -1,7 +1,7 @@
 ---
 id: RFC357
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Echoing strategy for satellite links
   type: main

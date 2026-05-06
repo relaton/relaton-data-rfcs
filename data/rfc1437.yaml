@@ -1,7 +1,7 @@
 ---
 id: RFC1437
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: The Extension of MIME Content-Types to a New Medium
   type: main

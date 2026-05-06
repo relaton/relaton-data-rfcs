@@ -1,7 +1,7 @@
 ---
 id: RFC1901
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Introduction to Community-based SNMPv2
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC5364
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Extensible Markup Language (XML) Format Extension for Representing Copy
     Control Attributes in Resource Lists

@@ -1,7 +1,7 @@
 ---
 id: RFC9714
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Encapsulation for MPLS Performance Measurement with the Alternate-Marking
     Method

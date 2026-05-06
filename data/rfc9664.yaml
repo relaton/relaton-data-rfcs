@@ -1,7 +1,7 @@
 ---
 id: RFC9664
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: An EDNS(0) Option to Negotiate Leases on DNS Updates
   type: main

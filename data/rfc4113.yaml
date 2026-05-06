@@ -1,7 +1,7 @@
 ---
 id: RFC4113
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Management Information Base for the User Datagram Protocol (UDP)
   type: main

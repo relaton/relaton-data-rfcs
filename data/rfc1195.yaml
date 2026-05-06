@@ -1,7 +1,7 @@
 ---
 id: RFC1195
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Use of OSI IS-IS for routing in TCP/IP and dual environments
   type: main

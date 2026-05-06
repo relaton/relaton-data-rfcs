@@ -1,7 +1,7 @@
 ---
 id: RFC1662
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: PPP in HDLC-like Framing
   type: main

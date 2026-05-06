@@ -1,7 +1,7 @@
 ---
 id: RFC6831
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: The Locator/ID Separation Protocol (LISP) for Multicast Environments
   type: main

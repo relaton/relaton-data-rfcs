@@ -1,7 +1,7 @@
 ---
 id: RFC8911
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Registry for Performance Metrics
   type: main

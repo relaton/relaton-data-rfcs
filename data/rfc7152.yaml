@@ -1,7 +1,7 @@
 ---
 id: RFC7152
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Requirements for Metro Ethernet Forum (MEF) Ethernet-Tree (E-Tree) Support
     in Layer 2 Virtual Private Network (L2VPN)

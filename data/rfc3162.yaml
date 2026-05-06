@@ -1,7 +1,7 @@
 ---
 id: RFC3162
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: RADIUS and IPv6
   type: main

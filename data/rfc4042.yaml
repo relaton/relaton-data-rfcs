@@ -1,7 +1,7 @@
 ---
 id: RFC4042
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: UTF-9 and UTF-18 Efficient Transformation Formats of Unicode
   type: main

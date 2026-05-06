@@ -1,7 +1,7 @@
 ---
 id: RFC8821
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: PCE-Based Traffic Engineering (TE) in Native IP Networks
   type: main

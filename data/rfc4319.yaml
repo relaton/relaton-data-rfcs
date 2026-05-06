@@ -1,7 +1,7 @@
 ---
 id: RFC4319
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Definitions of Managed Objects for High Bit-Rate DSL - 2nd generation (HDSL2)
     and Single-Pair High-Speed Digital Subscriber Line (SHDSL) Lines

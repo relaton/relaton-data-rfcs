@@ -1,7 +1,7 @@
 ---
 id: RFC9631
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: The IPv6 Compact Routing Header (CRH)
   type: main

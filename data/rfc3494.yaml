@@ -1,7 +1,7 @@
 ---
 id: RFC3494
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Lightweight Directory Access Protocol version 2 (LDAPv2) to Historic Status
   type: main

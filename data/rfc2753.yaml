@@ -1,7 +1,7 @@
 ---
 id: RFC2753
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: A Framework for Policy-based Admission Control
   type: main

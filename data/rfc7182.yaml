@@ -1,7 +1,7 @@
 ---
 id: RFC7182
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Integrity Check Value and Timestamp TLV Definitions for Mobile Ad Hoc Networks
     (MANETs)

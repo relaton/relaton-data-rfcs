@@ -1,7 +1,7 @@
 ---
 id: RFC8887
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: A JSON Meta Application Protocol (JMAP) Subprotocol for WebSocket
   type: main

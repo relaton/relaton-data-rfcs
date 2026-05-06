@@ -1,7 +1,7 @@
 ---
 id: RFC1581
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Protocol Analysis for Extensions to RIP to Support Demand Circuits
   type: main

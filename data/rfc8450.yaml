@@ -1,7 +1,7 @@
 ---
 id: RFC8450
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: RTP Payload Format for VC-2 High Quality (HQ) Profile
   type: main

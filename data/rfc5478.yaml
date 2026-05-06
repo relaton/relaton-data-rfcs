@@ -1,7 +1,7 @@
 ---
 id: RFC5478
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: IANA Registration of New Session Initiation Protocol (SIP) Resource-Priority
     Namespaces

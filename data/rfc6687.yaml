@@ -1,7 +1,7 @@
 ---
 id: RFC6687
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Performance Evaluation of the Routing Protocol for Low-Power and Lossy
     Networks (RPL)

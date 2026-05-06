@@ -1,7 +1,7 @@
 ---
 id: RFC2872
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Application and Sub Application Identity Policy Element for Use with RSVP
   type: main

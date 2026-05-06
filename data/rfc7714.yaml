@@ -1,7 +1,7 @@
 ---
 id: RFC7714
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: AES-GCM Authenticated Encryption in the Secure Real-time Transport Protocol
     (SRTP)

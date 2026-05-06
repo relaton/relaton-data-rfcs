@@ -1,7 +1,7 @@
 ---
 id: RFC6420
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: PIM Multi-Topology ID (MT-ID) Join Attribute
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC2431
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: RTP Payload Format for BT.656 Video Encoding
   type: main

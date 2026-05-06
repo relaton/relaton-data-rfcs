@@ -1,7 +1,7 @@
 ---
 id: RFC5572
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: IPv6 Tunnel Broker with the Tunnel Setup Protocol (TSP)
   type: main

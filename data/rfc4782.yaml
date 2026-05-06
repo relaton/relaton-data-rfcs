@@ -1,7 +1,7 @@
 ---
 id: RFC4782
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Quick-Start for TCP and IP
   type: main

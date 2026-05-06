@@ -1,7 +1,7 @@
 ---
 id: RFC942
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Transport protocols for Department of Defense data networks
   type: main

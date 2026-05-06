@@ -1,7 +1,7 @@
 ---
 id: RFC8169
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Residence Time Measurement in MPLS Networks
   type: main

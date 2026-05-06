@@ -1,7 +1,7 @@
 ---
 id: RFC6512
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Using Multipoint LDP When the Backbone Has No Route to the Root
   type: main

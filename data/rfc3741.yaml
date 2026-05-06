@@ -1,7 +1,7 @@
 ---
 id: RFC3741
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Exclusive XML Canonicalization, Version 1.0
   type: main

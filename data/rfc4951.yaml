@@ -1,7 +1,7 @@
 ---
 id: RFC4951
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Fail Over Extensions for Layer 2 Tunneling Protocol (L2TP) "failover"
   type: main

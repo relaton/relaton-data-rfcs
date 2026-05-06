@@ -1,7 +1,7 @@
 ---
 id: RFC3232
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'Assigned Numbers: RFC 1700 is Replaced by an On-line Database'
   type: main

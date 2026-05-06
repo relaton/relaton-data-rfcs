@@ -1,7 +1,7 @@
 ---
 id: RFC7794
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: IS-IS Prefix Attributes for Extended IPv4 and IPv6 Reachability
   type: main

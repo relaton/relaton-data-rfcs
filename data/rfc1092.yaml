@@ -1,7 +1,7 @@
 ---
 id: RFC1092
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: EGP and policy based routing in the new NSFNET backbone
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC6135
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: An Alternative Connection Model for the Message Session Relay Protocol
     (MSRP)

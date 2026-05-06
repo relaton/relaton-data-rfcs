@@ -1,7 +1,7 @@
 ---
 id: RFC7279
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: An Acceptable Use Policy for New ICMP Types and Codes
   type: main

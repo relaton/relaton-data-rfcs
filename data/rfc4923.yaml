@@ -1,7 +1,7 @@
 ---
 id: RFC4923
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Quality of Service (QoS) Signaling in a Nested Virtual Private Network
   type: main

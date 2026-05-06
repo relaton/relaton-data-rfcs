@@ -1,7 +1,7 @@
 ---
 id: RFC165
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Proffered Official Initial Connection Protocol
   type: main

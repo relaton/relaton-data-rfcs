@@ -1,7 +1,7 @@
 ---
 id: RFC3059
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Attribute List Extension for the Service Location Protocol
   type: main

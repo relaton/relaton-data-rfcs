@@ -1,7 +1,7 @@
 ---
 id: RFC5104
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Codec Control Messages in the RTP Audio-Visual Profile with Feedback (AVPF)
   type: main
@@ -157,7 +157,6 @@ keyword:
     content: real time protocol
 - vocab:
     content: real-time protocol
-- {}
 - vocab:
     content: itu-t rec. h271
 - vocab:

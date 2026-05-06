@@ -1,7 +1,7 @@
 ---
 id: RFC6582
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: The NewReno Modification to TCP's Fast Recovery Algorithm
   type: main

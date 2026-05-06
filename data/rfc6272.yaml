@@ -1,7 +1,7 @@
 ---
 id: RFC6272
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Internet Protocols for the Smart Grid
   type: main

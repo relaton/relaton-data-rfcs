@@ -1,7 +1,7 @@
 ---
 id: RFC5096
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Mobile IPv6 Experimental Messages
   type: main

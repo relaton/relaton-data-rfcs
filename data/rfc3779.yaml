@@ -1,7 +1,7 @@
 ---
 id: RFC3779
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: X.509 Extensions for IP Addresses and AS Identifiers
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC5150
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Label Switched Path Stitching with Generalized Multiprotocol Label Switching
     Traffic Engineering (GMPLS TE)

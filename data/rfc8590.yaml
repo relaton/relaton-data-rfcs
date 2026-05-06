@@ -1,7 +1,7 @@
 ---
 id: RFC8590
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Change Poll Extension for the Extensible Provisioning Protocol (EPP)
   type: main

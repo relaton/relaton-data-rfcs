@@ -1,7 +1,7 @@
 ---
 id: RFC7246
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Multipoint Label Distribution Protocol In-Band Signaling in a Virtual Routing
     and Forwarding (VRF) Table Context

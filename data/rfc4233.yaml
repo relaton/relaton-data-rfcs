@@ -1,7 +1,7 @@
 ---
 id: RFC4233
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Integrated Services Digital Network (ISDN) Q.921-User Adaptation Layer
   type: main

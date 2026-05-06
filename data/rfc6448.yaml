@@ -1,7 +1,7 @@
 ---
 id: RFC6448
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: The Unencrypted Form of Kerberos 5 KRB-CRED Message
   type: main

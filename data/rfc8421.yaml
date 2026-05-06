@@ -1,7 +1,7 @@
 ---
 id: RFC8421
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Guidelines for Multihomed and IPv4/IPv6 Dual-Stack Interactive Connectivity
     Establishment (ICE)

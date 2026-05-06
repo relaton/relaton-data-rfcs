@@ -1,7 +1,7 @@
 ---
 id: RFC9891
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Automated Certificate Management Environment (ACME) Delay-Tolerant Networking
     (DTN) Node ID Validation Extension

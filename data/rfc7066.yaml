@@ -1,7 +1,7 @@
 ---
 id: RFC7066
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: IPv6 for Third Generation Partnership Project (3GPP) Cellular Hosts
   type: main

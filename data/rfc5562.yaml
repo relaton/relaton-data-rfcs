@@ -1,7 +1,7 @@
 ---
 id: RFC5562
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Adding Explicit Congestion Notification (ECN) Capability to TCP's SYN/ACK
     Packets

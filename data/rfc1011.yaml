@@ -1,7 +1,7 @@
 ---
 id: RFC1011
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Official Internet protocols
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC3593
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Textual Conventions for MIB Modules Using Performance History Based on
     15 Minute Intervals

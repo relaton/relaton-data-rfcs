@@ -1,7 +1,7 @@
 ---
 id: RFC9569
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: The Application-Layer Traffic Optimization (ALTO) Transport Information
     Publication Service (TIPS)

@@ -1,7 +1,7 @@
 ---
 id: RFC3967
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Clarifying when Standards Track Documents may Refer Normatively to Documents
     at a Lower Level

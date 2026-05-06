@@ -1,7 +1,7 @@
 ---
 id: RFC5243
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: OSPF Database Exchange Summary List Optimization
   type: main

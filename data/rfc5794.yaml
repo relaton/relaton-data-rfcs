@@ -1,7 +1,7 @@
 ---
 id: RFC5794
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: A Description of the ARIA Encryption Algorithm
   type: main

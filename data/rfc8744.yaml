@@ -1,7 +1,7 @@
 ---
 id: RFC8744
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Issues and Requirements for Server Name Identification (SNI) Encryption
     in TLS

@@ -1,7 +1,7 @@
 ---
 id: RFC4579
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Session Initiation Protocol (SIP) Call Control - Conferencing for User
     Agents

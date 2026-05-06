@@ -1,7 +1,7 @@
 ---
 id: RFC911
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: EGP Gateway under Berkeley UNIX 4.2
   type: main

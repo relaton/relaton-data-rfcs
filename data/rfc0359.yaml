@@ -1,7 +1,7 @@
 ---
 id: RFC359
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Status of the Release of the New IMP System (2600)
   type: main

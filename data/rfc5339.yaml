@@ -1,7 +1,7 @@
 ---
 id: RFC5339
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Evaluation of Existing GMPLS Protocols against Multi-Layer and Multi-Region
     Networks (MLN/MRN)

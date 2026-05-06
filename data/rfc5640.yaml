@@ -1,7 +1,7 @@
 ---
 id: RFC5640
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Load-Balancing for Mesh Softwires
   type: main

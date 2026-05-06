@@ -1,7 +1,7 @@
 ---
 id: RFC6348
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Requirements for Point-to-Multipoint Extensions to the Label Distribution
     Protocol

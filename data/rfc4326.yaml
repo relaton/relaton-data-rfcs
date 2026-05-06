@@ -1,7 +1,7 @@
 ---
 id: RFC4326
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Unidirectional Lightweight Encapsulation (ULE) for Transmission of IP Datagrams
     over an MPEG-2 Transport Stream (TS)

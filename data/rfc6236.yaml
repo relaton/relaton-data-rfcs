@@ -1,7 +1,7 @@
 ---
 id: RFC6236
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Negotiation of Generic Image Attributes in the Session Description Protocol
     (SDP)

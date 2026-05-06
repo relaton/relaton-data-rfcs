@@ -1,7 +1,7 @@
 ---
 id: RFC6254
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Request to Move RFC 2754 to Historic Status
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC685
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Response time in cross network debugging
   type: main

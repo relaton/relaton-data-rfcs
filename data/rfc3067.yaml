@@ -1,7 +1,7 @@
 ---
 id: RFC3067
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: TERENA'S Incident Object Description and Exchange Format Requirements
   type: main

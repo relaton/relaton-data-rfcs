@@ -1,7 +1,7 @@
 ---
 id: RFC9139
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Information-Centric Networking (ICN) Adaptation to Low-Power Wireless Personal
     Area Networks (LoWPANs)

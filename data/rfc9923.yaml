@@ -1,7 +1,7 @@
 ---
 id: RFC9923
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: The FNV Non-Cryptographic Hash Algorithm
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC4935
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Fibre Channel Fabric Configuration Server MIB
   type: main

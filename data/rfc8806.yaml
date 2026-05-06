@@ -1,7 +1,7 @@
 ---
 id: RFC8806
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Running a Root Server Local to a Resolver
   type: main

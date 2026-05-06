@@ -1,7 +1,7 @@
 ---
 id: RFC589
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: CCN NETRJS server messages to remote user
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC5262
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Presence Information Data Format (PIDF) Extension for Partial Presence
   type: main

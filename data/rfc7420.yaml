@@ -1,7 +1,7 @@
 ---
 id: RFC7420
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Path Computation Element Communication Protocol (PCEP) Management Information
     Base (MIB) Module

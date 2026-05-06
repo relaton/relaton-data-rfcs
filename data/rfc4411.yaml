@@ -1,7 +1,7 @@
 ---
 id: RFC4411
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Extending the Session Initiation Protocol (SIP) Reason Header for Preemption
     Events

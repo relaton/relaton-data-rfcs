@@ -1,7 +1,7 @@
 ---
 id: RFC8294
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Common YANG Data Types for the Routing Area
   type: main

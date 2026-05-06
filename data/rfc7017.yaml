@@ -1,7 +1,7 @@
 ---
 id: RFC7017
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: IMAP Access to IETF Email List Archives
   type: main

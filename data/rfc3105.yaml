@@ -1,7 +1,7 @@
 ---
 id: RFC3105
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Finding an RSIP Server with SLP
   type: main

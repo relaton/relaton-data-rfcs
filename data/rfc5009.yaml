@@ -1,7 +1,7 @@
 ---
 id: RFC5009
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Private Header (P-Header) Extension to the Session Initiation Protocol
     (SIP) for Authorization of Early Media

@@ -1,7 +1,7 @@
 ---
 id: RFC4739
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Multiple Authentication Exchanges in the Internet Key Exchange (IKEv2)
     Protocol

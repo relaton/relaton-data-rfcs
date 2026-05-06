@@ -1,7 +1,7 @@
 ---
 id: RFC6826
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Multipoint LDP In-Band Signaling for Point-to-Multipoint and Multipoint-to-Multipoint
     Label Switched Paths

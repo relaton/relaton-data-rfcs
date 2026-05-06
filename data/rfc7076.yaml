@@ -1,7 +1,7 @@
 ---
 id: RFC7076
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: P6R's Secure Shell Public Key Subsystem
   type: main

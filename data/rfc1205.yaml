@@ -1,7 +1,7 @@
 ---
 id: RFC1205
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 5250 Telnet interface
   type: main

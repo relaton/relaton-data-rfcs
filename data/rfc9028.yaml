@@ -1,7 +1,7 @@
 ---
 id: RFC9028
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Native NAT Traversal Mode for the Host Identity Protocol
   type: main

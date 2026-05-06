@@ -1,7 +1,7 @@
 ---
 id: RFC4297
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Remote Direct Memory Access (RDMA) over IP Problem Statement
   type: main

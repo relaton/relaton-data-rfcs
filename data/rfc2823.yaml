@@ -1,7 +1,7 @@
 ---
 id: RFC2823
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: PPP over Simple Data Link (SDL) using SONET/SDH with ATM-like framing
   type: main

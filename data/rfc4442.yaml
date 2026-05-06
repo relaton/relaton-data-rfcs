@@ -1,7 +1,7 @@
 ---
 id: RFC4442
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Bootstrapping Timed Efficient Stream Loss-Tolerant Authentication (TESLA)
   type: main

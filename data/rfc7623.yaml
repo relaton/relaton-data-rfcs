@@ -1,7 +1,7 @@
 ---
 id: RFC7623
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Provider Backbone Bridging Combined with Ethernet VPN (PBB-EVPN)
   type: main

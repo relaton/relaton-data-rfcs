@@ -1,7 +1,7 @@
 ---
 id: RFC2193
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: IMAP4 Mailbox Referrals
   type: main

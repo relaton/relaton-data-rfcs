@@ -1,7 +1,7 @@
 ---
 id: RFC5520
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Preserving Topology Confidentiality in Inter-Domain Path Computation Using
     a Path-Key-Based Mechanism

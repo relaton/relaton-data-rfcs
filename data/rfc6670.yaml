@@ -1,7 +1,7 @@
 ---
 id: RFC6670
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: The Reasons for Selecting a Single Solution for MPLS Transport Profile
     (MPLS-TP) Operations, Administration, and Maintenance (OAM)

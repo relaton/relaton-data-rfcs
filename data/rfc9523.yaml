@@ -1,7 +1,7 @@
 ---
 id: RFC9523
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: A Secure Selection and Filtering Mechanism for the Network Time Protocol
     with Khronos

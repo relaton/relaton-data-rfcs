@@ -1,7 +1,7 @@
 ---
 id: RFC9193
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Sensor Measurement Lists (SenML) Fields for Indicating Data Value Content-Format
   type: main

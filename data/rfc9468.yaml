@@ -1,7 +1,7 @@
 ---
 id: RFC9468
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Unsolicited Bidirectional Forwarding Detection (BFD) for Sessionless Applications
   type: main

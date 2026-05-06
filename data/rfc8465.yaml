@@ -1,7 +1,7 @@
 ---
 id: RFC8465
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Using the Mobile Equipment Identity (MEID) URN as an Instance ID
   type: main

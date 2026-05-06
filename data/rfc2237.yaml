@@ -1,7 +1,7 @@
 ---
 id: RFC2237
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Japanese Character Encoding for Internet Messages
   type: main

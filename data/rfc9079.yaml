@@ -1,7 +1,7 @@
 ---
 id: RFC9079
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Source-Specific Routing in the Babel Routing Protocol
   type: main

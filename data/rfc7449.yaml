@@ -1,7 +1,7 @@
 ---
 id: RFC7449
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Path Computation Element Communication Protocol (PCEP) Requirements for
     Wavelength Switched Optical Network (WSON) Routing and Wavelength Assignment

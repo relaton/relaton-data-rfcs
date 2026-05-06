@@ -1,7 +1,7 @@
 ---
 id: RFC8752
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Report from the IAB Workshop on Exploring Synergy between Content Aggregation
     and the Publisher Ecosystem (ESCAPE)

@@ -1,7 +1,7 @@
 ---
 id: RFC5194
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Framework for Real-Time Text over IP Using the Session Initiation Protocol
     (SIP)

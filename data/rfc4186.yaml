@@ -1,7 +1,7 @@
 ---
 id: RFC4186
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Extensible Authentication Protocol Method for Global System for Mobile
     Communications (GSM) Subscriber Identity Modules (EAP-SIM)

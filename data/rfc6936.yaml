@@ -1,7 +1,7 @@
 ---
 id: RFC6936
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Applicability Statement for the Use of IPv6 UDP Datagrams with Zero Checksums
   type: main

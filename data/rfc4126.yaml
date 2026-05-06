@@ -1,7 +1,7 @@
 ---
 id: RFC4126
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Max Allocation with Reservation Bandwidth Constraints Model for Diffserv-aware
     MPLS Traffic Engineering & Performance Comparisons

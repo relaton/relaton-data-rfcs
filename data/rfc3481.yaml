@@ -1,7 +1,7 @@
 ---
 id: RFC3481
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: TCP over Second (2.5G) and Third (3G) Generation Wireless Networks
   type: main

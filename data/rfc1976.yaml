@@ -1,7 +1,7 @@
 ---
 id: RFC1976
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: PPP for Data Compression in Data Circuit-Terminating Equipment (DCE)
   type: main

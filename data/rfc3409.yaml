@@ -1,7 +1,7 @@
 ---
 id: RFC3409
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Lower Layer Guidelines for Robust RTP/UDP/IP Header Compression
   type: main

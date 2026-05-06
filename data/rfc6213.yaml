@@ -1,7 +1,7 @@
 ---
 id: RFC6213
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: IS-IS BFD-Enabled TLV
   type: main

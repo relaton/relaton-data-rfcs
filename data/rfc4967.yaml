@@ -1,7 +1,7 @@
 ---
 id: RFC4967
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Dial String Parameter for the Session Initiation Protocol Uniform Resource
     Identifier

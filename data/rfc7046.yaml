@@ -1,7 +1,7 @@
 ---
 id: RFC7046
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: A Common API for Transparent Hybrid Multicast
   type: main

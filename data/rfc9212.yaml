@@ -1,7 +1,7 @@
 ---
 id: RFC9212
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Commercial National Security Algorithm (CNSA) Suite Cryptography for Secure
     Shell (SSH)

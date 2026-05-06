@@ -1,7 +1,7 @@
 ---
 id: RFC9406
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'HyStart++: Modified Slow Start for TCP'
   type: main

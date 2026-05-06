@@ -1,7 +1,7 @@
 ---
 id: RFC8107
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Advertising Digital Identifier (Ad-ID) URN Namespace Definition
   type: main

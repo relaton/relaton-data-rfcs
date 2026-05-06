@@ -1,7 +1,7 @@
 ---
 id: RFC7446
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Routing and Wavelength Assignment Information Model for Wavelength Switched
     Optical Networks

@@ -1,7 +1,7 @@
 ---
 id: RFC894
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: A Standard for the Transmission of IP Datagrams over Ethernet Networks
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC9185
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: DTLS Tunnel between a Media Distributor and Key Distributor to Facilitate
     Key Exchange

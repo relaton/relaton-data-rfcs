@@ -1,7 +1,7 @@
 ---
 id: RFC2357
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: IETF Criteria for Evaluating Reliable Multicast Transport and Application
     Protocols

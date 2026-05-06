@@ -1,7 +1,7 @@
 ---
 id: RFC5710
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: PathErr Message Triggered MPLS and GMPLS LSP Reroutes
   type: main

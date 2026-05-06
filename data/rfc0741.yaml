@@ -1,7 +1,7 @@
 ---
 id: RFC741
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Specifications for the Network Voice Protocol (NVP)
   type: main

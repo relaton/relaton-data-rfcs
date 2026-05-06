@@ -1,7 +1,7 @@
 ---
 id: RFC9607
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: RTP Payload Format for the Secure Communication Interoperability Protocol
     (SCIP) Codec

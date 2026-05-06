@@ -1,7 +1,7 @@
 ---
 id: RFC5803
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Lightweight Directory Access Protocol (LDAP) Schema for Storing Salted
     Challenge Response Authentication Mechanism (SCRAM) Secrets

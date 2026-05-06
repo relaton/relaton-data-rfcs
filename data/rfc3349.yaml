@@ -1,7 +1,7 @@
 ---
 id: RFC3349
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: A Transient Prefix for Identifying Profiles under Development by the Working
     Groups of the Internet Engineering Task Force

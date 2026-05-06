@@ -1,7 +1,7 @@
 ---
 id: RFC3273
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Remote Network Monitoring Management Information Base for High Capacity
     Networks

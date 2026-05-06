@@ -1,7 +1,7 @@
 ---
 id: RFC8670
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: BGP Prefix Segment in Large-Scale Data Centers
   type: main

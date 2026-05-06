@@ -1,7 +1,7 @@
 ---
 id: RFC2785
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Methods for Avoiding the "Small-Subgroup" Attacks on the Diffie-Hellman
     Key Agreement Method for S/MIME

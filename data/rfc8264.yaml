@@ -1,7 +1,7 @@
 ---
 id: RFC8264
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'PRECIS Framework: Preparation, Enforcement, and Comparison of Internationalized
     Strings in Application Protocols'

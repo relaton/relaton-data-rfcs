@@ -1,7 +1,7 @@
 ---
 id: RFC748
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Telnet randomly-lose option
   type: main

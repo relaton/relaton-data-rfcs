@@ -1,7 +1,7 @@
 ---
 id: RFC1058
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Routing Information Protocol
   type: main

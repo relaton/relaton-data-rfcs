@@ -1,7 +1,7 @@
 ---
 id: RFC7973
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Assignment of an Ethertype for IPv6 with Low-Power Wireless Personal Area
     Network (LoWPAN) Encapsulation

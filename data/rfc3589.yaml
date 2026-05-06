@@ -1,7 +1,7 @@
 ---
 id: RFC3589
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Diameter Command Codes for Third Generation Partnership Project (3GPP)
     Release 5

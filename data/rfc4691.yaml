@@ -1,7 +1,7 @@
 ---
 id: RFC4691
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Guidelines for Acting as an IETF Liaison to Another Organization
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC6659
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Considerations for Deploying the Rapid Acquisition of Multicast RTP Sessions
     (RAMS) Method

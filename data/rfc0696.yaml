@@ -1,7 +1,7 @@
 ---
 id: RFC696
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Comments on the IMP/Host and Host/IMP Protocol changes
   type: main

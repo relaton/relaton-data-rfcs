@@ -1,7 +1,7 @@
 ---
 id: RFC7916
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Operational Management of Loop-Free Alternates
   type: main

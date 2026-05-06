@@ -1,7 +1,7 @@
 ---
 id: RFC7314
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Extension Mechanisms for DNS (EDNS) EXPIRE Option
   type: main

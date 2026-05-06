@@ -1,7 +1,7 @@
 ---
 id: RFC4920
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Crankback Signaling Extensions for MPLS and GMPLS RSVP-TE
   type: main

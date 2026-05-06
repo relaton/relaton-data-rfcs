@@ -1,7 +1,7 @@
 ---
 id: RFC7882
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Seamless Bidirectional Forwarding Detection (S-BFD) Use Cases
   type: main

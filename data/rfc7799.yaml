@@ -1,7 +1,7 @@
 ---
 id: RFC7799
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Active and Passive Metrics and Methods (with Hybrid Types In-Between)
   type: main

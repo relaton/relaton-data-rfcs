@@ -1,7 +1,7 @@
 ---
 id: RFC9726
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Operational Considerations for Use of DNS in Internet of Things (IoT) Devices
   type: main

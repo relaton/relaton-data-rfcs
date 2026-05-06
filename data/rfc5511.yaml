@@ -1,7 +1,7 @@
 ---
 id: RFC5511
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'Routing Backus-Naur Form (RBNF): A Syntax Used to Form Encoding Rules
     in Various Routing Protocol Specifications'

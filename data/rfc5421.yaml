@@ -1,7 +1,7 @@
 ---
 id: RFC5421
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Basic Password Exchange within the Flexible Authentication via Secure Tunneling
     Extensible Authentication Protocol (EAP-FAST)

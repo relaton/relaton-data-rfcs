@@ -1,7 +1,7 @@
 ---
 id: RFC5016
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Requirements for a DomainKeys Identified Mail (DKIM) Signing Practices
     Protocol

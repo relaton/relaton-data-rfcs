@@ -1,7 +1,7 @@
 ---
 id: RFC5040
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: A Remote Direct Memory Access Protocol Specification
   type: main

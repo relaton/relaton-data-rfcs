@@ -1,7 +1,7 @@
 ---
 id: RFC5638
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Simple SIP Usage Scenario for Applications in the Endpoints
   type: main

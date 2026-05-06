@@ -1,7 +1,7 @@
 ---
 id: RFC539
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Thoughts on the mail protocol proposed in RFC 524
   type: main

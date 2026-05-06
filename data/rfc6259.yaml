@@ -1,7 +1,7 @@
 ---
 id: RFC6259
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Delay-Tolerant Networking Previous-Hop Insertion Block
   type: main

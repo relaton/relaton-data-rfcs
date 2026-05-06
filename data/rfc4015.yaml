@@ -1,7 +1,7 @@
 ---
 id: RFC4015
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: The Eifel Response Algorithm for TCP
   type: main

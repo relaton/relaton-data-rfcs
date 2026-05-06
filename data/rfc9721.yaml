@@ -1,7 +1,7 @@
 ---
 id: RFC9721
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Extended Mobility Procedures for Ethernet VPN Integrated Routing and Bridging
     (EVPN-IRB)

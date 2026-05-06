@@ -1,7 +1,7 @@
 ---
 id: RFC9668
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Using Ephemeral Diffie-Hellman Over COSE (EDHOC) with the Constrained Application
     Protocol (CoAP) and Object Security for Constrained RESTful Environments (OSCORE)

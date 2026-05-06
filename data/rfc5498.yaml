@@ -1,7 +1,7 @@
 ---
 id: RFC5498
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: IANA Allocations for Mobile Ad Hoc Network (MANET) Protocols
   type: main

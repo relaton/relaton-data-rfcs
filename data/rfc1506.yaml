@@ -1,7 +1,7 @@
 ---
 id: RFC1506
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: A Tutorial on Gatewaying between X.400 and Internet Mail
   type: main

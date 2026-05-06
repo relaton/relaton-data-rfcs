@@ -1,7 +1,7 @@
 ---
 id: RFC2183
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'Communicating Presentation Information in Internet Messages: The Content-Disposition
     Header Field'

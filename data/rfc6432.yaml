@@ -1,7 +1,7 @@
 ---
 id: RFC6432
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Carrying Q.850 Codes in Reason Header Fields in SIP (Session Initiation
     Protocol) Responses

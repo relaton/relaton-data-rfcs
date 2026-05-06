@@ -1,7 +1,7 @@
 ---
 id: RFC2984
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Use of the CAST-128 Encryption Algorithm in CMS
   type: main

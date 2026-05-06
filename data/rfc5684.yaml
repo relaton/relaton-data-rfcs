@@ -1,7 +1,7 @@
 ---
 id: RFC5684
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Unintended Consequences of NAT Deployments with Overlapping Address Space
   type: main

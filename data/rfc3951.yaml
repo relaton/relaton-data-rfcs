@@ -1,7 +1,7 @@
 ---
 id: RFC3951
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Internet Low Bit Rate Codec (iLBC)
   type: main

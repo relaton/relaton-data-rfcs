@@ -1,7 +1,7 @@
 ---
 id: RFC8999
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Version-Independent Properties of QUIC
   type: main

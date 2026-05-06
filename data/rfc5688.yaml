@@ -1,7 +1,7 @@
 ---
 id: RFC5688
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: A Session Initiation Protocol (SIP) Media Feature Tag for MIME Application
     Subtypes

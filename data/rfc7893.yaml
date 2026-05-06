@@ -1,7 +1,7 @@
 ---
 id: RFC7893
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Pseudowire Congestion Considerations
   type: main

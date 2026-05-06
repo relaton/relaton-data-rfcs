@@ -1,7 +1,7 @@
 ---
 id: RFC7255
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Using the International Mobile station Equipment Identity (IMEI) Uniform
     Resource Name (URN) as an Instance ID

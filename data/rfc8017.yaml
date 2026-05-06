@@ -1,7 +1,7 @@
 ---
 id: RFC8017
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'PKCS #1: RSA Cryptography Specifications Version 2.2'
   type: main

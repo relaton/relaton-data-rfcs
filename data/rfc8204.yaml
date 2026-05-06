@@ -1,7 +1,7 @@
 ---
 id: RFC8204
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Benchmarking Virtual Switches in the Open Platform for NFV (OPNFV)
   type: main

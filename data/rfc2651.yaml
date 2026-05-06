@@ -1,7 +1,7 @@
 ---
 id: RFC2651
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: The Architecture of the Common Indexing Protocol (CIP)
   type: main

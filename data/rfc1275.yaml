@@ -1,7 +1,7 @@
 ---
 id: RFC1275
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Replication Requirements to provide an Internet Directory using X.500
   type: main

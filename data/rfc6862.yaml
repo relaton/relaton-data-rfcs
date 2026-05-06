@@ -1,7 +1,7 @@
 ---
 id: RFC6862
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Keying and Authentication for Routing Protocols (KARP) Overview, Threats,
     and Requirements

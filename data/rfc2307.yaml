@@ -1,7 +1,7 @@
 ---
 id: RFC2307
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: An Approach for Using LDAP as a Network Information Service
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC9814
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Use of the SLH-DSA Signature Algorithm in the Cryptographic Message Syntax
     (CMS)

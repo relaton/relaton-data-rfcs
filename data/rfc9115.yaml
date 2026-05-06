@@ -1,7 +1,7 @@
 ---
 id: RFC9115
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: An Automatic Certificate Management Environment (ACME) Profile for Generating
     Delegated Certificates

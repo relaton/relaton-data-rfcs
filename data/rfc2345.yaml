@@ -1,7 +1,7 @@
 ---
 id: RFC2345
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Domain Names and Company Name Retrieval
   type: main

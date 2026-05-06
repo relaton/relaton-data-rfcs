@@ -1,7 +1,7 @@
 ---
 id: RFC4083
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Input 3rd-Generation Partnership Project (3GPP) Release 5 Requirements
     on the Session Initiation Protocol (SIP)

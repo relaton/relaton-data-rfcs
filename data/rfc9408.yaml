@@ -1,7 +1,7 @@
 ---
 id: RFC9408
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: A YANG Network Data Model for Service Attachment Points (SAPs)
   type: main

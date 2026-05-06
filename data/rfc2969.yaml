@@ -1,7 +1,7 @@
 ---
 id: RFC2969
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Wide Area Directory Deployment - Experiences from TISDAG
   type: main

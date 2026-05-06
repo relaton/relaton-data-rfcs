@@ -1,7 +1,7 @@
 ---
 id: RFC5740
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: NACK-Oriented Reliable Multicast (NORM) Transport Protocol
   type: main

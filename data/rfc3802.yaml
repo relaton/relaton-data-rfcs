@@ -1,7 +1,7 @@
 ---
 id: RFC3802
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Toll Quality Voice - 32 kbit/s Adaptive Differential Pulse Code Modulation
     (ADPCM) MIME Sub-type Registration

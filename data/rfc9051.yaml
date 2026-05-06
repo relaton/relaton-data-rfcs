@@ -1,7 +1,7 @@
 ---
 id: RFC9051
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Internet Message Access Protocol (IMAP) - Version 4rev2
   type: main

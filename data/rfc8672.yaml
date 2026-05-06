@@ -1,7 +1,7 @@
 ---
 id: RFC8672
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: TLS Server Identity Pinning with Tickets
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC824
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: CRONUS Virtual Local Network
   type: main

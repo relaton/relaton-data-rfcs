@@ -1,7 +1,7 @@
 ---
 id: RFC3776
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Using IPsec to Protect Mobile IPv6 Signaling Between Mobile Nodes and Home
     Agents

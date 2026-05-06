@@ -1,7 +1,7 @@
 ---
 id: RFC3554
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: On the Use of Stream Control Transmission Protocol (SCTP) with IPsec
   type: main

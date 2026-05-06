@@ -1,7 +1,7 @@
 ---
 id: RFC3663
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Domain Administrative Data in Lightweight Directory Access Protocol (LDAP)
   type: main

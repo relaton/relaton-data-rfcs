@@ -1,7 +1,7 @@
 ---
 id: RFC4023
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Encapsulating MPLS in IP or Generic Routing Encapsulation (GRE)
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC7498
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Problem Statement for Service Function Chaining
   type: main

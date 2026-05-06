@@ -1,7 +1,7 @@
 ---
 id: RFC5802
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Salted Challenge Response Authentication Mechanism (SCRAM) SASL and GSS-API
     Mechanisms

@@ -1,7 +1,7 @@
 ---
 id: RFC1013
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'X Window System Protocol, version 11: Alpha update April 1987'
   type: main

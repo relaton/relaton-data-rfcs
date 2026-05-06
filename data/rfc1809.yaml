@@ -1,7 +1,7 @@
 ---
 id: RFC1809
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Using the Flow Label Field in IPv6
   type: main

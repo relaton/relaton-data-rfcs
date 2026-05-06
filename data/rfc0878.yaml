@@ -1,7 +1,7 @@
 ---
 id: RFC878
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: ARPANET 1822L Host Access Protocol
   type: main

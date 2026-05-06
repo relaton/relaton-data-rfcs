@@ -1,7 +1,7 @@
 ---
 id: RFC6667
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: LDP 'Typed Wildcard' Forwarding Equivalence Class (FEC) for PWid and Generalized
     PWid FEC Elements

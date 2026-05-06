@@ -1,7 +1,7 @@
 ---
 id: RFC8517
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'An Inventory of Transport-Centric Functions Provided by Middleboxes: An
     Operator Perspective'

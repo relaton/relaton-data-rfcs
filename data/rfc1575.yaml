@@ -1,7 +1,7 @@
 ---
 id: RFC1575
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: An Echo Function for CLNP (ISO 8473)
   type: main

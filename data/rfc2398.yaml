@@ -1,7 +1,7 @@
 ---
 id: RFC2398
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Some Testing Tools for TCP Implementors
   type: main

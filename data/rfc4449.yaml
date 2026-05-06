@@ -1,7 +1,7 @@
 ---
 id: RFC4449
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Securing Mobile IPv6 Route Optimization Using a Static Shared Key
   type: main

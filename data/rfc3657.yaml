@@ -1,7 +1,7 @@
 ---
 id: RFC3657
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Use of the Camellia Encryption Algorithm in Cryptographic Message Syntax
     (CMS)

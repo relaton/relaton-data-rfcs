@@ -1,7 +1,7 @@
 ---
 id: RFC1422
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'Privacy Enhancement for Internet Electronic Mail: Part II: Certificate-Based
     Key Management'

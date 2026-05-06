@@ -1,7 +1,7 @@
 ---
 id: RFC798
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Decoding facsimile data from the Rapicom 450
   type: main

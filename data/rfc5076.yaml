@@ -1,7 +1,7 @@
 ---
 id: RFC5076
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: ENUM Validation Information Mapping for the Extensible Provisioning Protocol
   type: main

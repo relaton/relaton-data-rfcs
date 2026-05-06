@@ -1,7 +1,7 @@
 ---
 id: RFC4541
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Considerations for Internet Group Management Protocol (IGMP) and Multicast
     Listener Discovery (MLD) Snooping Switches

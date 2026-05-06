@@ -1,7 +1,7 @@
 ---
 id: RFC4095
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Attaching Meaning to Solicitation Class Keywords
   type: main

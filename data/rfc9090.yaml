@@ -1,7 +1,7 @@
 ---
 id: RFC9090
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Concise Binary Object Representation (CBOR) Tags for Object Identifiers
   type: main

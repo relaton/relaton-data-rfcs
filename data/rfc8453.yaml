@@ -1,7 +1,7 @@
 ---
 id: RFC8453
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Framework for Abstraction and Control of TE Networks (ACTN)
   type: main

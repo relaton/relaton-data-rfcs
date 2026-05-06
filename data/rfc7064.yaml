@@ -1,7 +1,7 @@
 ---
 id: RFC7064
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: URI Scheme for the Session Traversal Utilities for NAT (STUN) Protocol
   type: main

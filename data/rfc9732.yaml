@@ -1,7 +1,7 @@
 ---
 id: RFC9732
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: A Framework for NRP-Based Enhanced Virtual Private Networks
   type: main

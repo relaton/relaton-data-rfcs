@@ -1,7 +1,7 @@
 ---
 id: RFC9922
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: A Common YANG Data Model for Scheduling
   type: main

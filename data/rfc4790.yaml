@@ -1,7 +1,7 @@
 ---
 id: RFC4790
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Internet Application Protocol Collation Registry
   type: main

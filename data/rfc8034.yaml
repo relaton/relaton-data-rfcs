@@ -1,7 +1,7 @@
 ---
 id: RFC8034
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Active Queue Management (AQM) Based on Proportional Integral Controller
     Enhanced (PIE) for Data-Over-Cable Service Interface Specifications (DOCSIS) Cable

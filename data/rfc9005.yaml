@@ -1,7 +1,7 @@
 ---
 id: RFC9005
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Path Computation Element Communication Protocol (PCEP) Extension for Associating
     Policies and Label Switched Paths (LSPs)

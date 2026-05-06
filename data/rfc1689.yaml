@@ -1,7 +1,7 @@
 ---
 id: RFC1689
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'A Status Report on Networked Information Retrieval: Tools and Groups'
   type: main

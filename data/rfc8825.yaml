@@ -1,7 +1,7 @@
 ---
 id: RFC8825
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'Overview: Real-Time Protocols for Browser-Based Applications'
   type: main

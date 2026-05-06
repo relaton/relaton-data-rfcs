@@ -1,7 +1,7 @@
 ---
 id: RFC6136
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Layer 2 Virtual Private Network (L2VPN) Operations, Administration, and
     Maintenance (OAM) Requirements and Framework

@@ -1,7 +1,7 @@
 ---
 id: RFC4766
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Intrusion Detection Message Exchange Requirements
   type: main

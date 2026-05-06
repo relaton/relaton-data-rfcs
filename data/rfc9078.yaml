@@ -1,7 +1,7 @@
 ---
 id: RFC9078
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'Reaction: Indicating Summary Reaction to a Message'
   type: main

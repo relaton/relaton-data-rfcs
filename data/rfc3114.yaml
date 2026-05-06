@@ -1,7 +1,7 @@
 ---
 id: RFC3114
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Implementing Company Classification Policy with the S/MIME Security Label
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC7166
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Supporting Authentication Trailer for OSPFv3
   type: main

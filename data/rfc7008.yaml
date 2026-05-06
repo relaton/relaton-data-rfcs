@@ -1,7 +1,7 @@
 ---
 id: RFC7008
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: A Description of the KCipher-2 Encryption Algorithm
   type: main

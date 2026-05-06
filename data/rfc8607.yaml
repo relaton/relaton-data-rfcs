@@ -1,7 +1,7 @@
 ---
 id: RFC8607
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'Calendaring Extensions to WebDAV (CalDAV): Managed Attachments'
   type: main

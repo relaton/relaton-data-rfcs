@@ -1,7 +1,7 @@
 ---
 id: RFC9534
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Simple Two-Way Active Measurement Protocol Extensions for Performance Measurement
     on a Link Aggregation Group

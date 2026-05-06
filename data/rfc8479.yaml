@@ -1,7 +1,7 @@
 ---
 id: RFC8479
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Storing Validation Parameters in PKCS#8
   type: main

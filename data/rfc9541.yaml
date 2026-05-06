@@ -1,7 +1,7 @@
 ---
 id: RFC9541
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Flush Mechanism for Customer MAC Addresses Based on Service Instance Identifier
     (I-SID) in Provider Backbone Bridging EVPN (PBB-EVPN)

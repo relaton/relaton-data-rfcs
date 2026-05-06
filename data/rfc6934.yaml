@@ -1,7 +1,7 @@
 ---
 id: RFC6934
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Applicability of the Access Node Control Mechanism to Broadband Networks
     Based on Passive Optical Networks (PONs)

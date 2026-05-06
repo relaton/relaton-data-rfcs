@@ -1,7 +1,7 @@
 ---
 id: RFC2353
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: APPN/HPR in IP Networks APPN Implementers' Workshop Closed Pages Document
   type: main

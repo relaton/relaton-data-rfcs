@@ -1,7 +1,7 @@
 ---
 id: RFC9604
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Carrying Binding Label/SID in PCE-Based Networks
   type: main

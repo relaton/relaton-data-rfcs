@@ -1,7 +1,7 @@
 ---
 id: RFC8461
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: SMTP MTA Strict Transport Security (MTA-STS)
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC684
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Commentary on procedure calling as a network protocol
   type: main

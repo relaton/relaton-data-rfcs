@@ -1,7 +1,7 @@
 ---
 id: RFC4749
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: RTP Payload Format for the G.729.1 Audio Codec
   type: main

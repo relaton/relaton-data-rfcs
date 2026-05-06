@@ -1,7 +1,7 @@
 ---
 id: RFC1915
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Variance for The PPP Compression Control Protocol and The PPP Encryption
     Control Protocol

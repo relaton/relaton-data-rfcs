@@ -1,7 +1,7 @@
 ---
 id: RFC1998
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: An Application of the BGP Community Attribute in Multi-home Routing
   type: main

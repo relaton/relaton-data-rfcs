@@ -1,7 +1,7 @@
 ---
 id: RFC4948
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Report from the IAB workshop on Unwanted Traffic March 9-10, 2006
   type: main

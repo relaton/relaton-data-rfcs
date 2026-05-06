@@ -1,7 +1,7 @@
 ---
 id: RFC8549
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Export of BGP Community Information in IP Flow Information Export (IPFIX)
   type: main

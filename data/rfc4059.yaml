@@ -1,7 +1,7 @@
 ---
 id: RFC4059
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Internet X.509 Public Key Infrastructure Warranty Certificate Extension
   type: main

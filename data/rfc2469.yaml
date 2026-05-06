@@ -1,7 +1,7 @@
 ---
 id: RFC2469
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: A Caution On The Canonical Ordering Of Link-Layer Addresses
   type: main

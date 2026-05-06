@@ -1,7 +1,7 @@
 ---
 id: RFC3461
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Simple Mail Transfer Protocol (SMTP) Service Extension for Delivery Status
     Notifications (DSNs)

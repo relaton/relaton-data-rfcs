@@ -1,7 +1,7 @@
 ---
 id: RFC2791
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Scalable Routing Design Principles
   type: main

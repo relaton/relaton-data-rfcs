@@ -1,7 +1,7 @@
 ---
 id: RFC5107
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: DHCP Server Identifier Override Suboption
   type: main

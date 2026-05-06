@@ -1,7 +1,7 @@
 ---
 id: RFC3302
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Tag Image File Format (TIFF) - image/tiff MIME Sub-type Registration
   type: main

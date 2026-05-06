@@ -1,7 +1,7 @@
 ---
 id: RFC3797
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Publicly Verifiable Nominations Committee (NomCom) Random Selection
   type: main

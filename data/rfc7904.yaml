@@ -1,7 +1,7 @@
 ---
 id: RFC7904
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: A SIP Usage for REsource LOcation And Discovery (RELOAD)
   type: main

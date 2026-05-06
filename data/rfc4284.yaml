@@ -1,7 +1,7 @@
 ---
 id: RFC4284
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Identity Selection Hints for the Extensible Authentication Protocol (EAP)
   type: main

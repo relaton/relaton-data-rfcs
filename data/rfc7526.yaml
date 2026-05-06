@@ -1,7 +1,7 @@
 ---
 id: RFC7526
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Deprecating the Anycast Prefix for 6to4 Relay Routers
   type: main

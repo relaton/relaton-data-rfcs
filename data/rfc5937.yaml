@@ -1,7 +1,7 @@
 ---
 id: RFC5937
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Using Trust Anchor Constraints during Certification Path Processing
   type: main

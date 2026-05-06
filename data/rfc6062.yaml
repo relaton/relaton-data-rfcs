@@ -1,7 +1,7 @@
 ---
 id: RFC6062
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Traversal Using Relays around NAT (TURN) Extensions for TCP Allocations
   type: main

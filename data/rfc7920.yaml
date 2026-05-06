@@ -1,7 +1,7 @@
 ---
 id: RFC7920
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Problem Statement for the Interface to the Routing System
   type: main

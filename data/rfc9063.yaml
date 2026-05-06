@@ -1,7 +1,7 @@
 ---
 id: RFC9063
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Host Identity Protocol Architecture
   type: main

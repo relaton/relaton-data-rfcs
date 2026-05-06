@@ -1,7 +1,7 @@
 ---
 id: RFC6368
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Internal BGP as the Provider/Customer Edge Protocol for BGP/MPLS IP Virtual
     Private Networks (VPNs)

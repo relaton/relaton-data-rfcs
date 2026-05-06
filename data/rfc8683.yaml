@@ -1,7 +1,7 @@
 ---
 id: RFC8683
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Additional Deployment Guidelines for NAT64/464XLAT in Operator and Enterprise
     Networks

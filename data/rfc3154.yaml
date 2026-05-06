@@ -1,7 +1,7 @@
 ---
 id: RFC3154
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Requirements and Functional Architecture for an IP Host Alerting Protocol
   type: main

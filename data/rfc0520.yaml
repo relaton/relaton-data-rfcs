@@ -1,7 +1,7 @@
 ---
 id: RFC520
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'Memo to FTP group: Proposal for File Access Protocol'
   type: main

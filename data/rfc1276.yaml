@@ -1,7 +1,7 @@
 ---
 id: RFC1276
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Replication and Distributed Operations extensions to provide an Internet
     Directory using X.500

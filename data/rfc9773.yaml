@@ -1,7 +1,7 @@
 ---
 id: RFC9773
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: ACME Renewal Information (ARI) Extension
   type: main

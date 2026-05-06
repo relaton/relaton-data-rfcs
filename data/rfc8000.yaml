@@ -1,7 +1,7 @@
 ---
 id: RFC8000
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Requirements for NFSv4 Multi-Domain Namespace Deployment
   type: main

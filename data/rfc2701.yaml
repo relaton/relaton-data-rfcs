@@ -1,7 +1,7 @@
 ---
 id: RFC2701
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Nortel Networks Multi-link Multi-node PPP Bundle Discovery Protocol
   type: main

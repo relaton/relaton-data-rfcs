@@ -1,7 +1,7 @@
 ---
 id: RFC3925
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Vendor-Identifying Vendor Options for Dynamic Host Configuration Protocol
     version 4 (DHCPv4)

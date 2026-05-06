@@ -1,7 +1,7 @@
 ---
 id: RFC1953
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Ipsilon Flow Management Protocol Specification for IPv4 Version 1.0
   type: main

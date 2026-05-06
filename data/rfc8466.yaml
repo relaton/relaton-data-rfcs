@@ -1,7 +1,7 @@
 ---
 id: RFC8466
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: A YANG Data Model for Layer 2 Virtual Private Network (L2VPN) Service Delivery
   type: main

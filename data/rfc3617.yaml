@@ -1,7 +1,7 @@
 ---
 id: RFC3617
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Uniform Resource Identifier (URI) Scheme and Applicability Statement for
     the Trivial File Transfer Protocol (TFTP)

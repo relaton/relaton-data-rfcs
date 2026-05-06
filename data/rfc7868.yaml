@@ -1,7 +1,7 @@
 ---
 id: RFC7868
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Cisco's Enhanced Interior Gateway Routing Protocol (EIGRP)
   type: main

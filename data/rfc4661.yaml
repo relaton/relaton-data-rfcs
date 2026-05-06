@@ -1,7 +1,7 @@
 ---
 id: RFC4661
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: An Extensible Markup Language (XML)-Based Format for Event Notification
     Filtering

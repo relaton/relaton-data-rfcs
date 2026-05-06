@@ -1,7 +1,7 @@
 ---
 id: RFC5346
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Operational Requirements for ENUM-Based Softswitch Use
   type: main

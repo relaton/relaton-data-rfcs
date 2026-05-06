@@ -1,7 +1,7 @@
 ---
 id: RFC3027
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Protocol Complications with the IP Network Address Translator
   type: main

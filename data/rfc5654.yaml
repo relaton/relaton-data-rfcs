@@ -1,7 +1,7 @@
 ---
 id: RFC5654
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Requirements of an MPLS Transport Profile
   type: main

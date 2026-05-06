@@ -1,7 +1,7 @@
 ---
 id: RFC7806
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: On Queuing, Marking, and Dropping
   type: main

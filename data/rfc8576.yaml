@@ -1,7 +1,7 @@
 ---
 id: RFC8576
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'Internet of Things (IoT) Security: State of the Art and Challenges'
   type: main

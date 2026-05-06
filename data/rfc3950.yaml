@@ -1,7 +1,7 @@
 ---
 id: RFC3950
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Tag Image File Format Fax eXtended (TIFF-FX) - image/tiff-fx MIME Sub-type
     Registration

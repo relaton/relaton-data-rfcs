@@ -1,7 +1,7 @@
 ---
 id: RFC3713
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: A Description of the Camellia Encryption Algorithm
   type: main

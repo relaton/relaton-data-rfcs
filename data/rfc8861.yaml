@@ -1,7 +1,7 @@
 ---
 id: RFC8861
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'Sending Multiple RTP Streams in a Single RTP Session: Grouping RTP Control
     Protocol (RTCP) Reception Statistics and Other Feedback'

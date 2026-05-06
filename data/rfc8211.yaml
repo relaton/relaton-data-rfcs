@@ -1,7 +1,7 @@
 ---
 id: RFC8211
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Adverse Actions by a Certification Authority (CA) or Repository Manager
     in the Resource Public Key Infrastructure (RPKI)

@@ -1,7 +1,7 @@
 ---
 id: RFC6108
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Comcast's Web Notification System Design
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC2623
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: NFS Version 2 and Version 3 Security Issues and the NFS Protocol's Use
     of RPCSEC_GSS and Kerberos V5

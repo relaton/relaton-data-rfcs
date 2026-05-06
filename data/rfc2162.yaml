@@ -1,7 +1,7 @@
 ---
 id: RFC2162
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: MaXIM-11 - Mapping between X.400 / Internet mail and  Mail-11 mail
   type: main

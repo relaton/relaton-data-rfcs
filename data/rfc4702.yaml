@@ -1,7 +1,7 @@
 ---
 id: RFC4702
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: The Dynamic Host Configuration Protocol (DHCP) Client Fully Qualified Domain
     Name (FQDN) Option

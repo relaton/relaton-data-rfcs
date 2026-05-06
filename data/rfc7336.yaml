@@ -1,7 +1,7 @@
 ---
 id: RFC7336
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Framework for Content Distribution Network Interconnection (CDNI)
   type: main

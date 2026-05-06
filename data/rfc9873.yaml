@@ -1,7 +1,7 @@
 ---
 id: RFC9873
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Additional Email Address Extension for the Extensible Provisioning Protocol
     (EPP)

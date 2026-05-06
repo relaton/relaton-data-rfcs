@@ -1,7 +1,7 @@
 ---
 id: RFC4228
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Requirements for an IETF Draft Submission Toolset
   type: main

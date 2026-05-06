@@ -1,7 +1,7 @@
 ---
 id: RFC2802
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Digital Signatures for the v1.0 Internet Open Trading Protocol (IOTP)
   type: main

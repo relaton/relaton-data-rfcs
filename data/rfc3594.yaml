@@ -1,7 +1,7 @@
 ---
 id: RFC3594
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: PacketCable Security Ticket Control Sub-Option for the DHCP CableLabs Client
     Configuration (CCC) Option

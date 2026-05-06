@@ -1,7 +1,7 @@
 ---
 id: RFC1698
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Octet Sequences for Upper-Layer OSI to Support Basic Communications Applications
   type: main

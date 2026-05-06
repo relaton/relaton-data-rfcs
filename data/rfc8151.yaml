@@ -1,7 +1,7 @@
 ---
 id: RFC8151
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Use Cases for Data Center Network Virtualization Overlay Networks
   type: main

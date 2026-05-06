@@ -1,7 +1,7 @@
 ---
 id: RFC1306
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Experiences Supporting By-Request Circuit-Switched T3 Networks
   type: main

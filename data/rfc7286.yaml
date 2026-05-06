@@ -1,7 +1,7 @@
 ---
 id: RFC7286
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Application-Layer Traffic Optimization (ALTO) Server Discovery
   type: main

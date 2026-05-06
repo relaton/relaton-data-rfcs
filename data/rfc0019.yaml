@@ -1,7 +1,7 @@
 ---
 id: RFC19
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Two protocol suggestions to reduce congestion at swap bound nodes
   type: main

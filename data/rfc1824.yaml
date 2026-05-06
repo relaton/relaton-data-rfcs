@@ -1,7 +1,7 @@
 ---
 id: RFC1824
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'The Exponential Security System TESS: An Identity-Based Cryptographic
     Protocol for Authenticated Key-Exchange (E.I.S.S.-Report 1995/4)'

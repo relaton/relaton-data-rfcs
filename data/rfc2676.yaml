@@ -1,7 +1,7 @@
 ---
 id: RFC2676
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: QoS Routing Mechanisms and OSPF Extensions
   type: main

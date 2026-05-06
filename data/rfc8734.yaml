@@ -1,7 +1,7 @@
 ---
 id: RFC8734
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Elliptic Curve Cryptography (ECC) Brainpool Curves for Transport Layer
     Security (TLS) Version 1.3

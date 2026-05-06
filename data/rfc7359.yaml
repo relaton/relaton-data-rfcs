@@ -1,7 +1,7 @@
 ---
 id: RFC7359
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Layer 3 Virtual Private Network (VPN) Tunnel Traffic Leakages in Dual-Stack
     Hosts/Networks

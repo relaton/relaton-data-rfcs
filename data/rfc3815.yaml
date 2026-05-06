@@ -1,7 +1,7 @@
 ---
 id: RFC3815
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Definitions of Managed Objects for the Multiprotocol Label Switching (MPLS),
     Label Distribution Protocol (LDP)

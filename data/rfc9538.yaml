@@ -1,7 +1,7 @@
 ---
 id: RFC9538
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Content Delivery Network Interconnection (CDNI) Delegation Using the Automated
     Certificate Management Environment

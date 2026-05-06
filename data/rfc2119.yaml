@@ -1,7 +1,7 @@
 ---
 id: RFC2119
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Key words for use in RFCs to Indicate Requirement Levels
   type: main

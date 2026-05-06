@@ -1,7 +1,7 @@
 ---
 id: RFC3133
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Terminology for Frame Relay Benchmarking
   type: main

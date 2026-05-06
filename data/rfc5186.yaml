@@ -1,7 +1,7 @@
 ---
 id: RFC5186
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Internet Group Management Protocol Version 3 (IGMPv3) / Multicast Listener
     Discovery Version 2 (MLDv2) and Multicast Routing Protocol Interaction

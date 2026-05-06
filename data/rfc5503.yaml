@@ -1,7 +1,7 @@
 ---
 id: RFC5503
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Private Session Initiation Protocol (SIP) Proxy-to-Proxy Extensions for
     Supporting the PacketCable Distributed Call Signaling Architecture

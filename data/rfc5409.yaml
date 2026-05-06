@@ -1,7 +1,7 @@
 ---
 id: RFC5409
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Using the Boneh-Franklin and Boneh-Boyen Identity-Based Encryption Algorithms
     with the Cryptographic Message Syntax (CMS)

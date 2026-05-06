@@ -1,7 +1,7 @@
 ---
 id: RFC2776
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Multicast-Scope Zone Announcement Protocol (MZAP)
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC2320
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Definitions of Managed Objects for Classical IP and ARP Over ATM Using
     SMIv2 (IPOA-MIB)

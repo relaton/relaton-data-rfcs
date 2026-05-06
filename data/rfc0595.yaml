@@ -1,7 +1,7 @@
 ---
 id: RFC595
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Second thoughts in defense of the Telnet Go-Ahead
   type: main

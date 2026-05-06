@@ -1,7 +1,7 @@
 ---
 id: RFC1675
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Security Concerns for IPng
   type: main

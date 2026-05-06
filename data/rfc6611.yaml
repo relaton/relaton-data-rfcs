@@ -1,7 +1,7 @@
 ---
 id: RFC6611
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Mobile IPv6 (MIPv6) Bootstrapping for the Integrated Scenario
   type: main

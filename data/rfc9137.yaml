@@ -1,7 +1,7 @@
 ---
 id: RFC9137
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Considerations for Cancellation of IETF Meetings
   type: main

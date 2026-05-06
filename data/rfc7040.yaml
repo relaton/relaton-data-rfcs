@@ -1,7 +1,7 @@
 ---
 id: RFC7040
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Public IPv4-over-IPv6 Access Network
   type: main

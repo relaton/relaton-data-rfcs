@@ -1,7 +1,7 @@
 ---
 id: RFC4973
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'OSPF-xTE: Experimental Extension to OSPF for Traffic Engineering'
   type: main

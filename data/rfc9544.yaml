@@ -1,7 +1,7 @@
 ---
 id: RFC9544
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Precision Availability Metrics (PAMs) for Services Governed by Service
     Level Objectives (SLOs)

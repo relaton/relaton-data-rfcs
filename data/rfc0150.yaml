@@ -1,7 +1,7 @@
 ---
 id: RFC150
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'Use of IPC Facilities: A Working Paper'
   type: main

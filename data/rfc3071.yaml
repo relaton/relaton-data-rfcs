@@ -1,7 +1,7 @@
 ---
 id: RFC3071
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Reflections on the DNS, RFC 1591, and Categories of Domains
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC1608
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Representing IP Information in the X.500 Directory
   type: main

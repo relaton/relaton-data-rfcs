@@ -1,7 +1,7 @@
 ---
 id: RFC2778
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: A Model for Presence and Instant Messaging
   type: main

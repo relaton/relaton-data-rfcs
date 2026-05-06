@@ -1,7 +1,7 @@
 ---
 id: RFC634
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Change in network address for Haskins Lab
   type: main

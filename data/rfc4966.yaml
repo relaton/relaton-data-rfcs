@@ -1,7 +1,7 @@
 ---
 id: RFC4966
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Reasons to Move the Network Address Translator - Protocol Translator (NAT-PT)
     to Historic Status

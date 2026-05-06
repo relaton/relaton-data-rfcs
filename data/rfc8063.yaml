@@ -1,7 +1,7 @@
 ---
 id: RFC8063
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Key Relay Mapping for the Extensible Provisioning Protocol
   type: main

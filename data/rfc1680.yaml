@@ -1,7 +1,7 @@
 ---
 id: RFC1680
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: IPng Support for ATM Services
   type: main

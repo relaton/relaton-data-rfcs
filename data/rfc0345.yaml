@@ -1,7 +1,7 @@
 ---
 id: RFC345
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Interest in Mixed Integer Programming (MPSX on NIC 360/91 at CCN)
   type: main

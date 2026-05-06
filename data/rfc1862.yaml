@@ -1,7 +1,7 @@
 ---
 id: RFC1862
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Report of the IAB Workshop on Internet Information Infrastructure, October
     12-14, 1994

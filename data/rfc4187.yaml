@@ -1,7 +1,7 @@
 ---
 id: RFC4187
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Extensible Authentication Protocol Method for 3rd Generation Authentication
     and Key Agreement (EAP-AKA)

@@ -1,7 +1,7 @@
 ---
 id: RFC2081
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: RIPng Protocol Applicability Statement
   type: main

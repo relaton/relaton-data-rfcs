@@ -1,7 +1,7 @@
 ---
 id: RFC6367
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Addition of the Camellia Cipher Suites to Transport Layer Security (TLS)
   type: main

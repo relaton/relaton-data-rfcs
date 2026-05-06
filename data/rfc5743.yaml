@@ -1,7 +1,7 @@
 ---
 id: RFC5743
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Definition of an Internet Research Task Force (IRTF) Document Stream
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC7877
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Session Peering Provisioning Framework (SPPF)
   type: main

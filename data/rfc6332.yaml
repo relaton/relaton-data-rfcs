@@ -1,7 +1,7 @@
 ---
 id: RFC6332
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Multicast Acquisition Report Block Type for RTP Control Protocol (RTCP)
     Extended Reports (XRs)

@@ -1,7 +1,7 @@
 ---
 id: RFC9526
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Simple Provisioning of Public Names for Residential Networks
   type: main

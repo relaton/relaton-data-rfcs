@@ -1,7 +1,7 @@
 ---
 id: RFC9699
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Use Case for an Extended Reality Application on Edge Computing Infrastructure
   type: main

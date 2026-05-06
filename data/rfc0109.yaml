@@ -1,7 +1,7 @@
 ---
 id: RFC109
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Level III Server Protocol for the Lincoln Laboratory 360/67 Host
   type: main

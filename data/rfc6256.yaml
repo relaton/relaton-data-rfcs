@@ -1,7 +1,7 @@
 ---
 id: RFC6256
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Using Self-Delimiting Numeric Values in Protocols
   type: main

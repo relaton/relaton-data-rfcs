@@ -1,7 +1,7 @@
 ---
 id: RFC6897
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Multipath TCP (MPTCP) Application Interface Considerations
   type: main

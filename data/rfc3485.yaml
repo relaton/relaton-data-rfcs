@@ -1,7 +1,7 @@
 ---
 id: RFC3485
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: The Session Initiation Protocol (SIP) and Session Description Protocol
     (SDP) Static Dictionary for Signaling Compression (SigComp)

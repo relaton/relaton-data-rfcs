@@ -1,7 +1,7 @@
 ---
 id: RFC4270
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Attacks on Cryptographic Hashes in Internet Protocols
   type: main

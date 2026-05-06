@@ -1,7 +1,7 @@
 ---
 id: RFC7087
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: A Thesaurus for the Interpretation of Terminology Used in MPLS Transport
     Profile (MPLS-TP) Internet-Drafts and RFCs in the Context of the ITU-T's Transport

@@ -1,7 +1,7 @@
 ---
 id: RFC1482
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Aggregation Support in the NSFNET Policy-Based Routing Database
   type: main

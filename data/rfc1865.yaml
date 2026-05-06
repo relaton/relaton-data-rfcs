@@ -1,7 +1,7 @@
 ---
 id: RFC1865
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: EDI Meets the Internet Frequently Asked Questions about Electronic Data
     Interchange (EDI) on the Internet

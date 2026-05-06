@@ -1,7 +1,7 @@
 ---
 id: RFC413
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Traffic statistics (October 1972)
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC4945
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: The Internet IP Security PKI Profile of IKEv1/ISAKMP, IKEv2, and PKIX
   type: main

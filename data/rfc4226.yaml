@@ -1,7 +1,7 @@
 ---
 id: RFC4226
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'HOTP: An HMAC-Based One-Time Password Algorithm'
   type: main

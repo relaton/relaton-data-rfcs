@@ -1,7 +1,7 @@
 ---
 id: RFC3918
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Methodology for IP Multicast Benchmarking
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC5553
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Resource Reservation Protocol (RSVP) Extensions for Path Key Support
   type: main

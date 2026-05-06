@@ -1,7 +1,7 @@
 ---
 id: RFC8033
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'Proportional Integral Controller Enhanced (PIE): A Lightweight Control
     Scheme to Address the Bufferbloat Problem'

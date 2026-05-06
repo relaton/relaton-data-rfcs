@@ -1,7 +1,7 @@
 ---
 id: RFC5359
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Session Initiation Protocol Service Examples
   type: main

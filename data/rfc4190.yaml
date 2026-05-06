@@ -1,7 +1,7 @@
 ---
 id: RFC4190
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Framework for Supporting Emergency Telecommunications Service (ETS) in
     IP Telephony

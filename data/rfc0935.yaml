@@ -1,7 +1,7 @@
 ---
 id: RFC935
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Reliable link layer protocols
   type: main

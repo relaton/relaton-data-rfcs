@@ -1,7 +1,7 @@
 ---
 id: RFC2163
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Using the Internet DNS to Distribute MIXER Conformant Global Address Mapping
     (MCGAM)

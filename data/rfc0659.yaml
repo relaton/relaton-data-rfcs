@@ -1,7 +1,7 @@
 ---
 id: RFC659
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Announcing additional Telnet options
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC4857
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Mobile IPv4 Regional Registration
   type: main

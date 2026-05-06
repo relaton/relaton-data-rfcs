@@ -1,7 +1,7 @@
 ---
 id: RFC4895
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Authenticated Chunks for the Stream Control Transmission Protocol (SCTP)
   type: main

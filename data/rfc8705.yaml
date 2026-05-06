@@ -1,7 +1,7 @@
 ---
 id: RFC8705
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: OAuth 2.0 Mutual-TLS Client Authentication and Certificate-Bound Access
     Tokens

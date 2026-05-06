@@ -1,7 +1,7 @@
 ---
 id: RFC1586
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Guidelines for Running OSPF Over Frame Relay Networks
   type: main

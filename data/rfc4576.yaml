@@ -1,7 +1,7 @@
 ---
 id: RFC4576
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Using a Link State Advertisement (LSA) Options Bit to Prevent Looping in
     BGP/MPLS IP Virtual Private Networks (VPNs)

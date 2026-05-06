@@ -1,7 +1,7 @@
 ---
 id: RFC7216
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Location Information Server (LIS) Discovery Using IP Addresses and Reverse
     DNS

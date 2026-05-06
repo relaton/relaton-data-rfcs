@@ -1,7 +1,7 @@
 ---
 id: RFC3110
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: RSA/SHA-1 SIGs and RSA KEYs in the Domain Name System (DNS)
   type: main

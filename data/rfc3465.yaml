@@ -1,7 +1,7 @@
 ---
 id: RFC3465
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: TCP Congestion Control with Appropriate Byte Counting (ABC)
   type: main

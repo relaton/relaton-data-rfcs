@@ -1,7 +1,7 @@
 ---
 id: RFC4546
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Radio Frequency (RF) Interface Management Information Base for Data over
     Cable Service Interface Specifications (DOCSIS) 2.0 Compliant RF Interfaces

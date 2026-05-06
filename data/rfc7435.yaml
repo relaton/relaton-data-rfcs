@@ -1,7 +1,7 @@
 ---
 id: RFC7435
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'Opportunistic Security: Some Protection Most of the Time'
   type: main

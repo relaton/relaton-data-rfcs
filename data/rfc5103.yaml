@@ -1,7 +1,7 @@
 ---
 id: RFC5103
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Bidirectional Flow Export Using IP Flow Information Export (IPFIX)
   type: main

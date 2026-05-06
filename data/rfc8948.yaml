@@ -1,7 +1,7 @@
 ---
 id: RFC8948
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Structured Local Address Plan (SLAP) Quadrant Selection Option for DHCPv6
   type: main

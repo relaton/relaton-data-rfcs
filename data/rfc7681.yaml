@@ -1,7 +1,7 @@
 ---
 id: RFC7681
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Email Exchange of Secondary School Transcripts
   type: main

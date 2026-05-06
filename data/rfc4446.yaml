@@ -1,7 +1,7 @@
 ---
 id: RFC4446
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: IANA Allocations for Pseudowire Edge to Edge Emulation (PWE3)
   type: main

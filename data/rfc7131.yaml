@@ -1,7 +1,7 @@
 ---
 id: RFC7131
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Session Initiation Protocol (SIP) History-Info Header Call Flow Examples
   type: main

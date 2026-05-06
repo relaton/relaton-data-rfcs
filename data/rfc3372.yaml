@@ -1,7 +1,7 @@
 ---
 id: RFC3372
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'Session Initiation Protocol for Telephones (SIP-T): Context and Architectures'
   type: main

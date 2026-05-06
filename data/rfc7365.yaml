@@ -1,7 +1,7 @@
 ---
 id: RFC7365
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Framework for Data Center (DC) Network Virtualization
   type: main

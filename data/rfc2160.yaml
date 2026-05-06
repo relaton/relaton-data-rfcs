@@ -1,7 +1,7 @@
 ---
 id: RFC2160
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Carrying PostScript in X.400 and MIME
   type: main

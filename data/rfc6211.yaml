@@ -1,7 +1,7 @@
 ---
 id: RFC6211
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Cryptographic Message Syntax (CMS) Algorithm Identifier Protection Attribute
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC1819
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Internet Stream Protocol Version 2 (ST2) Protocol Specification - Version
     ST2+

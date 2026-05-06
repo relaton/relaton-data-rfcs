@@ -1,7 +1,7 @@
 ---
 id: RFC6473
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: vCard KIND:application
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC5232
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'Sieve Email Filtering: Imap4flags Extension'
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC3286
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: An Introduction to the Stream Control Transmission Protocol (SCTP)
   type: main

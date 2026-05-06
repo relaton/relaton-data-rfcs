@@ -1,7 +1,7 @@
 ---
 id: RFC5829
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Link Relation Types for Simple Version Navigation between Web Resources
   type: main

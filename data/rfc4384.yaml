@@ -1,7 +1,7 @@
 ---
 id: RFC4384
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: BGP Communities for Data Collection
   type: main

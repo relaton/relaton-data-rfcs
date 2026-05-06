@@ -1,7 +1,7 @@
 ---
 id: RFC6281
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Understanding Apple's Back to My Mac (BTMM) Service
   type: main

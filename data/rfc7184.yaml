@@ -1,7 +1,7 @@
 ---
 id: RFC7184
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Definition of Managed Objects for the Optimized Link State Routing Protocol
     Version 2

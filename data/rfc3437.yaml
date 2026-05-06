@@ -1,7 +1,7 @@
 ---
 id: RFC3437
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Layer-Two Tunneling Protocol Extensions for PPP Link Control Protocol Negotiation
   type: main

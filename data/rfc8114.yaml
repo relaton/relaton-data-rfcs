@@ -1,7 +1,7 @@
 ---
 id: RFC8114
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Delivery of IPv4 Multicast Services to IPv4 Clients over an IPv6 Multicast
     Network

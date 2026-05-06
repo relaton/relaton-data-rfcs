@@ -1,7 +1,7 @@
 ---
 id: RFC5909
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'Securing Neighbor Discovery Proxy: Problem Statement'
   type: main

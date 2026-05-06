@@ -1,7 +1,7 @@
 ---
 id: RFC190
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: DEC PDP-10-IMLAC communications system
   type: main

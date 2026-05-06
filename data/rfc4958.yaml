@@ -1,7 +1,7 @@
 ---
 id: RFC4958
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: A Framework for Supporting Emergency Telecommunications Services (ETS)
     within a Single Administrative Domain

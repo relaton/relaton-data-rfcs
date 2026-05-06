@@ -1,7 +1,7 @@
 ---
 id: RFC7546
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Structure of the Generic Security Service (GSS) Negotiation Loop
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC1939
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Post Office Protocol - Version 3
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC2132
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: DHCP Options and BOOTP Vendor Extensions
   type: main

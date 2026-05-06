@@ -1,7 +1,7 @@
 ---
 id: RFC4313
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Requirements for Distributed Control of Automatic Speech Recognition (ASR),
     Speaker Identification/Speaker Verification (SI/SV), and Text-to-Speech (TTS)

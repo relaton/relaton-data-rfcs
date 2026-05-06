@@ -1,7 +1,7 @@
 ---
 id: RFC403
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Desirability of a Network 1108 Service
   type: main

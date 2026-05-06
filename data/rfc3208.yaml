@@ -1,7 +1,7 @@
 ---
 id: RFC3208
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: PGM Reliable Transport Protocol Specification
   type: main

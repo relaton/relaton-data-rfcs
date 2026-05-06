@@ -1,7 +1,7 @@
 ---
 id: RFC7773
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Authentication Context Certificate Extension
   type: main

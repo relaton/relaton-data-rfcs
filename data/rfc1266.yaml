@@ -1,7 +1,7 @@
 ---
 id: RFC1266
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Experience with the BGP Protocol
   type: main

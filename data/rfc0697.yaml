@@ -1,7 +1,7 @@
 ---
 id: RFC697
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: CWD command of FTP
   type: main

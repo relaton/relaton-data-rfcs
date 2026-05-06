@@ -1,7 +1,7 @@
 ---
 id: RFC6124
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: An EAP Authentication Method Based on the Encrypted Key Exchange (EKE)
     Protocol

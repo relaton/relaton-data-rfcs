@@ -1,7 +1,7 @@
 ---
 id: RFC4355
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: IANA Registration for Enumservices email, fax, mms, ems, and sms
   type: main

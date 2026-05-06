@@ -1,7 +1,7 @@
 ---
 id: RFC5956
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Forward Error Correction Grouping Semantics in the Session Description
     Protocol

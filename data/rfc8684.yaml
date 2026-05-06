@@ -1,7 +1,7 @@
 ---
 id: RFC8684
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: TCP Extensions for Multipath Operation with Multiple Addresses
   type: main

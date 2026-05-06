@@ -1,7 +1,7 @@
 ---
 id: RFC5286
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'Basic Specification for IP Fast Reroute: Loop-Free Alternates'
   type: main

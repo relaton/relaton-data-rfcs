@@ -1,7 +1,7 @@
 ---
 id: RFC4177
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Architectural Approaches to Multi-homing for IPv6
   type: main

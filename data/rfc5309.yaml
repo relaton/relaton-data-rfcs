@@ -1,7 +1,7 @@
 ---
 id: RFC5309
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Point-to-Point Operation over LAN in Link State Routing Protocols
   type: main

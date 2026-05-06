@@ -1,7 +1,7 @@
 ---
 id: RFC3836
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Requirements for Open Pluggable Edge Services (OPES) Callout Protocols
   type: main

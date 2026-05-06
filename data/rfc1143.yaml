@@ -1,7 +1,7 @@
 ---
 id: RFC1143
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: The Q Method of Implementing TELNET Option Negotiation
   type: main

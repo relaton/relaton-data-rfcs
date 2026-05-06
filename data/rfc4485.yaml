@@ -1,7 +1,7 @@
 ---
 id: RFC4485
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Guidelines for Authors of Extensions to the Session Initiation Protocol
     (SIP)

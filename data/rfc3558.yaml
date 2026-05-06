@@ -1,7 +1,7 @@
 ---
 id: RFC3558
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: RTP Payload Format for Enhanced Variable Rate Codecs (EVRC) and Selectable
     Mode Vocoders (SMV)

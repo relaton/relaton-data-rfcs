@@ -1,7 +1,7 @@
 ---
 id: RFC6171
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: The Lightweight Directory Access Protocol (LDAP) Don't Use Copy Control
   type: main

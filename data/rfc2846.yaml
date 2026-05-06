@@ -1,7 +1,7 @@
 ---
 id: RFC2846
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: GSTN Address Element Extensions in E-mail Services
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC914
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Thinwire protocol for connecting personal computers to the Internet
   type: main

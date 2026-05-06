@@ -1,7 +1,7 @@
 ---
 id: RFC7732
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Forwarder Policy for Multicast with Admin-Local Scope in the Multicast
     Protocol for Low-Power and Lossy Networks (MPL)

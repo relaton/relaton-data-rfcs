@@ -1,7 +1,7 @@
 ---
 id: RFC7490
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Remote Loop-Free Alternate (LFA) Fast Reroute (FRR)
   type: main

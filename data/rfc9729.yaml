@@ -1,7 +1,7 @@
 ---
 id: RFC9729
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: The Concealed HTTP Authentication Scheme
   type: main

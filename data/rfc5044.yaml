@@ -1,7 +1,7 @@
 ---
 id: RFC5044
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Marker PDU Aligned Framing for TCP Specification
   type: main

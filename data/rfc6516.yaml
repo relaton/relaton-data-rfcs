@@ -1,7 +1,7 @@
 ---
 id: RFC6516
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: IPv6 Multicast VPN (MVPN) Support Using PIM Control Plane and Selective
     Provider Multicast Service Interface (S-PMSI) Join Messages

@@ -1,7 +1,7 @@
 ---
 id: RFC7547
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'Management of Networks with Constrained Devices: Problem Statement and
     Requirements'

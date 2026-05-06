@@ -1,7 +1,7 @@
 ---
 id: RFC8656
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'Traversal Using Relays around NAT (TURN): Relay Extensions to Session
     Traversal Utilities for NAT (STUN)'

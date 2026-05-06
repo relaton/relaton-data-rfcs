@@ -1,7 +1,7 @@
 ---
 id: RFC7023
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: MPLS and Ethernet Operations, Administration, and Maintenance (OAM) Interworking
   type: main

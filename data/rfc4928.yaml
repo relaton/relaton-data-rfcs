@@ -1,7 +1,7 @@
 ---
 id: RFC4928
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Avoiding Equal Cost Multipath Treatment in MPLS Networks
   type: main

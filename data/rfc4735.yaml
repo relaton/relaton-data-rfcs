@@ -1,7 +1,7 @@
 ---
 id: RFC4735
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Example Media Types for Use in Documentation
   type: main

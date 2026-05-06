@@ -1,7 +1,7 @@
 ---
 id: RFC6914
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'SIMPLE Made Simple: An Overview of the IETF Specifications for Instant
     Messaging and Presence Using the Session Initiation Protocol (SIP)'

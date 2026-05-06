@@ -1,7 +1,7 @@
 ---
 id: RFC2146
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: U.S. Government Internet Domain Names
   type: main

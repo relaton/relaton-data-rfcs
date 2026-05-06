@@ -1,7 +1,7 @@
 ---
 id: RFC9101
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'The OAuth 2.0 Authorization Framework: JWT-Secured Authorization Request
     (JAR)'

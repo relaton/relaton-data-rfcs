@@ -1,7 +1,7 @@
 ---
 id: RFC9786
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: EVPN Port-Active Redundancy Mode
   type: main

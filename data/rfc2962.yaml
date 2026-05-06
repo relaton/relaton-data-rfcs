@@ -1,7 +1,7 @@
 ---
 id: RFC2962
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: An SNMP Application Level Gateway for Payload Address Translation
   type: main

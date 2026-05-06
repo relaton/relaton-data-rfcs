@@ -1,7 +1,7 @@
 ---
 id: RFC278
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Revision of the Mail Box Protocol
   type: main

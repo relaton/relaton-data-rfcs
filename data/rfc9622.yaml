@@ -1,7 +1,7 @@
 ---
 id: RFC9622
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: An Abstract Application Programming Interface (API) for Transport Services
   type: main

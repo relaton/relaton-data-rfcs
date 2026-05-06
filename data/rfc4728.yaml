@@ -1,7 +1,7 @@
 ---
 id: RFC4728
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: The Dynamic Source Routing Protocol (DSR) for Mobile Ad Hoc Networks for
     IPv4

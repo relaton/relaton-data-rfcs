@@ -1,7 +1,7 @@
 ---
 id: RFC3498
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Definitions of Managed Objects for Synchronous Optical Network (SONET)
     Linear Automatic Protection Switching (APS) Architectures

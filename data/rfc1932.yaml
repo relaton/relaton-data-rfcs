@@ -1,7 +1,7 @@
 ---
 id: RFC1932
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'IP over ATM: A Framework Document'
   type: main

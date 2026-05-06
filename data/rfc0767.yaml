@@ -1,7 +1,7 @@
 ---
 id: RFC767
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Structured format for transmission of multi-media documents
   type: main

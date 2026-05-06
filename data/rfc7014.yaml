@@ -1,7 +1,7 @@
 ---
 id: RFC7014
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Flow Selection Techniques
   type: main

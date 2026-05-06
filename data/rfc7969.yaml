@@ -1,7 +1,7 @@
 ---
 id: RFC7969
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Customizing DHCP Configuration on the Basis of Network Topology
   type: main

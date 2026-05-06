@@ -1,7 +1,7 @@
 ---
 id: RFC4456
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'BGP Route Reflection: An Alternative to Full Mesh Internal BGP (IBGP)'
   type: main

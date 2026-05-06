@@ -1,7 +1,7 @@
 ---
 id: RFC6940
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: REsource LOcation And Discovery (RELOAD) Base Protocol
   type: main

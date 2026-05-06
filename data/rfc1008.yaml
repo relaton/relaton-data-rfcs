@@ -1,7 +1,7 @@
 ---
 id: RFC1008
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Implementation guide for the ISO Transport Protocol
   type: main

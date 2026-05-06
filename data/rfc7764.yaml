@@ -1,7 +1,7 @@
 ---
 id: RFC7764
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'Guidance on Markdown: Design Philosophies, Stability Strategies, and Select
     Registrations'

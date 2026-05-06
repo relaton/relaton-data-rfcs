@@ -1,7 +1,7 @@
 ---
 id: RFC6416
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: RTP Payload Format for MPEG-4 Audio/Visual Streams
   type: main

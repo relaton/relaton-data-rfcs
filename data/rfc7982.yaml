@@ -1,7 +1,7 @@
 ---
 id: RFC7982
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Measurement of Round-Trip Time and Fractional Loss Using Session Traversal
     Utilities for NAT (STUN)

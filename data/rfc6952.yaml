@@ -1,7 +1,7 @@
 ---
 id: RFC6952
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Analysis of BGP, LDP, PCEP, and MSDP Issues According to the Keying and
     Authentication for Routing Protocols (KARP) Design Guide

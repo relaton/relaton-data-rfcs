@@ -1,7 +1,7 @@
 ---
 id: RFC3556
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Session Description Protocol (SDP) Bandwidth Modifiers for RTP Control
     Protocol (RTCP) Bandwidth

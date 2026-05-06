@@ -1,7 +1,7 @@
 ---
 id: RFC3022
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Traditional IP Network Address Translator (Traditional NAT)
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC5527
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Combined User and Infrastructure ENUM in the e164.arpa Tree
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC7576
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: General Gap Analysis for Autonomic Networking
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC1277
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Encoding Network Addresses to Support Operation over Non-OSI Lower Layers
   type: main

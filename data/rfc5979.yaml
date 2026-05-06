@@ -1,7 +1,7 @@
 ---
 id: RFC5979
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: NSIS Operation over IP Tunnels
   type: main

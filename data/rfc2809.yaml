@@ -1,7 +1,7 @@
 ---
 id: RFC2809
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Implementation of L2TP Compulsory Tunneling via RADIUS
   type: main

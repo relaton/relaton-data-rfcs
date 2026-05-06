@@ -1,7 +1,7 @@
 ---
 id: RFC808
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Summary of computer mail services meeting held at BBN on 10 January 1979
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC313
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Computer based instruction
   type: main

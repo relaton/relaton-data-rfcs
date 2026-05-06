@@ -1,7 +1,7 @@
 ---
 id: RFC6753
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: A Location Dereference Protocol Using HTTP-Enabled Location Delivery (HELD)
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC2120
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Managing the X.500 Root Naming Context
   type: main

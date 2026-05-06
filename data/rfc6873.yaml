@@ -1,7 +1,7 @@
 ---
 id: RFC6873
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Format for the Session Initiation Protocol (SIP) Common Log Format (CLF)
   type: main

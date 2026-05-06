@@ -1,7 +1,7 @@
 ---
 id: RFC6252
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: A Framework of Media-Independent Pre-Authentication (MPA) for Inter-Domain
     Handover Optimization

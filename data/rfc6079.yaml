@@ -1,7 +1,7 @@
 ---
 id: RFC6079
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'HIP BONE: Host Identity Protocol (HIP) Based Overlay Networking Environment
     (BONE)'

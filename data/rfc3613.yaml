@@ -1,7 +1,7 @@
 ---
 id: RFC3613
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Definition of a Uniform Resource Name (URN) Namespace for the Middleware
     Architecture Committee for Education (MACE)

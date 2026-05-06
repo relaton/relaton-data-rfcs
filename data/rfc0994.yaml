@@ -1,7 +1,7 @@
 ---
 id: RFC994
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Final text of DIS 8473, Protocol for Providing the Connectionless-mode
     Network Service

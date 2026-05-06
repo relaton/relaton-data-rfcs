@@ -1,7 +1,7 @@
 ---
 id: RFC6441
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Time to Remove Filters for Previously Unallocated IPv4 /8s
   type: main

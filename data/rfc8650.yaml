@@ -1,7 +1,7 @@
 ---
 id: RFC8650
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Dynamic Subscription to YANG Events and Datastores over RESTCONF
   type: main

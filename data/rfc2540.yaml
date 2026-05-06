@@ -1,7 +1,7 @@
 ---
 id: RFC2540
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Detached Domain Name System (DNS) Information
   type: main

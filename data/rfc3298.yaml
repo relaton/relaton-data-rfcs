@@ -1,7 +1,7 @@
 ---
 id: RFC3298
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Service in the Public Switched Telephone Network/Intelligent Network (PSTN/IN)
     Requesting InTernet Service (SPIRITS) Protocol Requirements

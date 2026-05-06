@@ -1,7 +1,7 @@
 ---
 id: RFC1988
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Conditional Grant of Rights to Specific Hewlett-Packard Patents In Conjunction
     With the Internet Engineering Task Force's Internet-Standard Network Management

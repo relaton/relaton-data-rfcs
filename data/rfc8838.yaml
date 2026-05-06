@@ -1,7 +1,7 @@
 ---
 id: RFC8838
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'Trickle ICE: Incremental Provisioning of Candidates for the Interactive
     Connectivity Establishment (ICE) Protocol'

@@ -1,7 +1,7 @@
 ---
 id: RFC5149
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Service Selection for Mobile IPv6
   type: main

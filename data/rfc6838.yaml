@@ -1,7 +1,7 @@
 ---
 id: RFC6838
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Media Type Specifications and Registration Procedures
   type: main

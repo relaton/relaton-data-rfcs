@@ -1,7 +1,7 @@
 ---
 id: RFC3178
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: IPv6 Multihoming Support at Site Exit Routers
   type: main

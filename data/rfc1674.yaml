@@ -1,7 +1,7 @@
 ---
 id: RFC1674
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: A Cellular Industry View of IPng
   type: main

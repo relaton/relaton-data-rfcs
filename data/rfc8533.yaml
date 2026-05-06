@@ -1,7 +1,7 @@
 ---
 id: RFC8533
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: A YANG Data Model for Retrieval Methods for the Management of Operations,
     Administration, and Maintenance (OAM) Protocols That Use Connectionless Communications

@@ -1,7 +1,7 @@
 ---
 id: RFC9565
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: An Update to the tcpControlBits IP Flow Information Export (IPFIX) Information
     Element

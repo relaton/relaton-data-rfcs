@@ -1,7 +1,7 @@
 ---
 id: RFC2657
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: LDAPv2 Client vs. the Index Mesh
   type: main

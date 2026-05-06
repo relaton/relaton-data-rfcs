@@ -1,7 +1,7 @@
 ---
 id: RFC6728
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Configuration Data Model for the IP Flow Information Export (IPFIX) and
     Packet Sampling (PSAMP) Protocols

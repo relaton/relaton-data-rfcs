@@ -1,7 +1,7 @@
 ---
 id: RFC5329
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Traffic Engineering Extensions to OSPF Version 3
   type: main

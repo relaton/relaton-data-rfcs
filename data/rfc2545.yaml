@@ -1,7 +1,7 @@
 ---
 id: RFC2545
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Use of BGP-4 Multiprotocol Extensions for IPv6 Inter-Domain Routing
   type: main

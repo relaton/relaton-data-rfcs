@@ -1,7 +1,7 @@
 ---
 id: RFC1297
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: NOC Internal Integrated Trouble Ticket System Functional Specification
     Wishlist ("NOC TT REQUIREMENTS")

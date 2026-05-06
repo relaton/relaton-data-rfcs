@@ -1,7 +1,7 @@
 ---
 id: RFC6932
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Brainpool Elliptic Curves for the Internet Key Exchange (IKE) Group Description
     Registry

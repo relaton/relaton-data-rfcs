@@ -1,7 +1,7 @@
 ---
 id: RFC995
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: End System to Intermediate System Routing Exchange Protocol for use in
     conjunction with ISO 8473

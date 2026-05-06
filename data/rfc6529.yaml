@@ -1,7 +1,7 @@
 ---
 id: RFC6529
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Host/Host Protocol for the ARPA Network
   type: main

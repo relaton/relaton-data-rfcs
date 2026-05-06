@@ -1,7 +1,7 @@
 ---
 id: RFC6388
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Label Distribution Protocol Extensions for Point-to-Multipoint and Multipoint-to-Multipoint
     Label Switched Paths

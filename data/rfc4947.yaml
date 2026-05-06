@@ -1,7 +1,7 @@
 ---
 id: RFC4947
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Address Resolution Mechanisms for IP Datagrams over MPEG-2 Networks
   type: main

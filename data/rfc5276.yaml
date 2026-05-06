@@ -1,7 +1,7 @@
 ---
 id: RFC5276
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Using the Server-Based Certificate Validation Protocol (SCVP) to Convey
     Long-Term Evidence Records

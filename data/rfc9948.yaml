@@ -1,7 +1,7 @@
 ---
 id: RFC9948
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Internet Protocol Police (IPP) - Schedule of Punishments
   type: main

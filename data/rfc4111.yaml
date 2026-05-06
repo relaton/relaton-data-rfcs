@@ -1,7 +1,7 @@
 ---
 id: RFC4111
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Security Framework for Provider-Provisioned Virtual Private Networks (PPVPNs)
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC8560
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Seamless Integration of Ethernet VPN (EVPN) with Virtual Private LAN Service
     (VPLS) and Their Provider Backbone Bridge (PBB) Equivalents

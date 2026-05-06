@@ -1,7 +1,7 @@
 ---
 id: RFC9346
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: IS-IS Extensions in Support of Inter-Autonomous System (AS) MPLS and GMPLS
     Traffic Engineering

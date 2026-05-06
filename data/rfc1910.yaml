@@ -1,7 +1,7 @@
 ---
 id: RFC1910
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: User-based Security Model for SNMPv2
   type: main

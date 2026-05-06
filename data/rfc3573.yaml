@@ -1,7 +1,7 @@
 ---
 id: RFC3573
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Signalling of Modem-On-Hold status in Layer 2 Tunneling Protocol (L2TP)
   type: main

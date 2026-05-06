@@ -1,7 +1,7 @@
 ---
 id: RFC5447
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'Diameter Mobile IPv6: Support for Network Access Server to Diameter Server
     Interaction'

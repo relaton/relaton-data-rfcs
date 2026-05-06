@@ -1,7 +1,7 @@
 ---
 id: RFC6418
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Multiple Interfaces and Provisioning Domains Problem Statement
   type: main

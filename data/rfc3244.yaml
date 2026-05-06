@@ -1,7 +1,7 @@
 ---
 id: RFC3244
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Microsoft Windows 2000 Kerberos Change Password and Set Password Protocols
   type: main

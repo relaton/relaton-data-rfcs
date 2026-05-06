@@ -1,7 +1,7 @@
 ---
 id: RFC7443
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Application-Layer Protocol Negotiation (ALPN) Labels for Session Traversal
     Utilities for NAT (STUN) Usages

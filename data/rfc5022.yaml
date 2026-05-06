@@ -1,7 +1,7 @@
 ---
 id: RFC5022
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Media Server Control Markup Language (MSCML) and Protocol
   type: main

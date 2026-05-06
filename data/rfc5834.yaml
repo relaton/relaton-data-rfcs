@@ -1,7 +1,7 @@
 ---
 id: RFC5834
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Control and Provisioning of Wireless Access Points (CAPWAP) Protocol Binding
     MIB for IEEE 802.11

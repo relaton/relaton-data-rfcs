@@ -1,7 +1,7 @@
 ---
 id: RFC4540
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: NEC's Simple Middlebox Configuration (SIMCO) Protocol Version 3.0
   type: main

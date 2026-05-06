@@ -1,7 +1,7 @@
 ---
 id: RFC6701
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Sanctions Available for Application to Violators of IETF IPR Policy
   type: main

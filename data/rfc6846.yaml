@@ -1,7 +1,7 @@
 ---
 id: RFC6846
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'RObust Header Compression (ROHC): A Profile for TCP/IP (ROHC-TCP)'
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC5563
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: WiMAX Forum / 3GPP2 Proxy Mobile IPv4
   type: main

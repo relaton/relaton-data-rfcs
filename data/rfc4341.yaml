@@ -1,7 +1,7 @@
 ---
 id: RFC4341
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'Profile for Datagram Congestion Control Protocol (DCCP) Congestion Control
     ID 2: TCP-like Congestion Control'

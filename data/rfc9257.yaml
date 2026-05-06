@@ -1,7 +1,7 @@
 ---
 id: RFC9257
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Guidance for External Pre-Shared Key (PSK) Usage in TLS
   type: main

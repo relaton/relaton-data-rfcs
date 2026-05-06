@@ -1,7 +1,7 @@
 ---
 id: RFC6554
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: An IPv6 Routing Header for Source Routes with the Routing Protocol for
     Low-Power and Lossy Networks (RPL)

@@ -1,7 +1,7 @@
 ---
 id: RFC6917
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Media Resource Brokering
   type: main

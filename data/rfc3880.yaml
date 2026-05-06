@@ -1,7 +1,7 @@
 ---
 id: RFC3880
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'Call Processing Language (CPL): A Language for User Control of Internet
     Telephony Services'

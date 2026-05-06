@@ -1,7 +1,7 @@
 ---
 id: RFC3890
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: A Transport Independent Bandwidth Modifier for the Session Description
     Protocol (SDP)

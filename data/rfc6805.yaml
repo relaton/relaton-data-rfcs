@@ -1,7 +1,7 @@
 ---
 id: RFC6805
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: The Application of the Path Computation Element Architecture to the Determination
     of a Sequence of Domains in MPLS and GMPLS

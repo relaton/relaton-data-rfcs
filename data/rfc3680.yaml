@@ -1,7 +1,7 @@
 ---
 id: RFC3680
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: A Session Initiation Protocol (SIP) Event Package for Registrations
   type: main

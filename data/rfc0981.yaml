@@ -1,7 +1,7 @@
 ---
 id: RFC981
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Experimental multiple-path routing algorithm
   type: main

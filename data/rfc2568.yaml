@@ -1,7 +1,7 @@
 ---
 id: RFC2568
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Rationale for the Structure of the Model and Protocol for the Internet
     Printing Protocol

@@ -1,7 +1,7 @@
 ---
 id: RFC9138
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Design Considerations for Name Resolution Service in Information-Centric
     Networking (ICN)

@@ -1,7 +1,7 @@
 ---
 id: RFC4605
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Internet Group Management Protocol (IGMP) / Multicast Listener Discovery
     (MLD)-Based Multicast Forwarding ("IGMP/MLD Proxying")

@@ -1,7 +1,7 @@
 ---
 id: RFC1001
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'Protocol standard for a NetBIOS service on a TCP/UDP transport: Concepts
     and methods'

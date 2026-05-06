@@ -1,7 +1,7 @@
 ---
 id: RFC5775
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Asynchronous Layered Coding (ALC) Protocol Instantiation
   type: main

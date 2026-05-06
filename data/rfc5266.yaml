@@ -1,7 +1,7 @@
 ---
 id: RFC5266
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Secure Connectivity and Mobility Using Mobile IPv4 and IKEv2 Mobility and
     Multihoming (MOBIKE)

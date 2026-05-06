@@ -1,7 +1,7 @@
 ---
 id: RFC1752
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: The Recommendation for the IP Next Generation Protocol
   type: main

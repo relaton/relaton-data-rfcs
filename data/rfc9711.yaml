@@ -1,7 +1,7 @@
 ---
 id: RFC9711
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: The Entity Attestation Token (EAT)
   type: main

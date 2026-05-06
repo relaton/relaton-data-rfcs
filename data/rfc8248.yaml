@@ -1,7 +1,7 @@
 ---
 id: RFC8248
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Security Automation and Continuous Monitoring (SACM) Requirements
   type: main

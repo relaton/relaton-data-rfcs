@@ -1,7 +1,7 @@
 ---
 id: RFC8166
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Remote Direct Memory Access Transport for Remote Procedure Call Version
     1

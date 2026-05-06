@@ -1,7 +1,7 @@
 ---
 id: RFC6863
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Analysis of OSPF Security According to the Keying and Authentication for
     Routing Protocols (KARP) Design Guide

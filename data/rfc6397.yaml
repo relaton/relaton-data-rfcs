@@ -1,7 +1,7 @@
 ---
 id: RFC6397
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Multi-Threaded Routing Toolkit (MRT) Border Gateway Protocol (BGP) Routing
     Information Export Format with Geo-Location Extensions

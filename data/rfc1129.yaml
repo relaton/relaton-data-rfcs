@@ -1,7 +1,7 @@
 ---
 id: RFC1129
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'Internet Time Synchronization: The Network Time Protocol'
   type: main

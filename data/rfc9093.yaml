@@ -1,7 +1,7 @@
 ---
 id: RFC9093
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: A YANG Data Model for Layer 0 Types
   type: main

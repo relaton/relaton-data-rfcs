@@ -1,7 +1,7 @@
 ---
 id: RFC3849
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: IPv6 Address Prefix Reserved for Documentation
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC1127
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Perspective on the Host Requirements RFCs
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC9718
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: DNSSEC Trust Anchor Publication for the Root Zone
   type: main

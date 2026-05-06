@@ -1,7 +1,7 @@
 ---
 id: RFC1075
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Distance Vector Multicast Routing Protocol
   type: main

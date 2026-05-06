@@ -1,7 +1,7 @@
 ---
 id: RFC2583
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Guidelines for Next Hop Client (NHC) Developers
   type: main

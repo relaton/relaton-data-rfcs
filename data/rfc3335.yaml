@@ -1,7 +1,7 @@
 ---
 id: RFC3335
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: MIME-based Secure Peer-to-Peer Business Data Interchange over the Internet
   type: main

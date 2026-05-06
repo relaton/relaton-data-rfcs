@@ -1,7 +1,7 @@
 ---
 id: RFC3876
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Returning Matched Values with the Lightweight Directory Access Protocol
     version 3 (LDAPv3)

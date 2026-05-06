@@ -1,7 +1,7 @@
 ---
 id: RFC2505
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Anti-Spam Recommendations for SMTP MTAs
   type: main

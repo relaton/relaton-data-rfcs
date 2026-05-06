@@ -1,7 +1,7 @@
 ---
 id: RFC7060
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Using LDP Multipoint Extensions on Targeted LDP Sessions
   type: main

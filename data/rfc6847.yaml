@@ -1,7 +1,7 @@
 ---
 id: RFC6847
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Fibre Channel over Ethernet (FCoE) over Transparent Interconnection of
     Lots of Links (TRILL)

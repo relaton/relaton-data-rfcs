@@ -1,7 +1,7 @@
 ---
 id: RFC6920
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Naming Things with Hashes
   type: main

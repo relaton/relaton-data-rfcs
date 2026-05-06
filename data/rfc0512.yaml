@@ -1,7 +1,7 @@
 ---
 id: RFC512
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: More on lost message detection
   type: main

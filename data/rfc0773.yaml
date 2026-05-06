@@ -1,7 +1,7 @@
 ---
 id: RFC773
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Comments on NCP/TCP mail service transition strategy
   type: main

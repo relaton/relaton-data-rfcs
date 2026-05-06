@@ -1,7 +1,7 @@
 ---
 id: RFC6346
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: The Address plus Port (A+P) Approach to the IPv4 Address Shortage
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC9801
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Private Line Emulation over Packet Switched Networks
   type: main

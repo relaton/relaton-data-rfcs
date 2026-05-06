@@ -1,7 +1,7 @@
 ---
 id: RFC2071
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'Network Renumbering Overview: Why would I want it and what is it anyway?'
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC4106
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: The Use of Galois/Counter Mode (GCM) in IPsec Encapsulating Security Payload
     (ESP)

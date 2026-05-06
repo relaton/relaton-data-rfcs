@@ -1,7 +1,7 @@
 ---
 id: RFC4859
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Codepoint Registry for the Flags Field in the Resource Reservation Protocol-Traffic
     Engineering (RSVP-TE) Session Attribute Object

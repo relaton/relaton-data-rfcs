@@ -1,7 +1,7 @@
 ---
 id: RFC9023
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'Deterministic Networking (DetNet) Data Plane: IP over IEEE 802.1 Time-Sensitive
     Networking (TSN)'

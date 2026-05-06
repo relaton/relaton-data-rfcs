@@ -1,7 +1,7 @@
 ---
 id: RFC7079
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: The Pseudowire (PW) and Virtual Circuit Connectivity Verification (VCCV)
     Implementation Survey Results

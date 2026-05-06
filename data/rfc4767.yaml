@@ -1,7 +1,7 @@
 ---
 id: RFC4767
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: The Intrusion Detection Exchange Protocol (IDXP)
   type: main

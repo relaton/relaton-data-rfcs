@@ -1,7 +1,7 @@
 ---
 id: RFC6591
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Authentication Failure Reporting Using the Abuse Reporting Format
   type: main

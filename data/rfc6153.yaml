@@ -1,7 +1,7 @@
 ---
 id: RFC6153
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: DHCPv4 and DHCPv6 Options for Access Network Discovery and Selection Function
     (ANDSF) Discovery

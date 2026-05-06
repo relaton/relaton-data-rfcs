@@ -1,7 +1,7 @@
 ---
 id: RFC2968
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Mesh of Multiple DAG servers - Results from TISDAG
   type: main

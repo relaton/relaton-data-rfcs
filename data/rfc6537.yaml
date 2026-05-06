@@ -1,7 +1,7 @@
 ---
 id: RFC6537
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Host Identity Protocol Distributed Hash Table Interface
   type: main

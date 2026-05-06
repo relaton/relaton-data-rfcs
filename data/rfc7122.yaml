@@ -1,7 +1,7 @@
 ---
 id: RFC7122
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Datagram Convergence Layers for the Delay- and Disruption-Tolerant Networking
     (DTN) Bundle Protocol and Licklider Transmission Protocol (LTP)

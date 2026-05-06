@@ -1,7 +1,7 @@
 ---
 id: RFC3762
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Telephone Number Mapping (ENUM) Service Registration for H.323
   type: main

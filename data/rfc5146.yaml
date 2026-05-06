@@ -1,7 +1,7 @@
 ---
 id: RFC5146
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Interworking Requirements to Support Operation of MPLS-TE over GMPLS Networks
   type: main

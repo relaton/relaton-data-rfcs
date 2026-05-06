@@ -1,7 +1,7 @@
 ---
 id: RFC7043
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Resource Records for EUI-48 and EUI-64 Addresses in the DNS
   type: main

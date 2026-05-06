@@ -1,7 +1,7 @@
 ---
 id: RFC8592
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Key Performance Indicator (KPI) Stamping for the Network Service Header
     (NSH)

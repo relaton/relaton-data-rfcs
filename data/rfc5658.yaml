@@ -1,7 +1,7 @@
 ---
 id: RFC5658
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Addressing Record-Route Issues in the Session Initiation Protocol (SIP)
   type: main

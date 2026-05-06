@@ -1,7 +1,7 @@
 ---
 id: RFC5662
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Network File System (NFS) Version 4 Minor Version 1 External Data Representation
     Standard (XDR) Description

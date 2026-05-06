@@ -1,7 +1,7 @@
 ---
 id: RFC8467
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Padding Policies for Extension Mechanisms for DNS (EDNS(0))
   type: main

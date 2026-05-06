@@ -1,7 +1,7 @@
 ---
 id: RFC8697
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Path Computation Element Communication Protocol (PCEP) Extensions for Establishing
     Relationships between Sets of Label Switched Paths (LSPs)

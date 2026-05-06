@@ -1,7 +1,7 @@
 ---
 id: RFC3346
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Applicability Statement for Traffic Engineering with MPLS
   type: main

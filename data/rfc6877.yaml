@@ -1,7 +1,7 @@
 ---
 id: RFC6877
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: '464XLAT: Combination of Stateful and Stateless Translation'
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC56
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'Third Level Protocol: Logger Protocol'
   type: main

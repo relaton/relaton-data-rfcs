@@ -1,7 +1,7 @@
 ---
 id: RFC3766
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Determining Strengths For Public Keys Used For Exchanging Symmetric Keys
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC4375
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Emergency Telecommunications Services (ETS) Requirements for a Single Administrative
     Domain

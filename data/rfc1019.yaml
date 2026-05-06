@@ -1,7 +1,7 @@
 ---
 id: RFC1019
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Report of the Workshop on Environments for Computational Mathematics
   type: main

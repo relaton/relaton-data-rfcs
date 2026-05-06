@@ -1,7 +1,7 @@
 ---
 id: RFC5603
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Ethernet Pseudowire (PW) Management Information Base (MIB)
   type: main

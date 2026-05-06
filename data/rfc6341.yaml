@@ -1,7 +1,7 @@
 ---
 id: RFC6341
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Use Cases and Requirements for SIP-Based Media Recording (SIPREC)
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC8600
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Using Extensible Messaging and Presence Protocol (XMPP) for Security Information
     Exchange

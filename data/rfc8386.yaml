@@ -1,7 +1,7 @@
 ---
 id: RFC8386
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Privacy Considerations for Protocols Relying on IP Broadcast or Multicast
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC1242
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Benchmarking Terminology for Network Interconnection Devices
   type: main

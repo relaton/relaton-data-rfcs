@@ -1,7 +1,7 @@
 ---
 id: RFC9250
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: DNS over Dedicated QUIC Connections
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC6755
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: An IETF URN Sub-Namespace for OAuth
   type: main

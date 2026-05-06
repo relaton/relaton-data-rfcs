@@ -1,7 +1,7 @@
 ---
 id: RFC8742
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Concise Binary Object Representation (CBOR) Sequences
   type: main

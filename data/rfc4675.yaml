@@ -1,7 +1,7 @@
 ---
 id: RFC4675
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: RADIUS Attributes for Virtual LAN and Priority Support
   type: main

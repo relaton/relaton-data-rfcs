@@ -1,7 +1,7 @@
 ---
 id: RFC3111
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Service Location Protocol Modifications for IPv6
   type: main

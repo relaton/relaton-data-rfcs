@@ -1,7 +1,7 @@
 ---
 id: RFC5830
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'GOST 28147-89: Encryption, Decryption, and Message Authentication Code
     (MAC) Algorithms'

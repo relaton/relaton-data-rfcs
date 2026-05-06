@@ -1,7 +1,7 @@
 ---
 id: RFC3869
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: IAB Concerns and Recommendations Regarding Internet Research and Evolution
   type: main

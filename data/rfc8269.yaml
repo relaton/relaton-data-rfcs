@@ -1,7 +1,7 @@
 ---
 id: RFC8269
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: The ARIA Algorithm and Its Use with the Secure Real-Time Transport Protocol
     (SRTP)

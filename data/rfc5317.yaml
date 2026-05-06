@@ -1,7 +1,7 @@
 ---
 id: RFC5317
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Joint Working Team (JWT) Report on MPLS Architectural Considerations for
     a Transport Profile

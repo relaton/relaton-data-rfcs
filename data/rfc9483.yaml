@@ -1,7 +1,7 @@
 ---
 id: RFC9483
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Lightweight Certificate Management Protocol (CMP) Profile
   type: main

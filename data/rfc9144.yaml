@@ -1,7 +1,7 @@
 ---
 id: RFC9144
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Comparison of Network Management Datastore Architecture (NMDA) Datastores
   type: main

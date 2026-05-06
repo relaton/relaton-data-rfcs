@@ -1,7 +1,7 @@
 ---
 id: RFC2887
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: The Reliable Multicast Design Space for Bulk Data Transfer
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC7263
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: An Extension to the REsource LOcation And Discovery (RELOAD) Protocol to
     Support Direct Response Routing

@@ -1,7 +1,7 @@
 ---
 id: RFC8416
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Simplified Local Internet Number Resource Management with the RPKI (SLURM)
   type: main

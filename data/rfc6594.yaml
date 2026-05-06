@@ -1,7 +1,7 @@
 ---
 id: RFC6594
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Use of the SHA-256 Algorithm with RSA, Digital Signature Algorithm (DSA),
     and Elliptic Curve DSA (ECDSA) in SSHFP Resource Records

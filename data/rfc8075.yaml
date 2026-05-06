@@ -1,7 +1,7 @@
 ---
 id: RFC8075
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'Guidelines for Mapping Implementations: HTTP to the Constrained Application
     Protocol (CoAP)'

@@ -1,7 +1,7 @@
 ---
 id: RFC5132
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: IP Multicast MIB
   type: main

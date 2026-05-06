@@ -1,7 +1,7 @@
 ---
 id: RFC2744
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'Generic Security Service API Version 2 : C-bindings'
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC8853
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Using Simulcast in Session Description Protocol (SDP) and RTP Sessions
   type: main

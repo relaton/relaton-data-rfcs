@@ -1,7 +1,7 @@
 ---
 id: RFC5517
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'Cisco Systems'' Private VLANs: Scalable Security in a Multi-Client Environment'
   type: main

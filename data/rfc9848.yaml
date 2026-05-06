@@ -1,7 +1,7 @@
 ---
 id: RFC9848
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Bootstrapping TLS Encrypted ClientHello with DNS Service Bindings
   type: main

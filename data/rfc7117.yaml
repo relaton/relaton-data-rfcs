@@ -1,7 +1,7 @@
 ---
 id: RFC7117
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Multicast in Virtual Private LAN Service (VPLS)
   type: main

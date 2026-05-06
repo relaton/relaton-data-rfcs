@@ -1,7 +1,7 @@
 ---
 id: RFC4481
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Timed Presence Extensions to the Presence Information Data Format (PIDF)
     to Indicate Status Information for Past and Future Time Intervals

@@ -1,7 +1,7 @@
 ---
 id: RFC6065
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Using Authentication, Authorization, and Accounting Services to Dynamically
     Provision View-Based Access Control Model User-to-Group Mappings

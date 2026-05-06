@@ -1,7 +1,7 @@
 ---
 id: RFC9740
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: New IPFIX Information Elements for TCP Options and IPv6 Extension Headers
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC2417
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Definitions of Managed Objects for Multicast over UNI 3.0/3.1 based ATM
     Networks

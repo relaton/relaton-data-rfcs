@@ -1,7 +1,7 @@
 ---
 id: RFC9733
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: BRSKI with Alternative Enrollment (BRSKI-AE)
   type: main

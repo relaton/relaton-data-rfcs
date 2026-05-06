@@ -1,7 +1,7 @@
 ---
 id: RFC7165
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Use Cases and Requirements for JSON Object Signing and Encryption (JOSE)
   type: main

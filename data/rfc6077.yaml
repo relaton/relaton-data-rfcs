@@ -1,7 +1,7 @@
 ---
 id: RFC6077
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Open Research Issues in Internet Congestion Control
   type: main

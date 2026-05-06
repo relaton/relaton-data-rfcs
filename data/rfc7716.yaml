@@ -1,7 +1,7 @@
 ---
 id: RFC7716
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Global Table Multicast with BGP Multicast VPN (BGP-MVPN) Procedures
   type: main

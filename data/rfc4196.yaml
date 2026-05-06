@@ -1,7 +1,7 @@
 ---
 id: RFC4196
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: The SEED Cipher Algorithm and Its Use with IPsec
   type: main

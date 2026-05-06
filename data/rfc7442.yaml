@@ -1,7 +1,7 @@
 ---
 id: RFC7442
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Carrying Protocol Independent Multicast - Sparse Mode (PIM-SM) in Any-Source
     Multicast (ASM) Mode Trees over Multipoint LDP (mLDP)

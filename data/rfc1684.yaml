@@ -1,7 +1,7 @@
 ---
 id: RFC1684
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Introduction to White Pages Services based on X.500
   type: main

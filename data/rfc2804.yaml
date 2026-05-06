@@ -1,7 +1,7 @@
 ---
 id: RFC2804
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: IETF Policy on Wiretapping
   type: main

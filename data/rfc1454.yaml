@@ -1,7 +1,7 @@
 ---
 id: RFC1454
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Comparison of Proposals for Next Version of IP
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC8162
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Using Secure DNS to Associate Certificates with Domain Names for S/MIME
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC6294
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Survey of Proposed Use Cases for the IPv6 Flow Label
   type: main

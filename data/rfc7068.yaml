@@ -1,7 +1,7 @@
 ---
 id: RFC7068
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Diameter Overload Control Requirements
   type: main

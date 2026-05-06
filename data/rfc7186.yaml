@@ -1,7 +1,7 @@
 ---
 id: RFC7186
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Security Threats for the Neighborhood Discovery Protocol (NHDP)
   type: main

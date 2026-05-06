@@ -1,7 +1,7 @@
 ---
 id: RFC5134
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: A Uniform Resource Name Namespace for the EPCglobal Electronic Product
     Code (EPC) and Related Standards

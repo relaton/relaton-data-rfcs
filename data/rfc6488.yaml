@@ -1,7 +1,7 @@
 ---
 id: RFC6488
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Signed Object Template for the Resource Public Key Infrastructure (RPKI)
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC7575
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'Autonomic Networking: Definitions and Design Goals'
   type: main

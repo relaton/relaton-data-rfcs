@@ -1,7 +1,7 @@
 ---
 id: RFC6620
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'FCFS SAVI: First-Come, First-Served Source Address Validation Improvement
     for Locally Assigned IPv6 Addresses'

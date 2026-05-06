@@ -1,7 +1,7 @@
 ---
 id: RFC9505
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: A Survey of Worldwide Censorship Techniques
   type: main

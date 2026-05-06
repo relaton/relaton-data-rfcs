@@ -1,7 +1,7 @@
 ---
 id: RFC7036
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Object Identifier Registry for the Long-Term Archive and Notary Services
     (LTANS) Working Group

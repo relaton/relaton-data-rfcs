@@ -1,7 +1,7 @@
 ---
 id: RFC5683
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Password-Authenticated Key (PAK) Diffie-Hellman Exchange
   type: main

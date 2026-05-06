@@ -1,7 +1,7 @@
 ---
 id: RFC6747
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Address Resolution Protocol (ARP) for the Identifier-Locator Network Protocol
     for IPv4 (ILNPv4)

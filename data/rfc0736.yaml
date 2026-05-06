@@ -1,7 +1,7 @@
 ---
 id: RFC736
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Telnet SUPDUP option
   type: main

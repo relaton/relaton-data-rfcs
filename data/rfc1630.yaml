@@ -1,7 +1,7 @@
 ---
 id: RFC1630
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'Universal Resource Identifiers in WWW: A Unifying Syntax for the Expression
     of Names and Addresses of Objects on the Network as used in the World-Wide Web'

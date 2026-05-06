@@ -1,7 +1,7 @@
 ---
 id: RFC4876
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: A Configuration Profile Schema for Lightweight Directory Access Protocol
     (LDAP)-Based Agents

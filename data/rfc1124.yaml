@@ -1,7 +1,7 @@
 ---
 id: RFC1124
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Policy issues in interconnecting networks
   type: main

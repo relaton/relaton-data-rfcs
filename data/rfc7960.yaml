@@ -1,7 +1,7 @@
 ---
 id: RFC7960
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Interoperability Issues between Domain-based Message Authentication, Reporting,
     and Conformance (DMARC) and Indirect Email Flows

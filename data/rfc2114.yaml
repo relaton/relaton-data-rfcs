@@ -1,7 +1,7 @@
 ---
 id: RFC2114
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Data Link Switching Client Access Protocol
   type: main

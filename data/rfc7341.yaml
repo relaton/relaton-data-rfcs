@@ -1,7 +1,7 @@
 ---
 id: RFC7341
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: DHCPv4-over-DHCPv6 (DHCP 4o6) Transport
   type: main

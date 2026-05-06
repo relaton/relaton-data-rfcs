@@ -1,7 +1,7 @@
 ---
 id: RFC458
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Mail retrieval via FTP
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC8266
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Preparation, Enforcement, and Comparison of Internationalized Strings Representing
     Nicknames

@@ -1,7 +1,7 @@
 ---
 id: RFC5380
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Hierarchical Mobile IPv6 (HMIPv6) Mobility Management
   type: main

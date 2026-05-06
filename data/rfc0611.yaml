@@ -1,7 +1,7 @@
 ---
 id: RFC611
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Two changes to the IMP/Host Protocol to improve user/network communications
   type: main

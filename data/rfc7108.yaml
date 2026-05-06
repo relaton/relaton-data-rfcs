@@ -1,7 +1,7 @@
 ---
 id: RFC7108
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: A Summary of Various Mechanisms Deployed at L-Root for the Identification
     of Anycast Nodes

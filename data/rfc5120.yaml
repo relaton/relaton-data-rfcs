@@ -1,7 +1,7 @@
 ---
 id: RFC5120
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'M-ISIS: Multi Topology (MT) Routing in Intermediate System to Intermediate
     Systems (IS-ISs)'

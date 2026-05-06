@@ -1,7 +1,7 @@
 ---
 id: RFC6836
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Locator/ID Separation Protocol Alternative Logical Topology (LISP+ALT)
   type: main

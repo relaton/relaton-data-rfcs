@@ -1,7 +1,7 @@
 ---
 id: RFC6910
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Completion of Calls for the Session Initiation Protocol (SIP)
   type: main

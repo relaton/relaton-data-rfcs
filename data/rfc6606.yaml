@@ -1,7 +1,7 @@
 ---
 id: RFC6606
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Problem Statement and Requirements for IPv6 over Low-Power Wireless Personal
     Area Network (6LoWPAN) Routing

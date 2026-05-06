@@ -1,7 +1,7 @@
 ---
 id: RFC5163
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Extension Formats for Unidirectional Lightweight Encapsulation (ULE) and
     the Generic Stream Encapsulation (GSE)

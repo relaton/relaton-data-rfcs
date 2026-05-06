@@ -1,7 +1,7 @@
 ---
 id: RFC7104
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Duplication Grouping Semantics in the Session Description Protocol
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC5571
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Softwire Hub and Spoke Deployment Framework with Layer Two Tunneling Protocol
     Version 2 (L2TPv2)

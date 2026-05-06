@@ -1,7 +1,7 @@
 ---
 id: RFC7914
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: The scrypt Password-Based Key Derivation Function
   type: main

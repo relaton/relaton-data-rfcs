@@ -1,7 +1,7 @@
 ---
 id: RFC8515
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: URN Namespace for ETSI Documents
   type: main

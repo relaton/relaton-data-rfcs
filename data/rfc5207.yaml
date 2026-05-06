@@ -1,7 +1,7 @@
 ---
 id: RFC5207
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: NAT and Firewall Traversal Issues of Host Identity Protocol (HIP) Communication
   type: main

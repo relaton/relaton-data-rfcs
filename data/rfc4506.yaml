@@ -1,7 +1,7 @@
 ---
 id: RFC4506
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'XDR: External Data Representation Standard'
   type: main

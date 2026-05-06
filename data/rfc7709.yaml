@@ -1,7 +1,7 @@
 ---
 id: RFC7709
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Requirements for Very Fast Setup of GMPLS Label Switched Paths (LSPs)
   type: main

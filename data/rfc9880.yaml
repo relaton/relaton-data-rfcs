@@ -1,7 +1,7 @@
 ---
 id: RFC9880
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Semantic Definition Format (SDF) for Data and Interactions of Things
   type: main

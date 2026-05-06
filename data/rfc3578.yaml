@@ -1,7 +1,7 @@
 ---
 id: RFC3578
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Mapping of Integrated Services Digital Network (ISDN) User Part (ISUP)
     Overlap Signalling to the Session Initiation Protocol (SIP)

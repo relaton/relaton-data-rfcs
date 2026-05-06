@@ -1,7 +1,7 @@
 ---
 id: RFC9323
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: A Profile for RPKI Signed Checklists (RSCs)
   type: main

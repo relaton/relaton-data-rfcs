@@ -1,7 +1,7 @@
 ---
 id: RFC7031
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: DHCPv6 Failover Requirements
   type: main

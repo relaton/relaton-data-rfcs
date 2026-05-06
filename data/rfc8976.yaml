@@ -1,7 +1,7 @@
 ---
 id: RFC8976
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Message Digest for DNS Zones
   type: main

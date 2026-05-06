@@ -1,7 +1,7 @@
 ---
 id: RFC5214
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Intra-Site Automatic Tunnel Addressing Protocol (ISATAP)
   type: main

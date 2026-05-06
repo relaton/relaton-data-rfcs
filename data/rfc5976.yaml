@@ -1,7 +1,7 @@
 ---
 id: RFC5976
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'Y.1541-QOSM: Model for Networks Using Y.1541 Quality-of-Service Classes'
   type: main

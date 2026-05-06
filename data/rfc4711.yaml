@@ -1,7 +1,7 @@
 ---
 id: RFC4711
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Real-time Application Quality-of-Service Monitoring (RAQMON) MIB
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC3326
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: The Reason Header Field for the Session Initiation Protocol (SIP)
   type: main

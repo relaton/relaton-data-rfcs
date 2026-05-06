@@ -1,7 +1,7 @@
 ---
 id: RFC5509
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Internet Assigned Numbers Authority (IANA) Registration of Instant Messaging
     and Presence DNS SRV RRs for the Session Initiation Protocol (SIP)

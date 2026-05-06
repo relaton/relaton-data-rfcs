@@ -1,7 +1,7 @@
 ---
 id: RFC8405
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Shortest Path First (SPF) Back-Off Delay Algorithm for Link-State IGPs
   type: main

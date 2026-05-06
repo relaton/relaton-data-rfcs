@@ -1,7 +1,7 @@
 ---
 id: RFC2450
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Proposed TLA and NLA Assignment Rule
   type: main

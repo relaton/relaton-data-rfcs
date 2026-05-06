@@ -1,7 +1,7 @@
 ---
 id: RFC5290
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Comments on the Usefulness of Simple Best-Effort Traffic
   type: main

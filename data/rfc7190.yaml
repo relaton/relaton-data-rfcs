@@ -1,7 +1,7 @@
 ---
 id: RFC7190
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Use of Multipath with MPLS and MPLS Transport Profile (MPLS-TP)
   type: main

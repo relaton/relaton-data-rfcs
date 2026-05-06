@@ -1,7 +1,7 @@
 ---
 id: RFC3508
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: H.323 Uniform Resource Locator (URL) Scheme Registration
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC5670
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Metering and Marking Behaviour of PCN-Nodes
   type: main

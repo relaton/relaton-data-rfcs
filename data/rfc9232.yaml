@@ -1,7 +1,7 @@
 ---
 id: RFC9232
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Network Telemetry Framework
   type: main

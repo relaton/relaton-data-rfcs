@@ -1,7 +1,7 @@
 ---
 id: RFC1069
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Guidelines for the use of Internet-IP addresses in the ISO Connectionless-Mode
     Network Protocol

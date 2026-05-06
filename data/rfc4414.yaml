@@ -1,7 +1,7 @@
 ---
 id: RFC4414
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: An ENUM Registry Type for the Internet Registry Information Service (IRIS)
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC6491
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Resource Public Key Infrastructure (RPKI) Objects Issued by IANA
   type: main

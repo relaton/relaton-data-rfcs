@@ -1,7 +1,7 @@
 ---
 id: RFC5602
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Pseudowire (PW) over MPLS PSN Management Information Base (MIB)
   type: main

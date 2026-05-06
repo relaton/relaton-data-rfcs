@@ -1,7 +1,7 @@
 ---
 id: RFC4839
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Media Type Registrations for the Open eBook Publication Structure (OEBPS)
     Package File (OPF)

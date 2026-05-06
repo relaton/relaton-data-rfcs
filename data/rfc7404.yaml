@@ -1,7 +1,7 @@
 ---
 id: RFC7404
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Using Only Link-Local Addressing inside an IPv6 Network
   type: main

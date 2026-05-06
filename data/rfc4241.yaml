@@ -1,7 +1,7 @@
 ---
 id: RFC4241
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: A Model of IPv6/IPv4 Dual Stack Internet Access Service
   type: main

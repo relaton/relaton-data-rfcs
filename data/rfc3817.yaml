@@ -1,7 +1,7 @@
 ---
 id: RFC3817
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Layer 2 Tunneling Protocol (L2TP) Active Discovery Relay for PPP over Ethernet
     (PPPoE)

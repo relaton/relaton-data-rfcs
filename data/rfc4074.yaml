@@ -1,7 +1,7 @@
 ---
 id: RFC4074
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Common Misbehavior Against DNS Queries for IPv6 Addresses
   type: main

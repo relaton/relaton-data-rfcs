@@ -1,7 +1,7 @@
 ---
 id: RFC7128
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Resource Public Key Infrastructure (RPKI) Router Implementation Report
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC1793
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Extending OSPF to Support Demand Circuits
   type: main

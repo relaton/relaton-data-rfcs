@@ -1,7 +1,7 @@
 ---
 id: RFC6678
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Requirements for a Tunnel-Based Extensible Authentication Protocol (EAP)
     Method

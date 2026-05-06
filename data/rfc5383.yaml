@@ -1,7 +1,7 @@
 ---
 id: RFC5383
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Deployment Considerations for Lemonade-Compliant Mobile Email
   type: main

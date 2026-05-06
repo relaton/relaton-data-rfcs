@@ -1,7 +1,7 @@
 ---
 id: RFC1814
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Unique Addresses are Good
   type: main

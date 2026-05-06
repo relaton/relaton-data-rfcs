@@ -1,7 +1,7 @@
 ---
 id: RFC4338
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Transmission of IPv6, IPv4, and Address Resolution Protocol (ARP) Packets
     over Fibre Channel

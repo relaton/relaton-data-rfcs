@@ -1,7 +1,7 @@
 ---
 id: RFC6866
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Problem Statement for Renumbering IPv6 Hosts with Static Addresses in Enterprise
     Networks

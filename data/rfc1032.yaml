@@ -1,7 +1,7 @@
 ---
 id: RFC1032
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Domain administrators guide
   type: main

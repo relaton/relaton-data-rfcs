@@ -1,7 +1,7 @@
 ---
 id: RFC1828
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: IP Authentication using Keyed MD5
   type: main

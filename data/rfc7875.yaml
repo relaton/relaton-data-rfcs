@@ -1,7 +1,7 @@
 ---
 id: RFC7875
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Additional WebRTC Audio Codecs for Interoperability
   type: main

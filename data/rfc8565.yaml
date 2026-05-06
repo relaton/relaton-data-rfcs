@@ -1,7 +1,7 @@
 ---
 id: RFC8565
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Hypertext Jeopardy Protocol (HTJP/1.0)
   type: main

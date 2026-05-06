@@ -1,7 +1,7 @@
 ---
 id: RFC1056
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'PCMAIL: A distributed mail system for personal computers'
   type: main

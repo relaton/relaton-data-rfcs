@@ -1,7 +1,7 @@
 ---
 id: RFC1768
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Host Group Extensions for CLNP Multicasting
   type: main

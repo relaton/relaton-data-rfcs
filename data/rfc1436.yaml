@@ -1,7 +1,7 @@
 ---
 id: RFC1436
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: The Internet Gopher Protocol (a distributed document search and retrieval
     protocol)

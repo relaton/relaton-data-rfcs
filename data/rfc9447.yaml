@@ -1,7 +1,7 @@
 ---
 id: RFC9447
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Automated Certificate Management Environment (ACME) Challenges Using an
     Authority Token

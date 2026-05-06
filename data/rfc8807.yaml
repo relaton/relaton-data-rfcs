@@ -1,7 +1,7 @@
 ---
 id: RFC8807
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Login Security Extension for the Extensible Provisioning Protocol (EPP)
   type: main

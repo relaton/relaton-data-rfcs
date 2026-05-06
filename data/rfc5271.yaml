@@ -1,7 +1,7 @@
 ---
 id: RFC5271
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Mobile IPv6 Fast Handovers for 3G CDMA Networks
   type: main

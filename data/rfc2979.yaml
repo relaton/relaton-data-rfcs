@@ -1,7 +1,7 @@
 ---
 id: RFC2979
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Behavior of and Requirements for Internet Firewalls
   type: main

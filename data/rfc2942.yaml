@@ -1,7 +1,7 @@
 ---
 id: RFC2942
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'Telnet Authentication: Kerberos Version 5'
   type: main

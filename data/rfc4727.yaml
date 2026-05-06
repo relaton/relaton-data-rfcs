@@ -1,7 +1,7 @@
 ---
 id: RFC4727
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Experimental Values In IPv4, IPv6, ICMPv4, ICMPv6, UDP, and TCP Headers
   type: main

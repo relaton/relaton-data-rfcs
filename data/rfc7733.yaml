@@ -1,7 +1,7 @@
 ---
 id: RFC7733
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'Applicability Statement: The Use of the Routing Protocol for Low-Power
     and Lossy Networks (RPL) Protocol Suite in Home Automation and Building Control'

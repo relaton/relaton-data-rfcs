@@ -1,7 +1,7 @@
 ---
 id: RFC7406
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Extensions to the Emergency Services Architecture for Dealing With Unauthenticated
     and Unauthorized Devices

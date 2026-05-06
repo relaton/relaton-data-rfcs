@@ -1,7 +1,7 @@
 ---
 id: RFC174
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: UCLA - Computer Science Graphics Overview
   type: main

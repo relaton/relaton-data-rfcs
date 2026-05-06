@@ -1,7 +1,7 @@
 ---
 id: RFC9007
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Handling Message Disposition Notification with the JSON Meta Application
     Protocol (JMAP)

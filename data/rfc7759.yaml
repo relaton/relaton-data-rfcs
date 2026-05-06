@@ -1,7 +1,7 @@
 ---
 id: RFC7759
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Configuration of Proactive Operations, Administration, and Maintenance
     (OAM) Functions for MPLS-Based Transport Networks Using Label Switched Path (LSP)

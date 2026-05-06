@@ -1,7 +1,7 @@
 ---
 id: RFC4562
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'MAC-Forced Forwarding: A Method for Subscriber Separation on an Ethernet
     Access Network'

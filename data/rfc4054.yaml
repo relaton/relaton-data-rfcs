@@ -1,7 +1,7 @@
 ---
 id: RFC4054
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Impairments and Other Constraints on Optical Layer Routing
   type: main

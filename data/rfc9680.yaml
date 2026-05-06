@@ -1,7 +1,7 @@
 ---
 id: RFC9680
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Antitrust Guidelines for IETF Participants
   type: main

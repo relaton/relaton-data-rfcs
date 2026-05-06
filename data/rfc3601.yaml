@@ -1,7 +1,7 @@
 ---
 id: RFC3601
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Text String Notation for Dial Sequences and Global Switched Telephone Network
     (GSTN) / E.164 Addresses

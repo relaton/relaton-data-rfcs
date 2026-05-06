@@ -1,7 +1,7 @@
 ---
 id: RFC2405
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: The ESP DES-CBC Cipher Algorithm With Explicit IV
   type: main

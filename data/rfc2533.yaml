@@ -1,7 +1,7 @@
 ---
 id: RFC2533
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: A Syntax for Describing Media Feature Sets
   type: main

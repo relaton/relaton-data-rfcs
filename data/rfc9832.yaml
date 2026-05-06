@@ -1,7 +1,7 @@
 ---
 id: RFC9832
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: BGP Classful Transport Planes
   type: main

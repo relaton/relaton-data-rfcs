@@ -1,7 +1,7 @@
 ---
 id: RFC2955
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Definitions of Managed Objects for Monitoring and Controlling the Frame
     Relay/ATM PVC Service Interworking Function

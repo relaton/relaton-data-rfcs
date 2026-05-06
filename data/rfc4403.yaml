@@ -1,7 +1,7 @@
 ---
 id: RFC4403
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Lightweight Directory Access Protocol (LDAP) Schema for Universal Description,
     Discovery, and Integration version 3 (UDDIv3)

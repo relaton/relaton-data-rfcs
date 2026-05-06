@@ -1,7 +1,7 @@
 ---
 id: RFC7340
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Secure Telephone Identity Problem Statement and Requirements
   type: main

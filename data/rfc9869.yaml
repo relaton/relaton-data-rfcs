@@ -1,7 +1,7 @@
 ---
 id: RFC9869
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Datagram Packetization Layer Path MTU Discovery (DPLPMTUD) for UDP Options
   type: main

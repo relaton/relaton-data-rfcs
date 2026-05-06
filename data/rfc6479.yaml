@@ -1,7 +1,7 @@
 ---
 id: RFC6479
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: IPsec Anti-Replay Algorithm without Bit Shifting
   type: main

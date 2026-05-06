@@ -1,7 +1,7 @@
 ---
 id: RFC2339
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: An Agreement Between the Internet Society, the IETF, and Sun Microsystems,
     Inc. in the matter of NFS V.4 Protocols

@@ -1,7 +1,7 @@
 ---
 id: RFC8472
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Transport Layer Security (TLS) Extension for Token Binding Protocol Negotiation
   type: main

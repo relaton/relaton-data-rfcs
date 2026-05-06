@@ -1,7 +1,7 @@
 ---
 id: RFC9596
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: CBOR Object Signing and Encryption (COSE) "typ" (type) Header Parameter
   type: main

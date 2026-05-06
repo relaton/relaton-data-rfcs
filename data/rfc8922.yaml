@@ -1,7 +1,7 @@
 ---
 id: RFC8922
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: A Survey of the Interaction between Security Protocols and Transport Services
   type: main

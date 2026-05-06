@@ -1,7 +1,7 @@
 ---
 id: RFC9187
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Sequence Number Extension for Windowed Protocols
   type: main

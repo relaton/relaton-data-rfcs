@@ -1,7 +1,7 @@
 ---
 id: RFC6496
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Secure Proxy ND Support for SEcure Neighbor Discovery (SEND)
   type: main

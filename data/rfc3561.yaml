@@ -1,7 +1,7 @@
 ---
 id: RFC3561
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Ad hoc On-Demand Distance Vector (AODV) Routing
   type: main

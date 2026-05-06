@@ -1,7 +1,7 @@
 ---
 id: RFC3318
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Framework Policy Information Base
   type: main

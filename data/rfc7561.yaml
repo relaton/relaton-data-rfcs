@@ -1,7 +1,7 @@
 ---
 id: RFC7561
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Mapping Quality of Service (QoS) Procedures of Proxy Mobile IPv6 (PMIPv6)
     and WLAN

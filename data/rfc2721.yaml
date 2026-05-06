@@ -1,7 +1,7 @@
 ---
 id: RFC2721
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'RTFM: Applicability Statement'
   type: main

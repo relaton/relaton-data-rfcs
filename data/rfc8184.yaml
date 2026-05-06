@@ -1,7 +1,7 @@
 ---
 id: RFC8184
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Dual-Homing Protection for MPLS and the MPLS Transport Profile (MPLS-TP)
     Pseudowires

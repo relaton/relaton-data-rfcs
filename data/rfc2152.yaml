@@ -1,7 +1,7 @@
 ---
 id: RFC2152
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: UTF-7 A Mail-Safe Transformation Format of Unicode
   type: main

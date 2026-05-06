@@ -1,7 +1,7 @@
 ---
 id: RFC2827
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'Network Ingress Filtering: Defeating Denial of Service Attacks which employ
     IP Source Address Spoofing'

@@ -1,7 +1,7 @@
 ---
 id: RFC2663
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: IP Network Address Translator (NAT) Terminology and Considerations
   type: main

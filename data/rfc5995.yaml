@@ -1,7 +1,7 @@
 ---
 id: RFC5995
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Using POST to Add Members to Web Distributed Authoring and Versioning (WebDAV)
     Collections

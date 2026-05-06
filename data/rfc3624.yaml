@@ -1,7 +1,7 @@
 ---
 id: RFC3624
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: The Media Gateway Control Protocol (MGCP) Bulk Audit Package
   type: main

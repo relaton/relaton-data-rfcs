@@ -1,7 +1,7 @@
 ---
 id: RFC7814
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'Virtual Subnet: A BGP/MPLS IP VPN-Based Subnet Extension Solution'
   type: main

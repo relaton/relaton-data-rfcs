@@ -1,7 +1,7 @@
 ---
 id: RFC6227
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Design Goals for Scalable Internet Routing
   type: main

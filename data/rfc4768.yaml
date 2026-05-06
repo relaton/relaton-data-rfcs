@@ -1,7 +1,7 @@
 ---
 id: RFC4768
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Desired Enhancements to Generic Security Services Application Program Interface
     (GSS-API) Version 3 Naming

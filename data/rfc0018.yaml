@@ -1,7 +1,7 @@
 ---
 id: RFC18
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: IMP-IMP and HOST-HOST Control Links
   type: main

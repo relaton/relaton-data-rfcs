@@ -1,7 +1,7 @@
 ---
 id: RFC364
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Serving remote users on the ARPANET
   type: main

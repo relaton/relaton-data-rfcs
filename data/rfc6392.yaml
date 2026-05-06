@@ -1,7 +1,7 @@
 ---
 id: RFC6392
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: A Survey of In-Network Storage Systems
   type: main

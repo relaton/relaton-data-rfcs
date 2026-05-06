@@ -1,7 +1,7 @@
 ---
 id: RFC5770
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Basic Host Identity Protocol (HIP) Extensions for Traversal of Network
     Address Translators

@@ -1,7 +1,7 @@
 ---
 id: RFC6412
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Terminology for Benchmarking Link-State IGP Data-Plane Route Convergence
   type: main

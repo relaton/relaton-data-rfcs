@@ -1,7 +1,7 @@
 ---
 id: RFC4141
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: SMTP and MIME Extensions for Content Conversion
   type: main

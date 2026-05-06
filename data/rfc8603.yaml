@@ -1,7 +1,7 @@
 ---
 id: RFC8603
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Commercial National Security Algorithm (CNSA) Suite Certificate and Certificate
     Revocation List (CRL) Profile

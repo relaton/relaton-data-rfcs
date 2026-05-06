@@ -1,7 +1,7 @@
 ---
 id: RFC4659
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: BGP-MPLS IP Virtual Private Network (VPN) Extension for IPv6 VPN
   type: main

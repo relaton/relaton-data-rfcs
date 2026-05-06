@@ -1,7 +1,7 @@
 ---
 id: RFC9863
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Path Computation Element Protocol (PCEP) Extension for Color
   type: main

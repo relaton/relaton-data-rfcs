@@ -1,7 +1,7 @@
 ---
 id: RFC3527
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Link Selection sub-option for the Relay Agent Information Option for DHCPv4
   type: main

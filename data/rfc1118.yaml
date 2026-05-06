@@ -1,7 +1,7 @@
 ---
 id: RFC1118
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Hitchhikers guide to the Internet
   type: main

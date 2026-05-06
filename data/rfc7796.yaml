@@ -1,7 +1,7 @@
 ---
 id: RFC7796
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Ethernet-Tree (E-Tree) Support in Virtual Private LAN Service (VPLS)
   type: main

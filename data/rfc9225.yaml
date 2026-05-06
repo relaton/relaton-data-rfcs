@@ -1,7 +1,7 @@
 ---
 id: RFC9225
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Software Defects Considered Harmful
   type: main

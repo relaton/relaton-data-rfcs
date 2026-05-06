@@ -1,7 +1,7 @@
 ---
 id: RFC7489
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Domain-based Message Authentication, Reporting, and Conformance (DMARC)
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC2319
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Ukrainian Character Set KOI8-U
   type: main

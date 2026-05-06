@@ -1,7 +1,7 @@
 ---
 id: RFC2637
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Point-to-Point Tunneling Protocol (PPTP)
   type: main

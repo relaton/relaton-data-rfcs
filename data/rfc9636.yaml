@@ -1,7 +1,7 @@
 ---
 id: RFC9636
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: The Time Zone Information Format (TZif)
   type: main

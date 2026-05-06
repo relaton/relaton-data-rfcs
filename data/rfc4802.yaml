@@ -1,7 +1,7 @@
 ---
 id: RFC4802
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Generalized Multiprotocol Label Switching (GMPLS) Traffic Engineering Management
     Information Base

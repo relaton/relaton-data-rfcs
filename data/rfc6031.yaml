@@ -1,7 +1,7 @@
 ---
 id: RFC6031
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Cryptographic Message Syntax (CMS) Symmetric Key Package Content Type
   type: main

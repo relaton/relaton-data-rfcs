@@ -1,7 +1,7 @@
 ---
 id: RFC1556
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Handling of Bi-directional Texts in MIME
   type: main

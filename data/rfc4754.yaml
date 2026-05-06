@@ -1,7 +1,7 @@
 ---
 id: RFC4754
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: IKE and IKEv2 Authentication Using the Elliptic Curve Digital Signature
     Algorithm (ECDSA)

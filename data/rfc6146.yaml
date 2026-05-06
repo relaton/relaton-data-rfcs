@@ -1,7 +1,7 @@
 ---
 id: RFC6146
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'Stateful NAT64: Network Address and Protocol Translation from IPv6 Clients
     to IPv4 Servers'

@@ -1,7 +1,7 @@
 ---
 id: RFC4823
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: FTP Transport for Secure Peer-to-Peer Business Data Interchange over the
     Internet

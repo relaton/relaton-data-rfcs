@@ -1,7 +1,7 @@
 ---
 id: RFC3085
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: URN Namespace for NewsML Resources
   type: main

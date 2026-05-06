@@ -1,7 +1,7 @@
 ---
 id: RFC3043
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'The Network Solutions Personal Internet Name (PIN): A URN Namespace for
     People and Organizations'

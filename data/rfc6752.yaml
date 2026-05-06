@@ -1,7 +1,7 @@
 ---
 id: RFC6752
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Issues with Private IP Addressing in the Internet
   type: main

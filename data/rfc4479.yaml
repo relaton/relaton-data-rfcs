@@ -1,7 +1,7 @@
 ---
 id: RFC4479
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: A Data Model for Presence
   type: main

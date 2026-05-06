@@ -1,7 +1,7 @@
 ---
 id: RFC8444
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: OSPFv2 Extensions for Bit Index Explicit Replication (BIER)
   type: main

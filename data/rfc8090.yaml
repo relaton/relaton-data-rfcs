@@ -1,7 +1,7 @@
 ---
 id: RFC8090
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Appointment Procedures for the IETF Representatives to the Community Coordination
     Group (CCG)

@@ -1,7 +1,7 @@
 ---
 id: RFC8160
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: IUTF8 Terminal Mode in Secure Shell (SSH)
   type: main

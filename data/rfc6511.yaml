@@ -1,7 +1,7 @@
 ---
 id: RFC6511
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Non-Penultimate Hop Popping Behavior and Out-of-Band Mapping for RSVP-TE
     Label Switched Paths

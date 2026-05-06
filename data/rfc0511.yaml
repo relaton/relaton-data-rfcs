@@ -1,7 +1,7 @@
 ---
 id: RFC511
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Enterprise phone service to NIC from ARPANET sites
   type: main

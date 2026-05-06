@@ -1,7 +1,7 @@
 ---
 id: RFC8411
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: IANA Registration for the Cryptographic Algorithm Object Identifier Range
   type: main

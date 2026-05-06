@@ -1,7 +1,7 @@
 ---
 id: RFC5831
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'GOST R 34.11-94: Hash Function Algorithm'
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC6275
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Mobility Support in IPv6
   type: main

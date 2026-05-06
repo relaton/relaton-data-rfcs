@@ -1,7 +1,7 @@
 ---
 id: RFC2939
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Procedures and IANA Guidelines for Definition of New DHCP Options and Message
     Types

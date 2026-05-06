@@ -1,7 +1,7 @@
 ---
 id: RFC3706
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: A Traffic-Based Method of Detecting Dead Internet Key Exchange (IKE) Peers
   type: main

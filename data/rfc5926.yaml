@@ -1,7 +1,7 @@
 ---
 id: RFC5926
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Cryptographic Algorithms for the TCP Authentication Option (TCP-AO)
   type: main

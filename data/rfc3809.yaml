@@ -1,7 +1,7 @@
 ---
 id: RFC3809
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Generic Requirements for Provider Provisioned Virtual Private Networks
     (PPVPN)

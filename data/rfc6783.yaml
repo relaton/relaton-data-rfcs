@@ -1,7 +1,7 @@
 ---
 id: RFC6783
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Mailing Lists and Non-ASCII Addresses
   type: main

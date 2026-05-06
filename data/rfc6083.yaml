@@ -1,7 +1,7 @@
 ---
 id: RFC6083
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Datagram Transport Layer Security (DTLS) for Stream Control Transmission
     Protocol (SCTP)

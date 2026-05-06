@@ -1,7 +1,7 @@
 ---
 id: RFC2523
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'Photuris: Extended Schemes and Attributes'
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC2748
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: The COPS (Common Open Policy Service) Protocol
   type: main

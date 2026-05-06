@@ -1,7 +1,7 @@
 ---
 id: RFC1168
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Intermail and Commercial Mail Relay services
   type: main

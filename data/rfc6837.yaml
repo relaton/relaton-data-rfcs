@@ -1,7 +1,7 @@
 ---
 id: RFC6837
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'NERD: A Not-so-novel Endpoint ID (EID) to Routing Locator (RLOC) Database'
   type: main

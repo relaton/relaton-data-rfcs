@@ -1,7 +1,7 @@
 ---
 id: RFC3175
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Aggregation of RSVP for IPv4 and IPv6 Reservations
   type: main

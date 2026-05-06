@@ -1,7 +1,7 @@
 ---
 id: RFC8419
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Use of Edwards-Curve Digital Signature Algorithm (EdDSA) Signatures in
     the Cryptographic Message Syntax (CMS)

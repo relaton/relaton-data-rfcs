@@ -1,7 +1,7 @@
 ---
 id: RFC3079
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Deriving Keys for use with Microsoft Point-to-Point Encryption (MPPE)
   type: main

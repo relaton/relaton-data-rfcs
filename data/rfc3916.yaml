@@ -1,7 +1,7 @@
 ---
 id: RFC3916
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Requirements for Pseudo-Wire Emulation Edge-to-Edge (PWE3)
   type: main

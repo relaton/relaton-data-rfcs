@@ -1,7 +1,7 @@
 ---
 id: RFC7195
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Session Description Protocol (SDP) Extension for Setting Audio and Video
     Media Streams over Circuit-Switched Bearers in the Public Switched Telephone Network

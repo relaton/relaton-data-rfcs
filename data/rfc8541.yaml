@@ -1,7 +1,7 @@
 ---
 id: RFC8541
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Impact of Shortest Path First (SPF) Trigger and Delay Strategies on IGP
     Micro-loops

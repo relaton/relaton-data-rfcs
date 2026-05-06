@@ -1,7 +1,7 @@
 ---
 id: RFC2792
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: DSA and RSA Key and Signature Encoding for the KeyNote Trust Management
     System

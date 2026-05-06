@@ -1,7 +1,7 @@
 ---
 id: RFC4090
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Fast Reroute Extensions to RSVP-TE for LSP Tunnels
   type: main

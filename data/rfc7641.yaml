@@ -1,7 +1,7 @@
 ---
 id: RFC7641
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Observing Resources in the Constrained Application Protocol (CoAP)
   type: main

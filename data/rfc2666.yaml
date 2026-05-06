@@ -1,7 +1,7 @@
 ---
 id: RFC2666
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Definitions of Object Identifiers for Identifying Ethernet Chip Sets
   type: main

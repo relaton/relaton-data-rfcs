@@ -1,7 +1,7 @@
 ---
 id: RFC6513
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Multicast in MPLS/BGP IP VPNs
   type: main

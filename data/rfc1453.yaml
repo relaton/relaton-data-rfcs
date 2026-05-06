@@ -1,7 +1,7 @@
 ---
 id: RFC1453
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: A Comment on Packet Video Remote Conferencing and the Transport/Network
     Layers

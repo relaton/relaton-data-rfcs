@@ -1,7 +1,7 @@
 ---
 id: RFC2897
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Proposal for an MGCP Advanced Audio Package
   type: main

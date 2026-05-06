@@ -1,7 +1,7 @@
 ---
 id: RFC2635
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: DON'T SPEW A Set of Guidelines for Mass Unsolicited Mailings and Postings
     (spam*)

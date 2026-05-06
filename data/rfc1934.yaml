@@ -1,7 +1,7 @@
 ---
 id: RFC1934
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Ascend's Multilink Protocol Plus (MP+)
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC1314
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: A File Format for the Exchange of Images in the Internet
   type: main

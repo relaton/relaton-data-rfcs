@@ -1,7 +1,7 @@
 ---
 id: RFC7035
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Relative Location Representation
   type: main

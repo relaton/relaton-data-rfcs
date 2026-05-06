@@ -1,7 +1,7 @@
 ---
 id: RFC4014
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Remote Authentication Dial-In User Service (RADIUS) Attributes Suboption
     for the Dynamic Host Configuration Protocol (DHCP) Relay Agent Information Option

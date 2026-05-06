@@ -1,7 +1,7 @@
 ---
 id: RFC3701
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 6bone (IPv6 Testing Address Allocation) Phaseout
   type: main

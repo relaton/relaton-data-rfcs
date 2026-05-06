@@ -1,7 +1,7 @@
 ---
 id: RFC4139
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Requirements for Generalized MPLS (GMPLS) Signaling Usage and Extensions
     for Automatically Switched Optical Network (ASON)

@@ -1,7 +1,7 @@
 ---
 id: RFC7215
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Locator/Identifier Separation Protocol (LISP) Network Element Deployment
     Considerations

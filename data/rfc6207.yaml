@@ -1,7 +1,7 @@
 ---
 id: RFC6207
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: The Media Types application/mods+xml, application/mads+xml, application/mets+xml,
     application/marcxml+xml, and application/sru+xml

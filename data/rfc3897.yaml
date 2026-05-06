@@ -1,7 +1,7 @@
 ---
 id: RFC3897
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Open Pluggable Edge Services (OPES) Entities and End Points Communication
   type: main

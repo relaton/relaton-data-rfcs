@@ -1,7 +1,7 @@
 ---
 id: RFC1713
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Tools for DNS debugging
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC5068
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'Email Submission Operations: Access and Accountability Requirements'
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC9452
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Network Service Header (NSH) Encapsulation for In Situ OAM (IOAM) Data
   type: main

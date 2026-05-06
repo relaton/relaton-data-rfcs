@@ -1,7 +1,7 @@
 ---
 id: RFC4060
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: RTP Payload Formats for European Telecommunications Standards Institute
     (ETSI) European Standard ES 202 050, ES 202 211, and ES 202 212 Distributed Speech

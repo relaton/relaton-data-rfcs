@@ -1,7 +1,7 @@
 ---
 id: RFC2996
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Format of the RSVP DCLASS Object
   type: main

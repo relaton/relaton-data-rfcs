@@ -1,7 +1,7 @@
 ---
 id: RFC7906
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: NSA's Cryptographic Message Syntax (CMS) Key Management Attributes
   type: main

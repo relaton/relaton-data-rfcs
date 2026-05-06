@@ -1,7 +1,7 @@
 ---
 id: RFC2356
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Sun's SKIP Firewall Traversal for Mobile IP
   type: main

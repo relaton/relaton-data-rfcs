@@ -1,7 +1,7 @@
 ---
 id: RFC8769
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Cryptographic Message Syntax (CMS) Content Types for Concise Binary Object
     Representation (CBOR)

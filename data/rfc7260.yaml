@@ -1,7 +1,7 @@
 ---
 id: RFC7260
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: GMPLS RSVP-TE Extensions for Operations, Administration, and Maintenance
     (OAM) Configuration

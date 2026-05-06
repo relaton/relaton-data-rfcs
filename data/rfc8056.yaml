@@ -1,7 +1,7 @@
 ---
 id: RFC8056
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Extensible Provisioning Protocol (EPP) and Registration Data Access Protocol
     (RDAP) Status Mapping

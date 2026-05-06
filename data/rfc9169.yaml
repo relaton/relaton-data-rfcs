@@ -1,7 +1,7 @@
 ---
 id: RFC9169
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: New ASN.1 Modules for the Evidence Record Syntax (ERS)
   type: main

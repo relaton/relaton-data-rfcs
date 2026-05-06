@@ -1,7 +1,7 @@
 ---
 id: RFC7793
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Adding 100.64.0.0/10 Prefixes to the IPv4 Locally-Served DNS Zones Registry
   type: main

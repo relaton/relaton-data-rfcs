@@ -1,7 +1,7 @@
 ---
 id: RFC9874
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Best Practices for Deletion of Domain and Host Objects in the Extensible
     Provisioning Protocol (EPP)

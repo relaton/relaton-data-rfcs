@@ -1,7 +1,7 @@
 ---
 id: RFC4396
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: RTP Payload Format for 3rd Generation Partnership Project (3GPP) Timed
     Text

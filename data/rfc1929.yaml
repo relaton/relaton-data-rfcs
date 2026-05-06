@@ -1,7 +1,7 @@
 ---
 id: RFC1929
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Username/Password Authentication for SOCKS V5
   type: main

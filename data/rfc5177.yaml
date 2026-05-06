@@ -1,7 +1,7 @@
 ---
 id: RFC5177
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Network Mobility (NEMO) Extensions for Mobile IPv4
   type: main

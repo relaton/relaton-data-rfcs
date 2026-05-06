@@ -1,7 +1,7 @@
 ---
 id: RFC7226
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Requirements for Advanced Multipath in MPLS Networks
   type: main

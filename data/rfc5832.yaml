@@ -1,7 +1,7 @@
 ---
 id: RFC5832
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'GOST R 34.10-2001: Digital Signature Algorithm'
   type: main

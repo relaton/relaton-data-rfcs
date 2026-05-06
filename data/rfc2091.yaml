@@ -1,7 +1,7 @@
 ---
 id: RFC2091
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Triggered Extensions to RIP to Support Demand Circuits
   type: main

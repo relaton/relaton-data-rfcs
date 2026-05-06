@@ -1,7 +1,7 @@
 ---
 id: RFC8424
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Extensions to RSVP-TE for Label Switched Path (LSP) Ingress Fast Reroute
     (FRR) Protection

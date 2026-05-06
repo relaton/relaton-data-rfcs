@@ -1,7 +1,7 @@
 ---
 id: RFC8275
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Allowing Inheritable NFSv4 Access Control Entries to Override the Umask
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC7173
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Transparent Interconnection of Lots of Links (TRILL) Transport Using Pseudowires
   type: main

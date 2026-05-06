@@ -1,7 +1,7 @@
 ---
 id: RFC6393
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Moving RFC 4693 to Historic
   type: main

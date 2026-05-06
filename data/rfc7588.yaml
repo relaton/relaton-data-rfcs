@@ -1,7 +1,7 @@
 ---
 id: RFC7588
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: A Widely Deployed Solution to the Generic Routing Encapsulation (GRE) Fragmentation
     Problem

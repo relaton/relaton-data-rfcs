@@ -1,7 +1,7 @@
 ---
 id: RFC1834
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Whois and Network Information Lookup Service, Whois++
   type: main

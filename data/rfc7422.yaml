@@ -1,7 +1,7 @@
 ---
 id: RFC7422
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Deterministic Address Mapping to Reduce Logging in Carrier-Grade NAT Deployments
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC8236
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'J-PAKE: Password-Authenticated Key Exchange by Juggling'
   type: main

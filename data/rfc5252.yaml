@@ -1,7 +1,7 @@
 ---
 id: RFC5252
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: OSPF-Based Layer 1 VPN Auto-Discovery
   type: main

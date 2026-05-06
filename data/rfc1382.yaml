@@ -1,7 +1,7 @@
 ---
 id: RFC1382
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: SNMP MIB Extension for the X.25 Packet Layer
   type: main

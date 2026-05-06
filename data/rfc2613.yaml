@@ -1,7 +1,7 @@
 ---
 id: RFC2613
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Remote Network Monitoring MIB Extensions for Switched Networks Version
     1.0

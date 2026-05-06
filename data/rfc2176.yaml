@@ -1,7 +1,7 @@
 ---
 id: RFC2176
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: IPv4 over MAPOS Version 1
   type: main

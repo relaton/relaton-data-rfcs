@@ -1,7 +1,7 @@
 ---
 id: RFC7741
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: RTP Payload Format for VP8 Video
   type: main

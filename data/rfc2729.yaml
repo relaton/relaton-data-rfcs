@@ -1,7 +1,7 @@
 ---
 id: RFC2729
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Taxonomy of Communication Requirements for Large-scale Multicast Applications
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC9592
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Retiring the Tao of the IETF
   type: main

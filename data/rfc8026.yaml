@@ -1,7 +1,7 @@
 ---
 id: RFC8026
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'Unified IPv4-in-IPv6 Softwire Customer Premises Equipment (CPE): A DHCPv6-Based
     Prioritization Mechanism'

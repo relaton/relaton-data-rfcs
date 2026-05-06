@@ -1,7 +1,7 @@
 ---
 id: RFC6551
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Routing Metrics Used for Path Calculation in Low-Power and Lossy Networks
   type: main

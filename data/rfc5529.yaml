@@ -1,7 +1,7 @@
 ---
 id: RFC5529
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Modes of Operation for Camellia for Use with IPsec
   type: main

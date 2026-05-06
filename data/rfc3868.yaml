@@ -1,7 +1,7 @@
 ---
 id: RFC3868
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Signalling Connection Control Part User Adaptation Layer (SUA)
   type: main

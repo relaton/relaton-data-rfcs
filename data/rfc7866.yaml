@@ -1,7 +1,7 @@
 ---
 id: RFC7866
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Session Recording Protocol
   type: main

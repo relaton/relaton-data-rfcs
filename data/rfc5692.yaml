@@ -1,7 +1,7 @@
 ---
 id: RFC5692
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Transmission of IP over Ethernet over IEEE 802.16 Networks
   type: main

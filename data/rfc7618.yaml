@@ -1,7 +1,7 @@
 ---
 id: RFC7618
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Dynamic Allocation of Shared IPv4 Addresses
   type: main

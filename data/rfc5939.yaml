@@ -1,7 +1,7 @@
 ---
 id: RFC5939
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Session Description Protocol (SDP) Capability Negotiation
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC4805
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Definitions of Managed Objects for the DS1, J1, E1, DS2, and E2 Interface
     Types

@@ -1,7 +1,7 @@
 ---
 id: RFC1055
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'Nonstandard for transmission of IP datagrams over serial lines: SLIP'
   type: main

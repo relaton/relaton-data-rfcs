@@ -1,7 +1,7 @@
 ---
 id: RFC1635
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: How to Use Anonymous FTP
   type: main

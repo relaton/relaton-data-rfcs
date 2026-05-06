@@ -1,7 +1,7 @@
 ---
 id: RFC8351
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'The PKCS #8 EncryptedPrivateKeyInfo Media Type'
   type: main

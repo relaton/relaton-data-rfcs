@@ -1,7 +1,7 @@
 ---
 id: RFC4312
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: The Camellia Cipher Algorithm and Its Use With IPsec
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC8488
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: RIPE NCC's Implementation of Resource Public Key Infrastructure (RPKI)
     Certificate Tree Validation

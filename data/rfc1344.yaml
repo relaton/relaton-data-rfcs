@@ -1,7 +1,7 @@
 ---
 id: RFC1344
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Implications of MIME for Internet Mail Gateways
   type: main

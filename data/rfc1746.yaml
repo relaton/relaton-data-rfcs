@@ -1,7 +1,7 @@
 ---
 id: RFC1746
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Ways to Define User Expectations
   type: main

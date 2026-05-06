@@ -1,7 +1,7 @@
 ---
 id: RFC8293
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: A Framework for Multicast in Network Virtualization over Layer 3
   type: main

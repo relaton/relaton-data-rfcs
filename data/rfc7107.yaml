@@ -1,7 +1,7 @@
 ---
 id: RFC7107
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Object Identifier Registry for the S/MIME Mail Security Working Group
   type: main

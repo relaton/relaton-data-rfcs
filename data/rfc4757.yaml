@@ -1,7 +1,7 @@
 ---
 id: RFC4757
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: The RC4-HMAC Kerberos Encryption Types Used by Microsoft Windows
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC5190
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Definitions of Managed Objects for Middlebox Communication
   type: main

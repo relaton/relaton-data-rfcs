@@ -1,7 +1,7 @@
 ---
 id: RFC8132
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: PATCH and FETCH Methods for the Constrained Application Protocol (CoAP)
   type: main

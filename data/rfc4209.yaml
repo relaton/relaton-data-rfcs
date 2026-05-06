@@ -1,7 +1,7 @@
 ---
 id: RFC4209
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Link Management Protocol (LMP) for Dense Wavelength Division Multiplexing
     (DWDM) Optical Line Systems

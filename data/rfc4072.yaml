@@ -1,7 +1,7 @@
 ---
 id: RFC4072
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Diameter Extensible Authentication Protocol (EAP) Application
   type: main

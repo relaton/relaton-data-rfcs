@@ -1,7 +1,7 @@
 ---
 id: RFC3623
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Graceful OSPF Restart
   type: main

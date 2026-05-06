@@ -1,7 +1,7 @@
 ---
 id: RFC8729
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: The RFC Series and RFC Editor
   type: main

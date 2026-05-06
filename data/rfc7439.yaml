@@ -1,7 +1,7 @@
 ---
 id: RFC7439
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Gap Analysis for Operating IPv6-Only MPLS Networks
   type: main

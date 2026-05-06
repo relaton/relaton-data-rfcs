@@ -1,7 +1,7 @@
 ---
 id: RFC5388
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Information Model and XML Data Model for Traceroute Measurements
   type: main

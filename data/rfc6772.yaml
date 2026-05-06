@@ -1,7 +1,7 @@
 ---
 id: RFC6772
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'Geolocation Policy: A Document Format for Expressing Privacy Preferences
     for Location Information'

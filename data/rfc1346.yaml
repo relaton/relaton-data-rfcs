@@ -1,7 +1,7 @@
 ---
 id: RFC1346
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Resource Allocation, Control, and Accounting for the Use of Network Resources
   type: main

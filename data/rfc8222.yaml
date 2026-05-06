@@ -1,7 +1,7 @@
 ---
 id: RFC8222
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Selecting Labels for Use with Conventional DNS and Other Resolution Systems
     in DNS-Based Service Discovery

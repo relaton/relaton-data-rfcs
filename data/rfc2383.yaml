@@ -1,7 +1,7 @@
 ---
 id: RFC2383
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: ST2+ over ATM Protocol Specification - UNI 3.1 Version
   type: main

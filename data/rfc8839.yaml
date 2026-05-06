@@ -1,7 +1,7 @@
 ---
 id: RFC8839
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Session Description Protocol (SDP) Offer/Answer Procedures for Interactive
     Connectivity Establishment (ICE)

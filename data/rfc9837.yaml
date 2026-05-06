@@ -1,7 +1,7 @@
 ---
 id: RFC9837
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: The IPv6 VPN Service Destination Option
   type: main

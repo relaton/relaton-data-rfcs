@@ -1,7 +1,7 @@
 ---
 id: RFC6484
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Certificate Policy (CP) for the Resource Public Key Infrastructure (RPKI)
   type: main

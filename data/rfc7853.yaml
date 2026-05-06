@@ -1,7 +1,7 @@
 ---
 id: RFC7853
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: A URN Namespace for Globus
   type: main

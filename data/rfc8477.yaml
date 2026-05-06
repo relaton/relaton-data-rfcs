@@ -1,7 +1,7 @@
 ---
 id: RFC8477
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Report from the Internet of Things (IoT) Semantic Interoperability (IOTSI)
     Workshop 2016

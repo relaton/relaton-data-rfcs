@@ -1,7 +1,7 @@
 ---
 id: RFC9387
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Use Cases for DDoS Open Threat Signaling (DOTS) Telemetry
   type: main

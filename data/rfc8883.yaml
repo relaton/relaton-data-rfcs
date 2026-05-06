@@ -1,7 +1,7 @@
 ---
 id: RFC8883
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: ICMPv6 Errors for Discarding Packets Due to Processing Limits
   type: main

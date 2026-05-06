@@ -1,7 +1,7 @@
 ---
 id: RFC6147
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'DNS64: DNS Extensions for Network Address Translation from IPv6 Clients
     to IPv4 Servers'

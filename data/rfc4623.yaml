@@ -1,7 +1,7 @@
 ---
 id: RFC4623
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Pseudowire Emulation Edge-to-Edge (PWE3) Fragmentation and Reassembly
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC769
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Rapicom 450 facsimile file format
   type: main

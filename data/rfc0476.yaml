@@ -1,7 +1,7 @@
 ---
 id: RFC476
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: IMP/TIP memory retrofit schedule (rev 2)
   type: main

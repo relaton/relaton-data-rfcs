@@ -1,7 +1,7 @@
 ---
 id: RFC3429
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Assignment of the 'OAM Alert Label' for Multiprotocol Label Switching Architecture
     (MPLS) Operation and Maintenance (OAM) Functions

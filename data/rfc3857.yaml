@@ -1,7 +1,7 @@
 ---
 id: RFC3857
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: A Watcher Information Event Template-Package for the Session Initiation
     Protocol (SIP)

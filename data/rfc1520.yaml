@@ -1,7 +1,7 @@
 ---
 id: RFC1520
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Exchanging Routing Information Across Provider Boundaries in the CIDR Environment
   type: main

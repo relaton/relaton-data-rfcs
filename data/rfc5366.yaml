@@ -1,7 +1,7 @@
 ---
 id: RFC5366
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Conference Establishment Using Request-Contained Lists in the Session Initiation
     Protocol (SIP)

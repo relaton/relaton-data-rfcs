@@ -1,7 +1,7 @@
 ---
 id: RFC1173
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'Responsibilities of host and network managers: A summary of the "oral
     tradition" of the Internet'

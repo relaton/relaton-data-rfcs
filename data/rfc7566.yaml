@@ -1,7 +1,7 @@
 ---
 id: RFC7566
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Enumservice Registration for 'acct' URI
   type: main

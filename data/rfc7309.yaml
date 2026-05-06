@@ -1,7 +1,7 @@
 ---
 id: RFC7309
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Redundancy Mechanism for Inter-domain VPLS Service
   type: main

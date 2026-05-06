@@ -1,7 +1,7 @@
 ---
 id: RFC7522
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Security Assertion Markup Language (SAML) 2.0 Profile for OAuth 2.0 Client
     Authentication and Authorization Grants

@@ -1,7 +1,7 @@
 ---
 id: RFC4908
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Multi-homing for small scale fixed network Using Mobile IP and NEMO
   type: main

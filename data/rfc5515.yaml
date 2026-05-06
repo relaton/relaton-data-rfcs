@@ -1,7 +1,7 @@
 ---
 id: RFC5515
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Layer 2 Tunneling Protocol (L2TP) Access Line Information Attribute Value
     Pair (AVP) Extensions

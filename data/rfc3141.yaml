@@ -1,7 +1,7 @@
 ---
 id: RFC3141
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: CDMA2000 Wireless Data Requirements for AAA
   type: main

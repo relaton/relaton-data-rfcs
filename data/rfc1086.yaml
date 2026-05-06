@@ -1,7 +1,7 @@
 ---
 id: RFC1086
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: ISO-TP0 bridge between TCP and X.25
   type: main

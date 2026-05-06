@@ -1,7 +1,7 @@
 ---
 id: RFC9902
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: A YANG Data Model for IS-IS Segment Routing over the MPLS Data Plane
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC1858
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Security Considerations for IP Fragment Filtering
   type: main

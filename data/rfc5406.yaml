@@ -1,7 +1,7 @@
 ---
 id: RFC5406
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Guidelines for Specifying the Use of IPsec Version 2
   type: main

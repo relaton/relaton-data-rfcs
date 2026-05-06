@@ -1,7 +1,7 @@
 ---
 id: RFC6558
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Sieve Extension for Converting Messages before Delivery
   type: main

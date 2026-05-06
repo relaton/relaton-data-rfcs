@@ -1,7 +1,7 @@
 ---
 id: RFC1174
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: IAB recommended policy on distributing internet identifier assignment and
     IAB recommended policy change to internet "connected" status

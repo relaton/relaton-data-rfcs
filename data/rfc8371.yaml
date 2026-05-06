@@ -1,7 +1,7 @@
 ---
 id: RFC8371
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Mobile Node Identifier Types for MIPv6
   type: main

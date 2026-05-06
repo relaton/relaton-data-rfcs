@@ -1,7 +1,7 @@
 ---
 id: RFC7362
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'Latching: Hosted NAT Traversal (HNT) for Media in Real-Time Communication'
   type: main

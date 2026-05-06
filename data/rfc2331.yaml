@@ -1,7 +1,7 @@
 ---
 id: RFC2331
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: ATM Signalling Support for IP over ATM - UNI Signalling 4.0 Update
   type: main

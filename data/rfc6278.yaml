@@ -1,7 +1,7 @@
 ---
 id: RFC6278
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Use of Static-Static Elliptic Curve Diffie-Hellman Key Agreement in Cryptographic
     Message Syntax

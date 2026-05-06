@@ -1,7 +1,7 @@
 ---
 id: RFC1879
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Class A Subnet Experiment Results and Recommendations
   type: main

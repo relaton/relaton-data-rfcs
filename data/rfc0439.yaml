@@ -1,7 +1,7 @@
 ---
 id: RFC439
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: PARRY encounters the DOCTOR
   type: main

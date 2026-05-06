@@ -1,7 +1,7 @@
 ---
 id: RFC4450
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'Getting Rid of the Cruft: Report from an Experiment in Identifying and
     Reclassifying Obsolete Standards Documents'

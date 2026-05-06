@@ -1,7 +1,7 @@
 ---
 id: RFC2185
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Routing Aspects of IPv6 Transition
   type: main

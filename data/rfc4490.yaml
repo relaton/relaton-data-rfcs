@@ -1,7 +1,7 @@
 ---
 id: RFC4490
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Using the GOST 28147-89, GOST R 34.11-94, GOST R 34.10-94, and GOST R 34.10-2001
     Algorithms with Cryptographic Message Syntax (CMS)

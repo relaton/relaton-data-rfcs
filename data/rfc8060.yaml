@@ -1,7 +1,7 @@
 ---
 id: RFC8060
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: LISP Canonical Address Format (LCAF)
   type: main

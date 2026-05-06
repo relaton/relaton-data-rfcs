@@ -1,7 +1,7 @@
 ---
 id: RFC5769
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Test Vectors for Session Traversal Utilities for NAT (STUN)
   type: main

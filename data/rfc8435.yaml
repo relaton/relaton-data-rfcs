@@ -1,7 +1,7 @@
 ---
 id: RFC8435
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Parallel NFS (pNFS) Flexible File Layout
   type: main

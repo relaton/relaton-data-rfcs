@@ -1,7 +1,7 @@
 ---
 id: RFC1241
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'Scheme for an internet encapsulation protocol: Version 1'
   type: main

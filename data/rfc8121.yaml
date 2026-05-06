@@ -1,7 +1,7 @@
 ---
 id: RFC8121
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'Mutual Authentication Protocol for HTTP: Cryptographic Algorithms Based
     on the Key Agreement Mechanism 3 (KAM3)'

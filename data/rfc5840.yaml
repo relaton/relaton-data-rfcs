@@ -1,7 +1,7 @@
 ---
 id: RFC5840
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Wrapped Encapsulating Security Payload (ESP) for Traffic Visibility
   type: main

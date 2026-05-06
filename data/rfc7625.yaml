@@ -1,7 +1,7 @@
 ---
 id: RFC7625
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Architecture of an IP/MPLS Network with Hardened Pipes
   type: main

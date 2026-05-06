@@ -1,7 +1,7 @@
 ---
 id: RFC9011
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Static Context Header Compression and Fragmentation (SCHC) over LoRaWAN
   type: main

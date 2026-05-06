@@ -1,7 +1,7 @@
 ---
 id: RFC8050
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Multi-Threaded Routing Toolkit (MRT) Routing Information Export Format
     with BGP Additional Path Extensions

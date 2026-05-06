@@ -1,7 +1,7 @@
 ---
 id: RFC4413
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: TCP/IP Field Behavior
   type: main

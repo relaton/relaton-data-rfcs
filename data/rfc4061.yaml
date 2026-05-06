@@ -1,7 +1,7 @@
 ---
 id: RFC4061
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Benchmarking Basic OSPF Single Router Control Plane Convergence
   type: main

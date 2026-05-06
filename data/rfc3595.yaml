@@ -1,7 +1,7 @@
 ---
 id: RFC3595
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Textual Conventions for IPv6 Flow Label
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC3785
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Use of Interior Gateway Protocol (IGP) Metric as a second MPLS Traffic
     Engineering (TE) Metric

@@ -1,7 +1,7 @@
 ---
 id: RFC6754
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Protocol Independent Multicast Equal-Cost Multipath (ECMP) Redirect
   type: main

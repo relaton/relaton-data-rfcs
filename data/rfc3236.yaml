@@ -1,7 +1,7 @@
 ---
 id: RFC3236
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: The 'application/xhtml+xml' Media Type
   type: main

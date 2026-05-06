@@ -1,7 +1,7 @@
 ---
 id: RFC9165
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Additional Control Operators for the Concise Data Definition Language (CDDL)
   type: main

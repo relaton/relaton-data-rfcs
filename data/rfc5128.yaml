@@ -1,7 +1,7 @@
 ---
 id: RFC5128
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: State of Peer-to-Peer (P2P) Communication across Network Address Translators
     (NATs)

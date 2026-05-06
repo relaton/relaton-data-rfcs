@@ -1,7 +1,7 @@
 ---
 id: RFC1772
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Application of the Border Gateway Protocol in the Internet
   type: main

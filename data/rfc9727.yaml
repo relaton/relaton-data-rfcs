@@ -1,7 +1,7 @@
 ---
 id: RFC9727
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'api-catalog: A Well-Known URI and Link Relation to Help Discovery of APIs'
   type: main

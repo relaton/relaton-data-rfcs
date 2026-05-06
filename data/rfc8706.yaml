@@ -1,7 +1,7 @@
 ---
 id: RFC8706
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Restart Signaling for IS-IS
   type: main

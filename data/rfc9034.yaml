@@ -1,7 +1,7 @@
 ---
 id: RFC9034
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Packet Delivery Deadline Time in the Routing Header for IPv6 over Low-Power
     Wireless Personal Area Networks (6LoWPANs)

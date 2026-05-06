@@ -1,7 +1,7 @@
 ---
 id: RFC1526
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Assignment of System Identifiers for TUBA/CLNP Hosts
   type: main

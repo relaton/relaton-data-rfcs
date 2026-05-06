@@ -1,7 +1,7 @@
 ---
 id: RFC2040
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: The RC5, RC5-CBC, RC5-CBC-Pad, and RC5-CTS Algorithms
   type: main

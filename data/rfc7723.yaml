@@ -1,7 +1,7 @@
 ---
 id: RFC7723
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Port Control Protocol (PCP) Anycast Addresses
   type: main

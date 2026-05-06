@@ -1,7 +1,7 @@
 ---
 id: RFC8643
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: An Opportunistic Approach for Secure Real-time Transport Protocol (OSRTP)
   type: main

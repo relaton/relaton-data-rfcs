@@ -1,7 +1,7 @@
 ---
 id: RFC4154
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Voucher Trading System Application Programming Interface (VTS-API)
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC5486
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Session Peering for Multimedia Interconnect (SPEERMINT) Terminology
   type: main

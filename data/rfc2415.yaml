@@ -1,7 +1,7 @@
 ---
 id: RFC2415
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Simulation Studies of Increased Initial TCP Window Size
   type: main

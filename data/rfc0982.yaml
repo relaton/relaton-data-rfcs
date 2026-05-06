@@ -1,7 +1,7 @@
 ---
 id: RFC982
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Guidelines for the specification of the structure of the Domain Specific
     Part (DSP) of the ISO standard NSAP address

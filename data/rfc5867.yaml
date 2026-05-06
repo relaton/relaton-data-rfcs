@@ -1,7 +1,7 @@
 ---
 id: RFC5867
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Building Automation Routing Requirements in Low-Power and Lossy Networks
   type: main

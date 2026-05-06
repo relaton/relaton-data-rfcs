@@ -1,7 +1,7 @@
 ---
 id: RFC7553
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: The Uniform Resource Identifier (URI) DNS Resource Record
   type: main

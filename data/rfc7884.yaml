@@ -1,7 +1,7 @@
 ---
 id: RFC7884
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: OSPF Extensions to Advertise Seamless Bidirectional Forwarding Detection
     (S-BFD) Target Discriminators

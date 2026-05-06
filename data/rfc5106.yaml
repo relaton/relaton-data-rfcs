@@ -1,7 +1,7 @@
 ---
 id: RFC5106
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: The Extensible Authentication Protocol-Internet Key Exchange Protocol version
     2 (EAP-IKEv2) Method

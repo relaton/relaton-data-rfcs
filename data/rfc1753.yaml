@@ -1,7 +1,7 @@
 ---
 id: RFC1753
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: IPng Technical Requirements Of the Nimrod Routing and Addressing Architecture
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC3947
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Negotiation of NAT-Traversal in the IKE
   type: main

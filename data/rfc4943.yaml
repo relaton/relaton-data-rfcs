@@ -1,7 +1,7 @@
 ---
 id: RFC4943
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: IPv6 Neighbor Discovery On-Link Assumption Considered Harmful
   type: main

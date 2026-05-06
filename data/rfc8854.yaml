@@ -1,7 +1,7 @@
 ---
 id: RFC8854
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: WebRTC Forward Error Correction Requirements
   type: main

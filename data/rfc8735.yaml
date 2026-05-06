@@ -1,7 +1,7 @@
 ---
 id: RFC8735
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Scenarios and Simulation Results of PCE in a Native IP Network
   type: main

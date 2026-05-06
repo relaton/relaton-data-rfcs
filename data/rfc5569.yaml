@@ -1,7 +1,7 @@
 ---
 id: RFC5569
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: IPv6 Rapid Deployment on IPv4 Infrastructures (6rd)
   type: main

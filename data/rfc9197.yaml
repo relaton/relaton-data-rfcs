@@ -1,7 +1,7 @@
 ---
 id: RFC9197
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Data Fields for In Situ Operations, Administration, and Maintenance (IOAM)
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC4744
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Using the NETCONF Protocol over the Blocks Extensible Exchange Protocol
     (BEEP)

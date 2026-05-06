@@ -1,7 +1,7 @@
 ---
 id: RFC6767
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Ethernet-Based xDSL Multi-Pair Bonding (G.Bond/Ethernet) MIB
   type: main

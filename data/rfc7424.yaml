@@ -1,7 +1,7 @@
 ---
 id: RFC7424
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Mechanisms for Optimizing Link Aggregation Group (LAG) and Equal-Cost Multipath
     (ECMP) Component Link Utilization in Networks

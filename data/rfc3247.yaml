@@ -1,7 +1,7 @@
 ---
 id: RFC3247
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Supplemental Information for the New Definition of the EF PHB (Expedited
     Forwarding Per-Hop Behavior)

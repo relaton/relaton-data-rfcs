@@ -1,7 +1,7 @@
 ---
 id: RFC2561
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Base Definitions of Managed Objects for TN3270E Using SMIv2
   type: main

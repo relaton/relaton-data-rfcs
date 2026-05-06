@@ -1,7 +1,7 @@
 ---
 id: RFC4085
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Embedding Globally-Routable Internet Addresses Considered Harmful
   type: main

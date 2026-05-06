@@ -1,7 +1,7 @@
 ---
 id: RFC8830
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: WebRTC MediaStream Identification in the Session Description Protocol
   type: main

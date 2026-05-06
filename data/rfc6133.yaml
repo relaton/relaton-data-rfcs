@@ -1,7 +1,7 @@
 ---
 id: RFC6133
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'Sieve Email Filtering: Use of Presence Information with Auto-Responder
     Functionality'

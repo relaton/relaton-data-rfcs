@@ -1,7 +1,7 @@
 ---
 id: RFC1479
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'Inter-Domain Policy Routing Protocol Specification: Version 1'
   type: main

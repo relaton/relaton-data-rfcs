@@ -1,7 +1,7 @@
 ---
 id: RFC5522
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Network Mobility Route Optimization Requirements for Operational Use in
     Aeronautics and Space Exploration Mobile Networks

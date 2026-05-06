@@ -1,7 +1,7 @@
 ---
 id: RFC6719
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: The Minimum Rank with Hysteresis Objective Function
   type: main

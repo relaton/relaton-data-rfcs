@@ -1,7 +1,7 @@
 ---
 id: RFC7308
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Extended Administrative Groups in MPLS Traffic Engineering (MPLS-TE)
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC4323
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Data Over Cable System Interface Specification Quality of Service Management
     Information Base (DOCSIS-QoS MIB)

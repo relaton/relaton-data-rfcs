@@ -1,7 +1,7 @@
 ---
 id: RFC8609
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Content-Centric Networking (CCNx) Messages in TLV Format
   type: main

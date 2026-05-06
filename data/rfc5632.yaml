@@ -1,7 +1,7 @@
 ---
 id: RFC5632
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Comcast's ISP Experiences in a Proactive Network Provider Participation
     for P2P (P4P) Technical Trial

@@ -1,7 +1,7 @@
 ---
 id: RFC9802
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Use of the HSS and XMSS Hash-Based Signature Algorithms in Internet X.509
     Public Key Infrastructure

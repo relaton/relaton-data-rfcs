@@ -1,7 +1,7 @@
 ---
 id: RFC4303
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: IP Encapsulating Security Payload (ESP)
   type: main

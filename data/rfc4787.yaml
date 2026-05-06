@@ -1,7 +1,7 @@
 ---
 id: RFC4787
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Network Address Translation (NAT) Behavioral Requirements for Unicast UDP
   type: main

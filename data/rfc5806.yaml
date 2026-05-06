@@ -1,7 +1,7 @@
 ---
 id: RFC5806
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Diversion Indication in SIP
   type: main

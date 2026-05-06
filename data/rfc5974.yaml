@@ -1,7 +1,7 @@
 ---
 id: RFC5974
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: NSIS Signaling Layer Protocol (NSLP) for Quality-of-Service Signaling
   type: main

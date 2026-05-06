@@ -1,7 +1,7 @@
 ---
 id: RFC7464
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: JavaScript Object Notation (JSON) Text Sequences
   type: main

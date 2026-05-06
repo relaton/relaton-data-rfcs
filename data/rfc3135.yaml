@@ -1,7 +1,7 @@
 ---
 id: RFC3135
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Performance Enhancing Proxies Intended to Mitigate Link-Related Degradations
   type: main

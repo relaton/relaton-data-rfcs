@@ -1,7 +1,7 @@
 ---
 id: RFC8369
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Internationalizing IPv6 Using 128-Bit Unicode
   type: main

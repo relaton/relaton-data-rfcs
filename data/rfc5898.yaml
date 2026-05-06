@@ -1,7 +1,7 @@
 ---
 id: RFC5898
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Connectivity Preconditions for Session Description Protocol (SDP) Media
     Streams

@@ -1,7 +1,7 @@
 ---
 id: RFC6308
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Overview of the Internet Multicast Addressing Architecture
   type: main

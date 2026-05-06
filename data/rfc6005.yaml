@@ -1,7 +1,7 @@
 ---
 id: RFC6005
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Generalized MPLS (GMPLS) Support for Metro Ethernet Forum and G.8011 User
     Network Interface (UNI)

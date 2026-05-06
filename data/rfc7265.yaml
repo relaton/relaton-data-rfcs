@@ -1,7 +1,7 @@
 ---
 id: RFC7265
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'jCal: The JSON Format for iCalendar'
   type: main

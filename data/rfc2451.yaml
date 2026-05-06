@@ -1,7 +1,7 @@
 ---
 id: RFC2451
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: The ESP CBC-Mode Cipher Algorithms
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC8492
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Secure Password Ciphersuites for Transport Layer Security (TLS)
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC3239
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'Internet Printing Protocol (IPP): Requirements for Job, Printer, and Device
     Administrative Operations'

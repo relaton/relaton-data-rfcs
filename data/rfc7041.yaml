@@ -1,7 +1,7 @@
 ---
 id: RFC7041
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Extensions to the Virtual Private LAN Service (VPLS) Provider Edge (PE)
     Model for Provider Backbone Bridging

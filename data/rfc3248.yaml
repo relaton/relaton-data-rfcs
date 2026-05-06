@@ -1,7 +1,7 @@
 ---
 id: RFC3248
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: A Delay Bound alternative revision of RFC 2598
   type: main

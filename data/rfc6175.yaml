@@ -1,7 +1,7 @@
 ---
 id: RFC6175
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Requirements to Extend the Datatracker for IETF Working Group Chairs and
     Authors

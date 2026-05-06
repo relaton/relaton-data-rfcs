@@ -1,7 +1,7 @@
 ---
 id: RFC7245
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: An Architecture for Media Recording Using the Session Initiation Protocol
   type: main

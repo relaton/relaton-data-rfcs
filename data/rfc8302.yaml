@@ -1,7 +1,7 @@
 ---
 id: RFC8302
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'Transparent Interconnection of Lots of Links (TRILL): ARP and Neighbor
     Discovery (ND) Optimization'

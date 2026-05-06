@@ -1,7 +1,7 @@
 ---
 id: RFC9222
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Guidelines for Autonomic Service Agents
   type: main

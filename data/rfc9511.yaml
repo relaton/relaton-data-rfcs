@@ -1,7 +1,7 @@
 ---
 id: RFC9511
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Attribution of Internet Probes
   type: main

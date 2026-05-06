@@ -1,7 +1,7 @@
 ---
 id: RFC451
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Tentative proposal for a Unified User Level Protocol
   type: main

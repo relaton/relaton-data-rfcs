@@ -1,7 +1,7 @@
 ---
 id: RFC4070
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Definitions of Managed Object Extensions for Very High Speed Digital Subscriber
     Lines (VDSL) Using Multiple Carrier Modulation (MCM) Line Coding

@@ -1,7 +1,7 @@
 ---
 id: RFC483
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Cancellation of the resource notebook framework meeting
   type: main

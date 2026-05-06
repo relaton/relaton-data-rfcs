@@ -1,7 +1,7 @@
 ---
 id: RFC6781
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: DNSSEC Operational Practices, Version 2
   type: main

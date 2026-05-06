@@ -1,7 +1,7 @@
 ---
 id: RFC2728
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: The Transmission of IP Over the Vertical Blanking Interval of a Television
     Signal

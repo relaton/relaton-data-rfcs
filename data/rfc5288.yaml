@@ -1,7 +1,7 @@
 ---
 id: RFC5288
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: AES Galois Counter Mode (GCM) Cipher Suites for TLS
   type: main

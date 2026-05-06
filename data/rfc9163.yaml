@@ -1,7 +1,7 @@
 ---
 id: RFC9163
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Expect-CT Extension for HTTP
   type: main

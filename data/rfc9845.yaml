@@ -1,7 +1,7 @@
 ---
 id: RFC9845
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Challenges and Opportunities in Management for Green Networking
   type: main

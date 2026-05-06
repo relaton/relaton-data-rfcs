@@ -1,7 +1,7 @@
 ---
 id: RFC3822
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Finding Fibre Channel over TCP/IP (FCIP) Entities Using Service Location
     Protocol version 2 (SLPv2)

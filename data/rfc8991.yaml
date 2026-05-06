@@ -1,7 +1,7 @@
 ---
 id: RFC8991
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: GeneRic Autonomic Signaling Protocol Application Program Interface (GRASP
     API)

@@ -1,7 +1,7 @@
 ---
 id: RFC1347
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: TCP and UDP with Bigger Addresses (TUBA), A Simple Proposal for Internet
     Addressing and Routing

@@ -1,7 +1,7 @@
 ---
 id: RFC9203
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: The Object Security for Constrained RESTful Environments (OSCORE) Profile
     of the Authentication and Authorization for Constrained Environments (ACE) Framework

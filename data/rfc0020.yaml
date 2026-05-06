@@ -1,7 +1,7 @@
 ---
 id: RFC20
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: ASCII format for network interchange
   type: main

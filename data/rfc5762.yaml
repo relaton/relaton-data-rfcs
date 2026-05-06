@@ -1,7 +1,7 @@
 ---
 id: RFC5762
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: RTP and the Datagram Congestion Control Protocol (DCCP)
   type: main

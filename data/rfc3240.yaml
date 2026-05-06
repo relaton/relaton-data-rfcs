@@ -1,7 +1,7 @@
 ---
 id: RFC3240
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Digital Imaging and Communications in Medicine (DICOM) - Application/dicom
     MIME Sub-type Registration

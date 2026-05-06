@@ -1,7 +1,7 @@
 ---
 id: RFC115
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Some Network Information Center policies on handling documents
   type: main

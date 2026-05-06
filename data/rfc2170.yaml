@@ -1,7 +1,7 @@
 ---
 id: RFC2170
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Application REQuested IP over ATM (AREQUIPA)
   type: main

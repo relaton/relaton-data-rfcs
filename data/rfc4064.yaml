@@ -1,7 +1,7 @@
 ---
 id: RFC4064
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Experimental Message, Extensions, and Error Codes for Mobile IPv4
   type: main

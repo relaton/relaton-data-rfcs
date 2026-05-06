@@ -1,7 +1,7 @@
 ---
 id: RFC2780
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: IANA Allocation Guidelines For Values In the Internet Protocol and Related
     Headers

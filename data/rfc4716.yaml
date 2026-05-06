@@ -1,7 +1,7 @@
 ---
 id: RFC4716
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: The Secure Shell (SSH) Public Key File Format
   type: main

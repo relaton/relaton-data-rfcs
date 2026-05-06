@@ -1,7 +1,7 @@
 ---
 id: RFC8824
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Static Context Header Compression (SCHC) for the Constrained Application
     Protocol (CoAP)

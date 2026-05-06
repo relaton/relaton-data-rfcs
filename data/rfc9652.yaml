@@ -1,7 +1,7 @@
 ---
 id: RFC9652
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: The Link-Template HTTP Header Field
   type: main

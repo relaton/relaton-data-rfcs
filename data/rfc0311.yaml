@@ -1,7 +1,7 @@
 ---
 id: RFC311
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: New Console Attachments to the USCB Host
   type: main

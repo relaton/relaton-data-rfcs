@@ -1,7 +1,7 @@
 ---
 id: RFC1764
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: The PPP XNS IDP Control Protocol (XNSCP)
   type: main

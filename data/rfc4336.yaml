@@ -1,7 +1,7 @@
 ---
 id: RFC4336
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Problem Statement for the Datagram Congestion Control Protocol (DCCP)
   type: main

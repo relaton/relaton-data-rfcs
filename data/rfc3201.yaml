@@ -1,7 +1,7 @@
 ---
 id: RFC3201
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Definitions of Managed Objects for Circuit to Interface Translation
   type: main

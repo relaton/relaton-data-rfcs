@@ -1,7 +1,7 @@
 ---
 id: RFC8689
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: SMTP Require TLS Option
   type: main

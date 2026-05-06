@@ -1,7 +1,7 @@
 ---
 id: RFC3721
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Internet Small Computer Systems Interface (iSCSI) Naming and Discovery
   type: main

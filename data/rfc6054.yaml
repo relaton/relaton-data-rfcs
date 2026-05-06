@@ -1,7 +1,7 @@
 ---
 id: RFC6054
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Using Counter Modes with Encapsulating Security Payload (ESP) and Authentication
     Header (AH) to Protect Group Traffic

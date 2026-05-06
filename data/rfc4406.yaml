@@ -1,7 +1,7 @@
 ---
 id: RFC4406
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'Sender ID: Authenticating E-Mail'
   type: main

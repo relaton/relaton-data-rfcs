@@ -1,7 +1,7 @@
 ---
 id: RFC5924
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Extended Key Usage (EKU) for Session Initiation Protocol (SIP) X.509 Certificates
   type: main

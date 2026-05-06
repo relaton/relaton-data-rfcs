@@ -1,7 +1,7 @@
 ---
 id: RFC7294
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: RTP Control Protocol (RTCP) Extended Report (XR) Blocks for Concealment
     Metrics Reporting on Audio Applications

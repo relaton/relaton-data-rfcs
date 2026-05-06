@@ -1,7 +1,7 @@
 ---
 id: RFC8213
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Security of Messages Exchanged between Servers and Relay Agents
   type: main

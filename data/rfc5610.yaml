@@ -1,7 +1,7 @@
 ---
 id: RFC5610
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Exporting Type Information for IP Flow Information Export (IPFIX) Information
     Elements

@@ -1,7 +1,7 @@
 ---
 id: RFC8480
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 6TiSCH Operation Sublayer (6top) Protocol (6P)
   type: main

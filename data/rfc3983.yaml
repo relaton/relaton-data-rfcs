@@ -1,7 +1,7 @@
 ---
 id: RFC3983
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Using the Internet Registry Information Service (IRIS) over the Blocks
     Extensible Exchange Protocol (BEEP)

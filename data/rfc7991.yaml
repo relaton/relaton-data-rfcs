@@ -1,7 +1,7 @@
 ---
 id: RFC7991
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: The "xml2rfc" Version 3 Vocabulary
   type: main

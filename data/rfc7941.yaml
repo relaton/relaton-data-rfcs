@@ -1,7 +1,7 @@
 ---
 id: RFC7941
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: RTP Header Extension for the RTP Control Protocol (RTCP) Source Description
     Items

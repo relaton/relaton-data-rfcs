@@ -1,7 +1,7 @@
 ---
 id: RFC4152
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: A Uniform Resource Name (URN) Namespace for the Common Language Equipment
     Identifier (CLEI) Code

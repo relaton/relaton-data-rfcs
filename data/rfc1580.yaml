@@ -1,7 +1,7 @@
 ---
 id: RFC1580
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Guide to Network Resource Tools
   type: main

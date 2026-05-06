@@ -1,7 +1,7 @@
 ---
 id: RFC7698
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Framework and Requirements for GMPLS-Based Control of Flexi-Grid Dense
     Wavelength Division Multiplexing (DWDM) Networks

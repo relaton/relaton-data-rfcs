@@ -1,7 +1,7 @@
 ---
 id: RFC9122
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: IANA Registry for Sieve Actions
   type: main

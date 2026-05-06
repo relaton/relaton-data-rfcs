@@ -1,7 +1,7 @@
 ---
 id: RFC4549
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Synchronization Operations for Disconnected IMAP4 Clients
   type: main

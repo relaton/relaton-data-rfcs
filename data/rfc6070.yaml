@@ -1,7 +1,7 @@
 ---
 id: RFC6070
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'PKCS #5: Password-Based Key Derivation Function 2 (PBKDF2) Test Vectors'
   type: main

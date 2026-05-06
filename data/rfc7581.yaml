@@ -1,7 +1,7 @@
 ---
 id: RFC7581
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Routing and Wavelength Assignment Information Encoding for Wavelength Switched
     Optical Networks

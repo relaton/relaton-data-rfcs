@@ -1,7 +1,7 @@
 ---
 id: RFC6071
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: IP Security (IPsec) and Internet Key Exchange (IKE) Document Roadmap
   type: main

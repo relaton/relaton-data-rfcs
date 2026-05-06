@@ -1,7 +1,7 @@
 ---
 id: RFC5748
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: IANA Registry Update for Support of the SEED Cipher Algorithm in Multimedia
     Internet KEYing (MIKEY)

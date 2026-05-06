@@ -1,7 +1,7 @@
 ---
 id: RFC2142
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Mailbox Names for Common Services, Roles and Functions
   type: main

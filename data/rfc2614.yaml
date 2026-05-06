@@ -1,7 +1,7 @@
 ---
 id: RFC2614
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: An API for Service Location
   type: main

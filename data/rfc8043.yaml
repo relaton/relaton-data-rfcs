@@ -1,7 +1,7 @@
 ---
 id: RFC8043
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'Source-Address-Dependent Routing and Source Address Selection for IPv6
     Hosts: Overview of the Problem Space'

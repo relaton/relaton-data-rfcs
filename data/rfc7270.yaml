@@ -1,7 +1,7 @@
 ---
 id: RFC7270
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Cisco-Specific Information Elements Reused in IP Flow Information Export
     (IPFIX)

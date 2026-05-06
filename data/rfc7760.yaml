@@ -1,7 +1,7 @@
 ---
 id: RFC7760
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Statement of Work for Extensions to the IETF Datatracker for Author Statistics
   type: main

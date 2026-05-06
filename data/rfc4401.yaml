@@ -1,7 +1,7 @@
 ---
 id: RFC4401
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: A Pseudo-Random Function (PRF) API Extension for the Generic Security Service
     Application Program Interface (GSS-API)

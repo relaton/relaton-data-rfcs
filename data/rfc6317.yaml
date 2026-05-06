@@ -1,7 +1,7 @@
 ---
 id: RFC6317
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Basic Socket Interface Extensions for the Host Identity Protocol (HIP)
   type: main

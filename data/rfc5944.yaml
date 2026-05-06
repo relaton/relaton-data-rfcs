@@ -1,7 +1,7 @@
 ---
 id: RFC5944
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: IP Mobility Support for IPv4, Revised
   type: main

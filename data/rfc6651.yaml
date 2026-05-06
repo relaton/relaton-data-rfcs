@@ -1,7 +1,7 @@
 ---
 id: RFC6651
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Extensions to DomainKeys Identified Mail (DKIM) for Failure Reporting
   type: main

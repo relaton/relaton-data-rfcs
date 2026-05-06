@@ -1,7 +1,7 @@
 ---
 id: RFC4701
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: A DNS Resource Record (RR) for Encoding Dynamic Host Configuration Protocol
     (DHCP) Information (DHCID RR)

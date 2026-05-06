@@ -1,7 +1,7 @@
 ---
 id: RFC6464
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: A Real-time Transport Protocol (RTP) Header Extension for Client-to-Mixer
     Audio Level Indication

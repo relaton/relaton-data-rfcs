@@ -1,7 +1,7 @@
 ---
 id: RFC9497
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Oblivious Pseudorandom Functions (OPRFs) Using Prime-Order Groups
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC4687
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Operations and Management (OAM) Requirements  for Point-to-Multipoint MPLS
     Networks

@@ -1,7 +1,7 @@
 ---
 id: RFC5725
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Post-Repair Loss RLE Report Block Type for RTP Control Protocol (RTCP)
     Extended Reports (XRs)

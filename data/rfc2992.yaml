@@ -1,7 +1,7 @@
 ---
 id: RFC2992
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Analysis of an Equal-Cost Multi-Path Algorithm
   type: main

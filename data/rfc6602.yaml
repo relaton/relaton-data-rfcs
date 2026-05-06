@@ -1,7 +1,7 @@
 ---
 id: RFC6602
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Bulk Binding Update Support for Proxy Mobile IPv6
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC7830
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: The EDNS(0) Padding Option
   type: main

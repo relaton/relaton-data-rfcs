@@ -1,7 +1,7 @@
 ---
 id: RFC1401
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Correspondence between the IAB and DISA on the use of DNS
   type: main

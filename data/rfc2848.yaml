@@ -1,7 +1,7 @@
 ---
 id: RFC2848
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'The PINT Service Protocol: Extensions to SIP and SDP for IP Access to
     Telephone Call Services'

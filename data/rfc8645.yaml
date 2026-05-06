@@ -1,7 +1,7 @@
 ---
 id: RFC8645
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Re-keying Mechanisms for Symmetric Keys
   type: main

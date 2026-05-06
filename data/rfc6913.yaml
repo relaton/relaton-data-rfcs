@@ -1,7 +1,7 @@
 ---
 id: RFC6913
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Indicating Fax over IP Capability in the Session Initiation Protocol (SIP)
   type: main

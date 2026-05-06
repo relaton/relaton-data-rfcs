@@ -1,7 +1,7 @@
 ---
 id: RFC3737
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: IANA Guidelines for the Registry of Remote Monitoring (RMON) MIB modules
   type: main

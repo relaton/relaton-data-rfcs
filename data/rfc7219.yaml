@@ -1,7 +1,7 @@
 ---
 id: RFC7219
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: SEcure Neighbor Discovery (SEND) Source Address Validation Improvement
     (SAVI)

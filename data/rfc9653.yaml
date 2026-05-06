@@ -1,7 +1,7 @@
 ---
 id: RFC9653
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Zero Checksum for the Stream Control Transmission Protocol
   type: main

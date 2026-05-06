@@ -1,7 +1,7 @@
 ---
 id: RFC9624
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: EVPN Broadcast, Unknown Unicast, or Multicast (BUM) Using Bit Index Explicit
     Replication (BIER)

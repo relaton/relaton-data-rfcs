@@ -1,7 +1,7 @@
 ---
 id: RFC2286
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Test Cases for HMAC-RIPEMD160 and HMAC-RIPEMD128
   type: main

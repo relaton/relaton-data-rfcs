@@ -1,7 +1,7 @@
 ---
 id: RFC8630
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Resource Public Key Infrastructure (RPKI) Trust Anchor Locator
   type: main

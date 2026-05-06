@@ -1,7 +1,7 @@
 ---
 id: RFC6972
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Problem Statement and Requirements of the Peer-to-Peer Streaming Protocol
     (PPSP)

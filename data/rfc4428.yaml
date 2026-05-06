@@ -1,7 +1,7 @@
 ---
 id: RFC4428
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Analysis of Generalized Multi-Protocol Label Switching (GMPLS)-based Recovery
     Mechanisms (including Protection and Restoration)

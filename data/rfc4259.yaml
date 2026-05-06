@@ -1,7 +1,7 @@
 ---
 id: RFC4259
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: A Framework for Transmission of IP Datagrams over MPEG-2 Networks
   type: main

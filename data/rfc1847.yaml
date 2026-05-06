@@ -1,7 +1,7 @@
 ---
 id: RFC1847
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'Security Multiparts for MIME: Multipart/Signed and Multipart/Encrypted'
   type: main

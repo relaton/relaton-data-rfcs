@@ -1,7 +1,7 @@
 ---
 id: RFC46
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: ARPA Network protocol notes
   type: main

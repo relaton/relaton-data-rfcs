@@ -1,7 +1,7 @@
 ---
 id: RFC5111
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Experiment in Exploratory Group Formation within the Internet Engineering
     Task Force (IETF)

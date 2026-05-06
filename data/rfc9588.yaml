@@ -1,7 +1,7 @@
 ---
 id: RFC9588
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Kerberos Simple Password-Authenticated Key Exchange (SPAKE) Pre-authentication
   type: main

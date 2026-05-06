@@ -1,7 +1,7 @@
 ---
 id: RFC6814
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Formally Deprecating Some IPv4 Options
   type: main

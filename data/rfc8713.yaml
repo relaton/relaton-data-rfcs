@@ -1,7 +1,7 @@
 ---
 id: RFC8713
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'IAB, IESG, IETF Trust, and IETF LLC Selection, Confirmation, and Recall
     Process: Operation of the IETF Nominating and Recall Committees'

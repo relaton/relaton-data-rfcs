@@ -1,7 +1,7 @@
 ---
 id: RFC3081
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Mapping the BEEP Core onto TCP
   type: main

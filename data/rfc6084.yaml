@@ -1,7 +1,7 @@
 ---
 id: RFC6084
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: General Internet Signaling Transport (GIST) over Stream Control Transmission
     Protocol (SCTP) and Datagram Transport Layer Security (DTLS)

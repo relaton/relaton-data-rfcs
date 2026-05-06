@@ -1,7 +1,7 @@
 ---
 id: RFC7856
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Softwire Mesh Management Information Base (MIB)
   type: main

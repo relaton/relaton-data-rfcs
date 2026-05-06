@@ -1,7 +1,7 @@
 ---
 id: RFC6821
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'Improving Peer Selection in Peer-to-peer Applications: Myths vs. Reality'
   type: main

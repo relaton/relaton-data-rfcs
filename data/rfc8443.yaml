@@ -1,7 +1,7 @@
 ---
 id: RFC8443
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Personal Assertion Token (PASSporT) Extension for Resource Priority Authorization
   type: main

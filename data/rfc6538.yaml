@@ -1,7 +1,7 @@
 ---
 id: RFC6538
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: The Host Identity Protocol (HIP) Experiment Report
   type: main

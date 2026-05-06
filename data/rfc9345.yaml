@@ -1,7 +1,7 @@
 ---
 id: RFC9345
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Delegated Credentials for TLS and DTLS
   type: main

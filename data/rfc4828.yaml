@@ -1,7 +1,7 @@
 ---
 id: RFC4828
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'TCP Friendly Rate Control (TFRC): The Small-Packet (SP) Variant'
   type: main

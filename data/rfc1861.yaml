@@ -1,7 +1,7 @@
 ---
 id: RFC1861
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Simple Network Paging Protocol - Version 3 -Two-Way Enhanced
   type: main

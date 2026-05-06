@@ -1,7 +1,7 @@
 ---
 id: RFC6744
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: IPv6 Nonce Destination Option for the Identifier-Locator Network Protocol
     for IPv6 (ILNPv6)

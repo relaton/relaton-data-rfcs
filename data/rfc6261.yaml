@@ -1,7 +1,7 @@
 ---
 id: RFC6261
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Encrypted Signaling Transport Modes for the Host Identity Protocol
   type: main

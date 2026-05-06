@@ -1,7 +1,7 @@
 ---
 id: RFC6981
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: A Framework for IP and MPLS Fast Reroute Using Not-Via Addresses
   type: main

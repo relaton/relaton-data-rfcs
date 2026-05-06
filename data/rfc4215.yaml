@@ -1,7 +1,7 @@
 ---
 id: RFC4215
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Analysis on IPv6 Transition in Third Generation Partnership Project (3GPP)
     Networks

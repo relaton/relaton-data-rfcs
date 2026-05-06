@@ -1,7 +1,7 @@
 ---
 id: RFC2384
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: POP URL Scheme
   type: main

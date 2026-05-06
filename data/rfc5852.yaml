@@ -1,7 +1,7 @@
 ---
 id: RFC5852
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: RSVP-TE Signaling Extension for LSP Handover from the Management Plane
     to the Control Plane in a GMPLS-Enabled Transport Network

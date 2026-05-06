@@ -1,7 +1,7 @@
 ---
 id: RFC1312
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Message Send Protocol 2
   type: main

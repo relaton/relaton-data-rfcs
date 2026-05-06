@@ -1,7 +1,7 @@
 ---
 id: RFC505
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Two solutions to a file transfer access problem
   type: main

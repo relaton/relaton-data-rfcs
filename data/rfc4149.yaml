@@ -1,7 +1,7 @@
 ---
 id: RFC4149
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Definition of Managed Objects for Synthetic Sources for Performance Monitoring
     Algorithms

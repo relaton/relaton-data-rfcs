@@ -1,7 +1,7 @@
 ---
 id: RFC3408
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Zero-byte Support for Bidirectional Reliable Mode (R-mode) in Extended
     Link-Layer Assisted RObust Header Compression (ROHC) Profile

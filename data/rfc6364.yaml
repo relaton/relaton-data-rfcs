@@ -1,7 +1,7 @@
 ---
 id: RFC6364
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Session Description Protocol Elements for the Forward Error Correction
     (FEC) Framework

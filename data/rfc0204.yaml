@@ -1,7 +1,7 @@
 ---
 id: RFC204
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Sockets in use
   type: main

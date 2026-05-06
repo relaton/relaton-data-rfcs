@@ -1,7 +1,7 @@
 ---
 id: RFC3050
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Common Gateway Interface for SIP
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC3760
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Securely Available Credentials (SACRED) - Credential Server Framework
   type: main

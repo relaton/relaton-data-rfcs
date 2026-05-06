@@ -1,7 +1,7 @@
 ---
 id: RFC5749
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Distribution of EAP-Based Keys for Handover and Re-Authentication
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC6477
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Registration of Military Message Handling System (MMHS) Header Fields for
     Use in Internet Mail

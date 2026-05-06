@@ -1,7 +1,7 @@
 ---
 id: RFC4797
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Use of Provider Edge to Provider Edge (PE-PE) Generic Routing Encapsulation
     (GRE) or IP in BGP/MPLS IP Virtual Private Networks

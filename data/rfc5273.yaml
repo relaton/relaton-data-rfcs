@@ -1,7 +1,7 @@
 ---
 id: RFC5273
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'Certificate Management over CMS (CMC): Transport Protocols'
   type: main

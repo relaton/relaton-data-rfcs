@@ -1,7 +1,7 @@
 ---
 id: RFC4892
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Requirements for a Mechanism Identifying a Name Server Instance
   type: main

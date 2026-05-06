@@ -1,7 +1,7 @@
 ---
 id: RFC1615
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Migrating from X.400(84) to X.400(88)
   type: main

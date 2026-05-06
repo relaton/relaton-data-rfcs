@@ -1,7 +1,7 @@
 ---
 id: RFC2270
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Using a Dedicated AS for Sites  Homed to a Single Provider
   type: main

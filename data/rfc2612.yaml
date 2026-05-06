@@ -1,7 +1,7 @@
 ---
 id: RFC2612
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: The CAST-256 Encryption Algorithm
   type: main

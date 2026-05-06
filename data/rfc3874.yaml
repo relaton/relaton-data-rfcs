@@ -1,7 +1,7 @@
 ---
 id: RFC3874
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'A 224-bit One-way Hash Function: SHA-224'
   type: main

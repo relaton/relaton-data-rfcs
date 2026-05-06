@@ -1,7 +1,7 @@
 ---
 id: RFC1949
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Scalable Multicast Key Distribution
   type: main

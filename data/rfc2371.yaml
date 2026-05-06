@@ -1,7 +1,7 @@
 ---
 id: RFC2371
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Transaction Internet Protocol Version 3.0
   type: main

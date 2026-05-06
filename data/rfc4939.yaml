@@ -1,7 +1,7 @@
 ---
 id: RFC4939
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Definitions of Managed Objects for iSNS (Internet Storage Name Service)
   type: main

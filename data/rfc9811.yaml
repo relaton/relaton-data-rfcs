@@ -1,7 +1,7 @@
 ---
 id: RFC9811
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Internet X.509 Public Key Infrastructure -- HTTP Transfer for the Certificate
     Management Protocol (CMP)

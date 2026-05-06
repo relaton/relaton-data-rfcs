@@ -1,7 +1,7 @@
 ---
 id: RFC9766
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Extensions for Weak Cache Consistency in NFSv4.2's Flexible File Layout
   type: main

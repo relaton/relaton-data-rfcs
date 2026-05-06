@@ -1,7 +1,7 @@
 ---
 id: RFC7634
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: ChaCha20, Poly1305, and Their Use in the Internet Key Exchange Protocol
     (IKE) and IPsec

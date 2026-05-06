@@ -1,7 +1,7 @@
 ---
 id: RFC2857
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: The Use of HMAC-RIPEMD-160-96 within ESP and AH
   type: main

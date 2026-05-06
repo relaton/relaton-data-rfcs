@@ -1,7 +1,7 @@
 ---
 id: RFC501
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Un-muddling "free file transfer"
   type: main

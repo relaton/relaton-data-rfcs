@@ -1,7 +1,7 @@
 ---
 id: RFC5676
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Definitions of Managed Objects for Mapping SYSLOG Messages to Simple Network
     Management Protocol (SNMP) Notifications

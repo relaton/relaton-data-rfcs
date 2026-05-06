@@ -1,7 +1,7 @@
 ---
 id: RFC8173
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Precision Time Protocol Version 2 (PTPv2) Management Information Base
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC4618
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Encapsulation Methods for Transport of PPP/High-Level Data Link Control
     (HDLC) over MPLS Networks

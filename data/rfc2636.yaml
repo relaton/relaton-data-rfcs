@@ -1,7 +1,7 @@
 ---
 id: RFC2636
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Wireless Device Configuration (OTASP/OTAPA) via ACAP
   type: main

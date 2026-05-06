@@ -1,7 +1,7 @@
 ---
 id: RFC6217
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Regional Broadcast Using an Atmospheric Link Layer
   type: main

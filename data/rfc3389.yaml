@@ -1,7 +1,7 @@
 ---
 id: RFC3389
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Real-time Transport Protocol (RTP) Payload for Comfort Noise (CN)
   type: main

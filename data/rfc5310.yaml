@@ -1,7 +1,7 @@
 ---
 id: RFC5310
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: IS-IS Generic Cryptographic Authentication
   type: main

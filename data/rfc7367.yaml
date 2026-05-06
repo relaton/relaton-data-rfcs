@@ -1,7 +1,7 @@
 ---
 id: RFC7367
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Definition of Managed Objects for the Mobile Ad Hoc Network (MANET) Simplified
     Multicast Framework Relay Set Process

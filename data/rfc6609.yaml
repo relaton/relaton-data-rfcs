@@ -1,7 +1,7 @@
 ---
 id: RFC6609
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'Sieve Email Filtering: Include Extension'
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC32
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Some Thoughts on SRI's Proposed Real Time Clock
   type: main

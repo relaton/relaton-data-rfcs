@@ -1,7 +1,7 @@
 ---
 id: RFC9186
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Fast Failover in Protocol Independent Multicast - Sparse Mode (PIM-SM)
     Using Bidirectional Forwarding Detection (BFD) for Multipoint Networks

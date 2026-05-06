@@ -1,7 +1,7 @@
 ---
 id: RFC5123
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Considerations in Validating the Path in BGP
   type: main

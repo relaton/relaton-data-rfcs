@@ -1,7 +1,7 @@
 ---
 id: RFC8669
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Segment Routing Prefix Segment Identifier Extensions for BGP
   type: main

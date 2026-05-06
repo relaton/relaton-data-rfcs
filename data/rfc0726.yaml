@@ -1,7 +1,7 @@
 ---
 id: RFC726
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Remote Controlled Transmission and Echoing Telnet option
   type: main

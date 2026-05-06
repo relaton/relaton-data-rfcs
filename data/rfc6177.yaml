@@ -1,7 +1,7 @@
 ---
 id: RFC6177
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: IPv6 Address Assignment to End Sites
   type: main

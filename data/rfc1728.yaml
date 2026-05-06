@@ -1,7 +1,7 @@
 ---
 id: RFC1728
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Resource Transponders
   type: main

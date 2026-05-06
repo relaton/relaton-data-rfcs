@@ -1,7 +1,7 @@
 ---
 id: RFC4591
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Frame Relay over Layer 2 Tunneling Protocol Version 3 (L2TPv3)
   type: main

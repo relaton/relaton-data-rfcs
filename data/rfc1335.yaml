@@ -1,7 +1,7 @@
 ---
 id: RFC1335
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'A Two-Tier Address Structure for the Internet: A Solution to the Problem
     of Address Space Exhaustion'

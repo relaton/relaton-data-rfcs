@@ -1,7 +1,7 @@
 ---
 id: RFC6296
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: IPv6-to-IPv6 Network Prefix Translation
   type: main

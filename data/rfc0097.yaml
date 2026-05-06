@@ -1,7 +1,7 @@
 ---
 id: RFC97
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: First Cut at a Proposed Telnet Protocol
   type: main

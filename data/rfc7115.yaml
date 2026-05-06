@@ -1,7 +1,7 @@
 ---
 id: RFC7115
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Origin Validation Operation Based on the Resource Public Key Infrastructure
     (RPKI)

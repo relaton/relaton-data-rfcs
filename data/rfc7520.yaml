@@ -1,7 +1,7 @@
 ---
 id: RFC7520
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Examples of Protecting Content Using JSON Object Signing and Encryption
     (JOSE)

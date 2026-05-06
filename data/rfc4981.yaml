@@ -1,7 +1,7 @@
 ---
 id: RFC4981
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'Survey of Research towards Robust Peer-to-Peer Networks: Search Methods'
   type: main

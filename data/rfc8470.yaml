@@ -1,7 +1,7 @@
 ---
 id: RFC8470
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Using Early Data in HTTP
   type: main

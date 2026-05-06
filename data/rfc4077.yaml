@@ -1,7 +1,7 @@
 ---
 id: RFC4077
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: A Negative Acknowledgement Mechanism for Signaling Compression
   type: main

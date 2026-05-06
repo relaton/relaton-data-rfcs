@@ -1,7 +1,7 @@
 ---
 id: RFC1074
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: NSFNET backbone SPF based Interior Gateway Protocol
   type: main

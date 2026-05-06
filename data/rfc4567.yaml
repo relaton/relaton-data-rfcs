@@ -1,7 +1,7 @@
 ---
 id: RFC4567
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Key Management Extensions for Session Description Protocol (SDP) and Real
     Time Streaming Protocol (RTSP)

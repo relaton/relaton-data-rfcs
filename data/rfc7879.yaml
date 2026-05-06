@@ -1,7 +1,7 @@
 ---
 id: RFC7879
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: DTLS-SRTP Handling in SIP Back-to-Back User Agents
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC8305
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'Happy Eyeballs Version 2: Better Connectivity Using Concurrency'
   type: main

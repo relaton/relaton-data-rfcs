@@ -1,7 +1,7 @@
 ---
 id: RFC301
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: BBN IMP (#5) and NCC Schedule March 4, 1971
   type: main

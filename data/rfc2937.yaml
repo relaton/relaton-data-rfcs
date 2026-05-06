@@ -1,7 +1,7 @@
 ---
 id: RFC2937
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: The Name Service Search Option for DHCP
   type: main

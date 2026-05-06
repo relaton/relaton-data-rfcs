@@ -1,7 +1,7 @@
 ---
 id: RFC9134
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: RTP Payload Format for ISO/IEC 21122 (JPEG XS)
   type: main

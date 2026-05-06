@@ -1,7 +1,7 @@
 ---
 id: RFC6925
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: The DHCPv4 Relay Agent Identifier Sub-Option
   type: main

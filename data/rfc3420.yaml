@@ -1,7 +1,7 @@
 ---
 id: RFC3420
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Internet Media Type message/sipfrag
   type: main

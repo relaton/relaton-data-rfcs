@@ -1,7 +1,7 @@
 ---
 id: RFC591
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Addition to the Very Distant Host specifications
   type: main

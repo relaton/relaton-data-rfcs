@@ -1,7 +1,7 @@
 ---
 id: RFC6807
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Population Count Extensions to Protocol Independent Multicast (PIM)
   type: main

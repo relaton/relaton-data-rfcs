@@ -1,7 +1,7 @@
 ---
 id: RFC4278
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Standards Maturity Variance Regarding the TCP MD5 Signature Option (RFC
     2385) and the BGP-4 Specification

@@ -1,7 +1,7 @@
 ---
 id: RFC6293
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Requirements for Internet-Draft Tracking by the IETF Community in the Datatracker
   type: main

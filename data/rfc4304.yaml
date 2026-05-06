@@ -1,7 +1,7 @@
 ---
 id: RFC4304
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Extended Sequence Number (ESN) Addendum to IPsec Domain of Interpretation
     (DOI) for Internet Security Association and Key Management Protocol (ISAKMP)

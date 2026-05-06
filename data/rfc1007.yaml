@@ -1,7 +1,7 @@
 ---
 id: RFC1007
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Military supplement to the ISO Transport Protocol
   type: main

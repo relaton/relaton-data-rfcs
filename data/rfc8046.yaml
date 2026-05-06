@@ -1,7 +1,7 @@
 ---
 id: RFC8046
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Host Mobility with the Host Identity Protocol
   type: main

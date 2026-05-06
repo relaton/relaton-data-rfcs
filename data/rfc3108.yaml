@@ -1,7 +1,7 @@
 ---
 id: RFC3108
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Conventions for the use of the Session Description Protocol (SDP) for ATM
     Bearer Connections

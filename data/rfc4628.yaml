@@ -1,7 +1,7 @@
 ---
 id: RFC4628
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: RTP Payload Format for H.263 Moving RFC 2190 to Historic Status
   type: main

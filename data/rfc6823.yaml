@@ -1,7 +1,7 @@
 ---
 id: RFC6823
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Advertising Generic Information in IS-IS
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC4189
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Requirements for End-to-Middle Security for the Session Initiation Protocol
     (SIP)

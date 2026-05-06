@@ -1,7 +1,7 @@
 ---
 id: RFC3745
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: MIME Type Registrations for JPEG 2000 (ISO/IEC 15444)
   type: main

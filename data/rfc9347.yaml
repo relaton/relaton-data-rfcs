@@ -1,7 +1,7 @@
 ---
 id: RFC9347
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Aggregation and Fragmentation Mode for Encapsulating Security Payload (ESP)
     and Its Use for IP Traffic Flow Security (IP-TFS)

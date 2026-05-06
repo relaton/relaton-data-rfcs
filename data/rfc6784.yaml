@@ -1,7 +1,7 @@
 ---
 id: RFC6784
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Kerberos Options for DHCPv6
   type: main

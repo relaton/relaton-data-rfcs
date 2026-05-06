@@ -1,7 +1,7 @@
 ---
 id: RFC2529
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Transmission of IPv6 over IPv4 Domains without Explicit Tunnels
   type: main

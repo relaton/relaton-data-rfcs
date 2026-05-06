@@ -1,7 +1,7 @@
 ---
 id: RFC5256
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Internet Message Access Protocol - SORT and THREAD Extensions
   type: main

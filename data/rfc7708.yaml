@@ -1,7 +1,7 @@
 ---
 id: RFC7708
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Using a Generic Associated Channel Label as a Virtual Circuit Connectivity
     Verification Channel Indicator

@@ -1,7 +1,7 @@
 ---
 id: RFC6509
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'MIKEY-SAKKE: Sakai-Kasahara Key Encryption in Multimedia Internet KEYing
     (MIKEY)'

@@ -1,7 +1,7 @@
 ---
 id: RFC8714
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Update to the Process for Selection of Trustees for the IETF Trust
   type: main

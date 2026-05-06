@@ -1,7 +1,7 @@
 ---
 id: RFC978
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Voice File Interchange Protocol (VFIP)
   type: main

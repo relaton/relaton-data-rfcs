@@ -1,7 +1,7 @@
 ---
 id: RFC5219
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: A More Loss-Tolerant RTP Payload Format for MP3 Audio
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC7421
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Analysis of the 64-bit Boundary in IPv6 Addressing
   type: main

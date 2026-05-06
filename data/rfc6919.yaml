@@ -1,7 +1,7 @@
 ---
 id: RFC6919
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Further Key Words for Use in RFCs to Indicate Requirement Levels
   type: main

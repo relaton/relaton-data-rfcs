@@ -1,7 +1,7 @@
 ---
 id: RFC1625
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: WAIS over Z39.50-1988
   type: main

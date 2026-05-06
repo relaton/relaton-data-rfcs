@@ -1,7 +1,7 @@
 ---
 id: RFC627
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: ASCII text file of hostnames
   type: main

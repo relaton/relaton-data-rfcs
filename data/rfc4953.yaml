@@ -1,7 +1,7 @@
 ---
 id: RFC4953
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Defending TCP Against Spoofing Attacks
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC6064
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: SDP and RTSP Extensions Defined for 3GPP Packet-Switched Streaming Service
     and Multimedia Broadcast/Multicast Service

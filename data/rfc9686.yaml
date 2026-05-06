@@ -1,7 +1,7 @@
 ---
 id: RFC9686
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Registering Self-Generated IPv6 Addresses Using DHCPv6
   type: main

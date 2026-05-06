@@ -1,7 +1,7 @@
 ---
 id: RFC4352
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: RTP Payload Format for the Extended Adaptive Multi-Rate Wideband (AMR-WB+)
     Audio Codec

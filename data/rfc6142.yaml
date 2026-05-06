@@ -1,7 +1,7 @@
 ---
 id: RFC6142
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: ANSI C12.22, IEEE 1703, and MC12.22 Transport Over IP
   type: main

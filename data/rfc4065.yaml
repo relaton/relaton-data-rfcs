@@ -1,7 +1,7 @@
 ---
 id: RFC4065
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Instructions for Seamoby and Experimental Mobility Protocol IANA Allocations
   type: main

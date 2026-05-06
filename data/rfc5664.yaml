@@ -1,7 +1,7 @@
 ---
 id: RFC5664
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Object-Based Parallel NFS (pNFS) Operations
   type: main

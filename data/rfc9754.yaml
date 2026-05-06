@@ -1,7 +1,7 @@
 ---
 id: RFC9754
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Extensions for Opening and Delegating Files in NFSv4.2
   type: main

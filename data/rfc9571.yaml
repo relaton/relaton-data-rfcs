@@ -1,7 +1,7 @@
 ---
 id: RFC9571
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Extension of RFC 6374-Based Performance Measurement Using Synonymous Flow
     Labels

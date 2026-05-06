@@ -1,7 +1,7 @@
 ---
 id: RFC6190
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: RTP Payload Format for Scalable Video Coding
   type: main

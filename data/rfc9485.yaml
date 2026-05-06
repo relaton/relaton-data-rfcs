@@ -1,7 +1,7 @@
 ---
 id: RFC9485
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'I-Regexp: An Interoperable Regular Expression Format'
   type: main

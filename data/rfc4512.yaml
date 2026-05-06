@@ -1,7 +1,7 @@
 ---
 id: RFC4512
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'Lightweight Directory Access Protocol (LDAP): Directory Information Models'
   type: main

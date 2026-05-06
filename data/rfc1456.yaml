@@ -1,7 +1,7 @@
 ---
 id: RFC1456
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'Conventions for Encoding the Vietnamese Language  VISCII: VIetnamese Standard
     Code for Information Interchange VIQR: VIetnamese Quoted-Readable Specification'

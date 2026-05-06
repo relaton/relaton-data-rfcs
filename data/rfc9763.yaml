@@ -1,7 +1,7 @@
 ---
 id: RFC9763
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Related Certificates for Use in Multiple Authentications within a Protocol
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC4847
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Framework and Requirements for Layer 1 Virtual Private Networks
   type: main

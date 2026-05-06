@@ -1,7 +1,7 @@
 ---
 id: RFC2879
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Content Feature Schema for Internet Fax (V2)
   type: main

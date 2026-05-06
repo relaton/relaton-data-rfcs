@@ -1,7 +1,7 @@
 ---
 id: RFC3752
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Open Pluggable Edge Services (OPES) Use Cases and Deployment Scenarios
   type: main

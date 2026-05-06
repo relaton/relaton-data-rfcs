@@ -1,7 +1,7 @@
 ---
 id: RFC1931
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Dynamic RARP Extensions for Automatic Network Address Acquisition
   type: main

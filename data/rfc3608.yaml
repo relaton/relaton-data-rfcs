@@ -1,7 +1,7 @@
 ---
 id: RFC3608
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Session Initiation Protocol (SIP) Extension Header Field for Service Route
     Discovery During Registration

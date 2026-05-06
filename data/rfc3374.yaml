@@ -1,7 +1,7 @@
 ---
 id: RFC3374
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'Problem Description: Reasons For Performing Context Transfers Between
     Nodes in an IP Access Network'

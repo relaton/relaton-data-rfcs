@@ -1,7 +1,7 @@
 ---
 id: RFC3033
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: The Assignment of the Information Field and Protocol Identifier in the
     Q.2941 Generic Identifier and Q.2957 User-to-user Signaling for the Internet Protocol

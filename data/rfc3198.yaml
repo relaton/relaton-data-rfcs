@@ -1,7 +1,7 @@
 ---
 id: RFC3198
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Terminology for Policy-Based Management
   type: main

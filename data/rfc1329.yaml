@@ -1,7 +1,7 @@
 ---
 id: RFC1329
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Thoughts on Address Resolution for Dual MAC FDDI Networks
   type: main

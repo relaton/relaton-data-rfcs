@@ -1,7 +1,7 @@
 ---
 id: RFC185
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: NIC distribution of manuals and handbooks
   type: main

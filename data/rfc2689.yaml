@@ -1,7 +1,7 @@
 ---
 id: RFC2689
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Providing Integrated Services over Low-bitrate Links
   type: main

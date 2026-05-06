@@ -1,7 +1,7 @@
 ---
 id: RFC2346
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Making Postscript and PDF International
   type: main

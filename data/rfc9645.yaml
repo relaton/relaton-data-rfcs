@@ -1,7 +1,7 @@
 ---
 id: RFC9645
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: YANG Groupings for TLS Clients and TLS Servers
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC5404
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: RTP Payload Format for G.719
   type: main

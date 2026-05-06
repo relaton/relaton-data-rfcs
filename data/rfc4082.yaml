@@ -1,7 +1,7 @@
 ---
 id: RFC4082
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'Timed Efficient Stream Loss-Tolerant Authentication (TESLA): Multicast
     Source Authentication Transform Introduction'

@@ -1,7 +1,7 @@
 ---
 id: RFC6695
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Methods to Convey Forward Error Correction (FEC) Framework Configuration
     Information

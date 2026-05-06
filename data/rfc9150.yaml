@@ -1,7 +1,7 @@
 ---
 id: RFC9150
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: TLS 1.3 Authentication and Integrity-Only Cipher Suites
   type: main

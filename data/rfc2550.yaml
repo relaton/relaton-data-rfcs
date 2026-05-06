@@ -1,7 +1,7 @@
 ---
 id: RFC2550
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Y10K and Beyond
   type: main

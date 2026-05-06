@@ -1,7 +1,7 @@
 ---
 id: RFC525
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: MIT-MATHLAB meets UCSB-OLS -an example of resource sharing
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC4348
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Real-Time Transport Protocol (RTP) Payload Format for the Variable-Rate
     Multimode Wideband (VMR-WB) Audio Codec

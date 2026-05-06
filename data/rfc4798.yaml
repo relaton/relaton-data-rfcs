@@ -1,7 +1,7 @@
 ---
 id: RFC4798
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Connecting IPv6 Islands over IPv4 MPLS Using IPv6 Provider Edge Routers
     (6PE)

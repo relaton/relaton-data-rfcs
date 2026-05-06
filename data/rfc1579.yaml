@@ -1,7 +1,7 @@
 ---
 id: RFC1579
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Firewall-Friendly FTP
   type: main

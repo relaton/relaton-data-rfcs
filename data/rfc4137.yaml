@@ -1,7 +1,7 @@
 ---
 id: RFC4137
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: State Machines for Extensible Authentication Protocol (EAP) Peer and Authenticator
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC6181
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Threat Analysis for TCP Extensions for Multipath Operation with Multiple
     Addresses

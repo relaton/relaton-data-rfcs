@@ -1,7 +1,7 @@
 ---
 id: RFC4432
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: RSA Key Exchange for the Secure Shell (SSH) Transport Layer Protocol
   type: main

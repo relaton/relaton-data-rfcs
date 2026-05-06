@@ -1,7 +1,7 @@
 ---
 id: RFC7713
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Congestion Exposure (ConEx) Concepts, Abstract Mechanism, and Requirements
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC3296
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Named Subordinate References in Lightweight Directory Access Protocol (LDAP)
     Directories

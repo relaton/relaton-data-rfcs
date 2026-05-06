@@ -1,7 +1,7 @@
 ---
 id: RFC6709
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Design Considerations for Protocol Extensions
   type: main

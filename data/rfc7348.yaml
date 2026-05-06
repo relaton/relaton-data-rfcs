@@ -1,7 +1,7 @@
 ---
 id: RFC7348
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'Virtual eXtensible Local Area Network (VXLAN): A Framework for Overlaying
     Virtualized Layer 2 Networks over Layer 3 Networks'

@@ -1,7 +1,7 @@
 ---
 id: RFC38
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'Comments on Network Protocol from NWG/RFC #36'
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC2083
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: PNG (Portable Network Graphics) Specification Version 1.0
   type: main

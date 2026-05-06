@@ -1,7 +1,7 @@
 ---
 id: RFC4536
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: The application/smil and application/smil+xml Media Types
   type: main

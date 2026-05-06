@@ -1,7 +1,7 @@
 ---
 id: RFC6359
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Datatracker Extensions to Include IANA and RFC Editor Processing Information
   type: main

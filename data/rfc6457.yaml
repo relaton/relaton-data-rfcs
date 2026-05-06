@@ -1,7 +1,7 @@
 ---
 id: RFC6457
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: PCC-PCE Communication and PCE Discovery Requirements for Inter-Layer Traffic
     Engineering

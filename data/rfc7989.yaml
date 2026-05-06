@@ -1,7 +1,7 @@
 ---
 id: RFC7989
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: End-to-End Session Identification in IP-Based Multimedia Communication
     Networks

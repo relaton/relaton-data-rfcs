@@ -1,7 +1,7 @@
 ---
 id: RFC6861
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: The "create-form" and "edit-form" Link Relations
   type: main

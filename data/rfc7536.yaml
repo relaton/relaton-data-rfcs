@@ -1,7 +1,7 @@
 ---
 id: RFC7536
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Large-Scale Broadband Measurement Use Cases
   type: main

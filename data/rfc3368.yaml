@@ -1,7 +1,7 @@
 ---
 id: RFC3368
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: The 'go' URI Scheme for the Common Name Resolution Protocol
   type: main

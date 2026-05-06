@@ -1,7 +1,7 @@
 ---
 id: RFC5724
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: URI Scheme for Global System for Mobile Communications (GSM) Short Message
     Service (SMS)

@@ -1,7 +1,7 @@
 ---
 id: RFC5859
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: TFTP Server Address Option for DHCPv4
   type: main

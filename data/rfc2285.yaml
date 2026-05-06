@@ -1,7 +1,7 @@
 ---
 id: RFC2285
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Benchmarking Terminology for LAN Switching Devices
   type: main

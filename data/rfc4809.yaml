@@ -1,7 +1,7 @@
 ---
 id: RFC4809
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Requirements for an IPsec Certificate Management Profile
   type: main

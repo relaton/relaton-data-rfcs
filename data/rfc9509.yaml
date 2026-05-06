@@ -1,7 +1,7 @@
 ---
 id: RFC9509
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: X.509 Certificate Extended Key Usage (EKU) for 5G Network Functions
   type: main

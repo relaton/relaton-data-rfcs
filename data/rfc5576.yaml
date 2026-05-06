@@ -1,7 +1,7 @@
 ---
 id: RFC5576
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Source-Specific Media Attributes in the Session Description Protocol (SDP)
   type: main

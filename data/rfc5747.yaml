@@ -1,7 +1,7 @@
 ---
 id: RFC5747
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 4over6 Transit Solution Using IP Encapsulation and MP-BGP Extensions
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC4997
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Formal Notation for RObust Header Compression (ROHC-FN)
   type: main

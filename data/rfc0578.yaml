@@ -1,7 +1,7 @@
 ---
 id: RFC578
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Using MIT-Mathlab MACSYMA from MIT-DMS Muddle
   type: main

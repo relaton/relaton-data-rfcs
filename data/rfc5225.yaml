@@ -1,7 +1,7 @@
 ---
 id: RFC5225
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'RObust Header Compression Version 2 (ROHCv2): Profiles for RTP, UDP, IP,
     ESP and UDP-Lite'

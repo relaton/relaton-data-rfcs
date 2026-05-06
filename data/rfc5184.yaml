@@ -1,7 +1,7 @@
 ---
 id: RFC5184
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Unified Layer 2 (L2) Abstractions for Layer 3 (L3)-Driven Fast Handover
   type: main

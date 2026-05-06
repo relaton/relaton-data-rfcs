@@ -1,7 +1,7 @@
 ---
 id: RFC5817
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Graceful Shutdown in MPLS and Generalized MPLS Traffic Engineering Networks
   type: main

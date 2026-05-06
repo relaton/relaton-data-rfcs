@@ -1,7 +1,7 @@
 ---
 id: RFC3994
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Indication of Message Composition for Instant Messaging
   type: main

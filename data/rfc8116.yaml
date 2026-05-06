@@ -1,7 +1,7 @@
 ---
 id: RFC8116
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Security Threats to the Optimized Link State Routing Protocol Version 2
     (OLSRv2)

@@ -1,7 +1,7 @@
 ---
 id: RFC2337
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Intra-LIS IP multicast among routers over ATM using Sparse Mode PIM
   type: main

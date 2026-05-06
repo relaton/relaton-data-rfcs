@@ -1,7 +1,7 @@
 ---
 id: RFC6251
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Using Kerberos Version 5 over the Transport Layer Security (TLS) Protocol
   type: main

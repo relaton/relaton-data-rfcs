@@ -1,7 +1,7 @@
 ---
 id: RFC4378
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: A Framework for Multi-Protocol Label Switching (MPLS) Operations and Management
     (OAM)

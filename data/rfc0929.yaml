@@ -1,7 +1,7 @@
 ---
 id: RFC929
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Proposed Host-Front End Protocol
   type: main

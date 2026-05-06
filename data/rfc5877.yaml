@@ -1,7 +1,7 @@
 ---
 id: RFC5877
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: The application/pkix-attr-cert Media Type for Attribute Certificates
   type: main

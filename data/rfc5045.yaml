@@ -1,7 +1,7 @@
 ---
 id: RFC5045
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Applicability of Remote Direct Memory Access Protocol (RDMA) and Direct
     Data Placement (DDP)

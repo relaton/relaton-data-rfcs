@@ -1,7 +1,7 @@
 ---
 id: RFC4484
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Trait-Based Authorization Requirements for the Session Initiation Protocol
     (SIP)

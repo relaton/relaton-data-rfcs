@@ -1,7 +1,7 @@
 ---
 id: RFC6061
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Uniform Resource Name (URN) Namespace for the National Emergency Number
     Association (NENA)

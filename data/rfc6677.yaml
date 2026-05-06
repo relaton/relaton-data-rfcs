@@ -1,7 +1,7 @@
 ---
 id: RFC6677
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Channel-Binding Support for Extensible Authentication Protocol (EAP) Methods
   type: main

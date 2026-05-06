@@ -1,7 +1,7 @@
 ---
 id: RFC6656
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Description of Cisco Systems' Subnet Allocation Option for DHCPv4
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC5818
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Data Channel Status Confirmation Extensions for the Link Management Protocol
   type: main

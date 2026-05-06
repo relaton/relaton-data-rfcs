@@ -1,7 +1,7 @@
 ---
 id: RFC1877
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: PPP Internet Protocol Control Protocol Extensions for Name Server Addresses
   type: main

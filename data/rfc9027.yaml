@@ -1,7 +1,7 @@
 ---
 id: RFC9027
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Assertion Values for Resource Priority Header and SIP Priority Header Claims
     in Support of Emergency Services Networks

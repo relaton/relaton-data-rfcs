@@ -1,7 +1,7 @@
 ---
 id: RFC7119
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Operation of the IP Flow Information Export (IPFIX) Protocol on IPFIX Mediators
   type: main

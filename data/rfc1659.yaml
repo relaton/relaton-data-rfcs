@@ -1,7 +1,7 @@
 ---
 id: RFC1659
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Definitions of Managed Objects for RS-232-like Hardware Devices using SMIv2
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC6535
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Dual-Stack Hosts Using "Bump-in-the-Host" (BIH)
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC7494
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: IEEE 802.11 Medium Access Control (MAC) Profile for Control and Provisioning
     of Wireless Access Points (CAPWAP)

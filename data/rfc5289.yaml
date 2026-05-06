@@ -1,7 +1,7 @@
 ---
 id: RFC5289
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: TLS Elliptic Curve Cipher Suites with SHA-256/384 and AES Galois Counter
     Mode (GCM)

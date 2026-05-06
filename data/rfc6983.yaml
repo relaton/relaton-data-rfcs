@@ -1,7 +1,7 @@
 ---
 id: RFC6983
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Models for HTTP-Adaptive-Streaming-Aware Content Distribution Network Interconnection
     (CDNI)

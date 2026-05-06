@@ -1,7 +1,7 @@
 ---
 id: RFC6067
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: BCP 47 Extension U
   type: main

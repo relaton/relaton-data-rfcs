@@ -1,7 +1,7 @@
 ---
 id: RFC3681
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Delegation of E.F.F.3.IP6.ARPA
   type: main

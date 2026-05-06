@@ -1,7 +1,7 @@
 ---
 id: RFC4130
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: MIME-Based Secure Peer-to-Peer Business Data Interchange Using HTTP, Applicability
     Statement 2 (AS2)

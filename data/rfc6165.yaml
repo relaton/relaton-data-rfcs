@@ -1,7 +1,7 @@
 ---
 id: RFC6165
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Extensions to IS-IS for Layer-2 Systems
   type: main

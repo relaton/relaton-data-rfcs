@@ -1,7 +1,7 @@
 ---
 id: RFC6264
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: An Incremental Carrier-Grade NAT (CGN) for IPv6 Transition
   type: main

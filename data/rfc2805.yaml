@@ -1,7 +1,7 @@
 ---
 id: RFC2805
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Media Gateway Control Protocol Architecture and Requirements
   type: main

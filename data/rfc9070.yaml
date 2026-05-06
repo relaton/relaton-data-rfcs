@@ -1,7 +1,7 @@
 ---
 id: RFC9070
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: YANG Data Model for MPLS LDP
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC5470
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Architecture for IP Flow Information Export
   type: main

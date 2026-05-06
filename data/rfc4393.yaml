@@ -1,7 +1,7 @@
 ---
 id: RFC4393
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: MIME Type Registrations for 3GPP2 Multimedia Files
   type: main

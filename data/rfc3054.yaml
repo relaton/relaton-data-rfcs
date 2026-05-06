@@ -1,7 +1,7 @@
 ---
 id: RFC3054
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Megaco IP Phone Media Gateway Application Profile
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC223
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Network Information Center schedule for network users
   type: main

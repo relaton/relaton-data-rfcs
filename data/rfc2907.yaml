@@ -1,7 +1,7 @@
 ---
 id: RFC2907
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: MADCAP Multicast Scope Nesting State Option
   type: main

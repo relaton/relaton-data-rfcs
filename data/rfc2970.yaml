@@ -1,7 +1,7 @@
 ---
 id: RFC2970
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Architecture for Integrated Directory Services - Result from TISDAG
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC7928
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Characterization Guidelines for Active Queue Management (AQM)
   type: main

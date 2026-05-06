@@ -1,7 +1,7 @@
 ---
 id: RFC3412
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Message Processing and Dispatching for the Simple Network Management Protocol
     (SNMP)

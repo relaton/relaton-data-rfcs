@@ -1,7 +1,7 @@
 ---
 id: RFC5584
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: RTP Payload Format for the Adaptive TRansform Acoustic Coding (ATRAC) Family
   type: main

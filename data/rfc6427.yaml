@@ -1,7 +1,7 @@
 ---
 id: RFC6427
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: MPLS Fault Management Operations, Administration, and Maintenance (OAM)
   type: main

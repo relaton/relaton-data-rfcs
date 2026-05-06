@@ -1,7 +1,7 @@
 ---
 id: RFC547
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Change to the Very Distant Host specification
   type: main

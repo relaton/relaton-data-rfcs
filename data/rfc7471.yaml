@@ -1,7 +1,7 @@
 ---
 id: RFC7471
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: OSPF Traffic Engineering (TE) Metric Extensions
   type: main

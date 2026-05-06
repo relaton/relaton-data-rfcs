@@ -1,7 +1,7 @@
 ---
 id: RFC4331
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Quota and Size Properties for Distributed Authoring and Versioning (DAV)
     Collections

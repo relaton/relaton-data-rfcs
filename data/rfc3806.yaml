@@ -1,7 +1,7 @@
 ---
 id: RFC3806
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Printer Finishing MIB
   type: main

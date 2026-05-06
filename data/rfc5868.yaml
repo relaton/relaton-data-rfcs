@@ -1,7 +1,7 @@
 ---
 id: RFC5868
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Problem Statement on the Cross-Realm Operation of Kerberos
   type: main

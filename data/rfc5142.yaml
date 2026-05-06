@@ -1,7 +1,7 @@
 ---
 id: RFC5142
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Mobility Header Home Agent Switch Message
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC3991
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Media Gateway Control Protocol (MGCP) Redirect and Reset Package
   type: main

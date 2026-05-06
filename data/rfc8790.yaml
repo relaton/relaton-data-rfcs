@@ -1,7 +1,7 @@
 ---
 id: RFC8790
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: FETCH and PATCH with Sensor Measurement Lists (SenML)
   type: main

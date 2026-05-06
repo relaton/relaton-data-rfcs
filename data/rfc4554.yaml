@@ -1,7 +1,7 @@
 ---
 id: RFC4554
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Use of VLANs for IPv4-IPv6 Coexistence in Enterprise Networks
   type: main

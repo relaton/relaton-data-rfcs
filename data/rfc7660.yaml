@@ -1,7 +1,7 @@
 ---
 id: RFC7660
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Diameter Congestion and Filter Attributes
   type: main

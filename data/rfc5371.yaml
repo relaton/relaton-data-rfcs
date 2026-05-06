@@ -1,7 +1,7 @@
 ---
 id: RFC5371
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: RTP Payload Format for JPEG 2000 Video Streams
   type: main

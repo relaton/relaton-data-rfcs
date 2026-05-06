@@ -1,7 +1,7 @@
 ---
 id: RFC3710
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: An IESG charter
   type: main

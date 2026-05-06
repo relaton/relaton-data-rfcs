@@ -1,7 +1,7 @@
 ---
 id: RFC4437
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Web Distributed Authoring and Versioning (WebDAV) Redirect Reference Resources
   type: main

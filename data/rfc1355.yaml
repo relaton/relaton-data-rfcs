@@ -1,7 +1,7 @@
 ---
 id: RFC1355
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Privacy and Accuracy Issues in Network Information Center Databases
   type: main

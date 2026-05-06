@@ -1,7 +1,7 @@
 ---
 id: RFC4222
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Prioritized Treatment of Specific OSPF Version 2 Packets and Congestion
     Avoidance

@@ -1,7 +1,7 @@
 ---
 id: RFC1550
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'IP: Next Generation (IPng) White Paper Solicitation'
   type: main

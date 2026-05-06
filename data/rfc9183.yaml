@@ -1,7 +1,7 @@
 ---
 id: RFC9183
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Single Nickname for an Area Border RBridge in Multilevel Transparent Interconnection
     of Lots of Links (TRILL)

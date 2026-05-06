@@ -1,7 +1,7 @@
 ---
 id: RFC8454
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Information Model for Abstraction and Control of TE Networks (ACTN)
   type: main

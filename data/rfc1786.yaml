@@ -1,7 +1,7 @@
 ---
 id: RFC1786
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Representation of IP Routing Policies in a Routing Registry (ripe-81++)
   type: main

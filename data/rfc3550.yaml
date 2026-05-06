@@ -1,7 +1,7 @@
 ---
 id: RFC3550
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'RTP: A Transport Protocol for Real-Time Applications'
   type: main

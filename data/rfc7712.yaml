@@ -1,7 +1,7 @@
 ---
 id: RFC7712
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Domain Name Associations (DNA) in the Extensible Messaging and Presence
     Protocol (XMPP)

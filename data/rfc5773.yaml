@@ -1,7 +1,7 @@
 ---
 id: RFC5773
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Analysis of Inter-Domain Routing Requirements and History
   type: main

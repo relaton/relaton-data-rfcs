@@ -1,7 +1,7 @@
 ---
 id: RFC8093
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Deprecation of BGP Path Attribute Values 30, 31, 129, 241, 242, and 243
   type: main

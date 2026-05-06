@@ -1,7 +1,7 @@
 ---
 id: RFC7129
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Authenticated Denial of Existence in the DNS
   type: main

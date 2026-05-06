@@ -1,7 +1,7 @@
 ---
 id: RFC2801
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Internet Open Trading Protocol - IOTP Version 1.0
   type: main

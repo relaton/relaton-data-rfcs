@@ -1,7 +1,7 @@
 ---
 id: RFC1464
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Using the Domain Name System To Store Arbitrary String Attributes
   type: main

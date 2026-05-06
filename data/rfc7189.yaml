@@ -1,7 +1,7 @@
 ---
 id: RFC7189
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Virtual Circuit Connectivity Verification (VCCV) Capability Advertisement
     for MPLS Transport Profile (MPLS-TP)

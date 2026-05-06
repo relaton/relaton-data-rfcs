@@ -1,7 +1,7 @@
 ---
 id: RFC1853
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: IP in IP Tunneling
   type: main

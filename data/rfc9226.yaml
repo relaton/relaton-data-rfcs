@@ -1,7 +1,7 @@
 ---
 id: RFC9226
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'Bioctal: Hexadecimal 2.0'
   type: main

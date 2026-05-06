@@ -1,7 +1,7 @@
 ---
 id: RFC1909
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: An Administrative Infrastructure for SNMPv2
   type: main

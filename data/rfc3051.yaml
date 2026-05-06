@@ -1,7 +1,7 @@
 ---
 id: RFC3051
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: IP Payload Compression Using ITU-T V.44 Packet Method
   type: main

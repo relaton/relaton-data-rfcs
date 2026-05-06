@@ -1,7 +1,7 @@
 ---
 id: RFC4359
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: The Use of RSA/SHA-1 Signatures within Encapsulating Security Payload (ESP)
     and Authentication Header (AH)

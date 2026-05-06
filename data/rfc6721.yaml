@@ -1,7 +1,7 @@
 ---
 id: RFC6721
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: The Atom "deleted-entry" Element
   type: main

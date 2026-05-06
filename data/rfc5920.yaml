@@ -1,7 +1,7 @@
 ---
 id: RFC5920
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Security Framework for MPLS and GMPLS Networks
   type: main

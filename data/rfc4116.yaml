@@ -1,7 +1,7 @@
 ---
 id: RFC4116
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: IPv4 Multihoming Practices and Limitations
   type: main

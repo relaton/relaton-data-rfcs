@@ -1,7 +1,7 @@
 ---
 id: RFC8846
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: An XML Schema for the Controlling Multiple Streams for Telepresence (CLUE)
     Data Model

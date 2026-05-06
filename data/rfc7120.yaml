@@ -1,7 +1,7 @@
 ---
 id: RFC7120
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Early IANA Allocation of Standards Track Code Points
   type: main

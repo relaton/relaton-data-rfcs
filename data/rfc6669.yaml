@@ -1,7 +1,7 @@
 ---
 id: RFC6669
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: An Overview of the Operations, Administration, and Maintenance (OAM) Toolset
     for MPLS-Based Transport Networks

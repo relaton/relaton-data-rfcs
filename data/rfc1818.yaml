@@ -1,7 +1,7 @@
 ---
 id: RFC1818
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Best Current Practices
   type: main

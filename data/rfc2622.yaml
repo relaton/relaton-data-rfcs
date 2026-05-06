@@ -1,7 +1,7 @@
 ---
 id: RFC2622
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Routing Policy Specification Language (RPSL)
   type: main

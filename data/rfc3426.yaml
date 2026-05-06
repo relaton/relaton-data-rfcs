@@ -1,7 +1,7 @@
 ---
 id: RFC3426
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: General Architectural and Policy Considerations
   type: main

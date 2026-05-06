@@ -1,7 +1,7 @@
 ---
 id: RFC7096
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Evaluation of Existing GMPLS Encoding against G.709v3 Optical Transport
     Networks (OTNs)

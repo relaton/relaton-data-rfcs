@@ -1,7 +1,7 @@
 ---
 id: RFC6641
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Using DNS SRV to Specify a Global File Namespace with NFS Version 4
   type: main

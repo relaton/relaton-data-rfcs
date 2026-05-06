@@ -1,7 +1,7 @@
 ---
 id: RFC656
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Telnet output vertical tabstops option
   type: main

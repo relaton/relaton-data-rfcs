@@ -1,7 +1,7 @@
 ---
 id: RFC4115
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: A Differentiated Service Two-Rate, Three-Color Marker with Efficient Handling
     of in-Profile Traffic

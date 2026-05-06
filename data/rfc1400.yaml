@@ -1,7 +1,7 @@
 ---
 id: RFC1400
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Transition and Modernization of the Internet Registration Service
   type: main

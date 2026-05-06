@@ -1,7 +1,7 @@
 ---
 id: RFC1492
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: An Access Control Protocol, Sometimes Called TACACS
   type: main

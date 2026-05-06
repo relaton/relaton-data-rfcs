@@ -1,7 +1,7 @@
 ---
 id: RFC8870
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Encrypted Key Transport for DTLS and Secure RTP
   type: main

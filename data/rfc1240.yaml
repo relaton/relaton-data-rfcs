@@ -1,7 +1,7 @@
 ---
 id: RFC1240
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'OSI connectionless transport services on top of UDP: Version 1'
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC6167
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: URI Scheme for Java(tm) Message Service 1.0
   type: main

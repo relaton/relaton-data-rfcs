@@ -1,7 +1,7 @@
 ---
 id: RFC5760
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: RTP Control Protocol (RTCP) Extensions for Single-Source Multicast Sessions
     with Unicast Feedback

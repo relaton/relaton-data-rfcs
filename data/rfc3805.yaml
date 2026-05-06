@@ -1,7 +1,7 @@
 ---
 id: RFC3805
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Printer MIB v2
   type: main

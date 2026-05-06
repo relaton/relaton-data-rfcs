@@ -1,7 +1,7 @@
 ---
 id: RFC4774
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Specifying Alternate Semantics for the Explicit Congestion Notification
     (ECN) Field

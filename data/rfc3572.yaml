@@ -1,7 +1,7 @@
 ---
 id: RFC3572
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Internet Protocol Version 6 over MAPOS (Multiple Access Protocol Over SONET/SDH)
   type: main

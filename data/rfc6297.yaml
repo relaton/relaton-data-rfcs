@@ -1,7 +1,7 @@
 ---
 id: RFC6297
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: A Survey of Lower-than-Best-Effort Transport Protocols
   type: main

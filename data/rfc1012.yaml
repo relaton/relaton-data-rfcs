@@ -1,7 +1,7 @@
 ---
 id: RFC1012
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Bibliography of Request For Comments 1 through 999
   type: main

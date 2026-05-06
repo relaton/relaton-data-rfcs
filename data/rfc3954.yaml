@@ -1,7 +1,7 @@
 ---
 id: RFC3954
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Cisco Systems NetFlow Services Export Version 9
   type: main

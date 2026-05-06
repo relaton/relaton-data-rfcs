@@ -1,7 +1,7 @@
 ---
 id: RFC5170
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Low Density Parity Check (LDPC) Staircase and Triangle Forward Error Correction
     (FEC) Schemes

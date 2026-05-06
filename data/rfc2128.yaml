@@ -1,7 +1,7 @@
 ---
 id: RFC2128
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Dial Control Management Information Base using SMIv2
   type: main

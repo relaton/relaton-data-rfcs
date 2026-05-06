@@ -1,7 +1,7 @@
 ---
 id: RFC3988
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Maximum Transmission Unit Signalling Extensions for the Label Distribution
     Protocol

@@ -1,7 +1,7 @@
 ---
 id: RFC8420
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Using the Edwards-Curve Digital Signature Algorithm (EdDSA) in the Internet
     Key Exchange Protocol Version 2 (IKEv2)

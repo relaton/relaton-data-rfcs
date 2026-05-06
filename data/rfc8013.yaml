@@ -1,7 +1,7 @@
 ---
 id: RFC8013
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Forwarding and Control Element Separation (ForCES) Inter-FE Logical Functional
     Block (LFB)

@@ -1,7 +1,7 @@
 ---
 id: RFC5985
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: HTTP-Enabled Location Delivery (HELD)
   type: main

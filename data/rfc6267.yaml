@@ -1,7 +1,7 @@
 ---
 id: RFC6267
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'MIKEY-IBAKE: Identity-Based Authenticated Key Exchange (IBAKE) Mode of
     Key Distribution in Multimedia Internet KEYing (MIKEY)'

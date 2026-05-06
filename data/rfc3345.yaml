@@ -1,7 +1,7 @@
 ---
 id: RFC3345
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Border Gateway Protocol (BGP) Persistent Route Oscillation Condition
   type: main

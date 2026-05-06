@@ -1,7 +1,7 @@
 ---
 id: RFC6857
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Post-Delivery Message Downgrading for Internationalized Email Messages
   type: main

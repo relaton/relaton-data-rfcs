@@ -1,7 +1,7 @@
 ---
 id: RFC1238
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: CLNS MIB for use with Connectionless Network Protocol (ISO 8473) and End
     System to Intermediate System (ISO 9542)

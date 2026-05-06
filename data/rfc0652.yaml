@@ -1,7 +1,7 @@
 ---
 id: RFC652
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Telnet output carriage-return disposition option
   type: main

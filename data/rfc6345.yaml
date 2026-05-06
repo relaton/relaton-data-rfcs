@@ -1,7 +1,7 @@
 ---
 id: RFC6345
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Protocol for Carrying Authentication for Network Access (PANA) Relay Element
   type: main

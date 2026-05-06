@@ -1,7 +1,7 @@
 ---
 id: RFC4380
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'Teredo: Tunneling IPv6 over UDP through Network Address Translations (NATs)'
   type: main

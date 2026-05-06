@@ -1,7 +1,7 @@
 ---
 id: RFC4183
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: A Suggested Scheme for DNS Resolution of Networks and Gateways
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC3337
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Class Extensions for PPP over Asynchronous Transfer Mode Adaptation Layer
     2

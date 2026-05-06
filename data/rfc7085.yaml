@@ -1,7 +1,7 @@
 ---
 id: RFC7085
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Top-Level Domains That Are Already Dotless
   type: main

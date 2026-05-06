@@ -1,7 +1,7 @@
 ---
 id: RFC5881
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Bidirectional Forwarding Detection (BFD) for IPv4 and IPv6 (Single Hop)
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC4553
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Structure-Agnostic Time Division Multiplexing (TDM) over Packet (SAToP)
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC3973
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'Protocol Independent Multicast - Dense Mode (PIM-DM): Protocol Specification
     (Revised)'

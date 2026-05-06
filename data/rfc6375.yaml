@@ -1,7 +1,7 @@
 ---
 id: RFC6375
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: A Packet Loss and Delay Measurement Profile for MPLS-Based Transport Networks
   type: main

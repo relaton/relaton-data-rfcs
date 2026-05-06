@@ -1,7 +1,7 @@
 ---
 id: RFC4220
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Traffic Engineering Link Management Information Base
   type: main

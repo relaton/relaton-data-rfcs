@@ -1,7 +1,7 @@
 ---
 id: RFC6676
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Multicast Addresses for Documentation
   type: main

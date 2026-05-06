@@ -1,7 +1,7 @@
 ---
 id: RFC8200
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Internet Protocol, Version 6 (IPv6) Specification
   type: main

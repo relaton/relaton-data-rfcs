@@ -1,7 +1,7 @@
 ---
 id: RFC4178
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: The Simple and Protected Generic Security Service Application Program Interface
     (GSS-API) Negotiation Mechanism

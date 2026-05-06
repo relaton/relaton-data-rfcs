@@ -1,7 +1,7 @@
 ---
 id: RFC5281
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Extensible Authentication Protocol Tunneled Transport Layer Security Authenticated
     Protocol Version 0 (EAP-TTLSv0)

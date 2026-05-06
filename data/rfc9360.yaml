@@ -1,7 +1,7 @@
 ---
 id: RFC9360
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'CBOR Object Signing and Encryption (COSE): Header Parameters for Carrying
     and Referencing X.509 Certificates'

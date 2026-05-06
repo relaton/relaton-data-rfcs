@@ -1,7 +1,7 @@
 ---
 id: RFC6377
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: DomainKeys Identified Mail (DKIM) and Mailing Lists
   type: main

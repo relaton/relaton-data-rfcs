@@ -1,7 +1,7 @@
 ---
 id: RFC5913
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Clearance Attribute and Authority Clearance Constraints Certificate Extension
   type: main

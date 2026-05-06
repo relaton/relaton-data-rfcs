@@ -1,7 +1,7 @@
 ---
 id: RFC9489
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Label Switched Path (LSP) Ping Mechanisms for EVPN and Provider Backbone
     Bridging EVPN (PBB-EVPN)

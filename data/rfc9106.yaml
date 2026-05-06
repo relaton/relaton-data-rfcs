@@ -1,7 +1,7 @@
 ---
 id: RFC9106
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Argon2 Memory-Hard Function for Password Hashing and Proof-of-Work Applications
   type: main

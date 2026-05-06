@@ -1,7 +1,7 @@
 ---
 id: RFC5098
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Signaling MIB for PacketCable and IPCablecom Multimedia Terminal Adapters
     (MTAs)

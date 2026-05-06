@@ -1,7 +1,7 @@
 ---
 id: RFC1842
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: ASCII Printable Characters-Based Chinese Character Encoding for Internet
     Messages

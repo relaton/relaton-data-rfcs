@@ -1,7 +1,7 @@
 ---
 id: RFC7666
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Management Information Base for Virtual Machines Controlled by a Hypervisor
   type: main

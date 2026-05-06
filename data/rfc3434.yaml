@@ -1,7 +1,7 @@
 ---
 id: RFC3434
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Remote Monitoring MIB Extensions for High Capacity Alarms
   type: main

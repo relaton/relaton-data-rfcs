@@ -1,7 +1,7 @@
 ---
 id: RFC569
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'NETED: A Common Editor for the ARPA Network'
   type: main

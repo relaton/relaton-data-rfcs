@@ -1,7 +1,7 @@
 ---
 id: RFC9091
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Experimental Domain-Based Message Authentication, Reporting, and Conformance
     (DMARC) Extension for Public Suffix Domains

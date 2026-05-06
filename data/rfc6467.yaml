@@ -1,7 +1,7 @@
 ---
 id: RFC6467
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Secure Password Framework for Internet Key Exchange Version 2 (IKEv2)
   type: main

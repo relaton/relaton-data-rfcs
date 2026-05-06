@@ -1,7 +1,7 @@
 ---
 id: RFC7532
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Namespace Database (NSDB) Protocol for Federated File Systems
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC8869
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Evaluation Test Cases for Interactive Real-Time Media over Wireless Networks
   type: main

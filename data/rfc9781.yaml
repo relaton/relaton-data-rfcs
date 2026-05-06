@@ -1,7 +1,7 @@
 ---
 id: RFC9781
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: A Concise Binary Object Representation (CBOR) Tag for Unprotected CBOR
     Web Token Claims Sets (UCCS)

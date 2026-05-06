@@ -1,7 +1,7 @@
 ---
 id: RFC5220
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'Problem Statement for Default Address Selection in Multi-Prefix Environments:
     Operational Issues of RFC 3484 Default Rules'

@@ -1,7 +1,7 @@
 ---
 id: RFC3528
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Mesh-enhanced Service Location Protocol (mSLP)
   type: main

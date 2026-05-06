@@ -1,7 +1,7 @@
 ---
 id: RFC3060
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Policy Core Information Model -- Version 1 Specification
   type: main

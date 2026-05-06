@@ -1,7 +1,7 @@
 ---
 id: RFC8804
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Content Delivery Network Interconnection (CDNI) Request Routing Extensions
   type: main

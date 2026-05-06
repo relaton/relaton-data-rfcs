@@ -1,7 +1,7 @@
 ---
 id: RFC4962
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Guidance for Authentication, Authorization, and Accounting (AAA) Key Management
   type: main

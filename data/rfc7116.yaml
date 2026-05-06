@@ -1,7 +1,7 @@
 ---
 id: RFC7116
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Licklider Transmission Protocol (LTP), Compressed Bundle Header Encoding
     (CBHE), and Bundle Protocol IANA Registries

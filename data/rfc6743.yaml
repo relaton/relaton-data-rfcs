@@ -1,7 +1,7 @@
 ---
 id: RFC6743
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: ICMP Locator Update Message for the Identifier-Locator Network Protocol
     for IPv6 (ILNPv6)

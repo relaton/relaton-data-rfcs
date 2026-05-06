@@ -1,7 +1,7 @@
 ---
 id: RFC6349
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Framework for TCP Throughput Testing
   type: main

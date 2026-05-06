@@ -1,7 +1,7 @@
 ---
 id: RFC216
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Telnet Access to UCSB's On-Line System
   type: main

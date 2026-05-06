@@ -1,7 +1,7 @@
 ---
 id: RFC9934
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Privacy-Enhanced Mail (PEM) File Format for Encrypted ClientHello (ECH)
   type: main

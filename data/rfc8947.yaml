@@ -1,7 +1,7 @@
 ---
 id: RFC8947
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Link-Layer Address Assignment Mechanism for DHCPv6
   type: main

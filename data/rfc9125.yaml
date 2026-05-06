@@ -1,7 +1,7 @@
 ---
 id: RFC9125
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Gateway Auto-Discovery and Route Advertisement for Site Interconnection
     Using Segment Routing

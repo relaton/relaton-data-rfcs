@@ -1,7 +1,7 @@
 ---
 id: RFC6474
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'vCard Format Extensions: Place of Birth, Place and Date of Death'
   type: main

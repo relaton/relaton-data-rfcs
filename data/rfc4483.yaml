@@ -1,7 +1,7 @@
 ---
 id: RFC4483
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: A Mechanism for Content Indirection in Session Initiation Protocol (SIP)
     Messages

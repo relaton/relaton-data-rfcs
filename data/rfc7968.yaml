@@ -1,7 +1,7 @@
 ---
 id: RFC7968
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'Transparent Interconnection of Lots of Links (TRILL): Using Data Labels
     for Tree Selection for Multi-Destination Data'

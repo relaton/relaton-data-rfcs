@@ -1,7 +1,7 @@
 ---
 id: RFC1812
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Requirements for IP Version 4 Routers
   type: main

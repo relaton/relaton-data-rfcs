@@ -1,7 +1,7 @@
 ---
 id: RFC8837
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Differentiated Services Code Point (DSCP) Packet Markings for WebRTC QoS
   type: main

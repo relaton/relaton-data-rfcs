@@ -1,7 +1,7 @@
 ---
 id: RFC7317
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: A YANG Data Model for System Management
   type: main

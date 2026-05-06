@@ -1,7 +1,7 @@
 ---
 id: RFC9329
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: TCP Encapsulation of Internet Key Exchange Protocol (IKE) and IPsec Packets
   type: main

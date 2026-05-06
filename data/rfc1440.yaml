@@ -1,7 +1,7 @@
 ---
 id: RFC1440
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'SIFT/UFT: Sender-Initiated/Unsolicited File Transfer'
   type: main

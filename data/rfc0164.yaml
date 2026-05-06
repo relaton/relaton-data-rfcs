@@ -1,7 +1,7 @@
 ---
 id: RFC164
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Minutes of Network Working Group meeting, 5/16 through 5/19/71
   type: main

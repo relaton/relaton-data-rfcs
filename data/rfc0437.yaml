@@ -1,7 +1,7 @@
 ---
 id: RFC437
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Data Reconfiguration Service at UCSB
   type: main

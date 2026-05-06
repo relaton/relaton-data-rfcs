@@ -1,7 +1,7 @@
 ---
 id: RFC2894
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Router Renumbering for IPv6
   type: main

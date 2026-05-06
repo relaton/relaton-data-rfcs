@@ -1,7 +1,7 @@
 ---
 id: RFC6674
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Gateway-Initiated Dual-Stack Lite Deployment
   type: main

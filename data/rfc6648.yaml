@@ -1,7 +1,7 @@
 ---
 id: RFC6648
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Deprecating the "X-" Prefix and Similar Constructs in Application Protocols
   type: main

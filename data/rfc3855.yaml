@@ -1,7 +1,7 @@
 ---
 id: RFC3855
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Transporting Secure/Multipurpose Internet Mail Extensions (S/MIME) Objects
     in X.400

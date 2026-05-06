@@ -1,7 +1,7 @@
 ---
 id: RFC7109
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Flow Bindings Initiated by Home Agents for Mobile IPv6
   type: main

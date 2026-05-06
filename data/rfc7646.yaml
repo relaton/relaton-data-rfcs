@@ -1,7 +1,7 @@
 ---
 id: RFC7646
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Definition and Use of DNSSEC Negative Trust Anchors
   type: main

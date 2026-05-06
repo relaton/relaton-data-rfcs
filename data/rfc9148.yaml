@@ -1,7 +1,7 @@
 ---
 id: RFC9148
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'EST-coaps: Enrollment over Secure Transport with the Secure Constrained
     Application Protocol'

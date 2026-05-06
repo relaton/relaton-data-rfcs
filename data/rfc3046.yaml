@@ -1,7 +1,7 @@
 ---
 id: RFC3046
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: DHCP Relay Agent Information Option
   type: main

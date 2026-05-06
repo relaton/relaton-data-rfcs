@@ -1,7 +1,7 @@
 ---
 id: RFC8099
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: OSPF Topology-Transparent Zone
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC4185
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: National and Local Characters for DNS Top Level Domain (TLD) Names
   type: main

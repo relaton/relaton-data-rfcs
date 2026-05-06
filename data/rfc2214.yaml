@@ -1,7 +1,7 @@
 ---
 id: RFC2214
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Integrated Services Management Information Base Guaranteed Service Extensions
     using SMIv2

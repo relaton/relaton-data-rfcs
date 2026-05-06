@@ -1,7 +1,7 @@
 ---
 id: RFC8158
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: IP Flow Information Export (IPFIX) Information Elements for Logging NAT
     Events

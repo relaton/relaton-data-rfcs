@@ -1,7 +1,7 @@
 ---
 id: RFC5965
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: An Extensible Format for Email Feedback Reports
   type: main

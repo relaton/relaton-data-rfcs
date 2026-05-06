@@ -1,7 +1,7 @@
 ---
 id: RFC7596
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'Lightweight 4over6: An Extension to the Dual-Stack Lite Architecture'
   type: main

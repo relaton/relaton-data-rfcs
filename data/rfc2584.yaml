@@ -1,7 +1,7 @@
 ---
 id: RFC2584
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Definitions of Managed Objects for APPN/HPR in IP Networks
   type: main

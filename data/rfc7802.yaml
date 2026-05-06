@@ -1,7 +1,7 @@
 ---
 id: RFC7802
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: A Pseudo-Random Function (PRF) for the Kerberos V Generic Security Service
     Application Program Interface (GSS-API) Mechanism

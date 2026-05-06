@@ -1,7 +1,7 @@
 ---
 id: RFC1821
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Integration of Real-time Services in an IP-ATM Network Architecture
   type: main

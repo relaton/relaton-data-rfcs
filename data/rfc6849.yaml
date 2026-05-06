@@ -1,7 +1,7 @@
 ---
 id: RFC6849
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: An Extension to the Session Description Protocol (SDP) and Real-time Transport
     Protocol (RTP) for Media Loopback

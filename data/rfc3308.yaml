@@ -1,7 +1,7 @@
 ---
 id: RFC3308
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Layer Two Tunneling Protocol (L2TP) Differentiated Services Extension
   type: main

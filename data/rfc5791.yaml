@@ -1,7 +1,7 @@
 ---
 id: RFC5791
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: RFC 2731 ("Encoding Dublin Core Metadata in HTML") Is Obsolete
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC7821
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: UDP Checksum Complement in the Network Time Protocol (NTP)
   type: main

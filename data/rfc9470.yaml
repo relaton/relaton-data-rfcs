@@ -1,7 +1,7 @@
 ---
 id: RFC9470
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: OAuth 2.0 Step Up Authentication Challenge Protocol
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC4494
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: The AES-CMAC-96 Algorithm and Its Use with IPsec
   type: main

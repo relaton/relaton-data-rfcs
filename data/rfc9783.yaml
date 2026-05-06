@@ -1,7 +1,7 @@
 ---
 id: RFC9783
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Arm's Platform Security Architecture (PSA) Attestation Token
   type: main

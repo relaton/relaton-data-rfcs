@@ -1,7 +1,7 @@
 ---
 id: RFC5811
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: SCTP-Based Transport Mapping Layer (TML) for the Forwarding and Control
     Element Separation (ForCES) Protocol

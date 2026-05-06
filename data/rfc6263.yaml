@@ -1,7 +1,7 @@
 ---
 id: RFC6263
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Application Mechanism for Keeping Alive the NAT Mappings Associated with
     RTP / RTP Control Protocol (RTCP) Flows

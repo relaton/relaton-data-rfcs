@@ -1,7 +1,7 @@
 ---
 id: RFC5984
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'Increasing Throughput in IP Networks with ESP-Based Forwarding: ESPBasedForwarding'
   type: main

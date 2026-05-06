@@ -1,7 +1,7 @@
 ---
 id: RFC3423
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: XACCT's Common Reliable Accounting for Network Element (CRANE) Protocol
     Specification Version 1.0

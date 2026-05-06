@@ -1,7 +1,7 @@
 ---
 id: RFC1198
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: FYI on the X window system
   type: main

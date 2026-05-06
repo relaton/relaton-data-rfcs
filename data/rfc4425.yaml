@@ -1,7 +1,7 @@
 ---
 id: RFC4425
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: RTP Payload Format for Video Codec 1 (VC-1)
   type: main

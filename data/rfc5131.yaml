@@ -1,7 +1,7 @@
 ---
 id: RFC5131
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: A MIB Textual Convention for Language Tags
   type: main

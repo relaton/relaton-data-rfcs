@@ -1,7 +1,7 @@
 ---
 id: RFC2696
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: LDAP Control Extension for Simple Paged Results Manipulation
   type: main

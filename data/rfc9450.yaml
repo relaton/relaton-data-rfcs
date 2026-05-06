@@ -1,7 +1,7 @@
 ---
 id: RFC9450
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Reliable and Available Wireless (RAW) Use Cases
   type: main

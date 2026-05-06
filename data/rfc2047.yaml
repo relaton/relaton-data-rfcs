@@ -1,7 +1,7 @@
 ---
 id: RFC2047
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'MIME (Multipurpose Internet Mail Extensions) Part Three: Message Header
     Extensions for Non-ASCII Text'

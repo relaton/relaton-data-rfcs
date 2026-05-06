@@ -1,7 +1,7 @@
 ---
 id: RFC3735
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Guidelines for Extending the Extensible Provisioning Protocol (EPP)
   type: main

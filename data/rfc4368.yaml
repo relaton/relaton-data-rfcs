@@ -1,7 +1,7 @@
 ---
 id: RFC4368
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Multiprotocol Label Switching (MPLS) Label-Controlled Asynchronous Transfer
     Mode (ATM) and Frame-Relay Management Interface Definition

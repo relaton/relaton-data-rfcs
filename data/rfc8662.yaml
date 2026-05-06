@@ -1,7 +1,7 @@
 ---
 id: RFC8662
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Entropy Label for Source Packet Routing in Networking (SPRING) Tunnels
   type: main

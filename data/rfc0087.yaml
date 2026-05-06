@@ -1,7 +1,7 @@
 ---
 id: RFC87
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Topic for Discussion at the Next Network Working Group Meeting
   type: main

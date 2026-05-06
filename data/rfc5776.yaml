@@ -1,7 +1,7 @@
 ---
 id: RFC5776
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Use of Timed Efficient Stream Loss-Tolerant Authentication (TESLA) in the
     Asynchronous Layered Coding (ALC) and NACK-Oriented Reliable Multicast (NORM)

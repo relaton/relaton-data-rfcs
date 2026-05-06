@@ -1,7 +1,7 @@
 ---
 id: RFC7731
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Multicast Protocol for Low-Power and Lossy Networks (MPL)
   type: main

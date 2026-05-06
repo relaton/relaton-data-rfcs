@@ -1,7 +1,7 @@
 ---
 id: RFC3505
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'Electronic Commerce Modeling Language (ECML): Version 2 Requirements'
   type: main

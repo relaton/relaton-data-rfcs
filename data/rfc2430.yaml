@@ -1,7 +1,7 @@
 ---
 id: RFC2430
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: A Provider Architecture for Differentiated Services and Traffic Engineering
     (PASTE)

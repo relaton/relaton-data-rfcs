@@ -1,7 +1,7 @@
 ---
 id: RFC3210
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Applicability Statement for Extensions to RSVP for LSP-Tunnels
   type: main

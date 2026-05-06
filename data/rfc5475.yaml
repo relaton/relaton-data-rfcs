@@ -1,7 +1,7 @@
 ---
 id: RFC5475
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Sampling and Filtering Techniques for IP Packet Selection
   type: main

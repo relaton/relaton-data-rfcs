@@ -1,7 +1,7 @@
 ---
 id: RFC9255
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: The 'I' in RPKI Does Not Stand for Identity
   type: main

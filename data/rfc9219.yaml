@@ -1,7 +1,7 @@
 ---
 id: RFC9219
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: S/MIME Signature Verification Extension to the JSON Meta Application Protocol
     (JMAP)

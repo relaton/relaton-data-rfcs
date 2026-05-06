@@ -1,7 +1,7 @@
 ---
 id: RFC628
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Status of RFC numbers and a note on pre-assigned journal numbers
   type: main

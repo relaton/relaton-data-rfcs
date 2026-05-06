@@ -1,7 +1,7 @@
 ---
 id: RFC2296
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: HTTP Remote Variant Selection Algorithm -- RVSA/1.0
   type: main

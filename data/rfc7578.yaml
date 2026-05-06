@@ -1,7 +1,7 @@
 ---
 id: RFC7578
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'Returning Values from Forms: multipart/form-data'
   type: main

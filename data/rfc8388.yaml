@@ -1,7 +1,7 @@
 ---
 id: RFC8388
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Usage and Applicability of BGP MPLS-Based Ethernet VPN
   type: main

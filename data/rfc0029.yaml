@@ -1,7 +1,7 @@
 ---
 id: RFC29
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Response to RFC 28
   type: main

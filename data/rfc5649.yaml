@@ -1,7 +1,7 @@
 ---
 id: RFC5649
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Advanced Encryption Standard (AES) Key Wrap with Padding Algorithm
   type: main

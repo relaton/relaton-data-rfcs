@@ -1,7 +1,7 @@
 ---
 id: RFC5611
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Layer Two Tunneling Protocol version 3 - Setup of Time-Division Multiplexing
     (TDM) Pseudowires

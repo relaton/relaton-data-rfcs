@@ -1,7 +1,7 @@
 ---
 id: RFC5678
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Dynamic Host Configuration Protocol (DHCPv4 and DHCPv6) Options for IEEE
     802.21 Mobility Services (MoS) Discovery

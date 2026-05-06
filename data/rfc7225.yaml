@@ -1,7 +1,7 @@
 ---
 id: RFC7225
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Discovering NAT64 IPv6 Prefixes Using the Port Control Protocol (PCP)
   type: main

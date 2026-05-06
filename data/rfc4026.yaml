@@ -1,7 +1,7 @@
 ---
 id: RFC4026
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Provider Provisioned Virtual Private Network (VPN) Terminology
   type: main

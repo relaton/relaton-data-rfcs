@@ -1,7 +1,7 @@
 ---
 id: RFC2220
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: The Application/MARC Content-type
   type: main

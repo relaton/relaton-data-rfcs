@@ -1,7 +1,7 @@
 ---
 id: RFC4127
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Russian Dolls Bandwidth Constraints Model for Diffserv-aware MPLS Traffic
     Engineering

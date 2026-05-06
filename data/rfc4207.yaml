@@ -1,7 +1,7 @@
 ---
 id: RFC4207
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Synchronous Optical Network (SONET)/Synchronous Digital Hierarchy (SDH)
     Encoding for Link Management Protocol (LMP) Test Messages

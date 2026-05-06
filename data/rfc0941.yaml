@@ -1,7 +1,7 @@
 ---
 id: RFC941
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Addendum to the network service definition covering network layer addressing
   type: main

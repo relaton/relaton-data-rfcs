@@ -1,7 +1,7 @@
 ---
 id: RFC4968
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Analysis of IPv6 Link Models for 802.16 Based Networks
   type: main

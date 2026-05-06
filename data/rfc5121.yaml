@@ -1,7 +1,7 @@
 ---
 id: RFC5121
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Transmission of IPv6 via the IPv6 Convergence Sublayer over IEEE 802.16
     Networks

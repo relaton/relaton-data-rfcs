@@ -1,7 +1,7 @@
 ---
 id: RFC7912
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Message Authorizing Email Header Field and Its Use for the Draft and Release
     Procedure

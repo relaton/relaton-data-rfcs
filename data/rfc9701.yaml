@@ -1,7 +1,7 @@
 ---
 id: RFC9701
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: JSON Web Token (JWT) Response for OAuth Token Introspection
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC6465
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: A Real-time Transport Protocol (RTP) Header Extension for Mixer-to-Client
     Audio Level Indication

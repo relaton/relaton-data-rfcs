@@ -1,7 +1,7 @@
 ---
 id: RFC3531
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: A Flexible Method for Managing the Assignment of Bits of an IPv6 Address
     Block

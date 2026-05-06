@@ -1,7 +1,7 @@
 ---
 id: RFC2006
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: The Definitions of Managed Objects for IP Mobility Support using SMIv2
   type: main

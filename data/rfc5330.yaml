@@ -1,7 +1,7 @@
 ---
 id: RFC5330
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: A Link-Type sub-TLV to Convey the Number of Traffic Engineering Label Switched
     Paths Signalled with Zero Reserved Bandwidth across a Link

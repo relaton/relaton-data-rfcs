@@ -1,7 +1,7 @@
 ---
 id: RFC4430
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Kerberized Internet Negotiation of Keys (KINK)
   type: main

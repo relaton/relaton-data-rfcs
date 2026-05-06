@@ -1,7 +1,7 @@
 ---
 id: RFC2698
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: A Two Rate Three Color Marker
   type: main

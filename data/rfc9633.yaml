@@ -1,7 +1,7 @@
 ---
 id: RFC9633
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Deterministic Networking (DetNet) YANG Data Model
   type: main

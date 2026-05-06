@@ -1,7 +1,7 @@
 ---
 id: RFC2711
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: IPv6 Router Alert Option
   type: main

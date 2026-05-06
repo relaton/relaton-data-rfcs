@@ -1,7 +1,7 @@
 ---
 id: RFC2174
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: A MAPOS version 1 Extension - Switch-Switch Protocol
   type: main

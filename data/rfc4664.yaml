@@ -1,7 +1,7 @@
 ---
 id: RFC4664
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Framework for Layer 2 Virtual Private Networks (L2VPNs)
   type: main

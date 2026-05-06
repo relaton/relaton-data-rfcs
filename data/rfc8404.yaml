@@ -1,7 +1,7 @@
 ---
 id: RFC8404
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Effects of Pervasive Encryption on Operators
   type: main

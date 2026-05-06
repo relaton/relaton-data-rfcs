@@ -1,7 +1,7 @@
 ---
 id: RFC9856
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Multicast Source Redundancy in EVPNs
   type: main

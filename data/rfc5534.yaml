@@ -1,7 +1,7 @@
 ---
 id: RFC5534
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Failure Detection and Locator Pair Exploration Protocol for IPv6 Multihoming
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC6520
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Transport Layer Security (TLS) and Datagram Transport Layer Security (DTLS)
     Heartbeat Extension

@@ -1,7 +1,7 @@
 ---
 id: RFC4913
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Abstract Syntax Notation X (ASN.X) Representation of Encoding Instructions
     for the Generic String Encoding Rules (GSER)

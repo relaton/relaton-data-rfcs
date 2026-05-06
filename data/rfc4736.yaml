@@ -1,7 +1,7 @@
 ---
 id: RFC4736
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Reoptimization of Multiprotocol Label Switching (MPLS) Traffic Engineering
     (TE) Loosely Routed Label Switched Path (LSP)

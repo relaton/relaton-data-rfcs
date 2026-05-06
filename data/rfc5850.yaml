@@ -1,7 +1,7 @@
 ---
 id: RFC5850
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: A Call Control and Multi-Party Usage Framework for the Session Initiation
     Protocol (SIP)

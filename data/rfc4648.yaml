@@ -1,7 +1,7 @@
 ---
 id: RFC4648
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: The Base16, Base32, and Base64 Data Encodings
   type: main

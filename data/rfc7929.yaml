@@ -1,7 +1,7 @@
 ---
 id: RFC7929
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: DNS-Based Authentication of Named Entities (DANE) Bindings for OpenPGP
   type: main

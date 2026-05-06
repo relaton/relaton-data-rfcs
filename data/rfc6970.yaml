@@ -1,7 +1,7 @@
 ---
 id: RFC6970
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Universal Plug and Play (UPnP) Internet Gateway Device - Port Control Protocol
     Interworking Function (IGD-PCP IWF)

@@ -1,7 +1,7 @@
 ---
 id: RFC3492
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'Punycode: A Bootstring encoding of Unicode for Internationalized Domain
     Names in Applications (IDNA)'

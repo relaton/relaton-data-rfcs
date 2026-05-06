@@ -1,7 +1,7 @@
 ---
 id: RFC9594
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Key Provisioning for Group Communication Using Authentication and Authorization
     for Constrained Environments (ACE)

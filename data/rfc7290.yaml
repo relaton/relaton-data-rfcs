@@ -1,7 +1,7 @@
 ---
 id: RFC7290
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Test Plan and Results for Advancing RFC 2680 on the Standards Track
   type: main

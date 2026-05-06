@@ -1,7 +1,7 @@
 ---
 id: RFC9265
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Forward Erasure Correction (FEC) Coding and Congestion Control in Transport
   type: main

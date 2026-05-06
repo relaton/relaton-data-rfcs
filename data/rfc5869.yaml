@@ -1,7 +1,7 @@
 ---
 id: RFC5869
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: HMAC-based Extract-and-Expand Key Derivation Function (HKDF)
   type: main

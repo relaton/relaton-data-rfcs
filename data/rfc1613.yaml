@@ -1,7 +1,7 @@
 ---
 id: RFC1613
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: cisco Systems X.25 over TCP (XOT)
   type: main

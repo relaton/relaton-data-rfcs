@@ -1,7 +1,7 @@
 ---
 id: RFC2033
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Local Mail Transfer Protocol
   type: main

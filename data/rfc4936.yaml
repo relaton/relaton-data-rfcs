@@ -1,7 +1,7 @@
 ---
 id: RFC4936
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Fibre Channel Zone Server MIB
   type: main

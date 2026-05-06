@@ -1,7 +1,7 @@
 ---
 id: RFC4621
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Design of the IKEv2 Mobility and Multihoming (MOBIKE) Protocol
   type: main

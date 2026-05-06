@@ -1,7 +1,7 @@
 ---
 id: RFC4365
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Applicability Statement for BGP/MPLS IP Virtual Private Networks (VPNs)
   type: main

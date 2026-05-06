@@ -1,7 +1,7 @@
 ---
 id: RFC7678
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Attribute-Value Pairs for Provisioning Customer Equipment Supporting IPv4-Over-IPv6
     Transitional Solutions

@@ -1,7 +1,7 @@
 ---
 id: RFC5782
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: DNS Blacklists and Whitelists
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC1755
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: ATM Signaling Support for IP over ATM
   type: main

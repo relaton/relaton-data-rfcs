@@ -1,7 +1,7 @@
 ---
 id: RFC1211
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Problems with the maintenance of large mailing lists
   type: main

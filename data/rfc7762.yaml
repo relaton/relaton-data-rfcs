@@ -1,7 +1,7 @@
 ---
 id: RFC7762
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Initial Assignment for the Content Security Policy Directives Registry
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC5130
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: A Policy Control Mechanism in IS-IS Using Administrative Tags
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC4267
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'The W3C Speech Interface Framework Media Types: application/voicexml+xml,
     application/ssml+xml, application/srgs, application/srgs+xml, application/ccxml+xml,

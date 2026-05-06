@@ -1,7 +1,7 @@
 ---
 id: RFC9333
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Minimal IP Encapsulating Security Payload (ESP)
   type: main

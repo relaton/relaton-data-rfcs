@@ -1,7 +1,7 @@
 ---
 id: RFC7740
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Simulating Partial Mesh of Multipoint-to-Multipoint (MP2MP) Provider Tunnels
     with Ingress Replication

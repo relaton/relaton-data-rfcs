@@ -1,7 +1,7 @@
 ---
 id: RFC7672
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: SMTP Security via Opportunistic DNS-Based Authentication of Named Entities
     (DANE) Transport Layer Security (TLS)

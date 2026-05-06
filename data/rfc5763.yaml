@@ -1,7 +1,7 @@
 ---
 id: RFC5763
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Framework for Establishing a Secure Real-time Transport Protocol (SRTP)
     Security Context Using Datagram Transport Layer Security (DTLS)

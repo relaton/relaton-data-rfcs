@@ -1,7 +1,7 @@
 ---
 id: RFC7725
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: An HTTP Status Code to Report Legal Obstacles
   type: main

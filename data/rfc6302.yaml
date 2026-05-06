@@ -1,7 +1,7 @@
 ---
 id: RFC6302
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Logging Recommendations for Internet-Facing Servers
   type: main

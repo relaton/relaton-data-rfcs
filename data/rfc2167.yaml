@@ -1,7 +1,7 @@
 ---
 id: RFC2167
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Referral Whois (RWhois) Protocol V1.5
   type: main

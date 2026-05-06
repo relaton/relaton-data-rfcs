@@ -1,7 +1,7 @@
 ---
 id: RFC8053
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: HTTP Authentication Extensions for Interactive Clients
   type: main

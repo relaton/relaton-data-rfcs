@@ -1,7 +1,7 @@
 ---
 id: RFC1470
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'FYI on a Network Management Tool Catalog: Tools for Monitoring and Debugging
     TCP/IP Internets and Interconnected Devices'

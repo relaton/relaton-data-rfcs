@@ -1,7 +1,7 @@
 ---
 id: RFC7401
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Host Identity Protocol Version 2 (HIPv2)
   type: main

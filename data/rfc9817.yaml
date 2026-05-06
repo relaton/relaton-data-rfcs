@@ -1,7 +1,7 @@
 ---
 id: RFC9817
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Use Cases for In-Network Computing
   type: main

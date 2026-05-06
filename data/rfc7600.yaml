@@ -1,7 +1,7 @@
 ---
 id: RFC7600
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: IPv4 Residual Deployment via IPv6 - A Stateless Solution (4rd)
   type: main

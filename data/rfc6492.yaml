@@ -1,7 +1,7 @@
 ---
 id: RFC6492
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: A Protocol for Provisioning Resource Certificates
   type: main

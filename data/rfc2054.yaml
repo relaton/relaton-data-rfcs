@@ -1,7 +1,7 @@
 ---
 id: RFC2054
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: WebNFS Client Specification
   type: main

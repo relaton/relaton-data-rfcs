@@ -1,7 +1,7 @@
 ---
 id: RFC8378
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Signal-Free Locator/ID Separation Protocol (LISP) Multicast
   type: main

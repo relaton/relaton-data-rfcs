@@ -1,7 +1,7 @@
 ---
 id: RFC3765
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: NOPEER Community for Border Gateway Protocol (BGP) Route Scope Control
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC1006
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'ISO Transport Service on top of the TCP Version: 3'
   type: main

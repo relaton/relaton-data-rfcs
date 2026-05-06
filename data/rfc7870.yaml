@@ -1,7 +1,7 @@
 ---
 id: RFC7870
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Dual-Stack Lite (DS-Lite) Management Information Base (MIB) for Address
     Family Transition Routers (AFTRs)

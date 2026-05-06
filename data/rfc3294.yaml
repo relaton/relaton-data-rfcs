@@ -1,7 +1,7 @@
 ---
 id: RFC3294
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: General Switch Management Protocol (GSMP) Applicability
   type: main

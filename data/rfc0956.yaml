@@ -1,7 +1,7 @@
 ---
 id: RFC956
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Algorithms for synchronizing network clocks
   type: main

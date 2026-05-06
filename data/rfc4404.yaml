@@ -1,7 +1,7 @@
 ---
 id: RFC4404
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Definitions of Managed Objects for Fibre Channel Over TCP/IP (FCIP)
   type: main

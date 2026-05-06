@@ -1,7 +1,7 @@
 ---
 id: RFC5056
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: On the Use of Channel Bindings to Secure Channels
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC9870
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Export of UDP Options Information in IP Flow Information Export (IPFIX)
   type: main

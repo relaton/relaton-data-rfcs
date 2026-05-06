@@ -1,7 +1,7 @@
 ---
 id: RFC7171
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'PT-EAP: Posture Transport (PT) Protocol for Extensible Authentication
     Protocol (EAP) Tunnel Methods'

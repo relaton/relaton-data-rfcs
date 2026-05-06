@@ -1,7 +1,7 @@
 ---
 id: RFC7813
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: IS-IS Path Control and Reservation
   type: main

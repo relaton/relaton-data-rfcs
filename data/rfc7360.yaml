@@ -1,7 +1,7 @@
 ---
 id: RFC7360
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Datagram Transport Layer Security (DTLS) as a Transport Layer for RADIUS
   type: main

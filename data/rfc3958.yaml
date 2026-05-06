@@ -1,7 +1,7 @@
 ---
 id: RFC3958
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Domain-Based Application Service Location Using SRV RRs and the Dynamic
     Delegation Discovery Service (DDDS)

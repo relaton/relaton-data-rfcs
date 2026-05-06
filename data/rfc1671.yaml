@@ -1,7 +1,7 @@
 ---
 id: RFC1671
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: IPng White Paper on Transition and Other Considerations
   type: main

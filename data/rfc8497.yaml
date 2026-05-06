@@ -1,7 +1,7 @@
 ---
 id: RFC8497
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Marking SIP Messages to Be Logged
   type: main

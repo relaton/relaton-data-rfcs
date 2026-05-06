@@ -1,7 +1,7 @@
 ---
 id: RFC8024
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Multi-Chassis Passive Optical Network (MC-PON) Protection in MPLS
   type: main

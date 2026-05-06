@@ -1,7 +1,7 @@
 ---
 id: RFC4542
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Implementing an Emergency Telecommunications Service (ETS) for Real-Time
     Services in the Internet Protocol Suite

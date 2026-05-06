@@ -1,7 +1,7 @@
 ---
 id: RFC3385
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Internet Protocol Small Computer System Interface (iSCSI) Cyclic Redundancy
     Check (CRC)/Checksum Considerations

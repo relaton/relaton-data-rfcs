@@ -1,7 +1,7 @@
 ---
 id: RFC4076
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Renumbering Requirements for Stateless Dynamic Host Configuration Protocol
     for IPv6 (DHCPv6)

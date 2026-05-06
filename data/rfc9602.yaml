@@ -1,7 +1,7 @@
 ---
 id: RFC9602
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Segment Routing over IPv6 (SRv6) Segment Identifiers in the IPv6 Addressing
     Architecture

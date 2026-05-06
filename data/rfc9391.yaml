@@ -1,7 +1,7 @@
 ---
 id: RFC9391
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Static Context Header Compression over Narrowband Internet of Things
   type: main

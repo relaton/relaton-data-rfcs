@@ -1,7 +1,7 @@
 ---
 id: RFC4218
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Threats Relating to IPv6 Multihoming Solutions
   type: main

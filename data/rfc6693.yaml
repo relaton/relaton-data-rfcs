@@ -1,7 +1,7 @@
 ---
 id: RFC6693
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Probabilistic Routing Protocol for Intermittently Connected Networks
   type: main

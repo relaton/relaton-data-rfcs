@@ -1,7 +1,7 @@
 ---
 id: RFC2448
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: AT&T's Error Resilient Video Transmission Technique
   type: main

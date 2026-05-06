@@ -1,7 +1,7 @@
 ---
 id: RFC4018
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Finding Internet Small Computer Systems Interface (iSCSI) Targets and Name
     Servers by Using Service Location Protocol version 2 (SLPv2)

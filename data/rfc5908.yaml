@@ -1,7 +1,7 @@
 ---
 id: RFC5908
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Network Time Protocol (NTP) Server Option for DHCPv6
   type: main

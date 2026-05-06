@@ -1,7 +1,7 @@
 ---
 id: RFC1336
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'Who''s Who in the Internet: Biographies of IAB, IESG and IRSG Members'
   type: main

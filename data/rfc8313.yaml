@@ -1,7 +1,7 @@
 ---
 id: RFC8313
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Use of Multicast across Inter-domain Peering Points
   type: main

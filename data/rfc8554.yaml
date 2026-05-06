@@ -1,7 +1,7 @@
 ---
 id: RFC8554
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Leighton-Micali Hash-Based Signatures
   type: main

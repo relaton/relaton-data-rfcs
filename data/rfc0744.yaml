@@ -1,7 +1,7 @@
 ---
 id: RFC744
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: MARS - a Message Archiving and Retrieval Service
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC3909
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Lightweight Directory Access Protocol (LDAP) Cancel Operation
   type: main

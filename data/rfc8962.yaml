@@ -1,7 +1,7 @@
 ---
 id: RFC8962
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Establishing the Protocol Police
   type: main

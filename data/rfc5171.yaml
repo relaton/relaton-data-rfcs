@@ -1,7 +1,7 @@
 ---
 id: RFC5171
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Cisco Systems UniDirectional Link Detection (UDLD) Protocol
   type: main

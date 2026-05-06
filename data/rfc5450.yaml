@@ -1,7 +1,7 @@
 ---
 id: RFC5450
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Transmission Time Offsets in RTP Streams
   type: main

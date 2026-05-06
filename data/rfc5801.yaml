@@ -1,7 +1,7 @@
 ---
 id: RFC5801
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'Using Generic Security Service Application Program Interface (GSS-API)
     Mechanisms in Simple Authentication and Security Layer (SASL): The GS2 Mechanism

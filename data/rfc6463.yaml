@@ -1,7 +1,7 @@
 ---
 id: RFC6463
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Runtime Local Mobility Anchor (LMA) Assignment Support for Proxy Mobile
     IPv6

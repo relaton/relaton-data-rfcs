@@ -1,7 +1,7 @@
 ---
 id: RFC885
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Telnet end of record option
   type: main

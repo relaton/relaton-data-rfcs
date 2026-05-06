@@ -1,7 +1,7 @@
 ---
 id: RFC7697
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: MPLS Transport Profile (MPLS-TP) Operations, Administration, and Maintenance
     (OAM) Identifiers Management Information Base (MIB)

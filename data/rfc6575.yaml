@@ -1,7 +1,7 @@
 ---
 id: RFC6575
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Address Resolution Protocol (ARP) Mediation for IP Interworking of Layer
     2 VPNs

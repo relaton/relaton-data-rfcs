@@ -1,7 +1,7 @@
 ---
 id: RFC2841
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: IP Authentication using Keyed SHA1 with Interleaved Padding (IP-MAC)
   type: main

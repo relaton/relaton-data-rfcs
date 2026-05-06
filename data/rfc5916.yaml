@@ -1,7 +1,7 @@
 ---
 id: RFC5916
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Device Owner Attribute
   type: main

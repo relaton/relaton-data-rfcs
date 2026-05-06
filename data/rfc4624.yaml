@@ -1,7 +1,7 @@
 ---
 id: RFC4624
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Multicast Source Discovery Protocol (MSDP) MIB
   type: main

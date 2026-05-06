@@ -1,7 +1,7 @@
 ---
 id: RFC3832
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Remote Service Discovery in the Service Location Protocol (SLP) via DNS
     SRV

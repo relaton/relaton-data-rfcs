@@ -1,7 +1,7 @@
 ---
 id: RFC7792
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: RSVP-TE Signaling Extensions in Support of Flexi-Grid Dense Wavelength
     Division Multiplexing (DWDM) Networks

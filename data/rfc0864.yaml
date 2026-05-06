@@ -1,7 +1,7 @@
 ---
 id: RFC864
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Character Generator Protocol
   type: main

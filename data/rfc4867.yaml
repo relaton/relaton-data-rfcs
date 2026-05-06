@@ -1,7 +1,7 @@
 ---
 id: RFC4867
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: RTP Payload Format and File Storage Format for the Adaptive Multi-Rate
     (AMR) and Adaptive Multi-Rate Wideband (AMR-WB) Audio Codecs

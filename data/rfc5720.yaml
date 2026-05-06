@@ -1,7 +1,7 @@
 ---
 id: RFC5720
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Routing and Addressing in Networks with Global Enterprise Recursion (RANGER)
   type: main

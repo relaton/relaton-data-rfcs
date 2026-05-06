@@ -1,7 +1,7 @@
 ---
 id: RFC9638
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Network Virtualization over Layer 3 (NVO3) Encapsulation Considerations
   type: main

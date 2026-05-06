@@ -1,7 +1,7 @@
 ---
 id: RFC1094
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'NFS: Network File System Protocol specification'
   type: main

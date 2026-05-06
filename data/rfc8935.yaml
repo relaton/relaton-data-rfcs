@@ -1,7 +1,7 @@
 ---
 id: RFC8935
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Push-Based Security Event Token (SET) Delivery Using HTTP
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC6311
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Protocol Support for High Availability of IKEv2/IPsec
   type: main

@@ -1,7 +1,7 @@
 ---
 id: RFC7680
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: A One-Way Loss Metric for IP Performance Metrics (IPPM)
   type: main

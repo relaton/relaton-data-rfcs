@@ -1,7 +1,7 @@
 ---
 id: RFC9744
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: EVPN Virtual Private Wire Service (VPWS) Flexible Cross-Connect (FXC) Service
   type: main

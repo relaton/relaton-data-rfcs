@@ -1,7 +1,7 @@
 ---
 id: RFC1984
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: IAB and IESG Statement on Cryptographic Technology and the Internet
   type: main
