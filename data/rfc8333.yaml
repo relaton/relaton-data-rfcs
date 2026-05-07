@@ -144,7 +144,7 @@ abstract:
     failure and the IGP convergence.</p><p>The mechanism is limited to the link-down
     event in order to keep the mechanism simple.</p><p>Simulations using real network
     topologies have been performed and show that local loops are a significant portion
-    (>50%) of the total forwarding loops.</p>"
+    (&gt;50%) of the total forwarding loops.</p>"
 status:
   stage:
     content: PROPOSED STANDARD

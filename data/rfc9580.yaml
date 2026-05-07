@@ -135,7 +135,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: <p>This document specifies the message formats used in OpenPGP. OpenPGP
+  content: "<p>This document specifies the message formats used in OpenPGP. OpenPGP
     provides encryption with public key or symmetric cryptographic algorithms, digital
     signatures, compression, and key management.</p><p>This document is maintained
     in order to publish all necessary information needed to develop interoperable
@@ -144,8 +144,8 @@ abstract:
     check, generate, and write conforming packets crossing any network. It does not
     deal with storage and implementation questions. It does, however, discuss implementation
     issues necessary to avoid security flaws.</p><p>This document obsoletes RFCs 4880
-    ("OpenPGP Message Format"), 5581 ("The Camellia Cipher in OpenPGP"), and 6637
-    ("Elliptic Curve Cryptography (ECC) in OpenPGP").</p>
+    (&quot;OpenPGP Message Format&quot;), 5581 (&quot;The Camellia Cipher in OpenPGP&quot;),
+    and 6637 (&quot;Elliptic Curve Cryptography (ECC) in OpenPGP&quot;).</p>"
 status:
   stage:
     content: PROPOSED STANDARD

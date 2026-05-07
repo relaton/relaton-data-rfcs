@@ -116,16 +116,17 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: <p>This document specifies the "SVCB" ("Service Binding") and "HTTPS" DNS
-    resource record (RR) types to facilitate the lookup of information needed to make
-    connections to network services, such as for HTTP origins.  SVCB records allow
-    a service to be provided from multiple alternative endpoints, each with associated
-    parameters (such as transport protocol configuration), and are extensible to support
-    future uses (such as keys for encrypting the TLS ClientHello).  They also enable
-    aliasing of apex domains, which is not possible with CNAME.  The HTTPS RR is a
-    variation of SVCB for use with HTTP (see RFC 9110, "HTTP Semantics").  By providing
-    more information to the client before it attempts to establish a connection, these
-    records offer potential benefits to both performance and privacy.</p>
+  content: "<p>This document specifies the &quot;SVCB&quot; (&quot;Service Binding&quot;)
+    and &quot;HTTPS&quot; DNS resource record (RR) types to facilitate the lookup
+    of information needed to make connections to network services, such as for HTTP
+    origins.  SVCB records allow a service to be provided from multiple alternative
+    endpoints, each with associated parameters (such as transport protocol configuration),
+    and are extensible to support future uses (such as keys for encrypting the TLS
+    ClientHello).  They also enable aliasing of apex domains, which is not possible
+    with CNAME.  The HTTPS RR is a variation of SVCB for use with HTTP (see RFC 9110,
+    &quot;HTTP Semantics&quot;).  By providing more information to the client before
+    it attempts to establish a connection, these records offer potential benefits
+    to both performance and privacy.</p>"
 status:
   stage:
     content: PROPOSED STANDARD

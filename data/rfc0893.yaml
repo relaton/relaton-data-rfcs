@@ -81,10 +81,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: <p>This RFC discusses the motivation for use of "trailer encapsulations"
+  content: "<p>This RFC discusses the motivation for use of &quot;trailer encapsulations&quot;
     on local-area networks and describes the implementation of such an encapsulation
     on various media.  This document is for information only.  This is NOT an official
-    protocol for the ARPA Internet community.</p>
+    protocol for the ARPA Internet community.</p>"
 status:
   stage:
     content: UNKNOWN

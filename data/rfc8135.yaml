@@ -79,7 +79,7 @@ abstract:
 - language: en
   script: Latn
   content: "<p>The 128-bit length of IPv6 addresses (RFC 4291) allows for new and
-    innovative address schemes that can adapt to the challenges of today's complex
+    innovative address schemes that can adapt to the challenges of today&#39;s complex
     network world.  It also allows for new and improved security measures and supports
     advanced cloud computing challenges.</p>"
 status:

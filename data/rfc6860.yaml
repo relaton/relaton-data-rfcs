@@ -121,9 +121,9 @@ abstract:
     data traffic. In addition, remote attacks can be launched against routers by sending
     packets to these transit-only networks. This document presents a mechanism to
     hide transit-only networks to speed up network convergence and reduce vulnerability
-    to remote attacks.</p><p>In the context of this document, 'hiding' implies that
-    the prefixes are not installed in the routing tables on OSPF routers. In some
-    cases, IP addresses may still be visible when using OSPFv2.</p><p>This document
+    to remote attacks.</p><p>In the context of this document, &#39;hiding&#39; implies
+    that the prefixes are not installed in the routing tables on OSPF routers. In
+    some cases, IP addresses may still be visible when using OSPFv2.</p><p>This document
     updates RFCs 2328 and 5340. [STANDARDS-TRACK]</p>"
 status:
   stage:

@@ -147,7 +147,7 @@ abstract:
     form of Explicit Congestion Notification (ECN) from the network. With this new
     architecture, applications can have both low latency and high throughput.</p><p>The
     architecture primarily concerns incremental deployment. It defines mechanisms
-    that allow the new class of L4S congestion controls to coexist with 'Classic'
+    that allow the new class of L4S congestion controls to coexist with &#39;Classic&#39;
     congestion controls in a shared network. The aim is for L4S latency and throughput
     to be usually much better (and rarely worse) while typically not impacting Classic
     performance.</p>"

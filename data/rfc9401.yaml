@@ -59,8 +59,8 @@ abstract:
 - language: en
   script: Latn
   content: "<p>This memo specifies the incorporation of Death (DTH) flag to TCP, including
-    DTH's use of one bit in the TCP header.  The flag is designed to make TCP session
-    narratives smooth and attractive.</p>"
+    DTH&#39;s use of one bit in the TCP header.  The flag is designed to make TCP
+    session narratives smooth and attractive.</p>"
 status:
   stage:
     content: INFORMATIONAL

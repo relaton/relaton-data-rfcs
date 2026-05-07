@@ -163,10 +163,10 @@ abstract:
     published data, regardless of how the zone data has been transmitted and received.
     When used without DNSSEC, ZONEMD functions as a checksum, guarding only against
     unintentional changes.</p><p>ZONEMD does not replace DNSSEC: DNSSEC protects individual
-    RRsets (DNS data with fine granularity), whereas ZONEMD protects a zone's data
-    as a whole, whether consumed by authoritative name servers, recursive name servers,
-    or any other applications.</p><p>As specified herein, ZONEMD is impractical for
-    large, dynamic zones due to the time and resources required for digest calculation.
+    RRsets (DNS data with fine granularity), whereas ZONEMD protects a zone&#39;s
+    data as a whole, whether consumed by authoritative name servers, recursive name
+    servers, or any other applications.</p><p>As specified herein, ZONEMD is impractical
+    for large, dynamic zones due to the time and resources required for digest calculation.
     However, the ZONEMD record is extensible so that new digest schemes may be added
     in the future to support large, dynamic zones.</p>"
 status:

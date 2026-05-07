@@ -135,7 +135,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: '<p>This document updates RFC 7030, "Enrollment over Secure Transport"
+  content: "<p>This document updates RFC 7030, &quot;Enrollment over Secure Transport&quot;
     (EST), clarifying how the Certificate Signing Request (CSR) Attributes Response
     can be used by an EST server to specify both CSR attribute Object Identifiers
     (OIDs) and CSR attribute values, particularly X.509 extension values, that the
@@ -146,7 +146,7 @@ abstract:
     of what was specified. This document clarifies the encoding rules.</p><p>This
     document also provides a new straightforward approach: using a template for CSR
     contents that may be partially filled in by the server. This also allows an EST
-    server to specify a subject Distinguished Name (DN).</p>'
+    server to specify a subject Distinguished Name (DN).</p>"
 status:
   stage:
     content: PROPOSED STANDARD

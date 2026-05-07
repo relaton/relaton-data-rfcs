@@ -80,7 +80,7 @@ abstract:
     for use with network management protocols in TCP/IP-based internets.  In particular,
     it describes managed objects used for managing the IP Network Control Protocol
     on subnetwork interfaces using the family of Point-to-Point Protocols [8, 9, 10,
-    11, & 12]. [STANDARDS-TRACK]</p>"
+    11, &amp; 12]. [STANDARDS-TRACK]</p>"
 status:
   stage:
     content: PROPOSED STANDARD

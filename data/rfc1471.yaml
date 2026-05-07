@@ -80,7 +80,7 @@ abstract:
     for use with network management protocols in TCP/IP-based internets.  In particular,
     it describes managed objects used for managing the Link Control Protocol and Link
     Quality Monitoring on subnetwork interfaces that use the family of Point-to-Point
-    Protocols [8, 9, 10, 11, & 12]. [STANDARDS-TRACK]</p>"
+    Protocols [8, 9, 10, 11, &amp; 12]. [STANDARDS-TRACK]</p>"
 status:
   stage:
     content: PROPOSED STANDARD

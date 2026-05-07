@@ -96,11 +96,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: <p>This document provides considerations for alleviating Constrained Application
+  content: "<p>This document provides considerations for alleviating Constrained Application
     Protocol (CoAP) clients and intermediaries of keeping per-request state. To facilitate
     this, this document additionally introduces a new, optional CoAP protocol extension
     for extended token lengths.</p><p>This document updates RFCs 7252 and 8323 with
-    an extended definition of the "TKL" field in the CoAP message header.</p>
+    an extended definition of the &quot;TKL&quot; field in the CoAP message header.</p>"
 status:
   stage:
     content: PROPOSED STANDARD

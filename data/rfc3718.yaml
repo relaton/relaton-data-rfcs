@@ -63,7 +63,7 @@ abstract:
     for the benefit of participants in the IETF.  It is intended solely for informational
     purposes.  Included are discussions of how the decision-making bodies of the Consortium
     work and their procedures, as well as information on public access to the character
-    encoding & standardization processes.</p>"
+    encoding &amp; standardization processes.</p>"
 status:
   stage:
     content: INFORMATIONAL

@@ -76,12 +76,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: <p>The SIP-based Media Recording (SIPREC) protocol is defined by both "Session
-    Initiation Protocol (SIP) Recording Metadata" (RFC 7865) and "Session Recording
-    Protocol" (RFC 7866).  Unfortunately, both RFCs contradict each other regarding
-    how recording metadata is to be labeled.  In addition, neither RFC registered
-    the new media type.  This document updates RFC 7866 to align with RFC 7865 when
-    labeling recording metadata and also registers the media type.</p>
+  content: "<p>The SIP-based Media Recording (SIPREC) protocol is defined by both
+    &quot;Session Initiation Protocol (SIP) Recording Metadata&quot; (RFC 7865) and
+    &quot;Session Recording Protocol&quot; (RFC 7866).  Unfortunately, both RFCs contradict
+    each other regarding how recording metadata is to be labeled.  In addition, neither
+    RFC registered the new media type.  This document updates RFC 7866 to align with
+    RFC 7865 when labeling recording metadata and also registers the media type.</p>"
 status:
   stage:
     content: PROPOSED STANDARD

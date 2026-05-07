@@ -84,10 +84,10 @@ abstract:
     turn allows network designers to employ larger subnets and so reduce the address
     management overhead.</p><p>Some of the numerous deployment scenarios of the aforementioned
     mechanism (which range from data center designs to Ethernet-to-the-home-basement
-    networks) are mentioned in the following text to exemplify the mechanism's possible
-    usages; however, this document is not intended to cover all such deployment scenarios
-    nor delve into their details. This document is not an Internet Standards Track
-    specification; it is published for informational purposes.</p>"
+    networks) are mentioned in the following text to exemplify the mechanism&#39;s
+    possible usages; however, this document is not intended to cover all such deployment
+    scenarios nor delve into their details. This document is not an Internet Standards
+    Track specification; it is published for informational purposes.</p>"
 status:
   stage:
     content: INFORMATIONAL

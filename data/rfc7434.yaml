@@ -95,7 +95,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: <p>The motivation and use cases for interworking and transporting User-
+  content: "<p>The motivation and use cases for interworking and transporting User-
     to-User Information (UUI) from the ITU-T Digital Subscriber Signalling System
     No. 1 (DSS1) User-user information element within SIP are described in RFC 6567.
     As networks move to SIP, it is important that applications requiring this data
@@ -105,7 +105,7 @@ abstract:
     enable interworking with this ISDN service.</p><p>This document covers interworking
     with both public ISDN and private ISDN capabilities, so the potential interworking
     with QSIG will also be addressed.</p><p>The package is identified by the new value
-    "isdn-uui" of the "purpose" header field parameter.</p>
+    &quot;isdn-uui&quot; of the &quot;purpose&quot; header field parameter.</p>"
 status:
   stage:
     content: PROPOSED STANDARD

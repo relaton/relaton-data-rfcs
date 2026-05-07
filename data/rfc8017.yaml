@@ -122,7 +122,7 @@ abstract:
     cryptography based on the RSA algorithm, covering cryptographic primitives, encryption
     schemes, signature schemes with appendix, and ASN.1 syntax for representing keys
     and for identifying the schemes.</p><p>This document represents a republication
-    of PKCS #1 v2.2 from RSA Laboratories' Public-Key Cryptography Standards (PKCS)
+    of PKCS #1 v2.2 from RSA Laboratories&#39; Public-Key Cryptography Standards (PKCS)
     series. By publishing this RFC, change control is transferred to the IETF.</p><p>This
     document also obsoletes RFC 3447.</p>"
 status:

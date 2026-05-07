@@ -76,7 +76,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: <p>The Open Pluggable Edge Services (OPES) framework is application agnostic.
+  content: "<p>The Open Pluggable Edge Services (OPES) framework is application agnostic.
     Application-specific adaptations extend that framework. Previous work has focused
     on HTTP and work for SMTP is in progress. These protocols differ fundamentally
     in the way data flows, and it turns out that existing OPES requirements and IAB
@@ -84,11 +84,11 @@ abstract:
     for SMTP adaptation. This document analyzes aspects about the integrity of SMTP
     and mail message adaptation by OPES systems and about privacy and security issues
     when the OPES framework is adapted to SMTP. It also lists requirements that must
-    be considered when creating the "SMTP adaptation with OPES" document.</p><p>The
+    be considered when creating the &quot;SMTP adaptation with OPES&quot; document.</p><p>The
     intent of this document is to capture this information before the current OPES
     working group shuts down. This is to provide input for subsequent working groups
     or individual contributors that may pick up the OPES/SMTP work at a later date.
-    This memo provides information for the Internet community.</p>
+    This memo provides information for the Internet community.</p>"
 status:
   stage:
     content: INFORMATIONAL

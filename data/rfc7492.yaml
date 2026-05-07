@@ -99,9 +99,9 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: <p>This document analyzes the Bidirectional Forwarding Detection (BFD)
-    protocol according to the guidelines set forth in Section 4.2 of RFC 6518, "Keying
-    and Authentication for Routing Protocols (KARP) Design Guidelines".</p>
+  content: "<p>This document analyzes the Bidirectional Forwarding Detection (BFD)
+    protocol according to the guidelines set forth in Section 4.2 of RFC 6518, &quot;Keying
+    and Authentication for Routing Protocols (KARP) Design Guidelines&quot;.</p>"
 status:
   stage:
     content: INFORMATIONAL

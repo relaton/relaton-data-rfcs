@@ -79,9 +79,9 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: <p>This RFC proposes a model for describing routing within the Internet.  The
-    model is an adaptation of the "OSI Routeing Framework".  This memo does not specify
-    an Internet standard.</p>
+  content: "<p>This RFC proposes a model for describing routing within the Internet.
+    \ The model is an adaptation of the &quot;OSI Routeing Framework&quot;.  This
+    memo does not specify an Internet standard.</p>"
 status:
   stage:
     content: INFORMATIONAL

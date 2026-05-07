@@ -122,7 +122,7 @@ abstract:
     by the network administrator).  This mode of RSVP usage is particularly applicable
     to networks that combine differentiated service (diffserv) QoS mechanisms with
     RSVP signaling.  In this environment, QoS policy agents may direct the signaled
-    application's traffic to a particular diffserv class of service. [STANDARDS-TRACK]</p>"
+    application&#39;s traffic to a particular diffserv class of service. [STANDARDS-TRACK]</p>"
 status:
   stage:
     content: PROPOSED STANDARD

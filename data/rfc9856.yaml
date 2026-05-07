@@ -163,10 +163,10 @@ abstract:
     network, causing inefficiencies and increased overhead.  This document specifies
     extensions to the EVPN multicast procedures that allow for the suppression of
     duplicate IP multicast traffic from redundant sources.  The proposed mechanisms
-    enhance the EVPN's capability to deliver multicast traffic efficiently while maintaining
-    high availability.  These extensions are applicable to various EVPN deployment
-    scenarios and provide guidelines to ensure consistent and predictable behavior
-    across diverse network topologies.</p>"
+    enhance the EVPN&#39;s capability to deliver multicast traffic efficiently while
+    maintaining high availability.  These extensions are applicable to various EVPN
+    deployment scenarios and provide guidelines to ensure consistent and predictable
+    behavior across diverse network topologies.</p>"
 status:
   stage:
     content: PROPOSED STANDARD

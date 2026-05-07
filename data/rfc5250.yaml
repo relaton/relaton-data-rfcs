@@ -143,8 +143,8 @@ abstract:
     Standard OSPF link-state database flooding mechanisms are used to distribute Opaque
     LSAs to all or some limited portion of the OSPF topology.</p><p>This document
     replaces RFC 2370 and adds to it a mechanism to enable an OSPF router to validate
-    Autonomous System (AS)-scope Opaque LSAs originated outside of the router's OSPF
-    area. [STANDARDS-TRACK]</p>"
+    Autonomous System (AS)-scope Opaque LSAs originated outside of the router&#39;s
+    OSPF area. [STANDARDS-TRACK]</p>"
 status:
   stage:
     content: PROPOSED STANDARD

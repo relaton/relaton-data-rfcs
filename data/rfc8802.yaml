@@ -149,7 +149,7 @@ abstract:
     details on the actions to be triggered upon reception/detection of QoS alerts
     exchanged by the protocol are out of scope of this document; it is either application
     dependent (e.g., act to increase quality or reduce bit-rate) or network dependent
-    (e.g., change connection's quality profile).</p><p>This protocol specification
+    (e.g., change connection&#39;s quality profile).</p><p>This protocol specification
     is the product of research conducted over a number of years; it is presented here
     as a permanent record and to offer a foundation for future similar work. It does
     not represent a standard protocol and does not have IETF consensus.</p>"

@@ -85,7 +85,7 @@ abstract:
     a diskless client machine to discover its own IP address, the address of a server
     host, and the name of a file to be loaded into memory and executed.  The bootstrap
     operation can be thought of as consisting of TWO PHASES.  This RFC describes the
-    first phase, which could be labeled `address determination and bootfile selection'.
+    first phase, which could be labeled `address determination and bootfile selection&#39;.
     \ After this address and filename information is obtained, control passes to the
     second phase of the bootstrap where a file transfer occurs.  The file transfer
     will typically use the TFTP protocol, since it is intended that both phases reside

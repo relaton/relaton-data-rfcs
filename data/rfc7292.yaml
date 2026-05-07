@@ -144,7 +144,7 @@ abstract:
     will allow a user to import, export, and exercise a single set of personal identity
     information. This standard supports direct transfer of personal information under
     several privacy and integrity modes.</p><p>This document represents a republication
-    of PKCS #12 v1.1 from RSA Laboratories' Public Key Cryptography Standard (PKCS)
+    of PKCS #12 v1.1 from RSA Laboratories&#39; Public Key Cryptography Standard (PKCS)
     series. By publishing this RFC, change control is transferred to the IETF.</p>"
 status:
   stage:

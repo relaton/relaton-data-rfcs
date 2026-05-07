@@ -160,7 +160,7 @@ abstract:
     Authority (IANA) uses when handling assignment and other requests related to the
     Service Name and Transport Protocol Port Number registry. It also discusses the
     rationale and principles behind these procedures and how they facilitate the long-term
-    sustainability of the registry.</p><p>This document updates IANA's procedures
+    sustainability of the registry.</p><p>This document updates IANA&#39;s procedures
     by obsoleting the previous UDP and TCP port assignment procedures defined in Sections
     8 and 9.1 of the IANA Allocation Guidelines, and it updates the IANA service name
     and port assignment procedures for UDP-Lite, the Datagram Congestion Control Protocol

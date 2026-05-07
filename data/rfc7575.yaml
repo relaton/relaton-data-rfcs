@@ -185,7 +185,7 @@ abstract:
     implies distribution across network elements.</p><p>This document defines common
     language and outlines design goals (and what are not design goals) for autonomic
     functions. A high-level reference model illustrates how functional elements in
-    an Autonomic Network interact. This document is a product of the IRTF's Network
+    an Autonomic Network interact. This document is a product of the IRTF&#39;s Network
     Management Research Group.</p>"
 status:
   stage:

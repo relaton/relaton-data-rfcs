@@ -116,8 +116,8 @@ abstract:
 - language: en
   script: Latn
   content: |-
-    <p>This document specifies the approval process for changes to the "IPv6
-    Address Space" registry.  It also updates RFC 7249.</p>
+    <p>This document specifies the approval process for changes to the &quot;IPv6
+    Address Space&quot; registry.  It also updates RFC 7249.</p>
 status:
   stage:
     content: BEST CURRENT PRACTICE

@@ -182,7 +182,7 @@ abstract:
     as well as improved control and flexibility to network nodes initiating the path
     monitoring. The link-state routing protocols (IS-IS and OSPF) have been extended
     to advertise the S-BFD Discriminators.</p><p>This document defines extensions
-    to the BGP - Link State (BGP-LS) address family to carry the S-BFD Discriminators'
+    to the BGP - Link State (BGP-LS) address family to carry the S-BFD Discriminators&#39;
     information via BGP.</p>"
 status:
   stage:

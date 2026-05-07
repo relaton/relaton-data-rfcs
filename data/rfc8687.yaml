@@ -122,7 +122,7 @@ abstract:
     OSPF routes must be computed over MPLS TE tunnels created using information propagated
     in another OSPF instance. This issue is solved by advertising cross-address family
     (X-AF) OSPF TE information.</p><p>This document describes an update to RFC 5786
-    that allows for the easy identification of a router's local X-AF IP addresses.</p>"
+    that allows for the easy identification of a router&#39;s local X-AF IP addresses.</p>"
 status:
   stage:
     content: PROPOSED STANDARD

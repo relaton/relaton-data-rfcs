@@ -102,7 +102,8 @@ abstract:
     handshake followed by basic message framing, layered over TCP.  The goal of this
     technology is to provide a mechanism for browser-based applications that need
     two-way communication with servers that does not rely on opening multiple HTTP
-    connections (e.g., using XMLHttpRequest or <iframe>s and long polling). [STANDARDS-TRACK]</p>"
+    connections (e.g., using XMLHttpRequest or &lt;iframe&gt;s and long polling).
+    [STANDARDS-TRACK]</p>"
 status:
   stage:
     content: PROPOSED STANDARD

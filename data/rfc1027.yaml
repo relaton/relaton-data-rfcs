@@ -81,9 +81,9 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: <p>This RFC describes the use of the Address Resolution Protocol (ARP)
+  content: "<p>This RFC describes the use of the Address Resolution Protocol (ARP)
     by subnet gateways to permit hosts on the connected subnets to communicate without
-    being aware of the existence of subnets, using the technique of "Proxy ARP".</p>
+    being aware of the existence of subnets, using the technique of &quot;Proxy ARP&quot;.</p>"
 status:
   stage:
     content: UNKNOWN

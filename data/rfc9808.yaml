@@ -120,8 +120,9 @@ abstract:
     provide information about current downstream CDN (dCDN) utilization and specified
     usage limits to the delegating upstream CDN (uCDN) in order to inform traffic
     delegation decisions.</p><p>This document supplements the CDNI Capability Objects,
-    defined in RFC 8008 as part of the Footprint & Capabilities Advertisement Interface
-    (FCI), with two additional Capability Objects: FCI.CapacityLimits and FCI.Telemetry.</p>"
+    defined in RFC 8008 as part of the Footprint &amp; Capabilities Advertisement
+    Interface (FCI), with two additional Capability Objects: FCI.CapacityLimits and
+    FCI.Telemetry.</p>"
 status:
   stage:
     content: PROPOSED STANDARD

@@ -58,7 +58,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: <p>Discusses FTP login access to "files only" directories.</p>
+  content: "<p>Discusses FTP login access to &quot;files only&quot; directories.</p>"
 status:
   stage:
     content: UNKNOWN

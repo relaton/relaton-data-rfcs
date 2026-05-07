@@ -138,7 +138,7 @@ abstract:
   content: "<p>The BGP Monitoring Protocol (BMP) defines access to local Routing Information
     Bases (RIBs).  This document updates BMP (RFC 7854) by adding access to the Local
     Routing Information Base (Loc-RIB), as defined in RFC 4271.  The Loc-RIB contains
-    the routes that have been selected by the local BGP speaker's Decision Process.</p>"
+    the routes that have been selected by the local BGP speaker&#39;s Decision Process.</p>"
 status:
   stage:
     content: PROPOSED STANDARD

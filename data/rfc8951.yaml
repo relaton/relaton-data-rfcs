@@ -116,11 +116,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: '<p>This document updates RFC 7030: Enrollment over Secure Transport to
+  content: "<p>This document updates RFC 7030: Enrollment over Secure Transport to
     resolve some errata that were reported and that have proven to cause interoperability
     issues when RFC 7030 was extended.</p><p>This document deprecates the specification
-    of "Content-Transfer-Encoding" headers for Enrollment over Secure Transport (EST)
-    endpoints. This document fixes some syntactical errors in ASN.1 that were present.</p>'
+    of &quot;Content-Transfer-Encoding&quot; headers for Enrollment over Secure Transport
+    (EST) endpoints. This document fixes some syntactical errors in ASN.1 that were
+    present.</p>"
 status:
   stage:
     content: PROPOSED STANDARD

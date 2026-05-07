@@ -119,10 +119,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: <p>A simple tool called the Locator/ID Separation Protocol Delegated Database
+  content: "<p>A simple tool called the Locator/ID Separation Protocol Delegated Database
     Tree (LISP-DDT) Referral Internet Groper (RIG), also referred to in this document
-    as "rig", can be used to query the LISP- DDT hierarchy.  This document describes
-    how the "rig" tool works.</p>
+    as &quot;rig&quot;, can be used to query the LISP- DDT hierarchy.  This document
+    describes how the &quot;rig&quot; tool works.</p>"
 status:
   stage:
     content: INFORMATIONAL

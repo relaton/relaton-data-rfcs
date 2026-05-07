@@ -79,7 +79,7 @@ abstract:
 - language: en
   script: Latn
   content: "<p>This document proposes an additional mechanism intended to both facilitate
-    transition from IPv4 to IPv6 and improve the latter's security and privacy.</p>"
+    transition from IPv4 to IPv6 and improve the latter&#39;s security and privacy.</p>"
 status:
   stage:
     content: INFORMATIONAL

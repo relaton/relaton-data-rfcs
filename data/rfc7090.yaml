@@ -135,7 +135,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: <p>After an emergency call is completed (terminated either prematurely
+  content: "<p>After an emergency call is completed (terminated either prematurely
     by the emergency caller or normally by the call taker), the call taker may feel
     the need for further communication. For example, the call may have been dropped
     by accident without the call taker having sufficient information about the current
@@ -150,8 +150,8 @@ abstract:
     supports limited scenarios. This document discusses shortcomings of the current
     mechanisms and illustrates additional scenarios where better-than-normal call
     treatment behavior would be desirable. We describe a solution based on a new header
-    field value for the SIP Priority header field, called "psap-callback", to mark
-    PSAP callbacks.</p>
+    field value for the SIP Priority header field, called &quot;psap-callback&quot;,
+    to mark PSAP callbacks.</p>"
 status:
   stage:
     content: PROPOSED STANDARD

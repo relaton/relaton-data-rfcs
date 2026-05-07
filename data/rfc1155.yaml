@@ -82,9 +82,9 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: <p>This RFC is a re-release of RFC 1065, with a changed "Status of this
-    Memo", plus a few minor typographical corrections.  The technical content of the
-    document is unchanged from RFC 1065. [STANDARDS-TRACK]</p>
+  content: "<p>This RFC is a re-release of RFC 1065, with a changed &quot;Status of
+    this Memo&quot;, plus a few minor typographical corrections.  The technical content
+    of the document is unchanged from RFC 1065. [STANDARDS-TRACK]</p>"
 status:
   stage:
     content: INTERNET STANDARD

@@ -77,7 +77,7 @@ abstract:
   script: Latn
   content: "<p>This document describes the applicability of the Stream Control Transmission
     Protocol (SCTP).  It also contrasts SCTP with the two dominant transport protocols,
-    User Datagram Protocol (UDP) & Transmission Control Protocol (TCP), and gives
+    User Datagram Protocol (UDP) &amp; Transmission Control Protocol (TCP), and gives
     some guidelines for when best to use SCTP and when not best to use SCTP.  This
     memo provides information for the Internet community.</p>"
 status:
