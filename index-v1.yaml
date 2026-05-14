@@ -19481,6 +19481,8 @@
   :file: data/rfc9940.yaml
 - :id: RFC 9941
   :file: data/rfc9941.yaml
+- :id: RFC 9944
+  :file: data/rfc9944.yaml
 - :id: RFC 9945
   :file: data/rfc9945.yaml
 - :id: RFC 9946
@@ -19509,6 +19511,8 @@
   :file: data/rfc9960.yaml
 - :id: RFC 9961
   :file: data/rfc9961.yaml
+- :id: RFC 9962
+  :file: data/rfc9962.yaml
 - :id: RFC 9963
   :file: data/rfc9963.yaml
 - :id: RFC 9968
