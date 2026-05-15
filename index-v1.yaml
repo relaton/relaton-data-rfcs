@@ -19515,5 +19515,7 @@
   :file: data/rfc9962.yaml
 - :id: RFC 9963
   :file: data/rfc9963.yaml
+- :id: RFC 9967
+  :file: data/rfc9967.yaml
 - :id: RFC 9968
   :file: data/rfc9968.yaml
