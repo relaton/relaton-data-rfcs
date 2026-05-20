@@ -95,6 +95,31 @@ abstract:
 status:
   stage:
     content: INFORMATIONAL
+relation:
+- type: obsoletedBy
+  bibitem:
+    formattedref:
+      content: RFC9989
+    docidentifier:
+    - content: RFC9989
+      type: IETF
+      primary: true
+- type: obsoletedBy
+  bibitem:
+    formattedref:
+      content: RFC9990
+    docidentifier:
+    - content: RFC9990
+      type: IETF
+      primary: true
+- type: obsoletedBy
+  bibitem:
+    formattedref:
+      content: RFC9991
+    docidentifier:
+    - content: RFC9991
+      type: IETF
+      primary: true
 series:
 - title:
   - content: RFC
