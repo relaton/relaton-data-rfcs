@@ -95,14 +95,6 @@ relation:
 - type: obsoletedBy
   bibitem:
     formattedref:
-      content: RFC4035
-    docidentifier:
-    - content: RFC4035
-      type: IETF
-      primary: true
-- type: obsoletedBy
-  bibitem:
-    formattedref:
       content: RFC4033
     docidentifier:
     - content: RFC4033
@@ -114,6 +106,14 @@ relation:
       content: RFC4034
     docidentifier:
     - content: RFC4034
+      type: IETF
+      primary: true
+- type: obsoletedBy
+  bibitem:
+    formattedref:
+      content: RFC4035
+    docidentifier:
+    - content: RFC4035
       type: IETF
       primary: true
 series:

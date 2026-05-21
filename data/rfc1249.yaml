@@ -116,8 +116,6 @@ keyword:
 - vocab:
     content: DIXIE
 - vocab:
-    content: DIXIE
-- vocab:
     content: protocol
 - vocab:
     content: directory services

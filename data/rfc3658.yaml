@@ -91,17 +91,9 @@ relation:
 - type: updates
   bibitem:
     formattedref:
-      content: RFC3090
+      content: RFC1035
     docidentifier:
-    - content: RFC3090
-      type: IETF
-      primary: true
-- type: updates
-  bibitem:
-    formattedref:
-      content: RFC3008
-    docidentifier:
-    - content: RFC3008
+    - content: RFC1035
       type: IETF
       primary: true
 - type: updates
@@ -115,9 +107,17 @@ relation:
 - type: updates
   bibitem:
     formattedref:
-      content: RFC1035
+      content: RFC3008
     docidentifier:
-    - content: RFC1035
+    - content: RFC3008
+      type: IETF
+      primary: true
+- type: updates
+  bibitem:
+    formattedref:
+      content: RFC3090
+    docidentifier:
+    - content: RFC3090
       type: IETF
       primary: true
 - type: obsoletedBy

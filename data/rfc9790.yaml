@@ -176,14 +176,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This document creates a new IANA registry (called the &quot;Post-Stack
-    First Nibble&quot; registry) for the first nibble (4-bit field) immediately following
-    an MPLS label stack. Furthermore, this document presents some requirements for
-    registering new values and making the processing of MPLS packets easier and more
-    robust.</p><p>The relationship between the IANA &quot;Post-Stack First Nibble&quot;
-    registry and the &quot;IP Version Numbers&quot; registry (RFC 2780) is described
-    in this document.</p><p>This document updates RFC 4928 by deprecating the heuristic
-    method for identifying the type of packet encapsulated in MPLS.</p>"
+  content: <p>This document creates a new IANA registry (called the "Post-Stack First
+    Nibble" registry) for the first nibble (4-bit field) immediately following an
+    MPLS label stack. Furthermore, this document presents some requirements for registering
+    new values and making the processing of MPLS packets easier and more robust.</p><p>The
+    relationship between the IANA "Post-Stack First Nibble" registry and the "IP Version
+    Numbers" registry (RFC 2780) is described in this document.</p><p>This document
+    updates RFC 4928 by deprecating the heuristic method for identifying the type
+    of packet encapsulated in MPLS.</p>
 status:
   stage:
     content: PROPOSED STANDARD

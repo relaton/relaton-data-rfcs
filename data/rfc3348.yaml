@@ -75,6 +75,12 @@ language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "<p>The CHILDREN extension provides a mechanism for a client to \nefficiently
+    determine if a particular mailbox has children, without \nissuing a LIST '' *
+    or a LIST '' % for each mailbox name.</p>"
 status:
   stage:
     content: INFORMATIONAL

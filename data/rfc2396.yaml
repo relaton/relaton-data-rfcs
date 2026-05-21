@@ -109,17 +109,17 @@ relation:
 - type: updates
   bibitem:
     formattedref:
-      content: RFC1808
+      content: RFC1738
     docidentifier:
-    - content: RFC1808
+    - content: RFC1738
       type: IETF
       primary: true
 - type: updates
   bibitem:
     formattedref:
-      content: RFC1738
+      content: RFC1808
     docidentifier:
-    - content: RFC1738
+    - content: RFC1808
       type: IETF
       primary: true
 - type: obsoletedBy

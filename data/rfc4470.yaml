@@ -107,17 +107,17 @@ relation:
 - type: updates
   bibitem:
     formattedref:
-      content: RFC4035
+      content: RFC4034
     docidentifier:
-    - content: RFC4035
+    - content: RFC4034
       type: IETF
       primary: true
 - type: updates
   bibitem:
     formattedref:
-      content: RFC4034
+      content: RFC4035
     docidentifier:
-    - content: RFC4034
+    - content: RFC4035
       type: IETF
       primary: true
 series:

@@ -125,7 +125,7 @@ keyword:
 - vocab:
     content: monitor
 - vocab:
-    content: " management"
+    content: management
 ext:
   schema_version: v1.1.2
   doctype:

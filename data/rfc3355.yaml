@@ -17,7 +17,7 @@ docidentifier:
 docnumber: RFC3355
 date:
 - type: published
-  at: 2002-08
+  at: 2002-09
 contributor:
 - role:
   - type: author
@@ -132,6 +132,19 @@ language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>The Layer Two Tunneling Protocol (L2TP) [RFC2661] provides a standard
+    method for transporting the link layer of PPP [RFC1661] between a
+    dial-up server and a Network Access Server, using a network
+    connection in lieu of a physical point to point connection.  This
+    document describes the use of an ATM network for the underlying
+    network connection. ATM User-Network Interface (UNI) Signalling
+    Specification Version 4.0 [SIG40] or Version 3.1 [SIG31] with ATM
+    Adaptation Layer 5 (AAL5) [ITU93] are supported as interfaces to the
+    ATM network.</p>
 status:
   stage:
     content: PROPOSED STANDARD

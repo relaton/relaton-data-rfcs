@@ -83,7 +83,7 @@ abstract:
     IRO contains an ordered or unordered list of subobjects. During recent discussions,
     it was determined that there was a need to define a standard representation to
     ensure interoperability. It was also noted that there is a benefit in the handling
-    of an attribute of the IRO&#39;s subobject, the L bit.</p><p>This document updates
+    of an attribute of the IRO's subobject, the L bit.</p><p>This document updates
     RFC 5440 regarding the IRO specification.</p>"
 status:
   stage:

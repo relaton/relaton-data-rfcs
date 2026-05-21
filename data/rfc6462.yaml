@@ -59,7 +59,7 @@ abstract:
 - language: en
   script: Latn
   content: "<p>On December 8-9, 2010, the IAB co-hosted an Internet privacy workshop
-    with the World Wide Web Consortium (W3C), the Internet Society (ISOC), and MIT&#39;s
+    with the World Wide Web Consortium (W3C), the Internet Society (ISOC), and MIT's
     Computer Science and Artificial Intelligence Laboratory (CSAIL). The workshop
     revealed some of the fundamental challenges in designing, deploying, and analyzing
     privacy-protective Internet protocols and systems. Although workshop participants

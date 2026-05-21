@@ -98,7 +98,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This document describes the interface to the Telnet server on IBM&#39;s
+  content: "<p>This document describes the interface to the Telnet server on IBM's
     iSeries line of midrange business computers. This interface allows Telnet clients
     to request a Telnet terminal or printer session using specific session attributes
     related to device names, encryption, language support, auto-sign-on, response

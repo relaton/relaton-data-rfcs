@@ -17,7 +17,7 @@ docidentifier:
 docnumber: RFC3324
 date:
 - type: published
-  at: 2002-11
+  at: 2002-12
 contributor:
 - role:
   - type: author
@@ -72,6 +72,17 @@ language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>There is no requirement for identities asserted by a UA in a SIP
+    message to be anything other than the user's desired alias.
+    A Network Asserted Identity is an identity initially derived by a SIP
+    network intermediary as a result of an authentication process.  This
+    draft describes short term requirements for the exchange of Network
+    Asserted Identities within networks of securely interconnected
+    trusted nodes and to User Agents securely connected to such networks.</p>
 status:
   stage:
     content: INFORMATIONAL

@@ -132,7 +132,7 @@ series:
   - content: IETF
 keyword:
 - vocab:
-    content: CDN-Loop,
+    content: CDN-Loop
 ext:
   schema_version: v1.1.2
   doctype:

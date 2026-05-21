@@ -153,6 +153,13 @@ language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>This document clarifies and updates the standards status of RFCs that
+    define direct and reverse map of IPv6 addresses in DNS. This document
+    moves the A6 and Bit label specifications to experimental status.</p>
 status:
   stage:
     content: INFORMATIONAL

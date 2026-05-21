@@ -126,7 +126,7 @@ keyword:
 - vocab:
     content: Unicode
 - vocab:
-    content: UTF-8,
+    content: UTF-8
 ext:
   schema_version: v1.1.2
   doctype:

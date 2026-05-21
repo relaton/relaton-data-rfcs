@@ -166,8 +166,6 @@ keyword:
 - vocab:
     content: NAT/Firewall
 - vocab:
-    content: NSLP
-- vocab:
     content: IP resources
 - vocab:
     content: Extensibility

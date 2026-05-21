@@ -180,7 +180,7 @@ keyword:
 - vocab:
     content: tenant
 - vocab:
-    content: " data center"
+    content: data center
 ext:
   schema_version: v1.1.2
   doctype:

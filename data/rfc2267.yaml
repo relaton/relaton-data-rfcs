@@ -81,8 +81,8 @@ abstract:
   script: Latn
   content: "<p>This paper discusses a simple, effective, and straightforward method
     for using ingress traffic filtering to prohibit DoS attacks which use forged IP
-    addresses to be propagated from &#39;behind&#39; an Internet Service Provider&#39;s
-    (ISP) aggregation point.  This memo provides information for the Internet community.
+    addresses to be propagated from 'behind' an Internet Service Provider's (ISP)
+    aggregation point.  This memo provides information for the Internet community.
     \ It does not specify an Internet standard of any kind.</p>"
 status:
   stage:
@@ -112,8 +112,6 @@ keyword:
     content: Service
 - vocab:
     content: Provider
-- vocab:
-    content: Internet
 - vocab:
     content: Protocol
 - vocab:

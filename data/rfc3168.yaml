@@ -116,7 +116,7 @@ abstract:
 - language: en
   script: Latn
   content: "<p>This memo specifies the incorporation of ECN (Explicit Congestion Notification)
-    to TCP and IP, including ECN&#39;s use of two bits in the IP header. [STANDARDS-TRACK]</p>"
+    to TCP and IP, including ECN's use of two bits in the IP header. [STANDARDS-TRACK]</p>"
 status:
   stage:
     content: PROPOSED STANDARD
@@ -124,17 +124,17 @@ relation:
 - type: updates
   bibitem:
     formattedref:
-      content: RFC2003
+      content: RFC793
     docidentifier:
-    - content: RFC2003
+    - content: RFC793
       type: IETF
       primary: true
 - type: updates
   bibitem:
     formattedref:
-      content: RFC2474
+      content: RFC2003
     docidentifier:
-    - content: RFC2474
+    - content: RFC2003
       type: IETF
       primary: true
 - type: updates
@@ -148,9 +148,9 @@ relation:
 - type: updates
   bibitem:
     formattedref:
-      content: RFC0793
+      content: RFC2474
     docidentifier:
-    - content: RFC0793
+    - content: RFC2474
       type: IETF
       primary: true
 series:

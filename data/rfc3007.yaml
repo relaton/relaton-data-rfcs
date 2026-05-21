@@ -84,17 +84,17 @@ relation:
 - type: updates
   bibitem:
     formattedref:
-      content: RFC2535
+      content: RFC2136
     docidentifier:
-    - content: RFC2535
+    - content: RFC2136
       type: IETF
       primary: true
 - type: updates
   bibitem:
     formattedref:
-      content: RFC2136
+      content: RFC2535
     docidentifier:
-    - content: RFC2136
+    - content: RFC2535
       type: IETF
       primary: true
 series:

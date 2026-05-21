@@ -77,7 +77,7 @@ abstract:
   script: Latn
   content: "<p>This memo documents version 2 of the OSPF protocol. OSPF is a link-state
     routing protocol. It is designed to be run internal to a single Autonomous System.
-    Each OSPF router maintains an identical database describing the Autonomous System&#39;s
+    Each OSPF router maintains an identical database describing the Autonomous System's
     topology. From this database, a routing table is calculated by constructing a
     shortest-path tree.</p><p>OSPF recalculates routes quickly in the face of topological
     changes, utilizing a minimum of routing protocol traffic. OSPF provides support

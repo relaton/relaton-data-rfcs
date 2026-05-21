@@ -116,7 +116,7 @@ abstract:
 - language: en
   script: Latn
   content: "<p>This document describes a technique to generate a signed DNS response
-    on demand for a nonexistent name by claiming that the name exists but doesn&#39;t
+    on demand for a nonexistent name by claiming that the name exists but doesn't
     have any data for the queried record type. Such responses require only one minimally
     covering NSEC or NSEC3 record, allow online signing servers to minimize signing
     operations and response sizes, and prevent zone content disclosure.</p><p>This

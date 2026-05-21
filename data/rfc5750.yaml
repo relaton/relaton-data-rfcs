@@ -124,6 +124,8 @@ series:
   - content: IETF
 keyword:
 - vocab:
+    content: x.509
+- vocab:
     content: encryption
 - vocab:
     content: certificate
@@ -132,7 +134,7 @@ keyword:
 - vocab:
     content: internet
 - vocab:
-    content: 'mail '
+    content: mail
 - vocab:
     content: extensions
 - vocab:

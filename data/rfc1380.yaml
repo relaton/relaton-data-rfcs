@@ -81,9 +81,9 @@ contributor:
       content: Internet Engineering Task Force
     subdivision:
     - name:
-      - content: IESG
+      - content: iesg
       identifier:
-      - content: IESG
+      - content: iesg
       type: workgroup
     abbreviation:
       language: en

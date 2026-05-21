@@ -104,8 +104,6 @@ keyword:
 - vocab:
     content: LDAP3-UTF8
 - vocab:
-    content: x.500
-- vocab:
     content: ASN.1
 - vocab:
     content: string format

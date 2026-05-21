@@ -155,8 +155,6 @@ keyword:
 - vocab:
     content: Protocol
 - vocab:
-    content: Security
-- vocab:
     content: ipsec
 ext:
   schema_version: v1.1.2

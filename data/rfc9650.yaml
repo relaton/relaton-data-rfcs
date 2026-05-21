@@ -76,10 +76,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "<p>RFC 5029, &quot;Definition of an IS-IS Link Attribute Sub-TLV&quot;,
-    defines an IANA registry called &quot;IS-IS Neighbor Link-Attribute Bit Values&quot;.
-    \ This document changes the registration procedure for that registry from &quot;Standards
-    Action&quot; to &quot;Expert Review&quot;.  This document updates RFC 5029.</p>"
+  content: <p>RFC 5029, "Definition of an IS-IS Link Attribute Sub-TLV", defines an
+    IANA registry called "IS-IS Neighbor Link-Attribute Bit Values".  This document
+    changes the registration procedure for that registry from "Standards Action" to
+    "Expert Review".  This document updates RFC 5029.</p>
 status:
   stage:
     content: PROPOSED STANDARD

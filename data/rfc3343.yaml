@@ -17,7 +17,7 @@ docidentifier:
 docnumber: RFC3343
 date:
 - type: published
-  at: 2003-04
+  at: 2003-05
 contributor:
 - role:
   - type: author
@@ -112,6 +112,13 @@ language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>This memo describes the APEX presence service, addressed as the well-
+    known endpoint 'apex=presence'.  The presence service is used to
+    manage presence information for APEX endpoints.</p>
 status:
   stage:
     content: HISTORIC

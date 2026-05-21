@@ -102,7 +102,9 @@ keyword:
 - vocab:
     content: internet
 - vocab:
-    content: x,.400
+    content: x
+- vocab:
+    content: ".400"
 - vocab:
     content: enhanced
 - vocab:

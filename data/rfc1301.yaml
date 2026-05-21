@@ -122,8 +122,6 @@ keyword:
 - vocab:
     content: MTP
 - vocab:
-    content: MTP
-- vocab:
     content: reliable transport
 - vocab:
     content: multicast

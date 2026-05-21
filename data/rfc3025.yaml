@@ -71,23 +71,6 @@ contributor:
     name:
     - language: en
       content: RFC Series
-- role:
-  - type: author
-    description:
-    - content: committee
-  organization:
-    name:
-    - language: en
-      content: Internet Engineering Task Force
-    subdivision:
-    - name:
-      - content: IP Routing for Wireless/Mobile Hosts
-      identifier:
-      - content: mobileip
-      type: workgroup
-    abbreviation:
-      language: en
-      content: IETF
 language:
 - en
 script:

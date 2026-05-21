@@ -56,6 +56,14 @@ language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>It is the consensus of the IETF that IETF standard protocols MUST
+    make use of appropriate strong security mechanisms. This document
+    describes the history and rationale for this doctrine and establishes
+    this doctrine as a best current practice.</p>
 status:
   stage:
     content: BEST CURRENT PRACTICE

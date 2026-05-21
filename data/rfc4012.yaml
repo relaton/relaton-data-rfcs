@@ -129,17 +129,17 @@ relation:
 - type: updates
   bibitem:
     formattedref:
-      content: RFC2725
+      content: RFC2622
     docidentifier:
-    - content: RFC2725
+    - content: RFC2622
       type: IETF
       primary: true
 - type: updates
   bibitem:
     formattedref:
-      content: RFC2622
+      content: RFC2725
     docidentifier:
-    - content: RFC2622
+    - content: RFC2725
       type: IETF
       primary: true
 series:

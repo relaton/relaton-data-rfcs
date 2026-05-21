@@ -79,7 +79,7 @@ abstract:
 - language: en
   script: Latn
   content: "<p>The Secure Shell (SSH) Public Key Subsystem protocol defines a key
-    distribution protocol that is limited to provisioning an SSH server with a user&#39;s
+    distribution protocol that is limited to provisioning an SSH server with a user's
     public keys. This document describes a new protocol that builds on the protocol
     defined in RFC 4819 to allow the provisioning of keys and certificates to a server
     using the SSH transport.</p><p>The new protocol allows the calling client to organize
@@ -91,7 +91,7 @@ abstract:
     remove certificates, and list the current set of keys and certificates known by
     the server by namespace (e.g., list all public keys in the SSH namespace).</p><p>Rights
     to manage keys and certificates in a particular namespace are specific and limited
-    to the authorized user and are defined as part of the server&#39;s implementation.
+    to the authorized user and are defined as part of the server's implementation.
     The described protocol is backward compatible to version 2 defined by RFC 4819.</p>"
 status:
   stage:

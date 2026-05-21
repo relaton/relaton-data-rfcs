@@ -17,7 +17,7 @@ docidentifier:
 docnumber: RFC3394
 date:
 - type: published
-  at: 2002-09
+  at: 2002-10
 contributor:
 - role:
   - type: author
@@ -92,6 +92,15 @@ language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "<p>The purpose of this document is to make the AES Key Wrap algorithm
+    \nconveniently available to the Internet community.  The United States \nof America
+    has adopted AES as the new encryption standard.  The AES \nKey Wrap algorithm
+    will probably be adopted by the USA for \nencryption of AES keys.  The authors
+    took most of the text in this \ndocument from the draft AES Key Wrap posted by
+    NIST.</p>"
 status:
   stage:
     content: INFORMATIONAL

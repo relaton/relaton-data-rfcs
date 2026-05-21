@@ -163,7 +163,7 @@ abstract:
     improvements based on these implementations and recent academic work. Based on
     the extensive deployment experience with CUBIC, this document also moves the specification
     to the Standards Track and obsoletes RFC 8312. This document also updates RFC
-    5681, to allow for CUBIC&#39;s occasionally more aggressive sending behavior.</p>"
+    5681, to allow for CUBIC's occasionally more aggressive sending behavior.</p>"
 status:
   stage:
     content: PROPOSED STANDARD

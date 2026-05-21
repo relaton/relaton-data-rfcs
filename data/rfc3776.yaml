@@ -102,9 +102,9 @@ contributor:
       content: Internet Engineering Task Force
     subdivision:
     - name:
-      - content: IP Routing for Wireless/Mobile Hosts
+      - content: Mobility for IPv6
       identifier:
-      - content: mobileip
+      - content: mip6
       type: workgroup
     abbreviation:
       language: en

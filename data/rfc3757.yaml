@@ -18,7 +18,7 @@ docidentifier:
 docnumber: RFC3757
 date:
 - type: published
-  at: 2004-04
+  at: 2004-05
 contributor:
 - role:
   - type: author
@@ -132,17 +132,17 @@ relation:
 - type: updates
   bibitem:
     formattedref:
-      content: RFC3755
+      content: RFC2535
     docidentifier:
-    - content: RFC3755
+    - content: RFC2535
       type: IETF
       primary: true
 - type: updates
   bibitem:
     formattedref:
-      content: RFC2535
+      content: RFC3755
     docidentifier:
-    - content: RFC2535
+    - content: RFC3755
       type: IETF
       primary: true
 - type: obsoletedBy

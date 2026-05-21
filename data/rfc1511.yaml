@@ -72,7 +72,9 @@ series:
   - content: Legacy
 keyword:
 - vocab:
-    content: CAT,Security
+    content: CAT
+- vocab:
+    content: Security
 ext:
   schema_version: v1.1.2
   doctype:

@@ -78,7 +78,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This RFC describes IBM&#39;s support of Data Link Switching over TCP/IP.
+  content: "<p>This RFC describes IBM's support of Data Link Switching over TCP/IP.
     \ This memo provides information for the Internet community.  It does not specify
     an Internet standard.</p>"
 status:

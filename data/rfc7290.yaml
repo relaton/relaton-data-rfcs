@@ -165,7 +165,9 @@ keyword:
 - vocab:
     content: IPPM comparison
 - vocab:
-    content: metric test, WIPM
+    content: metric test
+- vocab:
+    content: WIPM
 - vocab:
     content: NetProbe
 ext:

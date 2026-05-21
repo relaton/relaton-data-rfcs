@@ -84,8 +84,6 @@ keyword:
 - vocab:
     content: to
 - vocab:
-    content: Point
-- vocab:
     content: Protocol
 ext:
   schema_version: v1.1.2

@@ -120,7 +120,9 @@ keyword:
 - vocab:
     content: resolution
 - vocab:
-    content: asynchronous,transfer
+    content: asynchronous
+- vocab:
+    content: transfer
 - vocab:
     content: mode
 ext:

@@ -97,7 +97,7 @@ series:
   - content: IETF
 keyword:
 - vocab:
-    content: " IN-ADDR.ARPA"
+    content: IN-ADDR.ARPA
 - vocab:
     content: IP6.ARPA
 - vocab:

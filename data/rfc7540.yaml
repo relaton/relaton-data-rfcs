@@ -121,8 +121,7 @@ abstract:
     of latency by introducing header field compression and allowing multiple concurrent
     exchanges on the same connection. It also introduces unsolicited push of representations
     from servers to clients.</p><p>This specification is an alternative to, but does
-    not obsolete, the HTTP/1.1 message syntax. HTTP&#39;s existing semantics remain
-    unchanged.</p>"
+    not obsolete, the HTTP/1.1 message syntax. HTTP's existing semantics remain unchanged.</p>"
 status:
   stage:
     content: PROPOSED STANDARD

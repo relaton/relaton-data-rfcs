@@ -52,6 +52,23 @@ contributor:
     name:
     - language: en
       content: RFC Series
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - language: en
+      content: Internet Engineering Task Force
+    subdivision:
+    - name:
+      - content: Network-based Localized Mobility Management
+      identifier:
+      - content: netlmm
+      type: workgroup
+    abbreviation:
+      language: en
+      content: IETF
 language:
 - en
 script:

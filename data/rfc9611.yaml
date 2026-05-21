@@ -147,7 +147,7 @@ abstract:
     specific CPU. The TS_MAX_QUEUE notify conveys that the peer is unwilling to create
     more additional Child SAs for this particular negotiated Traffic Selector combination.</p><p>Using
     multiple Child SAs with the same Traffic Selectors has the benefit that each resource
-    holding the Child SA has its own Sequence Number Counter, ensuring that CPUs don&#39;t
+    holding the Child SA has its own Sequence Number Counter, ensuring that CPUs don't
     have to synchronize their cryptographic state or disable their packet replay protection.</p>"
 status:
   stage:

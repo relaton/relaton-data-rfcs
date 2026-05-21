@@ -97,17 +97,17 @@ relation:
 - type: updates
   bibitem:
     formattedref:
-      content: RFC2798
+      content: RFC2377
     docidentifier:
-    - content: RFC2798
+    - content: RFC2377
       type: IETF
       primary: true
 - type: updates
   bibitem:
     formattedref:
-      content: RFC2377
+      content: RFC2798
     docidentifier:
-    - content: RFC2377
+    - content: RFC2798
       type: IETF
       primary: true
 series:

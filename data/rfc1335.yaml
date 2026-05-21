@@ -79,11 +79,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This RFC presents a solution to problem of address space exhaustion
+  content: <p>This RFC presents a solution to problem of address space exhaustion
     in the Internet.  It proposes a two-tier address structure for the Internet.  This
-    is an &quot;idea&quot; paper and discussion is strongly encouraged.  This memo
-    provides information for the Internet community.  It does not specify an Internet
-    standard.</p>"
+    is an "idea" paper and discussion is strongly encouraged.  This memo provides
+    information for the Internet community.  It does not specify an Internet standard.</p>
 status:
   stage:
     content: INFORMATIONAL

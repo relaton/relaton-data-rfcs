@@ -137,7 +137,17 @@ series:
   - content: IETF
 keyword:
 - vocab:
-    content: PIDF-LO,location,dynamic,speed,velocity,orientation
+    content: PIDF-LO
+- vocab:
+    content: location
+- vocab:
+    content: dynamic
+- vocab:
+    content: speed
+- vocab:
+    content: velocity
+- vocab:
+    content: orientation
 ext:
   schema_version: v1.1.2
   doctype:

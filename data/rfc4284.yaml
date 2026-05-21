@@ -124,7 +124,7 @@ abstract:
     The purpose is to assist the EAP peer in selecting an appropriate Network Access
     Identifier (NAI). This is useful in situations where the peer does not receive
     a lower-layer indication of what network it is connecting to, or when there is
-    no direct roaming relationship between the access network and the peer&#39;s home
+    no direct roaming relationship between the access network and the peer's home
     network. In the latter case, authentication is typically accomplished via a mediating
     network such as a roaming consortium or broker.</p><p>The mechanism defined in
     this document is limited in its scalability. It is intended for access networks

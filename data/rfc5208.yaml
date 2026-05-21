@@ -59,7 +59,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This document represents a republication of PKCS #8 v1.2 from RSA Laboratories&#39;
+  content: "<p>This document represents a republication of PKCS #8 v1.2 from RSA Laboratories'
     Public Key Cryptography Standard (PKCS) series. Change control is transferred
     to the IETF. The body of this document, except for the security considerations
     section, is taken directly from the PKCS #8 v1.2 specification.</p><p>This document

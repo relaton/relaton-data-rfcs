@@ -59,7 +59,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This is a position paper. It documents the author&#39;s personal views
+  content: "<p>This is a position paper. It documents the author's personal views
     on how Quality of Service (QoS) capabilities ought to be accommodated in Information-Centric
     Networking (ICN) protocols like Content-Centric Networking (CCNx) or Named Data
     Networking (NDN), which employ flow-balanced Interest/Data exchanges and hop-by-hop

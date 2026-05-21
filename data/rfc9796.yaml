@@ -95,17 +95,17 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This document specifies a usage of the SIP Call-Info header field that
+  content: <p>This document specifies a usage of the SIP Call-Info header field that
     incorporates Rich Call Data (RCD) associated with the identity of the originating
     party in order to provide to the terminating party a description of the caller
     (including details about the reason for the session). RCD includes information
     about the caller beyond the telephone number (such as a calling name, logo, photo,
     or jCard object representing the caller), which can help the called party decide
     how to handle the session request.</p><p>This document defines three new parameters
-    &#39;call-reason&#39;, &#39;verified&#39;, and &#39;integrity&#39; for the SIP
-    Call-Info header field and also a new token (&quot;jcard&quot;) for the &#39;purpose&#39;
-    parameter of the Call-Info header field. It also provides guidance on the use
-    of the Call-Info &#39;purpose&#39; parameter token, &quot;icon&quot;.</p>"
+    'call-reason', 'verified', and 'integrity' for the SIP Call-Info header field
+    and also a new token ("jcard") for the 'purpose' parameter of the Call-Info header
+    field. It also provides guidance on the use of the Call-Info 'purpose' parameter
+    token, "icon".</p>
 status:
   stage:
     content: PROPOSED STANDARD

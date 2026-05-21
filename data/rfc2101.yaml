@@ -118,8 +118,6 @@ keyword:
 - vocab:
     content: Protocol
 - vocab:
-    content: Internet
-- vocab:
     content: Architecture
 - vocab:
     content: Board

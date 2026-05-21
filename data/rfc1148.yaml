@@ -72,17 +72,25 @@ relation:
 - type: updates
   bibitem:
     formattedref:
-      content: RFC1026
+      content: RFC822
     docidentifier:
-    - content: RFC1026
+    - content: RFC822
       type: IETF
       primary: true
 - type: updates
   bibitem:
     formattedref:
-      content: RFC0987
+      content: RFC987
     docidentifier:
-    - content: RFC0987
+    - content: RFC987
+      type: IETF
+      primary: true
+- type: updates
+  bibitem:
+    formattedref:
+      content: RFC1026
+    docidentifier:
+    - content: RFC1026
       type: IETF
       primary: true
 - type: updates
@@ -93,12 +101,12 @@ relation:
     - content: RFC1138
       type: IETF
       primary: true
-- type: updates
+- type: obsoletedBy
   bibitem:
     formattedref:
-      content: RFC0822
+      content: RFC1327
     docidentifier:
-    - content: RFC0822
+    - content: RFC1327
       type: IETF
       primary: true
 - type: obsoletedBy
@@ -107,14 +115,6 @@ relation:
       content: RFC2156
     docidentifier:
     - content: RFC2156
-      type: IETF
-      primary: true
-- type: obsoletedBy
-  bibitem:
-    formattedref:
-      content: RFC1327
-    docidentifier:
-    - content: RFC1327
       type: IETF
       primary: true
 series:

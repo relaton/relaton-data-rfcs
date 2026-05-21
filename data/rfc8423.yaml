@@ -119,8 +119,6 @@ keyword:
 - vocab:
     content: suite b x.509 public key certificates
 - vocab:
-    content: cryptographic algorithm policy
-- vocab:
     content: nsa
 ext:
   schema_version: v1.1.2

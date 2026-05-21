@@ -112,6 +112,12 @@ language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>The Point-to-Point Protocol (PPP) [1] provides a standard method for
+    transporting multi-protocol datagrams over point-to-point links.</p>
 status:
   stage:
     content: PROPOSED STANDARD

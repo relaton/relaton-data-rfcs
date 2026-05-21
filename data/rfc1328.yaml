@@ -77,7 +77,9 @@ keyword:
 - vocab:
     content: Electronic-mail
 - vocab:
-    content: message handling systems,mail
+    content: message handling systems
+- vocab:
+    content: mail
 ext:
   schema_version: v1.1.2
   doctype:

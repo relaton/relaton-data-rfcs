@@ -17,7 +17,7 @@ docidentifier:
 docnumber: RFC3330
 date:
 - type: published
-  at: 2002-09
+  at: 2002-10
 contributor:
 - role:
   - type: author
@@ -44,6 +44,14 @@ language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This document describes the global and other specialized IPv4 address\nblocks
+    that have been assigned by the IANA. It does not address IPv4\naddress space assigned
+    to operators and users through the Regional\nInternet Registries.  It also does
+    not address allocations or \nassignments of IPv6 addresses or autonomous system
+    numbers.</p>"
 status:
   stage:
     content: INFORMATIONAL

@@ -124,7 +124,7 @@ abstract:
     that is not supported by the standard RADIUS attribute set. It is expected that
     this document will be updated if and when the DSL Forum defines additional vendor-specific
     attributes, since its primary purpose is to provide a reference for DSL equipment
-    vendors wishing to interoperate with other vendors&#39; products. This memo provides
+    vendors wishing to interoperate with other vendors' products. This memo provides
     information for the Internet community.</p>"
 status:
   stage:

@@ -90,17 +90,17 @@ relation:
 - type: updates
   bibitem:
     formattedref:
-      content: RFC3209
+      content: RFC2205
     docidentifier:
-    - content: RFC3209
+    - content: RFC2205
       type: IETF
       primary: true
 - type: updates
   bibitem:
     formattedref:
-      content: RFC2205
+      content: RFC3209
     docidentifier:
-    - content: RFC2205
+    - content: RFC3209
       type: IETF
       primary: true
 series:

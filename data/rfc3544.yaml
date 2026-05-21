@@ -91,23 +91,6 @@ contributor:
     name:
     - language: en
       content: RFC Series
-- role:
-  - type: author
-    description:
-    - content: committee
-  organization:
-    name:
-    - language: en
-      content: Internet Engineering Task Force
-    subdivision:
-    - name:
-      - content: Point-to-Point Protocol Extensions
-      identifier:
-      - content: pppext
-      type: workgroup
-    abbreviation:
-      language: en
-      content: IETF
 language:
 - en
 script:

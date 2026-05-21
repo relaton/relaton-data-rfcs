@@ -132,17 +132,17 @@ relation:
 - type: updates
   bibitem:
     formattedref:
-      content: RFC4469
+      content: RFC4467
     docidentifier:
-    - content: RFC4469
+    - content: RFC4467
       type: IETF
       primary: true
 - type: updates
   bibitem:
     formattedref:
-      content: RFC4467
+      content: RFC4469
     docidentifier:
-    - content: RFC4467
+    - content: RFC4469
       type: IETF
       primary: true
 series:

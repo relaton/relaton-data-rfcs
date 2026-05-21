@@ -69,25 +69,9 @@ relation:
 - type: updates
   bibitem:
     formattedref:
-      content: RFC2874
+      content: RFC1886
     docidentifier:
-    - content: RFC2874
-      type: IETF
-      primary: true
-- type: updates
-  bibitem:
-    formattedref:
-      content: RFC2772
-    docidentifier:
-    - content: RFC2772
-      type: IETF
-      primary: true
-- type: updates
-  bibitem:
-    formattedref:
-      content: RFC2766
-    docidentifier:
-    - content: RFC2766
+    - content: RFC1886
       type: IETF
       primary: true
 - type: updates
@@ -101,9 +85,25 @@ relation:
 - type: updates
   bibitem:
     formattedref:
-      content: RFC1886
+      content: RFC2766
     docidentifier:
-    - content: RFC1886
+    - content: RFC2766
+      type: IETF
+      primary: true
+- type: updates
+  bibitem:
+    formattedref:
+      content: RFC2772
+    docidentifier:
+    - content: RFC2772
+      type: IETF
+      primary: true
+- type: updates
+  bibitem:
+    formattedref:
+      content: RFC2874
+    docidentifier:
+    - content: RFC2874
       type: IETF
       primary: true
 - type: obsoletedBy

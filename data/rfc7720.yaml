@@ -73,9 +73,9 @@ contributor:
       content: Internet Engineering Task Force
     subdivision:
     - name:
-      - content: IESG
+      - content: iab
       identifier:
-      - content: IESG
+      - content: iab
       type: workgroup
     abbreviation:
       language: en

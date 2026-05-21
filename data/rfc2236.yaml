@@ -100,8 +100,6 @@ keyword:
 - vocab:
     content: IGMP
 - vocab:
-    content: IGMP
-- vocab:
     content: multicast
 - vocab:
     content: routing

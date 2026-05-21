@@ -93,8 +93,6 @@ keyword:
 - vocab:
     content: URL
 - vocab:
-    content: URL
-- vocab:
     content: syntax
 - vocab:
     content: semantics

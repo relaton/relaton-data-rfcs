@@ -157,8 +157,6 @@ keyword:
 - vocab:
     content: PIN
 - vocab:
-    content: provisioning
-- vocab:
     content: PIN Policy
 - vocab:
     content: key usage policy

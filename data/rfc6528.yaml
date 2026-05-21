@@ -108,9 +108,9 @@ relation:
 - type: updates
   bibitem:
     formattedref:
-      content: RFC0793
+      content: RFC793
     docidentifier:
-    - content: RFC0793
+    - content: RFC793
       type: IETF
       primary: true
 - type: obsoletedBy

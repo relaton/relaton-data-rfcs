@@ -178,7 +178,7 @@ keyword:
 - vocab:
     content: PSC
 - vocab:
-    content: Protection State Coordination Protocol,
+    content: Protection State Coordination Protocol
 ext:
   schema_version: v1.1.2
   doctype:

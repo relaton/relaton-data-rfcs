@@ -139,8 +139,6 @@ keyword:
     content: source
 - vocab:
     content: demand
-- vocab:
-    content: routing
 ext:
   schema_version: v1.1.2
   doctype:

@@ -84,9 +84,9 @@ relation:
 - type: updates
   bibitem:
     formattedref:
-      content: RFC0792
+      content: RFC792
     docidentifier:
-    - content: RFC0792
+    - content: RFC792
       type: IETF
       primary: true
 - type: updates

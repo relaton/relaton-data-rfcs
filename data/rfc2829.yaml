@@ -144,17 +144,17 @@ relation:
 - type: obsoletedBy
   bibitem:
     formattedref:
-      content: RFC4513
+      content: RFC4510
     docidentifier:
-    - content: RFC4513
+    - content: RFC4510
       type: IETF
       primary: true
 - type: obsoletedBy
   bibitem:
     formattedref:
-      content: RFC4510
+      content: RFC4513
     docidentifier:
-    - content: RFC4510
+    - content: RFC4513
       type: IETF
       primary: true
 series:

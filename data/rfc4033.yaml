@@ -216,17 +216,17 @@ relation:
 - type: updates
   bibitem:
     formattedref:
-      content: RFC3597
+      content: RFC3226
     docidentifier:
-    - content: RFC3597
+    - content: RFC3226
       type: IETF
       primary: true
 - type: updates
   bibitem:
     formattedref:
-      content: RFC3226
+      content: RFC3597
     docidentifier:
-    - content: RFC3226
+    - content: RFC3597
       type: IETF
       primary: true
 series:

@@ -95,12 +95,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This specification describes how to use bearer tokens in HTTP requests
+  content: <p>This specification describes how to use bearer tokens in HTTP requests
     to access OAuth 2.0 protected resources.  Any party in possession of a bearer
-    token (a &quot;bearer&quot;) can use it to get access to the associated resources
-    (without demonstrating possession of a cryptographic key).  To prevent misuse,
-    bearer tokens need to be protected from disclosure in storage and in transport.
-    [STANDARDS-TRACK]</p>"
+    token (a "bearer") can use it to get access to the associated resources (without
+    demonstrating possession of a cryptographic key).  To prevent misuse, bearer tokens
+    need to be protected from disclosure in storage and in transport. [STANDARDS-TRACK]</p>
 status:
   stage:
     content: PROPOSED STANDARD
@@ -119,11 +118,15 @@ keyword:
 - vocab:
     content: Authorization Server
 - vocab:
-    content: Resource Server, Token Endpoint
+    content: Resource Server
+- vocab:
+    content: Token Endpoint
 - vocab:
     content: Authorization Endpoint
 - vocab:
-    content: Authorization Request, Authorization Grant
+    content: Authorization Request
+- vocab:
+    content: Authorization Grant
 - vocab:
     content: Protected Resource
 - vocab:
@@ -135,7 +138,9 @@ keyword:
 - vocab:
     content: Implicit Grant
 - vocab:
-    content: Client Identifier, Access Token Scope
+    content: Client Identifier
+- vocab:
+    content: Access Token Scope
 - vocab:
     content: Bearer Authorization Header
 - vocab:

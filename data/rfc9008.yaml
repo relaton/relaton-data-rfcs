@@ -136,17 +136,17 @@ relation:
 - type: updates
   bibitem:
     formattedref:
-      content: RFC6553
+      content: RFC6550
     docidentifier:
-    - content: RFC6553
+    - content: RFC6550
       type: IETF
       primary: true
 - type: updates
   bibitem:
     formattedref:
-      content: RFC6550
+      content: RFC6553
     docidentifier:
-    - content: RFC6550
+    - content: RFC6553
       type: IETF
       primary: true
 - type: updates

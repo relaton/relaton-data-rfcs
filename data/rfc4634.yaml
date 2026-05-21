@@ -17,7 +17,7 @@ docidentifier:
 docnumber: RFC4634
 date:
 - type: published
-  at: 2006-07
+  at: 2006-08
 contributor:
 - role:
   - type: author
@@ -83,10 +83,10 @@ abstract:
     Standard (FIPS), specifically SHA-224 (RFC 3874), SHA-256, SHA-384, and SHA-512.
     The purpose of this document is to make source code performing these hash functions
     conveniently available to the Internet community. The sample code supports input
-    strings of arbitrary bit length. SHA-1&#39;s sample code from RFC 3174 has also
-    been updated to handle input strings of arbitrary bit length. Most of the text
-    herein was adapted by the authors from FIPS 180-2.</p><p>Code to perform SHA-based
-    HMACs, with arbitrary bit length text, is also included. This memo provides information
+    strings of arbitrary bit length. SHA-1's sample code from RFC 3174 has also been
+    updated to handle input strings of arbitrary bit length. Most of the text herein
+    was adapted by the authors from FIPS 180-2.</p><p>Code to perform SHA-based HMACs,
+    with arbitrary bit length text, is also included. This memo provides information
     for the Internet community.</p>"
 status:
   stage:

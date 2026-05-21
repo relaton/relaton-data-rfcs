@@ -112,6 +112,12 @@ language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>This memo describes APEX, an extensible, asynchronous message
+    relaying service for application layer programs.</p>
 status:
   stage:
     content: HISTORIC

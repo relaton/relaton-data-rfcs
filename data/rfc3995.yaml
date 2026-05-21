@@ -114,17 +114,17 @@ relation:
 - type: updates
   bibitem:
     formattedref:
-      content: RFC2911
+      content: RFC2910
     docidentifier:
-    - content: RFC2911
+    - content: RFC2910
       type: IETF
       primary: true
 - type: updates
   bibitem:
     formattedref:
-      content: RFC2910
+      content: RFC2911
     docidentifier:
-    - content: RFC2910
+    - content: RFC2911
       type: IETF
       primary: true
 series:

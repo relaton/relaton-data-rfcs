@@ -128,7 +128,9 @@ keyword:
 - vocab:
     content: remote
 - vocab:
-    content: access,dialin
+    content: access
+- vocab:
+    content: dialin
 - vocab:
     content: user
 - vocab:

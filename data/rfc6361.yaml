@@ -72,6 +72,23 @@ contributor:
     name:
     - language: en
       content: RFC Series
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - language: en
+      content: Internet Engineering Task Force
+    subdivision:
+    - name:
+      - content: Transparent Interconnection of Lots of Links
+      identifier:
+      - content: trill
+      type: workgroup
+    abbreviation:
+      language: en
+      content: IETF
 language:
 - en
 script:

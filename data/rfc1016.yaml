@@ -79,10 +79,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "<p>The memo is intended to explore the issue of what a host could do with
+  content: <p>The memo is intended to explore the issue of what a host could do with
     a source quench.  The proposal is for each source host IP module to introduce
-    some delay between datagrams sent to the same destination host.  This is a &quot;crazy
-    idea paper&quot; and discussion is essential.</p>"
+    some delay between datagrams sent to the same destination host.  This is a "crazy
+    idea paper" and discussion is essential.</p>
 status:
   stage:
     content: UNKNOWN

@@ -82,11 +82,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This RFC suggests an addressing scheme for use with the ISO Connectionless
+  content: <p>This RFC suggests an addressing scheme for use with the ISO Connectionless
     Network Protocol (CLNP) in the Internet.  This is a solution to one of the problems
-    inherent in the use of &quot;ISO-grams&quot; in the Internet.  This memo is a
-    revision of RFC 986.  This RFC suggests a proposed protocol for the Internet community,
-    and requests discussion and suggestions for improvements.</p>"
+    inherent in the use of "ISO-grams" in the Internet.  This memo is a revision of
+    RFC 986.  This RFC suggests a proposed protocol for the Internet community, and
+    requests discussion and suggestions for improvements.</p>
 status:
   stage:
     content: UNKNOWN

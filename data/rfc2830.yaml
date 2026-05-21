@@ -116,12 +116,20 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This document defines the &quot;Start Transport Layer Security (TLS)
-    Operation&quot; for LDAP. [STANDARDS-TRACK]</p>"
+  content: <p>This document defines the "Start Transport Layer Security (TLS) Operation"
+    for LDAP. [STANDARDS-TRACK]</p>
 status:
   stage:
     content: PROPOSED STANDARD
 relation:
+- type: obsoletedBy
+  bibitem:
+    formattedref:
+      content: RFC4510
+    docidentifier:
+    - content: RFC4510
+      type: IETF
+      primary: true
 - type: obsoletedBy
   bibitem:
     formattedref:
@@ -136,14 +144,6 @@ relation:
       content: RFC4513
     docidentifier:
     - content: RFC4513
-      type: IETF
-      primary: true
-- type: obsoletedBy
-  bibitem:
-    formattedref:
-      content: RFC4510
-    docidentifier:
-    - content: RFC4510
       type: IETF
       primary: true
 series:

@@ -91,9 +91,9 @@ relation:
 - type: updates
   bibitem:
     formattedref:
-      content: RFC0908
+      content: RFC908
     docidentifier:
-    - content: RFC0908
+    - content: RFC908
       type: IETF
       primary: true
 series:

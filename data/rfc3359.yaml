@@ -73,6 +73,16 @@ language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>This draft describes implementation codepoints within
+    IS-IS [ISO90 , Cal90a , Cal90b ] used today by several ISPs for
+    routing within their clouds.  IS-IS is an interior gateway routing
+    protocol developed originally by OSI and used with IP extensions as
+    IGP. This draft summarizes all TLV codepoints that are being used by
+    the protocol and its pending extensions.</p>
 status:
   stage:
     content: INFORMATIONAL

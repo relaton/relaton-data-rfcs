@@ -148,8 +148,6 @@ keyword:
     content: digital signatures
 - vocab:
     content: xml dsig
-- vocab:
-    content: xml
 ext:
   schema_version: v1.1.2
   doctype:

@@ -131,7 +131,11 @@ series:
   - content: IETF
 keyword:
 - vocab:
-    content: AAA,ERP,MSK
+    content: AAA
+- vocab:
+    content: ERP
+- vocab:
+    content: MSK
 ext:
   schema_version: v1.1.2
   doctype:

@@ -142,8 +142,6 @@ keyword:
 - vocab:
     content: text presentation
 - vocab:
-    content: user alerting
-- vocab:
     content: instant messaging
 - vocab:
     content: conversation

@@ -109,17 +109,17 @@ relation:
 - type: updates
   bibitem:
     formattedref:
-      content: RFC5621
+      content: RFC5368
     docidentifier:
-    - content: RFC5621
+    - content: RFC5368
       type: IETF
       primary: true
 - type: updates
   bibitem:
     formattedref:
-      content: RFC5368
+      content: RFC5621
     docidentifier:
-    - content: RFC5368
+    - content: RFC5621
       type: IETF
       primary: true
 - type: updates

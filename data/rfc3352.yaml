@@ -56,6 +56,15 @@ language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>The Connection-less Lightweight Directory Access Protocol (CLDAP)
+    technical specification, RFC 1798, was published in 1995 as a Proposed
+    Standard.  This document discusses the reasons why the CLDAP technical
+    specification has not been furthered on the Standard Track.  This
+    document recommends that RFC 1798 be moved to Historic status.</p>
 status:
   stage:
     content: INFORMATIONAL
@@ -67,8 +76,6 @@ series:
   title:
   - content: Legacy
 keyword:
-- vocab:
-    content: CLDAP
 - vocab:
     content: CLDAP
 - vocab:

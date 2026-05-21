@@ -143,8 +143,6 @@ keyword:
 - vocab:
     content: Network Service Header
 - vocab:
-    content: MPLS
-- vocab:
     content: Multiprotocol Label Switching
 ext:
   schema_version: v1.1.2

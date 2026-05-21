@@ -98,7 +98,7 @@ keyword:
 - vocab:
     content: don't panic
 - vocab:
-    content: sip overview,
+    content: sip overview
 ext:
   schema_version: v1.1.2
   doctype:

@@ -139,7 +139,7 @@ series:
   - content: IETF
 keyword:
 - vocab:
-    content: SIIT]
+    content: SIIT
 - vocab:
     content: internet
 - vocab:
@@ -153,7 +153,7 @@ keyword:
 - vocab:
     content: IPv6
 - vocab:
-    content: Stateless IP/ICMP Translation Algorithm,
+    content: Stateless IP/ICMP Translation Algorithm
 ext:
   schema_version: v1.1.2
   doctype:

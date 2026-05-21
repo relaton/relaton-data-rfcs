@@ -75,9 +75,9 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This document redefines the wire format of the &quot;Type Bit Map&quot;
-    field in the DNS NextSECure (NSEC) resource record RDATA format to cover the full
-    resource record (RR) type space. [STANDARDS-TRACK]</p>"
+  content: <p>This document redefines the wire format of the "Type Bit Map" field
+    in the DNS NextSECure (NSEC) resource record RDATA format to cover the full resource
+    record (RR) type space. [STANDARDS-TRACK]</p>
 status:
   stage:
     content: PROPOSED STANDARD
@@ -85,17 +85,17 @@ relation:
 - type: updates
   bibitem:
     formattedref:
-      content: RFC3755
+      content: RFC2535
     docidentifier:
-    - content: RFC3755
+    - content: RFC2535
       type: IETF
       primary: true
 - type: updates
   bibitem:
     formattedref:
-      content: RFC2535
+      content: RFC3755
     docidentifier:
-    - content: RFC2535
+    - content: RFC3755
       type: IETF
       primary: true
 - type: obsoletedBy

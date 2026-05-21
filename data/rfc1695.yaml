@@ -124,7 +124,17 @@ keyword:
 - vocab:
     content: MIB
 - vocab:
-    content: Management,Information,Base,Asychronous,Transmission,Mode
+    content: Management
+- vocab:
+    content: Information
+- vocab:
+    content: Base
+- vocab:
+    content: Asychronous
+- vocab:
+    content: Transmission
+- vocab:
+    content: Mode
 ext:
   schema_version: v1.1.2
   doctype:

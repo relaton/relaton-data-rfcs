@@ -62,10 +62,9 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This RFC identifies the requirements on communication networks for
-    supporting scientific research.  It proposes some specific areas for near term
-    work, as well as some long term goals.  This is an &quot;idea&quot; paper and
-    discussion is strongly encouraged.</p>"
+  content: <p>This RFC identifies the requirements on communication networks for supporting
+    scientific research.  It proposes some specific areas for near term work, as well
+    as some long term goals.  This is an "idea" paper and discussion is strongly encouraged.</p>
 status:
   stage:
     content: UNKNOWN

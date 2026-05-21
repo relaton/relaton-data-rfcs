@@ -108,11 +108,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This FYI RFC is one of three FYI&#39;s called, &quot;Questions and
-    Answers&quot; (Q/A), produced by the User Services Working Group (USWG) of the
-    Internet Engineering Task Force (IETF).  The goal is to document the most commonly
-    asked questions and answers in the Internet.  This memo provides information for
-    the Internet community.  It does not specify any standard. [Also FYI 4.]</p>"
+  content: <p>This FYI RFC is one of three FYI's called, "Questions and Answers" (Q/A),
+    produced by the User Services Working Group (USWG) of the Internet Engineering
+    Task Force (IETF).  The goal is to document the most commonly asked questions
+    and answers in the Internet.  This memo provides information for the Internet
+    community.  It does not specify any standard. [Also FYI 4.]</p>
 status:
   stage:
     content: INFORMATIONAL

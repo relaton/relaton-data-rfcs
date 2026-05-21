@@ -87,9 +87,9 @@ relation:
 - type: updates
   bibitem:
     formattedref:
-      content: RFC2284
+      content: RFC1570
     docidentifier:
-    - content: RFC2284
+    - content: RFC1570
       type: IETF
       primary: true
 - type: updates
@@ -103,9 +103,9 @@ relation:
 - type: updates
   bibitem:
     formattedref:
-      content: RFC1570
+      content: RFC2284
     docidentifier:
-    - content: RFC1570
+    - content: RFC2284
       type: IETF
       primary: true
 series:

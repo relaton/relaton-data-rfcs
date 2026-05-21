@@ -136,13 +136,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This specification defines a set of System for Cross-domain Identity
+  content: <p>This specification defines a set of System for Cross-domain Identity
     Management (SCIM) Security Events using the Security Event Token (SET) specification
     (RFC 8417) to enable the asynchronous exchange of messages between SCIM service
     providers and receivers.</p><p>This specification updates RFC 7643 by defining
-    additional attributes for the &quot;urn:ietf:params:scim:schemas:core:2.0:ServiceProviderConfig&quot;
+    additional attributes for the "urn:ietf:params:scim:schemas:core:2.0:ServiceProviderConfig"
     schema, and it updates RFC 7644 with an optional new asynchronous SCIM request
-    capability.</p>"
+    capability.</p>
 status:
   stage:
     content: PROPOSED STANDARD

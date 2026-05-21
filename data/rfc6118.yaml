@@ -129,17 +129,17 @@ relation:
 - type: updates
   bibitem:
     formattedref:
-      content: RFC4143
+      content: RFC4002
     docidentifier:
-    - content: RFC4143
+    - content: RFC4002
       type: IETF
       primary: true
 - type: updates
   bibitem:
     formattedref:
-      content: RFC4002
+      content: RFC4143
     docidentifier:
-    - content: RFC4002
+    - content: RFC4143
       type: IETF
       primary: true
 - type: updates

@@ -98,8 +98,8 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This memo registers and documents the &#39;haptics&#39; top-level media
-    type, under which subtypes for representation formats for haptics may be registered.
+  content: "<p>This memo registers and documents the 'haptics' top-level media type,
+    under which subtypes for representation formats for haptics may be registered.
     \ This document also serves as a registration for a set of subtypes, which are
     representative of some existing subtypes already in use.</p>"
 status:

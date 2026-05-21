@@ -114,7 +114,7 @@ keyword:
 - vocab:
     content: pre-shared key
 - vocab:
-    content: " Diffie-Hellman"
+    content: Diffie-Hellman
 - vocab:
     content: Key Exchange
 - vocab:

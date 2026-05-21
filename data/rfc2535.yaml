@@ -84,9 +84,9 @@ relation:
 - type: updates
   bibitem:
     formattedref:
-      content: RFC2181
+      content: RFC1034
     docidentifier:
-    - content: RFC2181
+    - content: RFC1034
       type: IETF
       primary: true
 - type: updates
@@ -100,9 +100,9 @@ relation:
 - type: updates
   bibitem:
     formattedref:
-      content: RFC1034
+      content: RFC2181
     docidentifier:
-    - content: RFC1034
+    - content: RFC2181
       type: IETF
       primary: true
 - type: obsoletedBy

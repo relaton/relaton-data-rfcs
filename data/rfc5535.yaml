@@ -102,7 +102,7 @@ keyword:
 - vocab:
     content: multi-homing
 - vocab:
-    content: cryptographically generated addresses (cgas),
+    content: cryptographically generated addresses (cgas)
 ext:
   schema_version: v1.1.2
   doctype:

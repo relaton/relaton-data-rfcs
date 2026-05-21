@@ -72,9 +72,9 @@ relation:
 - type: updates
   bibitem:
     formattedref:
-      content: RFC0826
+      content: RFC826
     docidentifier:
-    - content: RFC0826
+    - content: RFC826
       type: IETF
       primary: true
 series:

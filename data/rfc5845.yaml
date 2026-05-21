@@ -163,8 +163,6 @@ keyword:
 - vocab:
     content: TLV-Header Tunneling
 - vocab:
-    content: TLV-Header Tunneling
-- vocab:
     content: GRE Key Exchange
 ext:
   schema_version: v1.1.2

@@ -17,7 +17,7 @@ docidentifier:
 docnumber: RFC3382
 date:
 - type: published
-  at: 2002-09
+  at: 2002-10
 contributor:
 - role:
   - type: author
@@ -152,6 +152,15 @@ language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>This document specifies an OPTIONAL attribute syntax called
+    'collection' for use with the Internet Printing Protocol/1.0
+    (IPP) [RFC2565, RFC2566], IPP/1.1 [RFC2911, RFC2910].  A
+    'collection' is a container holding one or more named values,
+    which are called 'member' attributes.</p>
 status:
   stage:
     content: PROPOSED STANDARD

@@ -82,9 +82,9 @@ contributor:
       content: Internet Engineering Task Force
     subdivision:
     - name:
-      - content: Public Notary Transparency
+      - content: PSTN and Internet Internetworking
       identifier:
-      - content: trans
+      - content: pint
       type: workgroup
     abbreviation:
       language: en

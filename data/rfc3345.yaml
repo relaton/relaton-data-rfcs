@@ -132,6 +132,13 @@ language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>The Border Gateway Protocol (BGP) [1] is an inter-Autonomous System
+    routing protocol. The primary function of a BGP speaking system is to
+    exchange network reachability information with other BGP systems.</p>
 status:
   stage:
     content: INFORMATIONAL

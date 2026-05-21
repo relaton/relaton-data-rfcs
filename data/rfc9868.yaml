@@ -106,9 +106,9 @@ relation:
 - type: updates
   bibitem:
     formattedref:
-      content: RFC0768
+      content: RFC768
     docidentifier:
-    - content: RFC0768
+    - content: RFC768
       type: IETF
       primary: true
 series:

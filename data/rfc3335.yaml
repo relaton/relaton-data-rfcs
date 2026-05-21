@@ -112,6 +112,20 @@ language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>This document describes how to exchange structured business data
+    securely using SMTP transport for Electronic Data Interchange,
+    (EDI - either the American Standards Committee X12 or UN/EDIFACT,
+    Electronic Data Interchange for Administration, Commerce and
+    Transport), XML or other data used for business to business data
+    interchange. The data is packaged using standard MIME
+    content-types. Authentication and privacy are obtained by using
+    Cryptographic Message Syntax (S/MIME) or OpenPGP security body
+    parts. Authenticated acknowledgements make use of
+    multipart/signed replies to the original SMTP message.</p>
 status:
   stage:
     content: PROPOSED STANDARD

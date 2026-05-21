@@ -78,8 +78,8 @@ abstract:
   content: "<p>The migration from Multiprotocol Label Switching (MPLS) Traffic Engineering
     (TE) to Generalized MPLS (GMPLS) is the process of evolving an MPLS-TE control
     plane to a GMPLS control plane. An appropriate migration strategy will be selected
-    based on various factors including the service provider&#39;s network deployment
-    plan, customer demand, and operational policy.</p><p>This document presents several
+    based on various factors including the service provider's network deployment plan,
+    customer demand, and operational policy.</p><p>This document presents several
     migration models and strategies for migrating from MPLS-TE to GMPLS. In the course
     of migration, MPLS-TE and GMPLS devices, or networks, may coexist that may require
     interworking between MPLS-TE and GMPLS protocols. Aspects of the required interworking

@@ -115,8 +115,8 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This document defines a method to encrypt a file transfer using the
-    FTP specification STD 9, RFC 959, &quot;File Transfer Protocol (FTP)&quot;, (October</p>"
+  content: <p>This document defines a method to encrypt a file transfer using the
+    FTP specification STD 9, RFC 959, "File Transfer Protocol (FTP)", (October</p>
 status:
   stage:
     content: EXPERIMENTAL
@@ -124,9 +124,9 @@ relation:
 - type: updates
   bibitem:
     formattedref:
-      content: RFC0959
+      content: RFC959
     docidentifier:
-    - content: RFC0959
+    - content: RFC959
       type: IETF
       primary: true
 series:

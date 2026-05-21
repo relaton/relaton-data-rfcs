@@ -148,13 +148,13 @@ abstract:
     New LSAs have been created to carry IPv6 addresses and prefixes. OSPF now runs
     on a per-link basis rather than on a per-IP-subnet basis. Flooding scope for LSAs
     has been generalized. Authentication has been removed from the OSPF protocol and
-    instead relies on IPv6&#39;s Authentication Header and Encapsulating Security
-    Payload (ESP).</p><p>Even with larger IPv6 addresses, most packets in OSPF for
-    IPv6 are almost as compact as those in OSPF for IPv4. Most fields and packet-
-    size limitations present in OSPF for IPv4 have been relaxed. In addition, option
-    handling has been made more flexible.</p><p>All of OSPF for IPv4&#39;s optional
-    capabilities, including demand circuit support and Not-So-Stubby Areas (NSSAs),
-    are also supported in OSPF for IPv6. [STANDARDS-TRACK]</p>"
+    instead relies on IPv6's Authentication Header and Encapsulating Security Payload
+    (ESP).</p><p>Even with larger IPv6 addresses, most packets in OSPF for IPv6 are
+    almost as compact as those in OSPF for IPv4. Most fields and packet- size limitations
+    present in OSPF for IPv4 have been relaxed. In addition, option handling has been
+    made more flexible.</p><p>All of OSPF for IPv4's optional capabilities, including
+    demand circuit support and Not-So-Stubby Areas (NSSAs), are also supported in
+    OSPF for IPv6. [STANDARDS-TRACK]</p>"
 status:
   stage:
     content: PROPOSED STANDARD

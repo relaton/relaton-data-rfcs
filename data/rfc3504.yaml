@@ -99,8 +99,6 @@ keyword:
 - vocab:
     content: merchant
 - vocab:
-    content: system
-- vocab:
     content: xml
 - vocab:
     content: extensible

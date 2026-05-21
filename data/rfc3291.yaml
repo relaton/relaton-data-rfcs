@@ -121,9 +121,9 @@ contributor:
       content: Internet Engineering Task Force
     subdivision:
     - name:
-      - content: Operations and Management Area Working Group
+      - content: opsarea
       identifier:
-      - content: opsawg
+      - content: opsarea
       type: workgroup
     abbreviation:
       language: en

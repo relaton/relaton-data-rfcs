@@ -195,6 +195,15 @@ language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>This document describes the applicability of Multiprotocol Label
+    Switching (MPLS) to traffic engineering in IP networks.  Special
+    considerations for deployment of MPLS for traffic engineering in
+    operational contexts are discussed and the limitations of the MPLS
+    approach to traffic engineering are highlighted.</p>
 status:
   stage:
     content: INFORMATIONAL

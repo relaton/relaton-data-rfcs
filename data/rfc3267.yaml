@@ -19,7 +19,7 @@ docidentifier:
 docnumber: RFC3267
 date:
 - type: published
-  at: 2002-06
+  at: 2002-07
 contributor:
 - role:
   - type: author
@@ -178,7 +178,7 @@ keyword:
 - vocab:
     content: AMR-WB
 - vocab:
-    content: " interoperate"
+    content: interoperate
 - vocab:
     content: applications
 ext:

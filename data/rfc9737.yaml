@@ -95,7 +95,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "<p>The Parallel Network File System (pNFS) allows for a file&#39;s metadata
+  content: "<p>The Parallel Network File System (pNFS) allows for a file's metadata
     and data to be on different servers (i.e., the metadata server (MDS) and the data
     server (DS)).  When the MDS is restarted, the client can still modify the data
     file component.  During the recovery phase of startup, the MDS and the DSs work

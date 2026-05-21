@@ -84,41 +84,9 @@ relation:
 - type: updates
   bibitem:
     formattedref:
-      content: RFC1248
+      content: RFC791
     docidentifier:
-    - content: RFC1248
-      type: IETF
-      primary: true
-- type: updates
-  bibitem:
-    formattedref:
-      content: RFC1247
-    docidentifier:
-    - content: RFC1247
-      type: IETF
-      primary: true
-- type: updates
-  bibitem:
-    formattedref:
-      content: RFC1195
-    docidentifier:
-    - content: RFC1195
-      type: IETF
-      primary: true
-- type: updates
-  bibitem:
-    formattedref:
-      content: RFC1123
-    docidentifier:
-    - content: RFC1123
-      type: IETF
-      primary: true
-- type: updates
-  bibitem:
-    formattedref:
-      content: RFC1122
-    docidentifier:
-    - content: RFC1122
+    - content: RFC791
       type: IETF
       primary: true
 - type: updates
@@ -132,9 +100,41 @@ relation:
 - type: updates
   bibitem:
     formattedref:
-      content: RFC0791
+      content: RFC1122
     docidentifier:
-    - content: RFC0791
+    - content: RFC1122
+      type: IETF
+      primary: true
+- type: updates
+  bibitem:
+    formattedref:
+      content: RFC1123
+    docidentifier:
+    - content: RFC1123
+      type: IETF
+      primary: true
+- type: updates
+  bibitem:
+    formattedref:
+      content: RFC1195
+    docidentifier:
+    - content: RFC1195
+      type: IETF
+      primary: true
+- type: updates
+  bibitem:
+    formattedref:
+      content: RFC1247
+    docidentifier:
+    - content: RFC1247
+      type: IETF
+      primary: true
+- type: updates
+  bibitem:
+    formattedref:
+      content: RFC1248
+    docidentifier:
+    - content: RFC1248
       type: IETF
       primary: true
 - type: obsoletedBy
@@ -153,8 +153,6 @@ series:
   title:
   - content: IETF
 keyword:
-- vocab:
-    content: TOS
 - vocab:
     content: TOS
 - vocab:

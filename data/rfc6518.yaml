@@ -162,7 +162,7 @@ keyword:
 - vocab:
     content: KMP
 - vocab:
-    content: key management protocol,
+    content: key management protocol
 ext:
   schema_version: v1.1.2
   doctype:

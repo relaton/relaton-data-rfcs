@@ -101,7 +101,9 @@ keyword:
 - vocab:
     content: GSSAPI
 - vocab:
-    content: CAT,GSS
+    content: CAT
+- vocab:
+    content: GSS
 ext:
   schema_version: v1.1.2
   doctype:

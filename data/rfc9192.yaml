@@ -123,7 +123,7 @@ abstract:
     a fixed-length Context Header. The allocation of this Context Header, i.e., its
     structure and semantics, has not been standardized. This memo defines the Timestamp
     Context Header, which is an NSH fixed-length Context Header that incorporates
-    the packet&#39;s timestamp, a sequence number, and a source interface identifier.</p><p>Although
+    the packet's timestamp, a sequence number, and a source interface identifier.</p><p>Although
     the definition of the Context Header presented in this document has not been standardized
     by the IETF, it has been implemented in silicon by several manufacturers and is
     published here to facilitate interoperability.</p>"

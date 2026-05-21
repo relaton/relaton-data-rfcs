@@ -105,9 +105,9 @@ contributor:
       content: Internet Engineering Task Force
     subdivision:
     - name:
-      - content: Session Initiation Protocol
+      - content: SIP for Instant Messaging and Presence Leveraging Extensions
       identifier:
-      - content: sip
+      - content: simple
       type: workgroup
     abbreviation:
       language: en

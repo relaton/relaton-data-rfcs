@@ -138,9 +138,9 @@ abstract:
   content: "<p>DomainKeys Identified Mail (DKIM) defines a domain-level authentication
     framework for email to permit verification of the source and contents of messages.
     \ This document specifies an adjunct mechanism to aid in assessing messages that
-    do not contain a DKIM signature for the domain used in the author&#39;s address.
-    \ It defines a record that can advertise whether a domain signs its outgoing mail
-    as well as how other hosts can access that record. [STANDARDS-TRACK]</p>"
+    do not contain a DKIM signature for the domain used in the author's address.  It
+    defines a record that can advertise whether a domain signs its outgoing mail as
+    well as how other hosts can access that record. [STANDARDS-TRACK]</p>"
 status:
   stage:
     content: HISTORIC
@@ -159,21 +159,11 @@ keyword:
 - vocab:
     content: rfc 5322
 - vocab:
-    content: rfc 5322
-- vocab:
-    content: rfc 822
-- vocab:
     content: rfc 822
 - vocab:
     content: rfc 5321
 - vocab:
-    content: rfc 5321
-- vocab:
     content: rfc 821
-- vocab:
-    content: rfc 821
-- vocab:
-    content: rfc 4871
 - vocab:
     content: rfc 4871
 - vocab:
@@ -182,8 +172,6 @@ keyword:
     content: domain keys
 - vocab:
     content: domainkeys
-- vocab:
-    content: ADSP
 - vocab:
     content: ADSP
 - vocab:
@@ -200,12 +188,6 @@ keyword:
     content: smtp
 - vocab:
     content: submission
-- vocab:
-    content: " email"
-- vocab:
-    content: e-mail
-- vocab:
-    content: smtp
 - vocab:
     content: Internet
 - vocab:

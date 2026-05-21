@@ -138,7 +138,7 @@ abstract:
   content: "<p>Secure Socket Layer (SSL) and Transport Layer Security (TLS) renegotiation
     are vulnerable to an attack in which the attacker forms a TLS connection with
     the target server, injects content of his choice, and then splices in a new TLS
-    connection from a client.  The server treats the client&#39;s initial TLS handshake
+    connection from a client.  The server treats the client's initial TLS handshake
     as a renegotiation and thus believes that the initial data transmitted by the
     attacker is from the same entity as the subsequent client data.  This specification
     defines a TLS extension to cryptographically tie renegotiations to the TLS connections
@@ -150,25 +150,9 @@ relation:
 - type: updates
   bibitem:
     formattedref:
-      content: RFC5246
+      content: RFC2246
     docidentifier:
-    - content: RFC5246
-      type: IETF
-      primary: true
-- type: updates
-  bibitem:
-    formattedref:
-      content: RFC4366
-    docidentifier:
-    - content: RFC4366
-      type: IETF
-      primary: true
-- type: updates
-  bibitem:
-    formattedref:
-      content: RFC4347
-    docidentifier:
-    - content: RFC4347
+    - content: RFC2246
       type: IETF
       primary: true
 - type: updates
@@ -182,9 +166,25 @@ relation:
 - type: updates
   bibitem:
     formattedref:
-      content: RFC2246
+      content: RFC4347
     docidentifier:
-    - content: RFC2246
+    - content: RFC4347
+      type: IETF
+      primary: true
+- type: updates
+  bibitem:
+    formattedref:
+      content: RFC4366
+    docidentifier:
+    - content: RFC4366
+      type: IETF
+      primary: true
+- type: updates
+  bibitem:
+    formattedref:
+      content: RFC5246
+    docidentifier:
+    - content: RFC5246
       type: IETF
       primary: true
 series:

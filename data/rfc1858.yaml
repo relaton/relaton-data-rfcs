@@ -124,8 +124,6 @@ keyword:
 - vocab:
     content: control
 - vocab:
-    content: protocol
-- vocab:
     content: routers
 - vocab:
     content: hosts

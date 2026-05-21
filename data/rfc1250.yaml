@@ -69,17 +69,17 @@ relation:
 - type: obsoletedBy
   bibitem:
     formattedref:
-      content: RFC2200
+      content: RFC1280
     docidentifier:
-    - content: RFC2200
+    - content: RFC1280
       type: IETF
       primary: true
 - type: obsoletedBy
   bibitem:
     formattedref:
-      content: RFC1280
+      content: RFC2200
     docidentifier:
-    - content: RFC1280
+    - content: RFC2200
       type: IETF
       primary: true
 series:

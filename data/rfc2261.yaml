@@ -149,12 +149,6 @@ keyword:
 - vocab:
     content: Message
 - vocab:
-    content: Network
-- vocab:
-    content: Management
-- vocab:
-    content: Protocol
-- vocab:
     content: security
 - vocab:
     content: access

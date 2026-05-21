@@ -89,17 +89,17 @@ relation:
 - type: updates
   bibitem:
     formattedref:
-      content: RFC0826
+      content: RFC826
     docidentifier:
-    - content: RFC0826
+    - content: RFC826
       type: IETF
       primary: true
 - type: updates
   bibitem:
     formattedref:
-      content: RFC0951
+      content: RFC951
     docidentifier:
-    - content: RFC0951
+    - content: RFC951
       type: IETF
       primary: true
 - type: updates

@@ -109,8 +109,8 @@ abstract:
     to (1) facilitate the automation of the service negotiation and activation procedures,
     thus accelerating service provisioning, (2) set (traffic) objectives of Traffic
     Engineering functions and service management functions, and (3) improve service
-    and network management systems with &#39;decision- making&#39; capabilities based
-    upon negotiated/offered CPPs.</p>"
+    and network management systems with 'decision- making' capabilities based upon
+    negotiated/offered CPPs.</p>"
 status:
   stage:
     content: INFORMATIONAL

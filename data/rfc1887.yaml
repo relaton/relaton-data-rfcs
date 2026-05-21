@@ -116,7 +116,7 @@ keyword:
 - vocab:
     content: Generation
 - vocab:
-    content: IPng,
+    content: IPng
 ext:
   schema_version: v1.1.2
   doctype:

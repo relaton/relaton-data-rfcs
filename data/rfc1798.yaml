@@ -101,8 +101,6 @@ keyword:
 - vocab:
     content: CLDAP
 - vocab:
-    content: CLDAP
-- vocab:
     content: Presentation
 - vocab:
     content: Address

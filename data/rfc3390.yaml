@@ -17,7 +17,7 @@ docidentifier:
 docnumber: RFC3390
 date:
 - type: published
-  at: 2002-10
+  at: 2002-11
 contributor:
 - role:
   - type: author
@@ -112,6 +112,17 @@ language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>This document specifies an optional standard for TCP to increase the
+    permitted initial window from one segment to roughly 4K bytes,
+    replacing RFC 2414.  This document discusses the advantages and
+    disadvantages of the higher initial window.  The document includes
+    discussion of experiments and simulations showing that the higher
+    initial window does not lead to congestion collapse. Finally, the
+    document provides guidance on implementation issues.</p>
 status:
   stage:
     content: PROPOSED STANDARD

@@ -75,6 +75,13 @@ language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>This document defines a new DHCP option which is passed from the DHCP
+    Server to the DHCP Client to specify the domain search list used when
+    resolving hostnames using DNS.</p>
 status:
   stage:
     content: PROPOSED STANDARD

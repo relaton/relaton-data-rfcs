@@ -59,7 +59,7 @@ abstract:
 - language: en
   script: Latn
   content: "<p>This RFC proposes an Internet standard which can be used by future
-    TCP services instead of using &#39;well-known ports&#39;.</p>"
+    TCP services instead of using 'well-known ports'.</p>"
 status:
   stage:
     content: HISTORIC

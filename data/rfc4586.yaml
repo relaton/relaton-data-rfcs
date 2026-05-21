@@ -152,23 +152,6 @@ contributor:
     name:
     - language: en
       content: RFC Series
-- role:
-  - type: author
-    description:
-    - content: committee
-  organization:
-    name:
-    - language: en
-      content: Internet Engineering Task Force
-    subdivision:
-    - name:
-      - content: Audio/Video Transport
-      identifier:
-      - content: avt
-      type: workgroup
-    abbreviation:
-      language: en
-      content: IETF
 language:
 - en
 script:

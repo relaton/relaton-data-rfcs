@@ -129,7 +129,7 @@ keyword:
 - vocab:
     content: trust anchor
 - vocab:
-    content: TAMP,
+    content: TAMP
 ext:
   schema_version: v1.1.2
   doctype:

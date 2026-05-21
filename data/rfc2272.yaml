@@ -150,8 +150,6 @@ keyword:
 - vocab:
     content: architecture
 - vocab:
-    content: SNMPv3
-- vocab:
     content: multiple
 - vocab:
     content: versions

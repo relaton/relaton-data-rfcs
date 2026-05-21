@@ -90,17 +90,17 @@ relation:
 - type: updates
   bibitem:
     formattedref:
-      content: RFC3658
+      content: RFC2535
     docidentifier:
-    - content: RFC3658
+    - content: RFC2535
       type: IETF
       primary: true
 - type: updates
   bibitem:
     formattedref:
-      content: RFC2535
+      content: RFC3658
     docidentifier:
-    - content: RFC2535
+    - content: RFC3658
       type: IETF
       primary: true
 - type: obsoletedBy

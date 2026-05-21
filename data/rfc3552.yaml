@@ -100,7 +100,7 @@ keyword:
 - vocab:
     content: RFC
 - vocab:
-    content: 'Request for Comment '
+    content: Request for Comment
 - vocab:
     content: Security Considerations
 ext:

@@ -86,9 +86,9 @@ relation:
 - type: updates
   bibitem:
     formattedref:
-      content: RFC5246
+      content: RFC2246
     docidentifier:
-    - content: RFC5246
+    - content: RFC2246
       type: IETF
       primary: true
 - type: updates
@@ -102,9 +102,9 @@ relation:
 - type: updates
   bibitem:
     formattedref:
-      content: RFC2246
+      content: RFC5246
     docidentifier:
-    - content: RFC2246
+    - content: RFC5246
       type: IETF
       primary: true
 series:

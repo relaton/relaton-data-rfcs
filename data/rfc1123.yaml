@@ -68,17 +68,17 @@ relation:
 - type: updates
   bibitem:
     formattedref:
-      content: RFC0822
+      content: RFC822
     docidentifier:
-    - content: RFC0822
+    - content: RFC822
       type: IETF
       primary: true
 - type: updates
   bibitem:
     formattedref:
-      content: RFC0952
+      content: RFC952
     docidentifier:
-    - content: RFC0952
+    - content: RFC952
       type: IETF
       primary: true
 series:

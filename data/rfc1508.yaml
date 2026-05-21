@@ -100,7 +100,11 @@ series:
   - content: IETF
 keyword:
 - vocab:
-    content: CAT,GSS,API
+    content: CAT
+- vocab:
+    content: GSS
+- vocab:
+    content: API
 ext:
   schema_version: v1.1.2
   doctype:

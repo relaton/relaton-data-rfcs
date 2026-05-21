@@ -64,7 +64,7 @@ abstract:
     be anticipated due to orbital dynamics.</p><p>This document proposes a scalable
     routing architecture for satellite networks based on existing routing protocols
     and mechanisms that is enhanced with scheduled link connectivity change information.
-    This document proposes no protocol changes.</p><p>This document presents the author&#39;s
+    This document proposes no protocol changes.</p><p>This document presents the author's
     view and is neither the product of the IETF nor a consensus view of the community.</p>"
 status:
   stage:

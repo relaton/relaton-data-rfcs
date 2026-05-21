@@ -17,7 +17,7 @@ docidentifier:
 docnumber: RFC3466
 date:
 - type: published
-  at: 2003-02
+  at: 2003-03
 contributor:
 - role:
   - type: author
@@ -135,12 +135,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "<p>Content (distribution) internetworking (CDI) is the technology for
-    interconnecting content networks, sometimes previously called &quot;content peering&quot;
-    or &quot;CDN peering&quot;.  A common vocabulary helps the process of discussing
-    such interconnection and interoperation.  This document introduces content networks
-    and content internetworking, and defines elements for such a common vocabulary.
-    \ This memo provides information for the Internet community.</p>"
+  content: <p>Content (distribution) internetworking (CDI) is the technology for interconnecting
+    content networks, sometimes previously called "content peering" or "CDN peering".  A
+    common vocabulary helps the process of discussing such interconnection and interoperation.  This
+    document introduces content networks and content internetworking, and defines
+    elements for such a common vocabulary.  This memo provides information for the
+    Internet community.</p>
 status:
   stage:
     content: INFORMATIONAL

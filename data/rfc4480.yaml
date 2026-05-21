@@ -147,10 +147,10 @@ abstract:
     extension includes information about what the person is doing, a grouping identifier
     for a tuple, when a service or device was last used, the type of place a person
     is in, what media communications might remain private, the relationship of a service
-    tuple to another presentity, the person&#39;s mood, the time zone it is located
-    in, the type of service it offers, an icon reflecting the presentity&#39;s status,
-    and the overall role of the presentity.</p><p>These extensions include presence
-    information for persons, services (tuples), and devices. [STANDARDS-TRACK]</p>"
+    tuple to another presentity, the person's mood, the time zone it is located in,
+    the type of service it offers, an icon reflecting the presentity's status, and
+    the overall role of the presentity.</p><p>These extensions include presence information
+    for persons, services (tuples), and devices. [STANDARDS-TRACK]</p>"
 status:
   stage:
     content: PROPOSED STANDARD

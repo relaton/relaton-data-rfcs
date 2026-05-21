@@ -17,7 +17,7 @@ docidentifier:
 docnumber: RFC3366
 date:
 - type: published
-  at: 2002-08
+  at: 2002-09
 contributor:
 - role:
   - type: author
@@ -92,6 +92,17 @@ language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>This document provides advice to the designers of digital
+    communication equipment and link-layer protocols employing link
+    layer Automatic Repeat reQuest (ARQ) techniques.  This document
+    presumes that the designers wish to support Internet protocols, but
+    may be unfamiliar with the architecture of the Internet and with the
+    implications of their design choices on the performance and
+    efficiency of Internet traffic carried over their links.</p>
 status:
   stage:
     content: BEST CURRENT PRACTICE

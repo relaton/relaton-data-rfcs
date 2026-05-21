@@ -107,8 +107,6 @@ keyword:
 - vocab:
     content: Known Answer Test
 - vocab:
-    content: arcfour
-- vocab:
     content: ARC4
 - vocab:
     content: WEP

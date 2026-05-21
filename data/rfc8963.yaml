@@ -58,7 +58,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This document presents the author&#39;s effort to understand the delays
+  content: "<p>This document presents the author's effort to understand the delays
     involved in publishing an idea in the IETF or through the Independent Stream,
     from the first individual draft to the publication of the RFC. We analyze a set
     of randomly chosen RFCs approved in 2018, looking for history and delays. We also

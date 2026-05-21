@@ -64,7 +64,7 @@ contributor:
     - name:
       - content: Extensible Messaging and Presence Protocol
       identifier:
-      - content: xmpp
+      - content: xmpp-old
       type: workgroup
     abbreviation:
       language: en

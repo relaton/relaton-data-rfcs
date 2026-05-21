@@ -179,7 +179,7 @@ keyword:
 - vocab:
     content: LLN
 - vocab:
-    content: Constrained based routing,
+    content: Constrained based routing
 ext:
   schema_version: v1.1.2
   doctype:

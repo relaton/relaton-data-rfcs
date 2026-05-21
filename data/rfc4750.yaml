@@ -147,8 +147,6 @@ keyword:
 - vocab:
     content: network management mib
 - vocab:
-    content: OSPF-MIB
-- vocab:
     content: OSPF-TRAP-MIB
 ext:
   schema_version: v1.1.2

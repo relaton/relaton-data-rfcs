@@ -161,7 +161,7 @@ abstract:
     utilization through various modes of traffic load balancing.  RFC 7432 defines
     an EVPN-based MC-LAG with Single-Active and All-Active multihoming redundancy
     modes.  This document builds on the existing redundancy mechanisms supported by
-    EVPN and introduces a new active/standby redundancy mode, called &#39;Port-Active&#39;.</p>"
+    EVPN and introduces a new active/standby redundancy mode, called 'Port-Active'.</p>"
 status:
   stage:
     content: PROPOSED STANDARD

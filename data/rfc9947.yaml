@@ -165,7 +165,7 @@ abstract:
     This approach has potential scaling and simplification benefits over the technique
     described in RFC 9343, and the scope of the experiment is to determine whether
     those are significant and attractive to the community.</p><p>This protocol extension
-    has been developed outside the IETF as an alternative to the IETF&#39;s Standards
+    has been developed outside the IETF as an alternative to the IETF's Standards
     Track specification RFC 9343 and it does not have IETF consensus. It is published
     here to guide experimental implementation and ensure interoperability among implementations
     to better determine the value of this approach. Researchers are invited to submit

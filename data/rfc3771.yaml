@@ -102,17 +102,17 @@ relation:
 - type: obsoletedBy
   bibitem:
     formattedref:
-      content: RFC4511
+      content: RFC4510
     docidentifier:
-    - content: RFC4511
+    - content: RFC4510
       type: IETF
       primary: true
 - type: obsoletedBy
   bibitem:
     formattedref:
-      content: RFC4510
+      content: RFC4511
     docidentifier:
-    - content: RFC4510
+    - content: RFC4511
       type: IETF
       primary: true
 series:
