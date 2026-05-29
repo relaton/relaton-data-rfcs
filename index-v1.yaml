@@ -19531,8 +19531,12 @@
   :file: data/rfc9972.yaml
 - :id: RFC 9975
   :file: data/rfc9975.yaml
+- :id: RFC 9982
+  :file: data/rfc9982.yaml
 - :id: RFC 9983
   :file: data/rfc9983.yaml
+- :id: RFC 9987
+  :file: data/rfc9987.yaml
 - :id: RFC 9989
   :file: data/rfc9989.yaml
 - :id: RFC 9990
