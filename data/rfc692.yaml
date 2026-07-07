@@ -12,7 +12,7 @@ docidentifier:
 - content: RFC 692
   type: IETF
   primary: true
-- content: 10.17487/RFC0692
+- content: 10.17487/RFC692
   type: DOI
 docnumber: RFC692
 date:

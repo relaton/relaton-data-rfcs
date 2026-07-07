@@ -12,7 +12,7 @@ docidentifier:
 - content: RFC 168
   type: IETF
   primary: true
-- content: 10.17487/RFC0168
+- content: 10.17487/RFC168
   type: DOI
 docnumber: RFC168
 date:

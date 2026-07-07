@@ -13,7 +13,7 @@ docidentifier:
 - content: RFC 989
   type: IETF
   primary: true
-- content: 10.17487/RFC0989
+- content: 10.17487/RFC989
   type: DOI
 docnumber: RFC989
 date:

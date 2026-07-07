@@ -12,7 +12,7 @@ docidentifier:
 - content: RFC 305
   type: IETF
   primary: true
-- content: 10.17487/RFC0305
+- content: 10.17487/RFC305
   type: DOI
 docnumber: RFC305
 date:

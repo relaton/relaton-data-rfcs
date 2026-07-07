@@ -12,7 +12,7 @@ docidentifier:
 - content: RFC 944
   type: IETF
   primary: true
-- content: 10.17487/RFC0944
+- content: 10.17487/RFC944
   type: DOI
 docnumber: RFC944
 date:

@@ -12,7 +12,7 @@ docidentifier:
 - content: RFC 905
   type: IETF
   primary: true
-- content: 10.17487/RFC0905
+- content: 10.17487/RFC905
   type: DOI
 docnumber: RFC905
 date:

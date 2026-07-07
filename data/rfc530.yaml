@@ -12,7 +12,7 @@ docidentifier:
 - content: RFC 530
   type: IETF
   primary: true
-- content: 10.17487/RFC0530
+- content: 10.17487/RFC530
   type: DOI
 docnumber: RFC530
 date:

@@ -12,7 +12,7 @@ docidentifier:
 - content: RFC 270
   type: IETF
   primary: true
-- content: 10.17487/RFC0270
+- content: 10.17487/RFC270
   type: DOI
 docnumber: RFC270
 date:

@@ -12,7 +12,7 @@ docidentifier:
 - content: RFC 240
   type: IETF
   primary: true
-- content: 10.17487/RFC0240
+- content: 10.17487/RFC240
   type: DOI
 docnumber: RFC240
 date:

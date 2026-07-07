@@ -12,7 +12,7 @@ docidentifier:
 - content: RFC 265
   type: IETF
   primary: true
-- content: 10.17487/RFC0265
+- content: 10.17487/RFC265
   type: DOI
 docnumber: RFC265
 date:

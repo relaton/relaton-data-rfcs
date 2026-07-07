@@ -12,7 +12,7 @@ docidentifier:
 - content: RFC 731
   type: IETF
   primary: true
-- content: 10.17487/RFC0731
+- content: 10.17487/RFC731
   type: DOI
 docnumber: RFC731
 date:

@@ -12,7 +12,7 @@ docidentifier:
 - content: RFC 321
   type: IETF
   primary: true
-- content: 10.17487/RFC0321
+- content: 10.17487/RFC321
   type: DOI
 docnumber: RFC321
 date:

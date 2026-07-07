@@ -12,7 +12,7 @@ docidentifier:
 - content: RFC 690
   type: IETF
   primary: true
-- content: 10.17487/RFC0690
+- content: 10.17487/RFC690
   type: DOI
 docnumber: RFC690
 date:

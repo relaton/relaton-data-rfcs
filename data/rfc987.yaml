@@ -12,7 +12,7 @@ docidentifier:
 - content: RFC 987
   type: IETF
   primary: true
-- content: 10.17487/RFC0987
+- content: 10.17487/RFC987
   type: DOI
 docnumber: RFC987
 date:

@@ -12,7 +12,7 @@ docidentifier:
 - content: RFC 213
   type: IETF
   primary: true
-- content: 10.17487/RFC0213
+- content: 10.17487/RFC213
   type: DOI
 docnumber: RFC213
 date:

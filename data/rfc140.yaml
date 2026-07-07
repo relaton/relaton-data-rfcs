@@ -12,7 +12,7 @@ docidentifier:
 - content: RFC 140
   type: IETF
   primary: true
-- content: 10.17487/RFC0140
+- content: 10.17487/RFC140
   type: DOI
 docnumber: RFC140
 date:

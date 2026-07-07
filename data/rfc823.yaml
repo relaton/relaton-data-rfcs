@@ -12,7 +12,7 @@ docidentifier:
 - content: RFC 823
   type: IETF
   primary: true
-- content: 10.17487/RFC0823
+- content: 10.17487/RFC823
   type: DOI
 docnumber: RFC823
 date:

@@ -12,7 +12,7 @@ docidentifier:
 - content: RFC 643
   type: IETF
   primary: true
-- content: 10.17487/RFC0643
+- content: 10.17487/RFC643
   type: DOI
 docnumber: RFC643
 date:

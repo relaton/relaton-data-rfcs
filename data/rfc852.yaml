@@ -12,7 +12,7 @@ docidentifier:
 - content: RFC 852
   type: IETF
   primary: true
-- content: 10.17487/RFC0852
+- content: 10.17487/RFC852
   type: DOI
 docnumber: RFC852
 date:

@@ -12,7 +12,7 @@ docidentifier:
 - content: RFC 316
   type: IETF
   primary: true
-- content: 10.17487/RFC0316
+- content: 10.17487/RFC316
   type: DOI
 docnumber: RFC316
 date:

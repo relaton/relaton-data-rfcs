@@ -12,7 +12,7 @@ docidentifier:
 - content: RFC 330
   type: IETF
   primary: true
-- content: 10.17487/RFC0330
+- content: 10.17487/RFC330
   type: DOI
 docnumber: RFC330
 date:

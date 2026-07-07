@@ -12,7 +12,7 @@ docidentifier:
 - content: RFC 508
   type: IETF
   primary: true
-- content: 10.17487/RFC0508
+- content: 10.17487/RFC508
   type: DOI
 docnumber: RFC508
 date:

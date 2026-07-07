@@ -12,7 +12,7 @@ docidentifier:
 - content: RFC 461
   type: IETF
   primary: true
-- content: 10.17487/RFC0461
+- content: 10.17487/RFC461
   type: DOI
 docnumber: RFC461
 date:

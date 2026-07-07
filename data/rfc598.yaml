@@ -12,7 +12,7 @@ docidentifier:
 - content: RFC 598
   type: IETF
   primary: true
-- content: 10.17487/RFC0598
+- content: 10.17487/RFC598
   type: DOI
 docnumber: RFC598
 date:

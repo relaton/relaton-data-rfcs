@@ -12,7 +12,7 @@ docidentifier:
 - content: RFC 156
   type: IETF
   primary: true
-- content: 10.17487/RFC0156
+- content: 10.17487/RFC156
   type: DOI
 docnumber: RFC156
 date:

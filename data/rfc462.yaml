@@ -12,7 +12,7 @@ docidentifier:
 - content: RFC 462
   type: IETF
   primary: true
-- content: 10.17487/RFC0462
+- content: 10.17487/RFC462
   type: DOI
 docnumber: RFC462
 date:

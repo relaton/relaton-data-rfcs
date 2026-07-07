@@ -13,7 +13,7 @@ docidentifier:
 - content: RFC 110
   type: IETF
   primary: true
-- content: 10.17487/RFC0110
+- content: 10.17487/RFC110
   type: DOI
 docnumber: RFC110
 date:

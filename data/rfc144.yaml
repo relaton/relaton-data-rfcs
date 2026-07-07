@@ -12,7 +12,7 @@ docidentifier:
 - content: RFC 144
   type: IETF
   primary: true
-- content: 10.17487/RFC0144
+- content: 10.17487/RFC144
   type: DOI
 docnumber: RFC144
 date:

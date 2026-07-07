@@ -12,7 +12,7 @@ docidentifier:
 - content: RFC 155
   type: IETF
   primary: true
-- content: 10.17487/RFC0155
+- content: 10.17487/RFC155
   type: DOI
 docnumber: RFC155
 date:

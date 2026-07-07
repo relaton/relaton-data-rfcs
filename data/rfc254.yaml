@@ -12,7 +12,7 @@ docidentifier:
 - content: RFC 254
   type: IETF
   primary: true
-- content: 10.17487/RFC0254
+- content: 10.17487/RFC254
   type: DOI
 docnumber: RFC254
 date:

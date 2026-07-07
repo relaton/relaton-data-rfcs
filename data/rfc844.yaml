@@ -12,7 +12,7 @@ docidentifier:
 - content: RFC 844
   type: IETF
   primary: true
-- content: 10.17487/RFC0844
+- content: 10.17487/RFC844
   type: DOI
 docnumber: RFC844
 date:

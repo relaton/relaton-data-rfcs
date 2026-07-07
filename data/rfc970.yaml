@@ -12,7 +12,7 @@ docidentifier:
 - content: RFC 970
   type: IETF
   primary: true
-- content: 10.17487/RFC0970
+- content: 10.17487/RFC970
   type: DOI
 docnumber: RFC970
 date:

@@ -13,7 +13,7 @@ docidentifier:
 - content: RFC 101
   type: IETF
   primary: true
-- content: 10.17487/RFC0101
+- content: 10.17487/RFC101
   type: DOI
 docnumber: RFC101
 date:

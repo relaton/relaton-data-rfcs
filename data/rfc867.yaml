@@ -12,7 +12,7 @@ docidentifier:
 - content: RFC 867
   type: IETF
   primary: true
-- content: 10.17487/RFC0867
+- content: 10.17487/RFC867
   type: DOI
 docnumber: RFC867
 date:

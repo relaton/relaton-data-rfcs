@@ -12,7 +12,7 @@ docidentifier:
 - content: RFC 320
   type: IETF
   primary: true
-- content: 10.17487/RFC0320
+- content: 10.17487/RFC320
   type: DOI
 docnumber: RFC320
 date:

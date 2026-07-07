@@ -12,7 +12,7 @@ docidentifier:
 - content: RFC 311
   type: IETF
   primary: true
-- content: 10.17487/RFC0311
+- content: 10.17487/RFC311
   type: DOI
 docnumber: RFC311
 date:

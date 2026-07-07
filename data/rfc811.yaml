@@ -12,7 +12,7 @@ docidentifier:
 - content: RFC 811
   type: IETF
   primary: true
-- content: 10.17487/RFC0811
+- content: 10.17487/RFC811
   type: DOI
 docnumber: RFC811
 date:

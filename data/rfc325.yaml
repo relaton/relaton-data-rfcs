@@ -12,7 +12,7 @@ docidentifier:
 - content: RFC 325
   type: IETF
   primary: true
-- content: 10.17487/RFC0325
+- content: 10.17487/RFC325
   type: DOI
 docnumber: RFC325
 date:

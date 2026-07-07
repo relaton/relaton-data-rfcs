@@ -12,7 +12,7 @@ docidentifier:
 - content: RFC 143
   type: IETF
   primary: true
-- content: 10.17487/RFC0143
+- content: 10.17487/RFC143
   type: DOI
 docnumber: RFC143
 date:

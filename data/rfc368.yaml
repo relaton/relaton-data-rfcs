@@ -12,7 +12,7 @@ docidentifier:
 - content: RFC 368
   type: IETF
   primary: true
-- content: 10.17487/RFC0368
+- content: 10.17487/RFC368
   type: DOI
 docnumber: RFC368
 date:

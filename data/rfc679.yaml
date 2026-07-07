@@ -12,7 +12,7 @@ docidentifier:
 - content: RFC 679
   type: IETF
   primary: true
-- content: 10.17487/RFC0679
+- content: 10.17487/RFC679
   type: DOI
 docnumber: RFC679
 date:

@@ -12,7 +12,7 @@ docidentifier:
 - content: RFC 128
   type: IETF
   primary: true
-- content: 10.17487/RFC0128
+- content: 10.17487/RFC128
   type: DOI
 docnumber: RFC128
 date:

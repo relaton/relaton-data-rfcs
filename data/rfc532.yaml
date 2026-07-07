@@ -12,7 +12,7 @@ docidentifier:
 - content: RFC 532
   type: IETF
   primary: true
-- content: 10.17487/RFC0532
+- content: 10.17487/RFC532
   type: DOI
 docnumber: RFC532
 date:

@@ -12,7 +12,7 @@ docidentifier:
 - content: RFC 919
   type: IETF
   primary: true
-- content: 10.17487/RFC0919
+- content: 10.17487/RFC919
   type: DOI
 docnumber: RFC919
 date:

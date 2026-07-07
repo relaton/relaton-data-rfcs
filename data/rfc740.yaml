@@ -12,7 +12,7 @@ docidentifier:
 - content: RFC 740
   type: IETF
   primary: true
-- content: 10.17487/RFC0740
+- content: 10.17487/RFC740
   type: DOI
 docnumber: RFC740
 date:

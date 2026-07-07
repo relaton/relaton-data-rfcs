@@ -12,7 +12,7 @@ docidentifier:
 - content: RFC 436
   type: IETF
   primary: true
-- content: 10.17487/RFC0436
+- content: 10.17487/RFC436
   type: DOI
 docnumber: RFC436
 date:

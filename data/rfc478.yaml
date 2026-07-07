@@ -12,7 +12,7 @@ docidentifier:
 - content: RFC 478
   type: IETF
   primary: true
-- content: 10.17487/RFC0478
+- content: 10.17487/RFC478
   type: DOI
 docnumber: RFC478
 date:

@@ -12,7 +12,7 @@ docidentifier:
 - content: RFC 21
   type: IETF
   primary: true
-- content: 10.17487/RFC0021
+- content: 10.17487/RFC21
   type: DOI
 docnumber: RFC21
 date:

@@ -12,7 +12,7 @@ docidentifier:
 - content: RFC 391
   type: IETF
   primary: true
-- content: 10.17487/RFC0391
+- content: 10.17487/RFC391
   type: DOI
 docnumber: RFC391
 date:

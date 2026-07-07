@@ -12,7 +12,7 @@ docidentifier:
 - content: RFC 381
   type: IETF
   primary: true
-- content: 10.17487/RFC0381
+- content: 10.17487/RFC381
   type: DOI
 docnumber: RFC381
 date:

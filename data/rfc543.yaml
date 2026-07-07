@@ -12,7 +12,7 @@ docidentifier:
 - content: RFC 543
   type: IETF
   primary: true
-- content: 10.17487/RFC0543
+- content: 10.17487/RFC543
   type: DOI
 docnumber: RFC543
 date:

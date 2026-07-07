@@ -12,7 +12,7 @@ docidentifier:
 - content: RFC 704
   type: IETF
   primary: true
-- content: 10.17487/RFC0704
+- content: 10.17487/RFC704
   type: DOI
 docnumber: RFC704
 date:

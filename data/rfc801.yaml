@@ -12,7 +12,7 @@ docidentifier:
 - content: RFC 801
   type: IETF
   primary: true
-- content: 10.17487/RFC0801
+- content: 10.17487/RFC801
   type: DOI
 docnumber: RFC801
 date:

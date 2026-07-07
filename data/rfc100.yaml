@@ -12,7 +12,7 @@ docidentifier:
 - content: RFC 100
   type: IETF
   primary: true
-- content: 10.17487/RFC0100
+- content: 10.17487/RFC100
   type: DOI
 docnumber: RFC100
 date:

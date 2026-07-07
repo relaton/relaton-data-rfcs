@@ -12,7 +12,7 @@ docidentifier:
 - content: RFC 195
   type: IETF
   primary: true
-- content: 10.17487/RFC0195
+- content: 10.17487/RFC195
   type: DOI
 docnumber: RFC195
 date:

@@ -12,7 +12,7 @@ docidentifier:
 - content: RFC 76
   type: IETF
   primary: true
-- content: 10.17487/RFC0076
+- content: 10.17487/RFC76
   type: DOI
 docnumber: RFC76
 date:

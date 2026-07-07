@@ -13,7 +13,7 @@ docidentifier:
 - content: RFC 939
   type: IETF
   primary: true
-- content: 10.17487/RFC0939
+- content: 10.17487/RFC939
   type: DOI
 docnumber: RFC939
 date:

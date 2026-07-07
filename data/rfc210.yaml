@@ -12,7 +12,7 @@ docidentifier:
 - content: RFC 210
   type: IETF
   primary: true
-- content: 10.17487/RFC0210
+- content: 10.17487/RFC210
   type: DOI
 docnumber: RFC210
 date:

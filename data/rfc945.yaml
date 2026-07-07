@@ -12,7 +12,7 @@ docidentifier:
 - content: RFC 945
   type: IETF
   primary: true
-- content: 10.17487/RFC0945
+- content: 10.17487/RFC945
   type: DOI
 docnumber: RFC945
 date:

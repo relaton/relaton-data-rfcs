@@ -12,7 +12,7 @@ docidentifier:
 - content: RFC 896
   type: IETF
   primary: true
-- content: 10.17487/RFC0896
+- content: 10.17487/RFC896
   type: DOI
 docnumber: RFC896
 date:

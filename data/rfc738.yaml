@@ -12,7 +12,7 @@ docidentifier:
 - content: RFC 738
   type: IETF
   primary: true
-- content: 10.17487/RFC0738
+- content: 10.17487/RFC738
   type: DOI
 docnumber: RFC738
 date:

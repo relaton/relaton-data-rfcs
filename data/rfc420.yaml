@@ -12,7 +12,7 @@ docidentifier:
 - content: RFC 420
   type: IETF
   primary: true
-- content: 10.17487/RFC0420
+- content: 10.17487/RFC420
   type: DOI
 docnumber: RFC420
 date:

@@ -12,7 +12,7 @@ docidentifier:
 - content: RFC 181
   type: IETF
   primary: true
-- content: 10.17487/RFC0181
+- content: 10.17487/RFC181
   type: DOI
 docnumber: RFC181
 date:

@@ -12,7 +12,7 @@ docidentifier:
 - content: RFC 817
   type: IETF
   primary: true
-- content: 10.17487/RFC0817
+- content: 10.17487/RFC817
   type: DOI
 docnumber: RFC817
 date:

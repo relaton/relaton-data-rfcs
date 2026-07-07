@@ -12,7 +12,7 @@ docidentifier:
 - content: RFC 384
   type: IETF
   primary: true
-- content: 10.17487/RFC0384
+- content: 10.17487/RFC384
   type: DOI
 docnumber: RFC384
 date:

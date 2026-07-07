@@ -12,7 +12,7 @@ docidentifier:
 - content: RFC 336
   type: IETF
   primary: true
-- content: 10.17487/RFC0336
+- content: 10.17487/RFC336
   type: DOI
 docnumber: RFC336
 date:

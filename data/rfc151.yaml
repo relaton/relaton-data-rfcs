@@ -12,7 +12,7 @@ docidentifier:
 - content: RFC 151
   type: IETF
   primary: true
-- content: 10.17487/RFC0151
+- content: 10.17487/RFC151
   type: DOI
 docnumber: RFC151
 date:

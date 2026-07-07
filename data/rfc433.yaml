@@ -12,7 +12,7 @@ docidentifier:
 - content: RFC 433
   type: IETF
   primary: true
-- content: 10.17487/RFC0433
+- content: 10.17487/RFC433
   type: DOI
 docnumber: RFC433
 date:

@@ -12,7 +12,7 @@ docidentifier:
 - content: RFC 440
   type: IETF
   primary: true
-- content: 10.17487/RFC0440
+- content: 10.17487/RFC440
   type: DOI
 docnumber: RFC440
 date:

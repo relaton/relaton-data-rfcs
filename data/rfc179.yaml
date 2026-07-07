@@ -12,7 +12,7 @@ docidentifier:
 - content: RFC 179
   type: IETF
   primary: true
-- content: 10.17487/RFC0179
+- content: 10.17487/RFC179
   type: DOI
 docnumber: RFC179
 date:

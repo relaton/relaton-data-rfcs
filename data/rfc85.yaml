@@ -12,7 +12,7 @@ docidentifier:
 - content: RFC 85
   type: IETF
   primary: true
-- content: 10.17487/RFC0085
+- content: 10.17487/RFC85
   type: DOI
 docnumber: RFC85
 date:

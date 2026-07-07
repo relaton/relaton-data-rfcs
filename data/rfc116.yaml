@@ -12,7 +12,7 @@ docidentifier:
 - content: RFC 116
   type: IETF
   primary: true
-- content: 10.17487/RFC0116
+- content: 10.17487/RFC116
   type: DOI
 docnumber: RFC116
 date:

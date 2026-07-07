@@ -12,7 +12,7 @@ docidentifier:
 - content: RFC 685
   type: IETF
   primary: true
-- content: 10.17487/RFC0685
+- content: 10.17487/RFC685
   type: DOI
 docnumber: RFC685
 date:

@@ -12,7 +12,7 @@ docidentifier:
 - content: RFC 854
   type: IETF
   primary: true
-- content: 10.17487/RFC0854
+- content: 10.17487/RFC854
   type: DOI
 docnumber: RFC854
 date:

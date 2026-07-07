@@ -12,7 +12,7 @@ docidentifier:
 - content: RFC 51
   type: IETF
   primary: true
-- content: 10.17487/RFC0051
+- content: 10.17487/RFC51
   type: DOI
 docnumber: RFC51
 date:

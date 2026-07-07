@@ -12,7 +12,7 @@ docidentifier:
 - content: RFC 302
   type: IETF
   primary: true
-- content: 10.17487/RFC0302
+- content: 10.17487/RFC302
   type: DOI
 docnumber: RFC302
 date:

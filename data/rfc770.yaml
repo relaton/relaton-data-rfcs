@@ -12,7 +12,7 @@ docidentifier:
 - content: RFC 770
   type: IETF
   primary: true
-- content: 10.17487/RFC0770
+- content: 10.17487/RFC770
   type: DOI
 docnumber: RFC770
 date:

@@ -12,7 +12,7 @@ docidentifier:
 - content: RFC 225
   type: IETF
   primary: true
-- content: 10.17487/RFC0225
+- content: 10.17487/RFC225
   type: DOI
 docnumber: RFC225
 date:

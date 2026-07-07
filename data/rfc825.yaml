@@ -12,7 +12,7 @@ docidentifier:
 - content: RFC 825
   type: IETF
   primary: true
-- content: 10.17487/RFC0825
+- content: 10.17487/RFC825
   type: DOI
 docnumber: RFC825
 date:

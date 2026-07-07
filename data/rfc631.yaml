@@ -13,7 +13,7 @@ docidentifier:
 - content: RFC 631
   type: IETF
   primary: true
-- content: 10.17487/RFC0631
+- content: 10.17487/RFC631
   type: DOI
 docnumber: RFC631
 date:

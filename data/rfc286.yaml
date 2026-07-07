@@ -12,7 +12,7 @@ docidentifier:
 - content: RFC 286
   type: IETF
   primary: true
-- content: 10.17487/RFC0286
+- content: 10.17487/RFC286
   type: DOI
 docnumber: RFC286
 date:

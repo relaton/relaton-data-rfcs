@@ -12,7 +12,7 @@ docidentifier:
 - content: RFC 500
   type: IETF
   primary: true
-- content: 10.17487/RFC0500
+- content: 10.17487/RFC500
   type: DOI
 docnumber: RFC500
 date:

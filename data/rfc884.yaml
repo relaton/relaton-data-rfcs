@@ -12,7 +12,7 @@ docidentifier:
 - content: RFC 884
   type: IETF
   primary: true
-- content: 10.17487/RFC0884
+- content: 10.17487/RFC884
   type: DOI
 docnumber: RFC884
 date:

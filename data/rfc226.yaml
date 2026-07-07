@@ -12,7 +12,7 @@ docidentifier:
 - content: RFC 226
   type: IETF
   primary: true
-- content: 10.17487/RFC0226
+- content: 10.17487/RFC226
   type: DOI
 docnumber: RFC226
 date:

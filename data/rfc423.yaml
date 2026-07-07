@@ -12,7 +12,7 @@ docidentifier:
 - content: RFC 423
   type: IETF
   primary: true
-- content: 10.17487/RFC0423
+- content: 10.17487/RFC423
   type: DOI
 docnumber: RFC423
 date:

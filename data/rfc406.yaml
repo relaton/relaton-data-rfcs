@@ -12,7 +12,7 @@ docidentifier:
 - content: RFC 406
   type: IETF
   primary: true
-- content: 10.17487/RFC0406
+- content: 10.17487/RFC406
   type: DOI
 docnumber: RFC406
 date:

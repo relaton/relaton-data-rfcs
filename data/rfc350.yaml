@@ -12,7 +12,7 @@ docidentifier:
 - content: RFC 350
   type: IETF
   primary: true
-- content: 10.17487/RFC0350
+- content: 10.17487/RFC350
   type: DOI
 docnumber: RFC350
 date:

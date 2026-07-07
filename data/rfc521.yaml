@@ -12,7 +12,7 @@ docidentifier:
 - content: RFC 521
   type: IETF
   primary: true
-- content: 10.17487/RFC0521
+- content: 10.17487/RFC521
   type: DOI
 docnumber: RFC521
 date:

@@ -12,7 +12,7 @@ docidentifier:
 - content: RFC 13
   type: IETF
   primary: true
-- content: 10.17487/RFC0013
+- content: 10.17487/RFC13
   type: DOI
 docnumber: RFC13
 date:

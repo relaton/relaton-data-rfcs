@@ -12,7 +12,7 @@ docidentifier:
 - content: RFC 658
   type: IETF
   primary: true
-- content: 10.17487/RFC0658
+- content: 10.17487/RFC658
   type: DOI
 docnumber: RFC658
 date:

@@ -12,7 +12,7 @@ docidentifier:
 - content: RFC 300
   type: IETF
   primary: true
-- content: 10.17487/RFC0300
+- content: 10.17487/RFC300
   type: DOI
 docnumber: RFC300
 date:

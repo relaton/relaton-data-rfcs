@@ -12,7 +12,7 @@ docidentifier:
 - content: RFC 701
   type: IETF
   primary: true
-- content: 10.17487/RFC0701
+- content: 10.17487/RFC701
   type: DOI
 docnumber: RFC701
 date:

@@ -12,7 +12,7 @@ docidentifier:
 - content: RFC 28
   type: IETF
   primary: true
-- content: 10.17487/RFC0028
+- content: 10.17487/RFC28
   type: DOI
 docnumber: RFC28
 date:

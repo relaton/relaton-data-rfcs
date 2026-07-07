@@ -12,7 +12,7 @@ docidentifier:
 - content: RFC 683
   type: IETF
   primary: true
-- content: 10.17487/RFC0683
+- content: 10.17487/RFC683
   type: DOI
 docnumber: RFC683
 date:

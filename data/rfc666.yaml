@@ -12,7 +12,7 @@ docidentifier:
 - content: RFC 666
   type: IETF
   primary: true
-- content: 10.17487/RFC0666
+- content: 10.17487/RFC666
   type: DOI
 docnumber: RFC666
 date:

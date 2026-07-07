@@ -12,7 +12,7 @@ docidentifier:
 - content: RFC 552
   type: IETF
   primary: true
-- content: 10.17487/RFC0552
+- content: 10.17487/RFC552
   type: DOI
 docnumber: RFC552
 date:

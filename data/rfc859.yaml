@@ -12,7 +12,7 @@ docidentifier:
 - content: RFC 859
   type: IETF
   primary: true
-- content: 10.17487/RFC0859
+- content: 10.17487/RFC859
   type: DOI
 docnumber: RFC859
 date:

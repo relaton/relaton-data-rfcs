@@ -12,7 +12,7 @@ docidentifier:
 - content: RFC 469
   type: IETF
   primary: true
-- content: 10.17487/RFC0469
+- content: 10.17487/RFC469
   type: DOI
 docnumber: RFC469
 date:

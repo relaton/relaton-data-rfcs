@@ -12,7 +12,7 @@ docidentifier:
 - content: RFC 64
   type: IETF
   primary: true
-- content: 10.17487/RFC0064
+- content: 10.17487/RFC64
   type: DOI
 docnumber: RFC64
 date:

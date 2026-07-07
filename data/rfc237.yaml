@@ -12,7 +12,7 @@ docidentifier:
 - content: RFC 237
   type: IETF
   primary: true
-- content: 10.17487/RFC0237
+- content: 10.17487/RFC237
   type: DOI
 docnumber: RFC237
 date:

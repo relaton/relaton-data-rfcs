@@ -12,7 +12,7 @@ docidentifier:
 - content: RFC 632
   type: IETF
   primary: true
-- content: 10.17487/RFC0632
+- content: 10.17487/RFC632
   type: DOI
 docnumber: RFC632
 date:

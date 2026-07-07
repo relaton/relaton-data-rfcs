@@ -12,7 +12,7 @@ docidentifier:
 - content: RFC 805
   type: IETF
   primary: true
-- content: 10.17487/RFC0805
+- content: 10.17487/RFC805
   type: DOI
 docnumber: RFC805
 date:

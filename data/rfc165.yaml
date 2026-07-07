@@ -12,7 +12,7 @@ docidentifier:
 - content: RFC 165
   type: IETF
   primary: true
-- content: 10.17487/RFC0165
+- content: 10.17487/RFC165
   type: DOI
 docnumber: RFC165
 date:

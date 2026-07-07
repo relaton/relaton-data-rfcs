@@ -12,7 +12,7 @@ docidentifier:
 - content: RFC 490
   type: IETF
   primary: true
-- content: 10.17487/RFC0490
+- content: 10.17487/RFC490
   type: DOI
 docnumber: RFC490
 date:

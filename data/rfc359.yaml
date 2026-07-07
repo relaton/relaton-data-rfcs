@@ -12,7 +12,7 @@ docidentifier:
 - content: RFC 359
   type: IETF
   primary: true
-- content: 10.17487/RFC0359
+- content: 10.17487/RFC359
   type: DOI
 docnumber: RFC359
 date:

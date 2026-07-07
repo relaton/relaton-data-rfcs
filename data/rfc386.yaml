@@ -12,7 +12,7 @@ docidentifier:
 - content: RFC 386
   type: IETF
   primary: true
-- content: 10.17487/RFC0386
+- content: 10.17487/RFC386
   type: DOI
 docnumber: RFC386
 date:

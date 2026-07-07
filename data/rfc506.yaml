@@ -12,7 +12,7 @@ docidentifier:
 - content: RFC 506
   type: IETF
   primary: true
-- content: 10.17487/RFC0506
+- content: 10.17487/RFC506
   type: DOI
 docnumber: RFC506
 date:

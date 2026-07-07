@@ -12,7 +12,7 @@ docidentifier:
 - content: RFC 345
   type: IETF
   primary: true
-- content: 10.17487/RFC0345
+- content: 10.17487/RFC345
   type: DOI
 docnumber: RFC345
 date:

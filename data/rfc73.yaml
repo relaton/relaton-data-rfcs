@@ -12,7 +12,7 @@ docidentifier:
 - content: RFC 73
   type: IETF
   primary: true
-- content: 10.17487/RFC0073
+- content: 10.17487/RFC73
   type: DOI
 docnumber: RFC73
 date:

@@ -12,7 +12,7 @@ docidentifier:
 - content: RFC 61
   type: IETF
   primary: true
-- content: 10.17487/RFC0061
+- content: 10.17487/RFC61
   type: DOI
 docnumber: RFC61
 date:

@@ -12,7 +12,7 @@ docidentifier:
 - content: RFC 496
   type: IETF
   primary: true
-- content: 10.17487/RFC0496
+- content: 10.17487/RFC496
   type: DOI
 docnumber: RFC496
 date:

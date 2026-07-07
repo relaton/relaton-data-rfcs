@@ -12,7 +12,7 @@ docidentifier:
 - content: RFC 1
   type: IETF
   primary: true
-- content: 10.17487/RFC0001
+- content: 10.17487/RFC1
   type: DOI
 docnumber: RFC1
 date:

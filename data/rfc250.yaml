@@ -12,7 +12,7 @@ docidentifier:
 - content: RFC 250
   type: IETF
   primary: true
-- content: 10.17487/RFC0250
+- content: 10.17487/RFC250
   type: DOI
 docnumber: RFC250
 date:

@@ -12,7 +12,7 @@ docidentifier:
 - content: RFC 421
   type: IETF
   primary: true
-- content: 10.17487/RFC0421
+- content: 10.17487/RFC421
   type: DOI
 docnumber: RFC421
 date:

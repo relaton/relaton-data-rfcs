@@ -12,7 +12,7 @@ docidentifier:
 - content: RFC 486
   type: IETF
   primary: true
-- content: 10.17487/RFC0486
+- content: 10.17487/RFC486
   type: DOI
 docnumber: RFC486
 date:

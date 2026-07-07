@@ -12,7 +12,7 @@ docidentifier:
 - content: RFC 744
   type: IETF
   primary: true
-- content: 10.17487/RFC0744
+- content: 10.17487/RFC744
   type: DOI
 docnumber: RFC744
 date:

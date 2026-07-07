@@ -12,7 +12,7 @@ docidentifier:
 - content: RFC 722
   type: IETF
   primary: true
-- content: 10.17487/RFC0722
+- content: 10.17487/RFC722
   type: DOI
 docnumber: RFC722
 date:

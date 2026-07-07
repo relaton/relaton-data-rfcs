@@ -12,7 +12,7 @@ docidentifier:
 - content: RFC 843
   type: IETF
   primary: true
-- content: 10.17487/RFC0843
+- content: 10.17487/RFC843
   type: DOI
 docnumber: RFC843
 date:

@@ -13,7 +13,7 @@ docidentifier:
 - content: RFC 68
   type: IETF
   primary: true
-- content: 10.17487/RFC0068
+- content: 10.17487/RFC68
   type: DOI
 docnumber: RFC68
 date:

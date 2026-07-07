@@ -12,7 +12,7 @@ docidentifier:
 - content: RFC 360
   type: IETF
   primary: true
-- content: 10.17487/RFC0360
+- content: 10.17487/RFC360
   type: DOI
 docnumber: RFC360
 date:

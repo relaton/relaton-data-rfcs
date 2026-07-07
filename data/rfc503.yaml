@@ -12,7 +12,7 @@ docidentifier:
 - content: RFC 503
   type: IETF
   primary: true
-- content: 10.17487/RFC0503
+- content: 10.17487/RFC503
   type: DOI
 docnumber: RFC503
 date:
