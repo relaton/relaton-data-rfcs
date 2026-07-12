@@ -100,6 +100,14 @@ relation:
     - content: RFC6066
       type: IETF
       primary: true
+- type: obsoletedBy
+  bibitem:
+    formattedref:
+      content: RFC9846
+    docidentifier:
+    - content: RFC9846
+      type: IETF
+      primary: true
 series:
 - title:
   - content: RFC
