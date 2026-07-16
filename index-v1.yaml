@@ -19315,6 +19315,10 @@
   :file: data/rfc9848.yaml
 - :id: RFC 9849
   :file: data/rfc9849.yaml
+- :id: RFC 9850
+  :file: data/rfc9850.yaml
+- :id: RFC 9851
+  :file: data/rfc9851.yaml
 - :id: RFC 9853
   :file: data/rfc9853.yaml
 - :id: RFC 9854
@@ -19475,6 +19479,8 @@
   :file: data/rfc9931.yaml
 - :id: RFC 9932
   :file: data/rfc9932.yaml
+- :id: RFC 9933
+  :file: data/rfc9933.yaml
 - :id: RFC 9934
   :file: data/rfc9934.yaml
 - :id: RFC 9935
@@ -19515,6 +19521,8 @@
   :file: data/rfc9952.yaml
 - :id: RFC 9953
   :file: data/rfc9953.yaml
+- :id: RFC 9954
+  :file: data/rfc9954.yaml
 - :id: RFC 9956
   :file: data/rfc9956.yaml
 - :id: RFC 9957
@@ -19547,6 +19555,8 @@
   :file: data/rfc9970.yaml
 - :id: RFC 9972
   :file: data/rfc9972.yaml
+- :id: RFC 9973
+  :file: data/rfc9973.yaml
 - :id: RFC 9974
   :file: data/rfc9974.yaml
 - :id: RFC 9975
