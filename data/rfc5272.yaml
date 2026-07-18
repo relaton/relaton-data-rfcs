@@ -106,6 +106,15 @@ abstract:
 status:
   stage:
     content: PROPOSED STANDARD
+relation:
+- type: obsoletedBy
+  bibitem:
+    formattedref:
+      content: RFC10002
+    docidentifier:
+    - content: RFC10002
+      type: IETF
+      primary: true
 series:
 - title:
   - content: RFC

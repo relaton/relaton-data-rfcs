@@ -109,6 +109,30 @@ relation:
     - content: RFC5274
       type: IETF
       primary: true
+- type: obsoletedBy
+  bibitem:
+    formattedref:
+      content: RFC10002
+    docidentifier:
+    - content: RFC10002
+      type: IETF
+      primary: true
+- type: obsoletedBy
+  bibitem:
+    formattedref:
+      content: RFC10003
+    docidentifier:
+    - content: RFC10003
+      type: IETF
+      primary: true
+- type: obsoletedBy
+  bibitem:
+    formattedref:
+      content: RFC10004
+    docidentifier:
+    - content: RFC10004
+      type: IETF
+      primary: true
 series:
 - title:
   - content: RFC

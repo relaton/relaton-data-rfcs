@@ -19605,6 +19605,12 @@
   :file: data/rfc9998.yaml
 - :id: RFC 9999
   :file: data/rfc9999.yaml
+- :id: RFC 10002
+  :file: data/rfc10002.yaml
+- :id: RFC 10003
+  :file: data/rfc10003.yaml
+- :id: RFC 10004
+  :file: data/rfc10004.yaml
 - :id: RFC 10005
   :file: data/rfc10005.yaml
 - :id: RFC 10007
