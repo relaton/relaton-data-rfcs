@@ -19601,6 +19601,8 @@
   :file: data/rfc9994.yaml
 - :id: RFC 9995
   :file: data/rfc9995.yaml
+- :id: RFC 9996
+  :file: data/rfc9996.yaml
 - :id: RFC 9997
   :file: data/rfc9997.yaml
 - :id: RFC 9998
@@ -19619,9 +19621,15 @@
   :file: data/rfc10007.yaml
 - :id: RFC 10008
   :file: data/rfc10008.yaml
+- :id: RFC 10013
+  :file: data/rfc10013.yaml
 - :id: RFC 10014
   :file: data/rfc10014.yaml
 - :id: RFC 10015
   :file: data/rfc10015.yaml
+- :id: RFC 10019
+  :file: data/rfc10019.yaml
+- :id: RFC 10023
+  :file: data/rfc10023.yaml
 - :id: RFC 10026
   :file: data/rfc10026.yaml
