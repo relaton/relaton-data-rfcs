@@ -19629,7 +19629,11 @@
   :file: data/rfc10015.yaml
 - :id: RFC 10019
   :file: data/rfc10019.yaml
+- :id: RFC 10022
+  :file: data/rfc10022.yaml
 - :id: RFC 10023
   :file: data/rfc10023.yaml
 - :id: RFC 10026
   :file: data/rfc10026.yaml
+- :id: RFC 10029
+  :file: data/rfc10029.yaml
