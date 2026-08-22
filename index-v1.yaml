@@ -19633,6 +19633,8 @@
   :file: data/rfc10014.yaml
 - :id: RFC 10015
   :file: data/rfc10015.yaml
+- :id: RFC 10017
+  :file: data/rfc10017.yaml
 - :id: RFC 10018
   :file: data/rfc10018.yaml
 - :id: RFC 10019
@@ -19655,3 +19657,5 @@
   :file: data/rfc10030.yaml
 - :id: RFC 10031
   :file: data/rfc10031.yaml
+- :id: RFC 10036
+  :file: data/rfc10036.yaml
