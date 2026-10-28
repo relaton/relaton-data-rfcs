@@ -1,5 +1,4 @@
 ---
-id: RFC2579
 schema_version: v1.5.6
 type: standard
 title:
@@ -125,9 +124,3 @@ keyword:
     content: SNMPv2
 - vocab:
     content: Simple Network Management Protocol Version 2
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: Legacy

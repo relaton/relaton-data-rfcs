@@ -1,5 +1,4 @@
 ---
-id: RFC3404
 schema_version: v1.5.6
 type: standard
 title:
@@ -97,9 +96,3 @@ keyword:
     content: RR
 - vocab:
     content: Resource Record
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: IETF

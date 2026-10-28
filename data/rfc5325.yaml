@@ -1,5 +1,4 @@
 ---
-id: RFC5325
 schema_version: v1.5.6
 type: standard
 title:
@@ -116,9 +115,3 @@ keyword:
     content: round-trip times
 - vocab:
     content: long-haul
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: IRTF

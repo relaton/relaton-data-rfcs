@@ -1,5 +1,4 @@
 ---
-id: RFC9471
 schema_version: v1.5.6
 type: standard
 title:
@@ -162,9 +161,3 @@ keyword:
     content: In-Domain Name Server
 - vocab:
     content: Sibling Domain Name Server
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: IETF

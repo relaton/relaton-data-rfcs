@@ -1,5 +1,4 @@
 ---
-id: RFC469
 schema_version: v1.5.6
 type: standard
 title:
@@ -75,9 +74,3 @@ keyword:
     content: mail
 - vocab:
     content: meeting
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: Legacy

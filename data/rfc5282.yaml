@@ -1,5 +1,4 @@
 ---
-id: RFC5282
 schema_version: v1.5.6
 type: standard
 title:
@@ -111,9 +110,3 @@ keyword:
     content: aes ccm
 - vocab:
     content: aes in couner with cbc-mac mode
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: IETF

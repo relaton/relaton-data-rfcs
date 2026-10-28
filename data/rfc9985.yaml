@@ -1,5 +1,4 @@
 ---
-id: RFC9985
 schema_version: v1.5.6
 type: standard
 title:
@@ -171,9 +170,3 @@ keyword:
     content: BFD
 - vocab:
     content: authentication
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: IETF

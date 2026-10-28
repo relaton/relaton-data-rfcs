@@ -1,5 +1,4 @@
 ---
-id: RFC5277
 schema_version: v1.5.6
 type: standard
 title:
@@ -119,9 +118,3 @@ keyword:
     content: Asynchronous Message
 - vocab:
     content: Notification
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: IETF

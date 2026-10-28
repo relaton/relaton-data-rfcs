@@ -1,5 +1,4 @@
 ---
-id: RFC9752
 schema_version: v1.5.6
 type: standard
 title:
@@ -194,9 +193,3 @@ keyword:
     content: vendor specific
 - vocab:
     content: vendor-specific
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: IETF

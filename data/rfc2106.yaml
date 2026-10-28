@@ -1,5 +1,4 @@
 ---
-id: RFC2106
 schema_version: v1.5.6
 type: standard
 title:
@@ -125,9 +124,3 @@ keyword:
     content: NetBios
 - vocab:
     content: DLSW
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: Legacy

@@ -1,5 +1,4 @@
 ---
-id: RFC9620
 schema_version: v1.5.6
 type: standard
 title:
@@ -103,9 +102,3 @@ keyword:
     content: International human rights
 - vocab:
     content: Protocol design
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: IRTF

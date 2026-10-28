@@ -1,5 +1,4 @@
 ---
-id: RFC5572
 schema_version: v1.5.6
 type: standard
 title:
@@ -98,9 +97,3 @@ keyword:
     content: Transition
 - vocab:
     content: TSP
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: INDEPENDENT

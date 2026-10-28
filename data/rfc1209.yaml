@@ -1,5 +1,4 @@
 ---
-id: RFC1209
 schema_version: v1.5.6
 type: standard
 title:
@@ -114,9 +113,3 @@ keyword:
     content: IP-SMDS
 - vocab:
     content: Switched Multi-megabit Data Service
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: IETF

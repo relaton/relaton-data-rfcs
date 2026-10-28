@@ -1,5 +1,4 @@
 ---
-id: RFC2198
 schema_version: v1.5.6
 type: standard
 title:
@@ -232,9 +231,3 @@ series:
 keyword:
 - vocab:
     content: RTP-RAD
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: IETF

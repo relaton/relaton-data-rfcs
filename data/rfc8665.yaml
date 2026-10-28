@@ -1,5 +1,4 @@
 ---
-id: RFC8665
 schema_version: v1.5.6
 type: standard
 title:
@@ -219,9 +218,3 @@ keyword:
     content: Label advertisement
 - vocab:
     content: Segment Routing
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: IETF

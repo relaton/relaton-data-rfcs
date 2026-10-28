@@ -1,5 +1,4 @@
 ---
-id: RFC9707
 schema_version: v1.5.6
 type: standard
 title:
@@ -130,9 +129,3 @@ keyword:
     content: Community Networks
 - vocab:
     content: digital divide
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: IAB

@@ -1,5 +1,4 @@
 ---
-id: RFC6550
 schema_version: v1.5.6
 type: standard
 title:
@@ -281,9 +280,3 @@ keyword:
     content: Objective Function
 - vocab:
     content: DAG for Directed Acyclic Graph
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: IETF

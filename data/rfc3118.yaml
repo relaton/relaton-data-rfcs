@@ -1,5 +1,4 @@
 ---
-id: RFC3118
 schema_version: v1.5.6
 type: standard
 title:
@@ -113,9 +112,3 @@ keyword:
     content: dynamic host configuration protocol
 - vocab:
     content: verification
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: IETF

@@ -1,5 +1,4 @@
 ---
-id: RFC5260
 schema_version: v1.5.6
 type: standard
 title:
@@ -78,9 +77,3 @@ keyword:
     content: date
 - vocab:
     content: index
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: IETF

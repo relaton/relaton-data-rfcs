@@ -1,5 +1,4 @@
 ---
-id: RFC8268
 schema_version: v1.5.6
 type: standard
 title:
@@ -128,9 +127,3 @@ keyword:
     content: 6144-bit
 - vocab:
     content: 8192-bit
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: IETF

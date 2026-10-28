@@ -1,5 +1,4 @@
 ---
-id: RFC8645
 schema_version: v1.5.6
 type: standard
 title:
@@ -80,9 +79,3 @@ keyword:
     content: encryption mode
 - vocab:
     content: mode of operation
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: IRTF

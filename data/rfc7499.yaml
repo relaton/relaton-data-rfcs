@@ -1,5 +1,4 @@
 ---
-id: RFC7499
 schema_version: v1.5.6
 type: standard
 title:
@@ -197,9 +196,3 @@ keyword:
     content: fragmentation
 - vocab:
     content: chunk
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: IETF

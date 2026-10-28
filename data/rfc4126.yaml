@@ -1,5 +1,4 @@
 ---
-id: RFC4126
 schema_version: v1.5.6
 type: standard
 title:
@@ -105,9 +104,3 @@ keyword:
     content: cac
 - vocab:
     content: network model
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: IETF

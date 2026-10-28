@@ -1,5 +1,4 @@
 ---
-id: RFC3058
 schema_version: v1.5.6
 type: standard
 title:
@@ -143,9 +142,3 @@ keyword:
     content: multipurpose internet
 - vocab:
     content: mail extensions
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: IETF

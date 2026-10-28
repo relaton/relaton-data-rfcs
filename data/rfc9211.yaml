@@ -1,5 +1,4 @@
 ---
-id: RFC9211
 schema_version: v1.5.6
 type: standard
 title:
@@ -95,9 +94,3 @@ keyword:
     content: debugging
 - vocab:
     content: x-cache
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: IETF

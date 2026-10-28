@@ -1,5 +1,4 @@
 ---
-id: RFC8036
 schema_version: v1.5.6
 type: standard
 title:
@@ -139,9 +138,3 @@ keyword:
     content: secure smartgrid
 - vocab:
     content: connected energy
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: IETF

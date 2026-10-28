@@ -1,5 +1,4 @@
 ---
-id: RFC5577
 schema_version: v1.5.6
 type: standard
 title:
@@ -111,9 +110,3 @@ keyword:
     content: international telecommunication union
 - vocab:
     content: wide-band audio coded
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: IETF

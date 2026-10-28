@@ -1,5 +1,4 @@
 ---
-id: RFC9750
 schema_version: v1.5.6
 type: standard
 title:
@@ -173,9 +172,3 @@ keyword:
     content: authenticated key exchange
 - vocab:
     content: end-to-end encryption
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: IETF

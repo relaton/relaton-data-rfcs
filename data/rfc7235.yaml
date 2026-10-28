@@ -1,5 +1,4 @@
 ---
-id: RFC7235
 schema_version: v1.5.6
 type: standard
 title:
@@ -122,9 +121,3 @@ keyword:
     content: HyperText Transfer Protocol
 - vocab:
     content: HTTP
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: IETF

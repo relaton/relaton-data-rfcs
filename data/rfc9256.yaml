@@ -1,5 +1,4 @@
 ---
-id: RFC9256
 schema_version: v1.5.6
 type: standard
 title:
@@ -186,9 +185,3 @@ keyword:
     content: SRv6
 - vocab:
     content: Traffic Engineering
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: IETF

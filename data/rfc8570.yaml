@@ -1,5 +1,4 @@
 ---
-id: RFC8570
 schema_version: v1.5.6
 type: standard
 title:
@@ -191,9 +190,3 @@ keyword:
     content: IGP
 - vocab:
     content: IS-IS
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: IETF

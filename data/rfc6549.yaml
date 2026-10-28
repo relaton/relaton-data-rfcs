@@ -1,5 +1,4 @@
 ---
-id: RFC6549
 schema_version: v1.5.6
 type: standard
 title:
@@ -138,9 +137,3 @@ series:
 keyword:
 - vocab:
     content: Instance ID
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: IETF

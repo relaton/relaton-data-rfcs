@@ -1,5 +1,4 @@
 ---
-id: RFC4169
 schema_version: v1.5.6
 type: standard
 title:
@@ -118,9 +117,3 @@ keyword:
     content: tunneled authentication
 - vocab:
     content: man-in-the-middle attacks
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: IETF

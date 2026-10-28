@@ -1,5 +1,4 @@
 ---
-id: RFC6295
 schema_version: v1.5.6
 type: standard
 title:
@@ -169,9 +168,3 @@ keyword:
     content: Standard MIDI Files
 - vocab:
     content: XMF
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: IETF

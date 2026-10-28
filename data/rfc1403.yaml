@@ -1,5 +1,4 @@
 ---
-id: RFC1403
 schema_version: v1.5.6
 type: standard
 title:
@@ -76,9 +75,3 @@ keyword:
     content: border gateway protocol
 - vocab:
     content: open shortest path first routing
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: Legacy

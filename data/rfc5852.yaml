@@ -1,5 +1,4 @@
 ---
-id: RFC5852
 schema_version: v1.5.6
 type: standard
 title:
@@ -171,9 +170,3 @@ keyword:
     content: resource reservation protocol
 - vocab:
     content: handover procedures
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: IETF

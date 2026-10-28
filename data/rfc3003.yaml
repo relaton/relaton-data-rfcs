@@ -1,5 +1,4 @@
 ---
-id: RFC3003
 schema_version: v1.5.6
 type: standard
 title:
@@ -78,9 +77,3 @@ keyword:
     content: multipurpose internet mail extensions
 - vocab:
     content: Media Type
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: Legacy

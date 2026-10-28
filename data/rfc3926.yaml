@@ -1,5 +1,4 @@
 ---
-id: RFC3926
 schema_version: v1.5.6
 type: standard
 title:
@@ -180,9 +179,3 @@ keyword:
     content: FLUTE
 - vocab:
     content: File Delivery over Unidirectional Transport
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: IETF

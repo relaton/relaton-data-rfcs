@@ -1,5 +1,4 @@
 ---
-id: RFC5850
 schema_version: v1.5.6
 type: standard
 title:
@@ -187,9 +186,3 @@ keyword:
     content: Join header field
 - vocab:
     content: conferencing
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: IETF

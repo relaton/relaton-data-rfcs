@@ -1,5 +1,4 @@
 ---
-id: RFC2271
 schema_version: v1.5.6
 type: standard
 title:
@@ -137,9 +136,3 @@ keyword:
     content: control
 - vocab:
     content: snmpv3
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: Legacy

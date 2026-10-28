@@ -1,5 +1,4 @@
 ---
-id: RFC9215
 schema_version: v1.5.6
 type: standard
 title:
@@ -114,9 +113,3 @@ keyword:
     content: GOST
 - vocab:
     content: PKI
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: INDEPENDENT

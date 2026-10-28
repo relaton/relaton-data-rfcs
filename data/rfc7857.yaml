@@ -1,5 +1,4 @@
 ---
-id: RFC7857
 schema_version: v1.5.6
 type: standard
 title:
@@ -219,9 +218,3 @@ keyword:
     content: NAT64
 - vocab:
     content: Address depletion
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: IETF

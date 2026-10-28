@@ -1,5 +1,4 @@
 ---
-id: RFC9733
 schema_version: v1.5.6
 type: standard
 title:
@@ -143,9 +142,3 @@ keyword:
     content: end-to-end proof of origin
 - vocab:
     content: auditable source authentication
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: IETF

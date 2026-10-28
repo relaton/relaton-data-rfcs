@@ -1,5 +1,4 @@
 ---
-id: RFC4175
 schema_version: v1.5.6
 type: standard
 title:
@@ -119,9 +118,3 @@ keyword:
     content: society of motion picture television engineers
 - vocab:
     content: video formats
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: IETF

@@ -1,5 +1,4 @@
 ---
-id: RFC8518
 schema_version: v1.5.6
 type: standard
 title:
@@ -182,9 +181,3 @@ keyword:
     content: Multi-homed Prefix
 - vocab:
     content: IGP
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: IETF

@@ -1,5 +1,4 @@
 ---
-id: RFC5670
 schema_version: v1.5.6
 type: standard
 title:
@@ -97,9 +96,3 @@ keyword:
     content: pcn-threshold-rate
 - vocab:
     content: pcn-excess-rate
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: IETF

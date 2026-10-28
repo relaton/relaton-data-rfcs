@@ -1,5 +1,4 @@
 ---
-id: RFC7700
 schema_version: v1.5.6
 type: standard
 title:
@@ -110,9 +109,3 @@ keyword:
     content: XCON
 - vocab:
     content: chatrooms
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: IETF

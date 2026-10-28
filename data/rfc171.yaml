@@ -1,5 +1,4 @@
 ---
-id: RFC171
 schema_version: v1.5.6
 type: standard
 title:
@@ -267,9 +266,3 @@ keyword:
     content: FTP
 - vocab:
     content: DTP
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: Legacy

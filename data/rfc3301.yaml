@@ -1,5 +1,4 @@
 ---
-id: RFC3301
 schema_version: v1.5.6
 type: standard
 title:
@@ -138,9 +137,3 @@ keyword:
     content: L2TP
 - vocab:
     content: Layer Two Tunneling Protocol
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: IETF

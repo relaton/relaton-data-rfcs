@@ -1,5 +1,4 @@
 ---
-id: RFC4692
 schema_version: v1.5.6
 type: standard
 title:
@@ -74,9 +73,3 @@ keyword:
     content: internet protocol version 6
 - vocab:
     content: ipv6 unicast address blocks
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: IETF

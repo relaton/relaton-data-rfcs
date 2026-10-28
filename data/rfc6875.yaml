@@ -1,5 +1,4 @@
 ---
-id: RFC6875
 schema_version: v1.5.6
 type: standard
 title:
@@ -140,9 +139,3 @@ keyword:
     content: traffic engineering
 - vocab:
     content: experiments in Japan
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: IRTF

@@ -1,5 +1,4 @@
 ---
-id: RFC3601
 schema_version: v1.5.6
 type: standard
 title:
@@ -86,9 +85,3 @@ keyword:
     content: integrated messaging
 - vocab:
     content: 3gpp
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: IETF

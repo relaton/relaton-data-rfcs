@@ -1,5 +1,4 @@
 ---
-id: RFC7974
 schema_version: v1.5.6
 type: standard
 title:
@@ -120,9 +119,3 @@ keyword:
     content: Host reveal
 - vocab:
     content: Host-ID
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: INDEPENDENT

@@ -1,5 +1,4 @@
 ---
-id: RFC6620
 schema_version: v1.5.6
 type: standard
 title:
@@ -131,9 +130,3 @@ keyword:
     content: ingress filtering
 - vocab:
     content: BCP38
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: IETF

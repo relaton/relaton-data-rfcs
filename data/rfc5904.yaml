@@ -1,5 +1,4 @@
 ---
-id: RFC5904
 schema_version: v1.5.6
 type: standard
 title:
@@ -78,9 +77,3 @@ keyword:
     content: IEEE
 - vocab:
     content: '802.16'
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: IETF

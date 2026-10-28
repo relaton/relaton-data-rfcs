@@ -1,5 +1,4 @@
 ---
-id: RFC4044
 schema_version: v1.5.6
 type: standard
 title:
@@ -91,9 +90,3 @@ keyword:
     content: management information base
 - vocab:
     content: fc-mgmt-mib
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: IETF

@@ -1,5 +1,4 @@
 ---
-id: RFC6424
 schema_version: v1.5.6
 type: standard
 title:
@@ -150,9 +149,3 @@ keyword:
     content: lsp ping
 - vocab:
     content: LSP-Ping
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: IETF

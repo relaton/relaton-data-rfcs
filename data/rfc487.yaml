@@ -1,5 +1,4 @@
 ---
-id: RFC487
 schema_version: v1.5.6
 type: standard
 title:
@@ -71,9 +70,3 @@ series:
 keyword:
 - vocab:
     content: FTP
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: Legacy

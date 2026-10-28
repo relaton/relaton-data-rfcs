@@ -1,5 +1,4 @@
 ---
-id: RFC2073
 schema_version: v1.5.6
 type: standard
 title:
@@ -178,9 +177,3 @@ series:
 keyword:
 - vocab:
     content: IPV6-UNI
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: IETF

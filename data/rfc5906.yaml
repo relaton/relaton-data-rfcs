@@ -1,5 +1,4 @@
 ---
-id: RFC5906
 schema_version: v1.5.6
 type: standard
 title:
@@ -113,9 +112,3 @@ keyword:
     content: ntpv4
 - vocab:
     content: public key cryptography
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: IETF

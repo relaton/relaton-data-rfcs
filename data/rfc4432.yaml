@@ -1,5 +1,4 @@
 ---
-id: RFC4432
 schema_version: v1.5.6
 type: standard
 title:
@@ -74,9 +73,3 @@ keyword:
     content: rivest-sharmir-adleman
 - vocab:
     content: public key encryption
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: IETF

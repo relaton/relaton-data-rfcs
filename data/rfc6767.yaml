@@ -1,5 +1,4 @@
 ---
-id: RFC6767
 schema_version: v1.5.6
 type: standard
 title:
@@ -125,9 +124,3 @@ keyword:
     content: 802.3ah
 - vocab:
     content: G.998.2
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: IETF

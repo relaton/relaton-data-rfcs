@@ -1,5 +1,4 @@
 ---
-id: RFC3001
 schema_version: v1.5.6
 type: standard
 title:
@@ -87,9 +86,3 @@ keyword:
     content: names
 - vocab:
     content: OIDs
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: Legacy

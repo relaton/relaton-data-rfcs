@@ -1,5 +1,4 @@
 ---
-id: RFC7021
 schema_version: v1.5.6
 type: standard
 title:
@@ -166,9 +165,3 @@ keyword:
     content: IPv6
 - vocab:
     content: LSN transition
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: INDEPENDENT

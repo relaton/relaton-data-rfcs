@@ -1,5 +1,4 @@
 ---
-id: RFC8365
 schema_version: v1.5.6
 type: standard
 title:
@@ -191,9 +190,3 @@ keyword:
     content: EVPN Control Plane with VxLAN Encapsulation
 - vocab:
     content: EVPN Control Plane with NvGRE Encapsulation
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: IETF

@@ -1,5 +1,4 @@
 ---
-id: RFC7389
 schema_version: v1.5.6
 type: standard
 title:
@@ -153,9 +152,3 @@ keyword:
     content: Control and User Plane Separation
 - vocab:
     content: LMA User-Plane Address Mobility Option
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: IETF

@@ -1,5 +1,4 @@
 ---
-id: RFC3209
 schema_version: v1.5.6
 type: standard
 title:
@@ -195,9 +194,3 @@ keyword:
     content: LSP
 - vocab:
     content: label switched paths
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: IETF

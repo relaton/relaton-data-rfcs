@@ -1,5 +1,4 @@
 ---
-id: RFC3854
 schema_version: v1.5.6
 type: standard
 title:
@@ -137,9 +136,3 @@ keyword:
     content: encryption
 - vocab:
     content: cryptographic signature
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: IETF

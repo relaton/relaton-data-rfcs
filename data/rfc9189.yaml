@@ -1,5 +1,4 @@
 ---
-id: RFC9189
 schema_version: v1.5.6
 type: standard
 title:
@@ -116,9 +115,3 @@ keyword:
     content: cipher suite
 - vocab:
     content: TLS
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: INDEPENDENT

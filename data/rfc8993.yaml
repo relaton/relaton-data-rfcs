@@ -1,5 +1,4 @@
 ---
-id: RFC8993
 schema_version: v1.5.6
 type: standard
 title:
@@ -179,9 +178,3 @@ keyword:
     content: intent
 - vocab:
     content: autonomic control plane
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: IETF

@@ -1,5 +1,4 @@
 ---
-id: RFC4770
 schema_version: v1.5.6
 type: standard
 title:
@@ -103,9 +102,3 @@ keyword:
     content: impp
 - vocab:
     content: instant messaging and presence protocol
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: IETF

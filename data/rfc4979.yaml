@@ -1,5 +1,4 @@
 ---
-id: RFC4979
 schema_version: v1.5.6
 type: standard
 title:
@@ -91,9 +90,3 @@ keyword:
     content: extensible messaging and presence protocol
 - vocab:
     content: e.164
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: IETF

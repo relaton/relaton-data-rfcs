@@ -1,5 +1,4 @@
 ---
-id: RFC5472
 schema_version: v1.5.6
 type: standard
 title:
@@ -163,9 +162,3 @@ keyword:
     content: AAA
 - vocab:
     content: ipfix framework
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: IETF

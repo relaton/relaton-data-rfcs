@@ -1,5 +1,4 @@
 ---
-id: RFC8991
 schema_version: v1.5.6
 type: standard
 title:
@@ -153,9 +152,3 @@ keyword:
     content: Autonomous Operation
 - vocab:
     content: Self-Management
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: IETF

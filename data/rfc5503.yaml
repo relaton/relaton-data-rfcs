@@ -1,5 +1,4 @@
 ---
-id: RFC5503
 schema_version: v1.5.6
 type: standard
 title:
@@ -122,9 +121,3 @@ keyword:
     content: P-DCS-Redirect
 - vocab:
     content: P-DCS-INFO
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: IETF

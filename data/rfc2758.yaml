@@ -1,5 +1,4 @@
 ---
-id: RFC2758
 schema_version: v1.5.6
 type: standard
 title:
@@ -78,9 +77,3 @@ keyword:
     content: SLAs
 - vocab:
     content: Service Level Agreements
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: Legacy

@@ -1,5 +1,4 @@
 ---
-id: RFC3194
 schema_version: v1.5.6
 type: standard
 title:
@@ -105,9 +104,3 @@ keyword:
     content: White
 - vocab:
     content: Paper
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: Legacy

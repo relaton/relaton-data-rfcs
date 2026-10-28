@@ -1,5 +1,4 @@
 ---
-id: RFC6865
 schema_version: v1.5.6
 type: standard
 title:
@@ -171,9 +170,3 @@ keyword:
     content: Forward Error Correction
 - vocab:
     content: Reed-Solomon
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: IETF

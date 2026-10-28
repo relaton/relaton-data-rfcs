@@ -1,5 +1,4 @@
 ---
-id: RFC9638
 schema_version: v1.5.6
 type: standard
 title:
@@ -117,9 +116,3 @@ keyword:
     content: GUE
 - vocab:
     content: VXLAN-GPE
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: IETF

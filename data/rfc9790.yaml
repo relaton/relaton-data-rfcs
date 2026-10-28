@@ -1,5 +1,4 @@
 ---
-id: RFC9790
 schema_version: v1.5.6
 type: standard
 title:
@@ -200,9 +199,3 @@ keyword:
     content: Post-stack header
 - vocab:
     content: Load-balancing
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: IETF

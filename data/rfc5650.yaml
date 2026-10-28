@@ -1,5 +1,4 @@
 ---
-id: RFC5650
 schema_version: v1.5.6
 type: standard
 title:
@@ -139,9 +138,3 @@ keyword:
     content: VDSL2-LINE-TC-MIB
 - vocab:
     content: VDSL2-LINE-MIB
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: IETF

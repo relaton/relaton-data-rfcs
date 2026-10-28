@@ -1,5 +1,4 @@
 ---
-id: RFC9038
 schema_version: v1.5.6
 type: standard
 title:
@@ -129,9 +128,3 @@ keyword:
     content: signal
 - vocab:
     content: signaling
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: IETF

@@ -1,5 +1,4 @@
 ---
-id: RFC3910
 schema_version: v1.5.6
 type: standard
 title:
@@ -215,9 +214,3 @@ keyword:
     content: detection point
 - vocab:
     content: dp
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: IETF

@@ -1,5 +1,4 @@
 ---
-id: RFC3101
 schema_version: v1.5.6
 type: standard
 title:
@@ -97,9 +96,3 @@ keyword:
     content: external routes
 - vocab:
     content: backward compatible
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: IETF

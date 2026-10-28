@@ -1,5 +1,4 @@
 ---
-id: RFC3485
 schema_version: v1.5.6
 type: standard
 title:
@@ -184,9 +183,3 @@ keyword:
     content: Static Dictionary for Signaling Compression
 - vocab:
     content: algorithm
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: IETF

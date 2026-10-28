@@ -1,5 +1,4 @@
 ---
-id: RFC9984
 schema_version: v1.5.6
 type: standard
 title:
@@ -131,9 +130,3 @@ keyword:
     content: UDP client
 - vocab:
     content: UDP server
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: IETF

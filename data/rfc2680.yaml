@@ -1,5 +1,4 @@
 ---
-id: RFC2680
 schema_version: v1.5.6
 type: standard
 title:
@@ -140,9 +139,3 @@ keyword:
     content: IPPM
 - vocab:
     content: internet protocol performance metrics
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: IETF

@@ -1,5 +1,4 @@
 ---
-id: RFC6045
 schema_version: v1.5.6
 type: standard
 title:
@@ -91,9 +90,3 @@ keyword:
     content: Incident Object Exchange
 - vocab:
     content: Description Format
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: IETF

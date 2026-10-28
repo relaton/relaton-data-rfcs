@@ -1,5 +1,4 @@
 ---
-id: RFC4272
 schema_version: v1.5.6
 type: standard
 title:
@@ -95,9 +94,3 @@ keyword:
     content: risks
 - vocab:
     content: insider threat
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: IETF

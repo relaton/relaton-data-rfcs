@@ -1,5 +1,4 @@
 ---
-id: RFC7752
 schema_version: v1.5.6
 type: standard
 title:
@@ -192,9 +191,3 @@ keyword:
     content: Multi-Area
 - vocab:
     content: Multi-AS
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: IETF

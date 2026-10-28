@@ -1,5 +1,4 @@
 ---
-id: RFC8176
 schema_version: v1.5.6
 type: standard
 title:
@@ -131,9 +130,3 @@ keyword:
     content: Authentication Method Reference
 - vocab:
     content: Authentication Method
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: IETF

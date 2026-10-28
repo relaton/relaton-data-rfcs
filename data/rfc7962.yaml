@@ -1,5 +1,4 @@
 ---
-id: RFC7962
 schema_version: v1.5.6
 type: standard
 title:
@@ -184,9 +183,3 @@ keyword:
     content: gaia
 - vocab:
     content: global access to the Internet for all
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: IRTF

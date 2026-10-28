@@ -1,5 +1,4 @@
 ---
-id: RFC3575
 schema_version: v1.5.6
 type: standard
 title:
@@ -103,9 +102,3 @@ keyword:
     content: RADIUS
 - vocab:
     content: Remote Authentication Dial In User Service
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: IETF

@@ -1,5 +1,4 @@
 ---
-id: RFC6717
 schema_version: v1.5.6
 type: standard
 title:
@@ -102,9 +101,3 @@ keyword:
     content: kca-service
 - vocab:
     content: kca_service
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: INDEPENDENT

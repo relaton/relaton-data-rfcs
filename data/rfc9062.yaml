@@ -1,5 +1,4 @@
 ---
-id: RFC9062
 schema_version: v1.5.6
 type: standard
 title:
@@ -173,9 +172,3 @@ keyword:
     content: fault management
 - vocab:
     content: performance management
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: IETF

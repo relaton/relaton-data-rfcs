@@ -1,5 +1,4 @@
 ---
-id: RFC6190
 schema_version: v1.5.6
 type: standard
 title:
@@ -160,9 +159,3 @@ keyword:
     content: Advanced Video Coding
 - vocab:
     content: Scalable Video Coding
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: IETF

@@ -1,5 +1,4 @@
 ---
-id: RFC4873
 schema_version: v1.5.6
 type: standard
 title:
@@ -174,9 +173,3 @@ keyword:
     content: traffic engineering
 - vocab:
     content: NOTIFY_REQUEST
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: IETF

@@ -1,5 +1,4 @@
 ---
-id: RFC985
 schema_version: v1.5.6
 type: standard
 title:
@@ -80,9 +79,3 @@ keyword:
     content: Internet
 - vocab:
     content: gateways
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: Legacy

@@ -1,5 +1,4 @@
 ---
-id: RFC9569
 schema_version: v1.5.6
 type: standard
 title:
@@ -172,9 +171,3 @@ series:
 keyword:
 - vocab:
     content: incremental update
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: IETF

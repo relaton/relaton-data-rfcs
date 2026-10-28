@@ -1,5 +1,4 @@
 ---
-id: RFC9879
 schema_version: v1.5.6
 type: standard
 title:
@@ -110,9 +109,3 @@ keyword:
     content: pkcs12
 - vocab:
     content: pbkdf2
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: IETF

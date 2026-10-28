@@ -1,5 +1,4 @@
 ---
-id: RFC5722
 schema_version: v1.5.6
 type: standard
 title:
@@ -100,9 +99,3 @@ keyword:
     content: fragmentation
 - vocab:
     content: overlapping fragments
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: IETF

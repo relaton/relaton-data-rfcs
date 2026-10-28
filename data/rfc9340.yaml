@@ -1,5 +1,4 @@
 ---
-id: RFC9340
 schema_version: v1.5.6
 type: standard
 title:
@@ -203,9 +202,3 @@ keyword:
     content: Bell Pair
 - vocab:
     content: EPR Pair
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: IRTF

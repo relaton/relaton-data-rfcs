@@ -1,5 +1,4 @@
 ---
-id: RFC8587
 schema_version: v1.5.6
 type: standard
 title:
@@ -128,9 +127,3 @@ keyword:
     content: fs_locations
 - vocab:
     content: transparent state migration
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: IETF

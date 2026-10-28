@@ -1,5 +1,4 @@
 ---
-id: RFC5984
 schema_version: v1.5.6
 type: standard
 title:
@@ -64,9 +63,3 @@ series:
 keyword:
 - vocab:
     content: extra sensory perception
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: INDEPENDENT

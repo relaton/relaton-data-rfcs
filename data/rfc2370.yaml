@@ -1,5 +1,4 @@
 ---
-id: RFC2370
 schema_version: v1.5.6
 type: standard
 title:
@@ -102,9 +101,3 @@ keyword:
     content: open shortest path first
 - vocab:
     content: link state advertisement
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: IETF

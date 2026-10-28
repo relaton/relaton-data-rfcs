@@ -1,5 +1,4 @@
 ---
-id: RFC5372
 schema_version: v1.5.6
 type: standard
 title:
@@ -147,9 +146,3 @@ keyword:
     content: component-based ordering
 - vocab:
     content: Sony Corporation
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: IETF

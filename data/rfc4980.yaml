@@ -1,5 +1,4 @@
 ---
-id: RFC4980
 schema_version: v1.5.6
 type: standard
 title:
@@ -153,9 +152,3 @@ keyword:
     content: ipv6
 - vocab:
     content: mobile networks
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: IETF

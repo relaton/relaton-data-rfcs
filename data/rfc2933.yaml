@@ -1,5 +1,4 @@
 ---
-id: RFC2933
 schema_version: v1.5.6
 type: standard
 title:
@@ -144,9 +143,3 @@ keyword:
     content: MIB
 - vocab:
     content: management information base
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: IETF

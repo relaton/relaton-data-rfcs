@@ -1,5 +1,4 @@
 ---
-id: RFC1728
 schema_version: v1.5.6
 type: standard
 title:
@@ -97,9 +96,3 @@ keyword:
     content: Location
 - vocab:
     content: System
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: IETF

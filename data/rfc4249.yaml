@@ -1,5 +1,4 @@
 ---
-id: RFC4249
 schema_version: v1.5.6
 type: standard
 title:
@@ -74,9 +73,3 @@ keyword:
     content: header field generator
 - vocab:
     content: header field parser
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: IETF

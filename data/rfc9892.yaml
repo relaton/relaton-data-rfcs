@@ -1,5 +1,4 @@
 ---
-id: RFC9892
 schema_version: v1.5.6
 type: standard
 title:
@@ -151,9 +150,3 @@ keyword:
     content: Diffserv Code Points
 - vocab:
     content: Ethernet Priority Code Points
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: IETF

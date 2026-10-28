@@ -1,5 +1,4 @@
 ---
-id: RFC6445
 schema_version: v1.5.6
 type: standard
 title:
@@ -137,9 +136,3 @@ keyword:
     content: MPLS-FRR-ONE2ONE-STD-MIB
 - vocab:
     content: MPLS-FRR-FACILITY-STD-MIB
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: IETF

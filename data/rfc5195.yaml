@@ -1,5 +1,4 @@
 ---
-id: RFC5195
 schema_version: v1.5.6
 type: standard
 title:
@@ -133,9 +132,3 @@ keyword:
     content: l1vpn
 - vocab:
     content: single-end provisioning
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: IETF

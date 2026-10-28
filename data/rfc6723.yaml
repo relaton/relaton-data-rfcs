@@ -1,5 +1,4 @@
 ---
-id: RFC6723
 schema_version: v1.5.6
 type: standard
 title:
@@ -202,9 +201,3 @@ keyword:
     content: control word negotiation mechanism
 - vocab:
     content: control word renegotiation mechanism
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: IETF

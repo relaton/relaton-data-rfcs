@@ -1,5 +1,4 @@
 ---
-id: RFC6040
 schema_version: v1.5.6
 type: standard
 title:
@@ -130,9 +129,3 @@ keyword:
     content: ECN
 - vocab:
     content: IPsec
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: IETF

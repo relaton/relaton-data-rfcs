@@ -1,5 +1,4 @@
 ---
-id: RFC3363
 schema_version: v1.5.6
 type: standard
 title:
@@ -191,9 +190,3 @@ keyword:
     content: reverse mapping
 - vocab:
     content: label binary
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: IETF

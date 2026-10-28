@@ -1,5 +1,4 @@
 ---
-id: RFC5177
 schema_version: v1.5.6
 type: standard
 title:
@@ -165,9 +164,3 @@ keyword:
     content: Nested Mobile Networks
 - vocab:
     content: Nested Network Mobility
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: IETF

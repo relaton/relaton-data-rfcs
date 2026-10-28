@@ -1,5 +1,4 @@
 ---
-id: RFC4368
 schema_version: v1.5.6
 type: standard
 title:
@@ -113,9 +112,3 @@ keyword:
     content: mpls-lc-atm-std-mib
 - vocab:
     content: mpls-lc-fr-std-mib
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
-  stream: IETF
