@@ -1,11 +1,11 @@
 {
   "version": 1,
   "index": "index-v1",
-  "sha256": "ff0e38896928cd7637d70b916e945533726d6ede506516ca577a7f6d89da6b98",
-  "bytes": 48450,
-  "count": 9851,
-  "generated": "2026-10-28T19:19:05Z",
-  "source_revision": "b6e369b54aee20120e9973922d093e3799f64bb7",
-  "run_id": "40752865065",
+  "sha256": "c60131a4424e87073f759a511f7177e595c3ec6cf58f9dd14fb8328ba2f2f295",
+  "bytes": 48457,
+  "count": 9852,
+  "generated": "2026-10-30T18:58:31Z",
+  "source_revision": "e2a0770d7ee2b8ffb46ccddf47934d8d75d4f476",
+  "run_id": "41111167116",
   "repository": "relaton/relaton-data-rfcs"
 }
