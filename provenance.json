@@ -1,9 +1,9 @@
 {
   "repository": "relaton/relaton-data-rfcs",
   "workflow": "Crawler",
-  "run_id": "41111167116",
+  "run_id": "41227778115",
   "run_attempt": "1",
-  "source_revision": "e2a0770d7ee2b8ffb46ccddf47934d8d75d4f476",
+  "source_revision": "ff8bd2b8d9963f9b5036e132809ae259d424ceee",
   "crawler": "bundle exec ruby crawler.rb",
-  "crawled_at": "2026-10-30T18:58:30Z"
+  "crawled_at": "2026-10-31T18:08:59Z"
 }
