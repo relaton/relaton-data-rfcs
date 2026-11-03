@@ -2,7 +2,8 @@
 schema_version: v1.5.6
 type: standard
 title:
-- content: Integrated Services Digital Network (ISDN) User Part (ISUP) to Session Initiation Protocol (SIP) Mapping
+- content: Integrated Services Digital Network (ISDN) User Part (ISUP) to Session
+    Initiation Protocol (SIP) Mapping
   type: main
 source:
 - type: src

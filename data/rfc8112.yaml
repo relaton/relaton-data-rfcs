@@ -2,7 +2,8 @@
 schema_version: v1.5.6
 type: standard
 title:
-- content: Locator/ID Separation Protocol Delegated Database Tree (LISP-DDT) Referral Internet Groper (RIG)
+- content: Locator/ID Separation Protocol Delegated Database Tree (LISP-DDT) Referral
+    Internet Groper (RIG)
   type: main
 source:
 - type: src
@@ -117,7 +118,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: <p>A simple tool called the Locator/ID Separation Protocol Delegated Database Tree (LISP-DDT) Referral Internet Groper (RIG), also referred to in this document as "rig", can be used to query the LISP- DDT hierarchy.  This document describes how the "rig" tool works.</p>
+  content: <p>A simple tool called the Locator/ID Separation Protocol Delegated Database
+    Tree (LISP-DDT) Referral Internet Groper (RIG), also referred to in this document
+    as "rig", can be used to query the LISP- DDT hierarchy.  This document describes
+    how the "rig" tool works.</p>
 status:
   stage:
     content: INFORMATIONAL
