@@ -2,8 +2,7 @@
 schema_version: v1.5.6
 type: standard
 title:
-- content: Composite Module-Lattice-Based Digital Signature Algorithm (ML-DSA) for
-    Use in X.509 Public Key Infrastructure
+- content: Composite Module-Lattice-Based Digital Signature Algorithm (ML-DSA) for Use in X.509 Public Key Infrastructure
   type: main
 source:
 - type: src
@@ -155,15 +154,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This document defines a PQ/T hybrid scheme with concrete instantiations
-    that combine the US NIST Module-Lattice-Based Digital Signature Algorithm (ML-DSA)
-    with traditional algorithms RSASSA-PKCS1-v1_5, RSASSA-PSS, ECDSA, Ed25519, and
-    Ed448. These combinations are tailored to meet regulatory guidelines in certain
-    regions. Composite ML-DSA is applicable in applications that use X.509 or PKIX
-    data structures that accept ML-DSA, but where the operator wants extra protection
-    against breaks or catastrophic bugs in ML-DSA and where the level of security
-    provided by Existential Unforgeability under Chosen Message Attack (EUF-CMA) is
-    acceptable.</p>"
+  content: "<p>This document defines a PQ/T hybrid scheme with concrete instantiations that combine the US NIST Module-Lattice-Based Digital Signature Algorithm (ML-DSA) with traditional algorithms RSASSA-PKCS1-v1_5, RSASSA-PSS, ECDSA, Ed25519, and Ed448. These combinations are tailored to meet regulatory guidelines in certain regions. Composite ML-DSA is applicable in applications that use X.509 or PKIX data structures that accept ML-DSA, but where the operator wants extra protection against breaks or catastrophic bugs in ML-DSA and where the level of security provided by Existential Unforgeability under Chosen Message Attack (EUF-CMA) is acceptable.</p>"
 status:
   stage:
     content: PROPOSED STANDARD

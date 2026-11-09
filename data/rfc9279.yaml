@@ -2,8 +2,7 @@
 schema_version: v1.5.6
 type: standard
 title:
-- content: Internet Group Management Protocol Version 3 (IGMPv3) and Multicast Listener
-    Discovery Version 2 (MLDv2) Message Extension
+- content: Internet Group Management Protocol Version 3 (IGMPv3) and Multicast Listener Discovery Version 2 (MLDv2) Message Extension
   type: main
 source:
 - type: src
@@ -135,9 +134,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This document specifies a generic mechanism to extend IGMPv3 and Multicast
-    Listener Discovery Version 2 (MLDv2) by using a list of TLVs (Type, Length, and
-    Value).</p>"
+  content: "<p>This document specifies a generic mechanism to extend IGMPv3 and Multicast Listener Discovery Version 2 (MLDv2) by using a list of TLVs (Type, Length, and Value).</p>"
 status:
   stage:
     content: PROPOSED STANDARD
