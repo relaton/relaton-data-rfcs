@@ -2,7 +2,8 @@
 schema_version: v1.5.6
 type: standard
 title:
-- content: Updates to OAuth 2.0 JSON Web Token (JWT) Client Authentication and Assertion-Based Authorization Grants
+- content: Updates to OAuth 2.0 JSON Web Token (JWT) Client Authentication and Assertion-Based
+    Authorization Grants
   type: main
 source:
 - type: src
@@ -137,7 +138,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This document updates RFCs 7521, 7522, 7523, and 9126 with respect to the treatment of audience values in OAuth 2.0 Client Assertion Authentication and Assertion-based Authorization Grants to address a security vulnerability identified in the previous requirements for those audience values in multiple OAuth 2.0 specifications.</p>"
+  content: "<p>This document updates RFCs 7521, 7522, 7523, and 9126 with respect
+    to the treatment of audience values in OAuth 2.0 Client Assertion Authentication
+    and Assertion-based Authorization Grants to address a security vulnerability identified
+    in the previous requirements for those audience values in multiple OAuth 2.0 specifications.</p>"
 status:
   stage:
     content: PROPOSED STANDARD

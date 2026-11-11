@@ -2,7 +2,8 @@
 schema_version: v1.5.6
 type: standard
 title:
-- content: Internet Assigned Numbers Authority (IANA) Considerations for the Lightweight Directory Access Protocol (LDAP)
+- content: Internet Assigned Numbers Authority (IANA) Considerations for the Lightweight
+    Directory Access Protocol (LDAP)
   type: main
 source:
 - type: src
