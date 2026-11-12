@@ -95,13 +95,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "<p>Explicit Congestion Notification (ECN) allows a forwarding element
-    to notify downstream devices, including the destination, of the onset of congestion
-    without having to drop packets.  This can improve network efficiency through better
-    congestion control without packet drops.  This document extends ECN to TRansparent
-    Interconnection of Lots of Links (TRILL) switches, including integration with
-    IP ECN, and provides for ECN marking in the TRILL header extension flags word
-    (RFC 7179).</p>"
+  content: "<p>Explicit Congestion Notification (ECN) allows a forwarding element to notify downstream devices, including the destination, of the onset of congestion without having to drop packets.  This can improve network efficiency through better congestion control without packet drops.  This document extends ECN to TRansparent Interconnection of Lots of Links (TRILL) switches, including integration with IP ECN, and provides for ECN marking in the TRILL header extension flags word (RFC 7179).</p>"
 status:
   stage:
     content: PROPOSED STANDARD

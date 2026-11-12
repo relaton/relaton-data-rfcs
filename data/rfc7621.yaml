@@ -78,10 +78,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "<p>Experience since the publication of the most recent SIP Events framework
-    (in July 2012) has shown that there is room for interpretation around the use
-    of Globally Routable User Agent URIs in that specification. This document clarifies
-    the intended behavior.</p><p>This document updates RFC 6665.</p>"
+  content: "<p>Experience since the publication of the most recent SIP Events framework (in July 2012) has shown that there is room for interpretation around the use of Globally Routable User Agent URIs in that specification. This document clarifies the intended behavior.</p><p>This document updates RFC 6665.</p>"
 status:
   stage:
     content: PROPOSED STANDARD

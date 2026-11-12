@@ -115,12 +115,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This document describes key exchange algorithms based on Elliptic Curve
-    Cryptography (ECC) for the Transport Layer Security (TLS) protocol. In particular,
-    it specifies the use of Ephemeral Elliptic Curve Diffie-Hellman (ECDHE) key agreement
-    in a TLS handshake and the use of the Elliptic Curve Digital Signature Algorithm
-    (ECDSA) and Edwards-curve Digital Signature Algorithm (EdDSA) as authentication
-    mechanisms.</p><p>This document obsoletes RFC 4492.</p>"
+  content: "<p>This document describes key exchange algorithms based on Elliptic Curve Cryptography (ECC) for the Transport Layer Security (TLS) protocol. In particular, it specifies the use of Ephemeral Elliptic Curve Diffie-Hellman (ECDHE) key agreement in a TLS handshake and the use of the Elliptic Curve Digital Signature Algorithm (ECDSA) and Edwards-curve Digital Signature Algorithm (EdDSA) as authentication mechanisms.</p><p>This document obsoletes RFC 4492.</p>"
 status:
   stage:
     content: PROPOSED STANDARD

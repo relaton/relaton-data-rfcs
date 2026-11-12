@@ -115,9 +115,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This document revises how the Resource Public Key Infrastructure (RPKI)
-    handles Certificate Revocation List (CRL) Number extensions.  This document updates
-    RFC 6487.</p>"
+  content: "<p>This document revises how the Resource Public Key Infrastructure (RPKI) handles Certificate Revocation List (CRL) Number extensions.  This document updates RFC 6487.</p>"
 status:
   stage:
     content: PROPOSED STANDARD

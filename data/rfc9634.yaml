@@ -115,9 +115,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This document discusses the use of existing IP Operations, Administration,
-    and Maintenance protocols and mechanisms in Deterministic Networking networks
-    that use the IP data plane.</p>"
+  content: "<p>This document discusses the use of existing IP Operations, Administration, and Maintenance protocols and mechanisms in Deterministic Networking networks that use the IP data plane.</p>"
 status:
   stage:
     content: INFORMATIONAL

@@ -81,8 +81,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This RFC specifies the key management aspects of Privacy Enhanced Mail.
-    [STANDARDS-TRACK]</p>"
+  content: "<p>This RFC specifies the key management aspects of Privacy Enhanced Mail. [STANDARDS-TRACK]</p>"
 status:
   stage:
     content: HISTORIC

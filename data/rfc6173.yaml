@@ -75,10 +75,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This document defines Management Information Base (MIB) objects to
-    monitor and control the Internet Fibre Channel Protocol (iFCP) gateway instances
-    and their associated sessions, for use with network management protocols.</p><p>This
-    document obsoletes RFC 4369. [STANDARDS-TRACK]</p>"
+  content: "<p>This document defines Management Information Base (MIB) objects to monitor and control the Internet Fibre Channel Protocol (iFCP) gateway instances and their associated sessions, for use with network management protocols.</p><p>This document obsoletes RFC 4369. [STANDARDS-TRACK]</p>"
 status:
   stage:
     content: PROPOSED STANDARD

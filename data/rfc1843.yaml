@@ -58,10 +58,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "<p>The content of this memo is identical to an article of the same title
-    written by the author on September 4, 1989.  This memo provides information for
-    the Internet community.  This memo does not specify an Internet standard of any
-    kind.</p>"
+  content: "<p>The content of this memo is identical to an article of the same title written by the author on September 4, 1989.  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</p>"
 status:
   stage:
     content: INFORMATIONAL

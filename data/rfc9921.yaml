@@ -115,10 +115,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This document defines two CBOR Object Signing and Encryption (COSE)
-    header parameters for incorporating timestamping based on RFC 3161 into COSE message
-    structures (COSE_Sign and COSE_Sign1).  This enables the use of established timestamping
-    infrastructure per RFC 3161 in COSE-based protocols.</p>"
+  content: "<p>This document defines two CBOR Object Signing and Encryption (COSE) header parameters for incorporating timestamping based on RFC 3161 into COSE message structures (COSE_Sign and COSE_Sign1).  This enables the use of established timestamping infrastructure per RFC 3161 in COSE-based protocols.</p>"
 status:
   stage:
     content: PROPOSED STANDARD

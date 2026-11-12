@@ -114,8 +114,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This document specifies XML (Extensible Markup Language) digital signature
-    processing rules and syntax. [STANDARDS-TRACK]</p>"
+  content: "<p>This document specifies XML (Extensible Markup Language) digital signature processing rules and syntax. [STANDARDS-TRACK]</p>"
 status:
   stage:
     content: DRAFT STANDARD

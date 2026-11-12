@@ -58,9 +58,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This memo is a report on a workshop sponsored by the Internet Research
-    Steering Group.  This memo is for information only.  This RFC does not specify
-    an Internet standard.</p>"
+  content: "<p>This memo is a report on a workshop sponsored by the Internet Research Steering Group.  This memo is for information only.  This RFC does not specify an Internet standard.</p>"
 status:
   stage:
     content: INFORMATIONAL

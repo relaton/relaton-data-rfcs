@@ -61,8 +61,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "<p>Approaches to Front-End protocol processing using available hardware
-    and software.</p>"
+  content: "<p>Approaches to Front-End protocol processing using available hardware and software.</p>"
 status:
   stage:
     content: UNKNOWN

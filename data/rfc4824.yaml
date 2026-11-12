@@ -98,9 +98,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This document specifies a method for encapsulating and transmitting
-    IPv4/IPv6 packets over the Semaphore Flag Signal System (SFSS).  This memo provides
-    information for the Internet community.</p>"
+  content: "<p>This document specifies a method for encapsulating and transmitting IPv4/IPv6 packets over the Semaphore Flag Signal System (SFSS).  This memo provides information for the Internet community.</p>"
 status:
   stage:
     content: INFORMATIONAL

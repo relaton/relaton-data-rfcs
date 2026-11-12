@@ -75,8 +75,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This document defines the use of Service Location Protocol version
-    2 (SLPv2) by Fibre Channel over TCP/IP (FCIP) Entities. [STANDARDS-TRACK]</p>"
+  content: "<p>This document defines the use of Service Location Protocol version 2 (SLPv2) by Fibre Channel over TCP/IP (FCIP) Entities. [STANDARDS-TRACK]</p>"
 status:
   stage:
     content: PROPOSED STANDARD

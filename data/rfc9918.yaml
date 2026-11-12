@@ -95,10 +95,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "<p>RFC 7589 defines how to protect Network Configuration Protocol (NETCONF)
-    messages with TLS 1.2. This document updates RFC 7589 to update support requirements
-    for TLS 1.2 and add TLS 1.3 support requirements, including restrictions on the
-    use of TLS 1.3's early data.</p>"
+  content: "<p>RFC 7589 defines how to protect Network Configuration Protocol (NETCONF) messages with TLS 1.2. This document updates RFC 7589 to update support requirements for TLS 1.2 and add TLS 1.3 support requirements, including restrictions on the use of TLS 1.3's early data.</p>"
 status:
   stage:
     content: PROPOSED STANDARD

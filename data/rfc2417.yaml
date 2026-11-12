@@ -78,9 +78,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This memo specifies a MIB module in a manner that is both compliant
-    to the SNMPv2 SMI, and semantically identical to the peer SNMPv1 definitions.
-    [STANDARDS-TRACK]</p>"
+  content: "<p>This memo specifies a MIB module in a manner that is both compliant to the SNMPv2 SMI, and semantically identical to the peer SNMPv1 definitions. [STANDARDS-TRACK]</p>"
 status:
   stage:
     content: PROPOSED STANDARD

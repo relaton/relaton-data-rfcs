@@ -75,9 +75,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This memo discusses the rate at which congestion control feedback can
-    be sent using the RTP Control Protocol (RTCP) and the suitability of RTCP for
-    implementing congestion control for unicast multimedia applications.</p>"
+  content: "<p>This memo discusses the rate at which congestion control feedback can be sent using the RTP Control Protocol (RTCP) and the suitability of RTCP for implementing congestion control for unicast multimedia applications.</p>"
 status:
   stage:
     content: INFORMATIONAL

@@ -155,9 +155,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This document describes Session Description Protocol (SDP) Offer/Answer
-    procedures for carrying out Interactive Connectivity Establishment (ICE) between
-    the agents.</p><p>This document obsoletes RFCs 5245 and 6336.</p>"
+  content: "<p>This document describes Session Description Protocol (SDP) Offer/Answer procedures for carrying out Interactive Connectivity Establishment (ICE) between the agents.</p><p>This document obsoletes RFCs 5245 and 6336.</p>"
 status:
   stage:
     content: PROPOSED STANDARD

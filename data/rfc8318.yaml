@@ -58,9 +58,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This specification formalizes an ad hoc practice used to provide advice
-    to the IETF Nominating Committee (NomCom) about the operations of the IETF Administrative
-    Oversight Committee (IAOC).</p><p>This document updates RFC 7437.</p>"
+  content: "<p>This specification formalizes an ad hoc practice used to provide advice to the IETF Nominating Committee (NomCom) about the operations of the IETF Administrative Oversight Committee (IAOC).</p><p>This document updates RFC 7437.</p>"
 status:
   stage:
     content: BEST CURRENT PRACTICE

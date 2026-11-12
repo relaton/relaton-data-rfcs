@@ -155,11 +155,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This document extends Simple Two-way Active Measurement Protocol (STAMP)
-    to implement performance measurement on every member link of a Link Aggregation
-    Group (LAG).  Knowing the measured metrics of each member link of a LAG enables
-    operators to enforce a performance-based traffic steering policy across the member
-    links.</p>"
+  content: "<p>This document extends Simple Two-way Active Measurement Protocol (STAMP) to implement performance measurement on every member link of a Link Aggregation Group (LAG).  Knowing the measured metrics of each member link of a LAG enables operators to enforce a performance-based traffic steering policy across the member links.</p>"
 status:
   stage:
     content: PROPOSED STANDARD

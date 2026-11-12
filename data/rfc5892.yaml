@@ -75,10 +75,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This document specifies rules for deciding whether a code point, considered
-    in isolation or in context, is a candidate for inclusion in an Internationalized
-    Domain Name (IDN).</p><p>It is part of the specification of Internationalizing
-    Domain Names in Applications 2008 (IDNA2008). [STANDARDS-TRACK]</p>"
+  content: "<p>This document specifies rules for deciding whether a code point, considered in isolation or in context, is a candidate for inclusion in an Internationalized Domain Name (IDN).</p><p>It is part of the specification of Internationalizing Domain Names in Applications 2008 (IDNA2008). [STANDARDS-TRACK]</p>"
 status:
   stage:
     content: PROPOSED STANDARD

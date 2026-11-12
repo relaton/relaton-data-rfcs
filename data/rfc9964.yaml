@@ -95,10 +95,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This document specifies JSON Object Signing and Encryption (JOSE) and
-    CBOR Object Signing and Encryption (COSE) serializations for the Module-Lattice-Based
-    Digital Signature Standard (ML-DSA), a Post-Quantum Cryptography (PQC) digital
-    signature scheme defined in US NIST FIPS 204.</p>"
+  content: "<p>This document specifies JSON Object Signing and Encryption (JOSE) and CBOR Object Signing and Encryption (COSE) serializations for the Module-Lattice-Based Digital Signature Standard (ML-DSA), a Post-Quantum Cryptography (PQC) digital signature scheme defined in US NIST FIPS 204.</p>"
 status:
   stage:
     content: PROPOSED STANDARD

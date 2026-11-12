@@ -135,9 +135,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "<p>It is the purpose of this document, the Structure of Management Information
-    (SMI), to define that adapted subset, and to assign a set of associated administrative
-    values. [STANDARDS-TRACK]</p>"
+  content: "<p>It is the purpose of this document, the Structure of Management Information (SMI), to define that adapted subset, and to assign a set of associated administrative values. [STANDARDS-TRACK]</p>"
 status:
   stage:
     content: DRAFT STANDARD

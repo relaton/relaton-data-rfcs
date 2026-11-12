@@ -135,10 +135,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "<p>SLH-DSA is a stateless hash-based signature algorithm.  This document
-    specifies the conventions for using the SLH-DSA signature algorithm with the Cryptographic
-    Message Syntax (CMS).  In addition, the algorithm identifier and public key syntax
-    are provided.</p>"
+  content: "<p>SLH-DSA is a stateless hash-based signature algorithm.  This document specifies the conventions for using the SLH-DSA signature algorithm with the Cryptographic Message Syntax (CMS).  In addition, the algorithm identifier and public key syntax are provided.</p>"
 status:
   stage:
     content: PROPOSED STANDARD

@@ -58,9 +58,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This paper describes a simple proposal which provides a long-term solution
-    to Internet addressing, routing, and scaling.  This memo provides information
-    for the Internet community.  It does not specify an Internet standard.</p>"
+  content: "<p>This paper describes a simple proposal which provides a long-term solution to Internet addressing, routing, and scaling.  This memo provides information for the Internet community.  It does not specify an Internet standard.</p>"
 status:
   stage:
     content: HISTORIC

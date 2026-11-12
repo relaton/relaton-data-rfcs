@@ -78,9 +78,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This memo updates the IANA registry rules for the Telephony Routing
-    over IP (TRIP) protocol, by no longer requiring that postal addresses be included
-    in contact information.</p><p>This memo updates RFC 3219.</p>"
+  content: "<p>This memo updates the IANA registry rules for the Telephony Routing over IP (TRIP) protocol, by no longer requiring that postal addresses be included in contact information.</p><p>This memo updates RFC 3219.</p>"
 status:
   stage:
     content: PROPOSED STANDARD

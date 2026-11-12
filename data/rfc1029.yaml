@@ -58,12 +58,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This memo discusses an extension to a Bridge Protocol to detect and
-    disclose changes in heighbouring host address parameters in a Multi-Lan system
-    of Ethernets.  The problem is one which is appearing more and more regularly as
-    the interconnected systems grow larger on Campuses and in Commercial Institutions.
-    \ This RFC suggests a protocol enhancement for the Internet community, and requests
-    discussion and suggestions for improvements.</p>"
+  content: "<p>This memo discusses an extension to a Bridge Protocol to detect and disclose changes in heighbouring host address parameters in a Multi-Lan system of Ethernets.  The problem is one which is appearing more and more regularly as the interconnected systems grow larger on Campuses and in Commercial Institutions.  This RFC suggests a protocol enhancement for the Internet community, and requests discussion and suggestions for improvements.</p>"
 status:
   stage:
     content: UNKNOWN

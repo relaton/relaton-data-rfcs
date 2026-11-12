@@ -135,9 +135,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This document specifies protocols and procedures for forwarding Broadcast,
-    Unknown Unicast, or Multicast (BUM) traffic of Ethernet VPNs (EVPNs) using Bit
-    Index Explicit Replication (BIER).</p>"
+  content: "<p>This document specifies protocols and procedures for forwarding Broadcast, Unknown Unicast, or Multicast (BUM) traffic of Ethernet VPNs (EVPNs) using Bit Index Explicit Replication (BIER).</p>"
 status:
   stage:
     content: PROPOSED STANDARD

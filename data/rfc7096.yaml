@@ -175,10 +175,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "<p>ITU-T recommendation G.709-2012 has introduced new fixed and flexible
-    Optical channel Data Unit (ODU) containers in Optical Transport Networks (OTNs).</p><p>This
-    document provides an evaluation of existing Generalized Multiprotocol Label Switching
-    (GMPLS) routing and signaling protocols against the G.709 OTNs.</p>"
+  content: "<p>ITU-T recommendation G.709-2012 has introduced new fixed and flexible Optical channel Data Unit (ODU) containers in Optical Transport Networks (OTNs).</p><p>This document provides an evaluation of existing Generalized Multiprotocol Label Switching (GMPLS) routing and signaling protocols against the G.709 OTNs.</p>"
 status:
   stage:
     content: INFORMATIONAL

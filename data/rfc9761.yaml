@@ -115,11 +115,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This memo extends the Manufacturer Usage Description (MUD) specification
-    to allow manufacturers to define TLS and DTLS profile parameters.  This allows
-    a network security service to identify unexpected (D)TLS usage, which can indicate
-    the presence of unauthorized software, malware, or security policy-violating traffic
-    on an endpoint.</p>"
+  content: "<p>This memo extends the Manufacturer Usage Description (MUD) specification to allow manufacturers to define TLS and DTLS profile parameters.  This allows a network security service to identify unexpected (D)TLS usage, which can indicate the presence of unauthorized software, malware, or security policy-violating traffic on an endpoint.</p>"
 status:
   stage:
     content: PROPOSED STANDARD

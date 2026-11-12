@@ -135,10 +135,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This document describes how to layer the Certificate Management Protocol
-    (CMP) over HTTP.</p><p>It includes the updates to RFC 6712 specified in Section
-    3 of RFC 9480; these updates introduce CMP URIs using a well-known prefix. It
-    obsoletes RFC 6712; and, together with RFC 9810, it also obsoletes RFC 9480.</p>"
+  content: "<p>This document describes how to layer the Certificate Management Protocol (CMP) over HTTP.</p><p>It includes the updates to RFC 6712 specified in Section 3 of RFC 9480; these updates introduce CMP URIs using a well-known prefix. It obsoletes RFC 6712; and, together with RFC 9810, it also obsoletes RFC 9480.</p>"
 status:
   stage:
     content: PROPOSED STANDARD
