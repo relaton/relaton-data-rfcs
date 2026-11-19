@@ -19695,6 +19695,10 @@
   :file: data/rfc10054.yaml
 - :id: RFC 10055
   :file: data/rfc10055.yaml
+- :id: RFC 10056
+  :file: data/rfc10056.yaml
+- :id: RFC 10057
+  :file: data/rfc10057.yaml
 - :id: RFC 10063
   :file: data/rfc10063.yaml
 - :id: RFC 10065
@@ -19713,7 +19717,17 @@
   :file: data/rfc10075.yaml
 - :id: RFC 10078
   :file: data/rfc10078.yaml
+- :id: RFC 10079
+  :file: data/rfc10079.yaml
 - :id: RFC 10080
   :file: data/rfc10080.yaml
 - :id: RFC 10082
   :file: data/rfc10082.yaml
+- :id: RFC 10087
+  :file: data/rfc10087.yaml
+- :id: RFC 10091
+  :file: data/rfc10091.yaml
+- :id: RFC 10094
+  :file: data/rfc10094.yaml
+- :id: RFC 10097
+  :file: data/rfc10097.yaml
